@@ -1,0 +1,107 @@
+﻿2021-12-24 09:41:42 PM excel_suffix: TOT202201
+
+2021-12-24 09:41:42 PM data_processing: False
+
+2021-12-24 09:41:42 PM find_unknown: False
+
+2021-12-24 09:41:42 PM dealing_start_year: 1900
+
+2021-12-24 09:42:11 PM Process: File Merging
+
+2021-12-24 09:42:11 PM Reading main key: US_keyBLSNEW.xlsx, Time: 28 s
+
+2021-12-24 09:42:11 PM Reading main database: US_databaseBLSNEW.xlsx, Time: 29 s
+
+2021-12-24 09:42:28 PM Reading original key: US_keyTOT202110.xlsx, Time: 45 s
+
+2021-12-24 09:43:00 PM Reading original database: US_database_1TOT202110, Time: 78 s
+
+2021-12-24 09:43:42 PM Reading original database: US_database_2TOT202110, Time: 120 s
+
+2021-12-24 09:44:55 PM Reading original database: US_database_3TOT202110, Time: 193 s
+
+2021-12-24 09:45:55 PM Reading original database: US_database_4TOT202110, Time: 253 s
+
+2021-12-24 09:47:09 PM Reading original database: US_database_5TOT202110, Time: 326 s
+
+2021-12-24 09:48:16 PM Reading original database: US_database_6TOT202110, Time: 394 s
+
+2021-12-24 09:48:47 PM Reading original database: US_database_7TOT202110, Time: 425 s
+
+2021-12-24 09:49:46 PM Merging File: ./output/US_keyTOT202110.xlsx, Time: 484 s
+
+2021-12-24 09:50:46 PM Setting files, Time: 544 s
+
+2021-12-24 09:51:17 PM Concating file: US_keyTOT202110, Time: 574 s
+
+2021-12-24 09:51:17 PM Concating file: US_databaseTOT202110, Time: 575 s
+
+2021-12-24 10:11:08 PM Setting new files, Time: 1766 s
+
+2021-12-25 12:02:35 AM Concating new files: US_database, Time: 8453 s
+
+2021-12-25 12:21:47 AM Process: File Updating
+
+2021-12-25 12:21:47 AM Reading main key: US_keyBEAUP.xlsx, Time: 9605 s
+
+2021-12-25 12:21:55 AM Reading main database: US_databaseBEAUP.xlsx, Time: 9613 s
+
+2021-12-25 12:23:47 AM Updating file: 0 s
+
+2021-12-25 01:58:12 AM updated: 8850
+
+2021-12-25 12:40:14 PM Process: File Updating
+
+2021-12-25 12:40:14 PM Reading main key: US_keyBLSUP.xlsx, Time: 53912 s
+
+2021-12-25 12:40:40 PM Reading main database: US_database_1BLSUP, Time: 53938 s
+
+2021-12-25 12:41:04 PM Reading main database: US_database_2BLSUP, Time: 53962 s
+
+2021-12-25 12:42:27 PM Reading main database: US_database_3BLSUP, Time: 54045 s
+
+2021-12-25 12:43:45 PM Reading main database: US_database_4BLSUP, Time: 54123 s
+
+2021-12-25 12:45:03 PM Reading main database: US_database_5BLSUP, Time: 54201 s
+
+2021-12-25 12:45:54 PM Reading main database: US_database_6BLSUP, Time: 54252 s
+
+2021-12-25 12:46:41 PM Updating file: 0 s
+
+2021-12-26 12:30:38 AM updated: 81580
+
+2021-12-26 12:53:12 AM Process: File Updating
+
+2021-12-26 12:53:12 AM Reading main key: US_keyETCUP.xlsx, Time: 97890 s
+
+2021-12-26 12:53:27 AM Reading main database: US_databaseETCUP.xlsx, Time: 97905 s
+
+2021-12-26 12:55:26 AM Updating file: 0 s
+
+2021-12-26 01:49:31 AM updated: 9203
+
+2021-12-26 02:04:57 AM        databank        name   db_table  db_code                                             desc_e  ...                          type     snl                             source                                             form_e                   form_c
+0            US    A001RC.A  DB_A_0001  data001  United States National Income and Production A...  ...                         Level       1        Bureau of Economic Analysis  Relation of Gross Domestic Product, Gross Nati...             Table 1.7.5.
+1            US    A001RD.A  DB_A_0001  data002  United States National Income and Production A...  ...                         Level       2        Bureau of Economic Analysis  Implicit Price Deflators for Gross Domestic Pr...             Table 1.1.9.
+2            US    A001RG.A  DB_A_0001  data003  United States National Income and Production A...  ...                         Level       3        Bureau of Economic Analysis  Price Indexes for Gross Domestic Product, Gros...             Table 1.7.4.
+3            US    A001RI.A  DB_A_0001  data004  United States National Income and Production A...  ...   Percent change, annual rate       4        Bureau of Economic Analysis  Percent Change From Preceding Period in Prices...             Table 1.1.7.
+4            US    A001RL.A  DB_A_0001  data005  United States National Income and Production A...  ...   Percent change, annual rate       5        Bureau of Economic Analysis  Percent Change From Preceding Period in Real G...             Table 1.7.1.
+...         ...         ...        ...      ...                                                ...  ...                           ...     ...                                ...                                                ...                      ...
+205163       US  WRPNTUS2.W  DB_W_0001  data097  United States Miscellaneous Statistics, Energy...  ...  U.S. Weekly Supply Estimates  205164  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
+205164       US  WTTEXUS2.W  DB_W_0001  data098  United States Miscellaneous Statistics, Energy...  ...  U.S. Weekly Supply Estimates  205165  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
+205165       US  WTTIMUS2.W  DB_W_0001  data099  United States Miscellaneous Statistics, Energy...  ...  U.S. Weekly Supply Estimates  205166  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
+205166       US  WTTNTUS2.W  DB_W_0001  data100  United States Miscellaneous Statistics, Energy...  ...  U.S. Weekly Supply Estimates  205167  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
+205167       US  WUPSTLNS.W  DB_W_0001  data101  United States Miscellaneous Statistics, Indust...  ...       Production of Raw Steel  205168  American Iron and Steel Institute            Industrial Statistics, Raw Steel Output  Not Seasonally Adjusted
+
+[205168 rows x 15 columns]
+2021-12-26 02:04:58 AM Total Items: 205168
+2021-12-26 02:06:27 AM Total databases: 7
+2021-12-26 02:06:27 AM Outputing file: US_database_1
+2021-12-26 02:10:11 AM Outputing file: US_database_2
+2021-12-26 02:15:22 AM Outputing file: US_database_3
+2021-12-26 02:20:27 AM Outputing file: US_database_4
+2021-12-26 02:25:41 AM Outputing file: US_database_5
+2021-12-26 02:30:44 AM Outputing file: US_database_6
+2021-12-26 02:33:20 AM Outputing file: US_database_7
+2021-12-26 02:36:56 AM 
+database_num = 7
