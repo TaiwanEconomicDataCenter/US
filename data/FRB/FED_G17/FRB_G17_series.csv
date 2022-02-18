@@ -1,0 +1,1176 @@
+Descriptions:,Unit:,Multiplier:,Currency:,Unique Identifier:,Series Name:
+Total index; s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.B50001.S,IP.B50001.S
+Total index; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.B50001.N,IP.B50001.N
+Manufacturing (SIC); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.B00004.S,IP.B00004.S
+Manufacturing (SIC); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.B00004.N,IP.B00004.N
+Manufacturing (NAICS); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.GMF.S,IP.GMF.S
+Manufacturing (NAICS); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.GMF.N,IP.GMF.N
+Durable manufacturing (NAICS); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.GMFD.S,IP.GMFD.S
+Durable manufacturing (NAICS); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.GMFD.N,IP.GMFD.N
+Wood product  (NAICS = 321); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G321.S,IP.G321.S
+Wood product  (NAICS = 321); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G321.N,IP.G321.N
+Nonmetallic mineral product  (NAICS = 327); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G327.S,IP.G327.S
+Nonmetallic mineral product  (NAICS = 327); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G327.N,IP.G327.N
+Primary metal  (NAICS = 331); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G331.S,IP.G331.S
+Primary metal  (NAICS = 331); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G331.N,IP.G331.N
+Fabricated metal product  (NAICS = 332); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G332.S,IP.G332.S
+Fabricated metal product  (NAICS = 332); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G332.N,IP.G332.N
+Machinery  (NAICS = 333); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G333.S,IP.G333.S
+Machinery  (NAICS = 333); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G333.N,IP.G333.N
+Computer and electronic product  (NAICS = 334); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G334.S,IP.G334.S
+Computer and electronic product  (NAICS = 334); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G334.N,IP.G334.N
+"Electrical equipment, appliance, and component  (NAICS = 335); s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G335.S,IP.G335.S
+"Electrical equipment, appliance, and component  (NAICS = 335); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G335.N,IP.G335.N
+Motor vehicles and parts  (NAICS = 3361-3); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G3361T3.S,IP.G3361T3.S
+Motor vehicles and parts  (NAICS = 3361-3); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G3361T3.N,IP.G3361T3.N
+Aerospace and miscellaneous transportation eq.  (NAICS = 3364-9); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G3364T9.S,IP.G3364T9.S
+Aerospace and miscellaneous transportation eq.  (NAICS = 3364-9); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G3364T9.N,IP.G3364T9.N
+Furniture and related product  (NAICS = 337); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G337.S,IP.G337.S
+Furniture and related product  (NAICS = 337); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G337.N,IP.G337.N
+Miscellaneous  (NAICS = 339); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G339.S,IP.G339.S
+Miscellaneous  (NAICS = 339); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G339.N,IP.G339.N
+Nondurable manufacturing (NAICS); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.GMFN.S,IP.GMFN.S
+Nondurable manufacturing (NAICS); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.GMFN.N,IP.GMFN.N
+"Food, beverage, and tobacco  (NAICS = 311,2); s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G311A2.S,IP.G311A2.S
+"Food, beverage, and tobacco  (NAICS = 311,2); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G311A2.N,IP.G311A2.N
+"Textiles and products  (NAICS = 313,4); s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G313A4.S,IP.G313A4.S
+"Textiles and products  (NAICS = 313,4); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G313A4.N,IP.G313A4.N
+"Apparel and leather goods  (NAICS = 315,6); s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G315A6.S,IP.G315A6.S
+"Apparel and leather goods  (NAICS = 315,6); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G315A6.N,IP.G315A6.N
+Paper  (NAICS = 322); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G322.S,IP.G322.S
+Paper  (NAICS = 322); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G322.N,IP.G322.N
+Printing and related support activities  (NAICS = 323); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G323.S,IP.G323.S
+Printing and related support activities  (NAICS = 323); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G323.N,IP.G323.N
+Petroleum and coal products  (NAICS = 324); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G324.S,IP.G324.S
+Petroleum and coal products  (NAICS = 324); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G324.N,IP.G324.N
+Chemical  (NAICS = 325); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G325.S,IP.G325.S
+Chemical  (NAICS = 325); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G325.N,IP.G325.N
+Plastics and rubber products  (NAICS = 326); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G326.S,IP.G326.S
+Plastics and rubber products  (NAICS = 326); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G326.N,IP.G326.N
+Other manufacturing; s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.GMFO.S,IP.GMFO.S
+Other manufacturing; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.GMFO.N,IP.GMFO.N
+Mining  (NAICS = 21); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G21.S,IP.G21.S
+Mining  (NAICS = 21); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G21.N,IP.G21.N
+"Electric and gas utilities  (NAICS = 2211,2); s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G2211A2.S,IP.G2211A2.S
+"Electric and gas utilities  (NAICS = 2211,2); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G2211A2.N,IP.G2211A2.N
+"Electric power generation, transmission, and distribution  (NAICS = 2211); s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G2211.S,IP.G2211.S
+"Electric power generation, transmission, and distribution  (NAICS = 2211); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G2211.N,IP.G2211.N
+Natural gas distribution  (NAICS = 2212); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G2212.S,IP.G2212.S
+Natural gas distribution  (NAICS = 2212); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.G2212.N,IP.G2212.N
+Crude processing (capacity); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.B5610C.S,IP.B5610C.S
+Crude processing (capacity); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.B5610C.N,IP.B5610C.N
+Primary & semifinished processing (capacity); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.B562A3C.S,IP.B562A3C.S
+Primary & semifinished processing (capacity); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.B562A3C.N,IP.B562A3C.N
+Finished processing (capacity); s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.B5640C.S,IP.B5640C.S
+Finished processing (capacity); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MAJOR_INDUSTRY_GROUPS/IP.B5640C.N,IP.B5640C.N
+Durable manufacturing (NAICS); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.GMFD.S,IP.GMFD.S
+Durable manufacturing (NAICS); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.GMFD.N,IP.GMFD.N
+Motor vehicles and parts  (NAICS = 3361-3); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3361T3.S,IP.G3361T3.S
+Motor vehicles and parts  (NAICS = 3361-3); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3361T3.N,IP.G3361T3.N
+Aerospace and miscellaneous transportation eq.  (NAICS = 3364-9); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3364T9.S,IP.G3364T9.S
+Aerospace and miscellaneous transportation eq.  (NAICS = 3364-9); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3364T9.N,IP.G3364T9.N
+Wood product  (NAICS = 321); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G321.S,IP.G321.S
+Wood product  (NAICS = 321); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G321.N,IP.G321.N
+Sawmills and wood preservation  (NAICS = 3211); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3211.S,IP.N3211.S
+Sawmills and wood preservation  (NAICS = 3211); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3211.N,IP.N3211.N
+"Plywood and misc. wood products  (NAICS = 3212,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3212A9.S,IP.G3212A9.S
+"Plywood and misc. wood products  (NAICS = 3212,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3212A9.N,IP.G3212A9.N
+"Veneer, plywood, and engineered wood product  (NAICS = 3212); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3212.S,IP.G3212.S
+"Veneer, plywood, and engineered wood product  (NAICS = 3212); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3212.N,IP.G3212.N
+"Veneer and plywood  (NAICS = 321211,2); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G321211A2.S,IP.G321211A2.S
+"Veneer and plywood  (NAICS = 321211,2); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G321211A2.N,IP.G321211A2.N
+Reconstituted wood product  (NAICS = 321219); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G321219.S,IP.G321219.S
+Reconstituted wood product  (NAICS = 321219); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G321219.N,IP.G321219.N
+Other wood product  (NAICS = 3219); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3219.S,IP.G3219.S
+Other wood product  (NAICS = 3219); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3219.N,IP.G3219.N
+Millwork  (NAICS = 32191); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G32191.S,IP.G32191.S
+Millwork  (NAICS = 32191); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G32191.N,IP.G32191.N
+Wood container and pallet  (NAICS = 32192); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N32192.S,IP.N32192.S
+Wood container and pallet  (NAICS = 32192); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N32192.N,IP.N32192.N
+All other wood product  (NAICS = 32199); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G32199.S,IP.G32199.S
+All other wood product  (NAICS = 32199); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G32199.N,IP.G32199.N
+Manufactured home (mobile home)  (NAICS = 321991); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N321991.S,IP.N321991.S
+Manufactured home (mobile home)  (NAICS = 321991); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N321991.N,IP.N321991.N
+Nonmetallic mineral product  (NAICS = 327); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G327.S,IP.G327.S
+Nonmetallic mineral product  (NAICS = 327); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G327.N,IP.G327.N
+"Clay, lime, gypsum, and misc. nonmetallic mineral products  (NAICS = 3271,4,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3271A4A9.S,IP.G3271A4A9.S
+"Clay, lime, gypsum, and misc. nonmetallic mineral products  (NAICS = 3271,4,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3271A4A9.N,IP.G3271A4A9.N
+"Clay and misc. nonmetallic mineral products  (NAICS = 3271,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3271A9.S,IP.G3271A9.S
+"Clay and misc. nonmetallic mineral products  (NAICS = 3271,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3271A9.N,IP.G3271A9.N
+Clay product and refractory  (NAICS = 3271); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3271.S,IP.G3271.S
+Clay product and refractory  (NAICS = 3271); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3271.N,IP.G3271.N
+"Pottery, ceramics, and plumbing fixture  (NAICS = 32711); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G32711.S,IP.G32711.S
+"Pottery, ceramics, and plumbing fixture  (NAICS = 32711); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G32711.N,IP.G32711.N
+Clay building material and refractories  (NAICS = 32712); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G32712.S,IP.G32712.S
+Clay building material and refractories  (NAICS = 32712); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G32712.N,IP.G32712.N
+Other nonmetallic mineral product  (NAICS = 3279); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3279.S,IP.G3279.S
+Other nonmetallic mineral product  (NAICS = 3279); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3279.N,IP.G3279.N
+Lime and gypsum product  (NAICS = 3274); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3274.S,IP.G3274.S
+Lime and gypsum product  (NAICS = 3274); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3274.N,IP.G3274.N
+Glass and glass product  (NAICS = 3272); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3272.S,IP.G3272.S
+Glass and glass product  (NAICS = 3272); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3272.N,IP.G3272.N
+Glass container  (NAICS = 327213); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N327213.S,IP.N327213.S
+Glass container  (NAICS = 327213); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N327213.N,IP.N327213.N
+Cement and concrete product  (NAICS = 3273); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3273.S,IP.G3273.S
+Cement and concrete product  (NAICS = 3273); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3273.N,IP.G3273.N
+Cement  (NAICS = 32731); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N32731.S,IP.N32731.S
+Cement  (NAICS = 32731); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N32731.N,IP.N32731.N
+Concrete and product  (NAICS = 32732-9); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N32732T9.S,IP.N32732T9.S
+Concrete and product  (NAICS = 32732-9); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N32732T9.N,IP.N32732T9.N
+Primary metal  (NAICS = 331); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G331.S,IP.G331.S
+Primary metal  (NAICS = 331); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G331.N,IP.G331.N
+"Iron and steel products  (NAICS = 3311,2); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3311A2.S,IP.G3311A2.S
+"Iron and steel products  (NAICS = 3311,2); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3311A2.N,IP.G3311A2.N
+"Pig iron  (NAICS = 3311,2pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2P.S,IP.N3311A2P.S
+"Pig iron  (NAICS = 3311,2pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2P.N,IP.N3311A2P.N
+"Raw steel  (NAICS = 3311,2pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2R.S,IP.N3311A2R.S
+"Raw steel  (NAICS = 3311,2pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2R.N,IP.N3311A2R.N
+"Coke and products  (NAICS = 3311,2pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3311A2F.S,IP.G3311A2F.S
+"Coke and products  (NAICS = 3311,2pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3311A2F.N,IP.G3311A2F.N
+"Construction steel  (NAICS = 3311,2pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2B.S,IP.N3311A2B.S
+"Construction steel  (NAICS = 3311,2pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2B.N,IP.N3311A2B.N
+"Consumer durable steel  (NAICS = 3311,2pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2C.S,IP.N3311A2C.S
+"Consumer durable steel  (NAICS = 3311,2pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2C.N,IP.N3311A2C.N
+"Can and closure steel  (NAICS = 3311,2pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2D.S,IP.N3311A2D.S
+"Can and closure steel  (NAICS = 3311,2pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2D.N,IP.N3311A2D.N
+"Equipment steel  (NAICS = 3311,2pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2E.S,IP.N3311A2E.S
+"Equipment steel  (NAICS = 3311,2pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2E.N,IP.N3311A2E.N
+"Miscellaneous steel  (NAICS = 3311,2pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2Z.S,IP.N3311A2Z.S
+"Miscellaneous steel  (NAICS = 3311,2pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3311A2Z.N,IP.N3311A2Z.N
+"Nonferrous except foundries  (NAICS = 3313,4); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3313A4.S,IP.G3313A4.S
+"Nonferrous except foundries  (NAICS = 3313,4); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3313A4.N,IP.G3313A4.N
+Alumina and aluminum production and processing  (NAICS = 3313); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3313.S,IP.G3313.S
+Alumina and aluminum production and processing  (NAICS = 3313); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3313.N,IP.G3313.N
+Primary aluminum production  (NAICS = 331313pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N331313P.S,IP.N331313P.S
+Primary aluminum production  (NAICS = 331313pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N331313P.N,IP.N331313P.N
+Secondary smelting and alloying of aluminum  (NAICS = 331314); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N331314.S,IP.N331314.S
+Secondary smelting and alloying of aluminum  (NAICS = 331314); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N331314.N,IP.N331314.N
+"Misc. aluminum materials  (NAICS = 331315,8pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N331315A8M.S,IP.N331315A8M.S
+"Misc. aluminum materials  (NAICS = 331315,8pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N331315A8M.N,IP.N331315A8M.N
+Aluminum extruded product  (NAICS = 331318pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N331318E.S,IP.N331318E.S
+Aluminum extruded product  (NAICS = 331318pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N331318E.N,IP.N331318E.N
+Nonferrous metal (except aluminum) production and processing  (NAICS = 3314); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3314.S,IP.G3314.S
+Nonferrous metal (except aluminum) production and processing  (NAICS = 3314); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3314.N,IP.G3314.N
+Nonferrous metal (except aluminum) smelting and refining  (NAICS = 33141); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33141.S,IP.G33141.S
+Nonferrous metal (except aluminum) smelting and refining  (NAICS = 33141); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33141.N,IP.G33141.N
+Primary smelting and refining of copper  (NAICS = 33141pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33141C.S,IP.G33141C.S
+Primary smelting and refining of copper  (NAICS = 33141pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33141C.N,IP.G33141C.N
+Primary smelting and refining of nonferrous metal (except copper and aluminum)  (NAICS = 33141pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N33141N.S,IP.N33141N.S
+Primary smelting and refining of nonferrous metal (except copper and aluminum)  (NAICS = 33141pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N33141N.N,IP.N33141N.N
+Foundries  (NAICS = 3315); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3315.S,IP.G3315.S
+Foundries  (NAICS = 3315); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3315.N,IP.G3315.N
+Fabricated metal product  (NAICS = 332); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G332.S,IP.G332.S
+Fabricated metal product  (NAICS = 332); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G332.N,IP.G332.N
+Forging and stamping  (NAICS = 3321); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3321.S,IP.N3321.S
+Forging and stamping  (NAICS = 3321); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3321.N,IP.N3321.N
+Cutlery and handtool  (NAICS = 3322); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3322.S,IP.N3322.S
+Cutlery and handtool  (NAICS = 3322); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3322.N,IP.N3322.N
+Architectural and structural metals  (NAICS = 3323); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3323.S,IP.N3323.S
+Architectural and structural metals  (NAICS = 3323); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3323.N,IP.N3323.N
+Hardware  (NAICS = 3325); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3325.S,IP.G3325.S
+Hardware  (NAICS = 3325); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3325.N,IP.G3325.N
+Spring and wire product  (NAICS = 3326); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3326.S,IP.N3326.S
+Spring and wire product  (NAICS = 3326); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3326.N,IP.N3326.N
+"Machine shops; turned product; and screw, nut, and bolt  (NAICS = 3327); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3327.S,IP.G3327.S
+"Machine shops; turned product; and screw, nut, and bolt  (NAICS = 3327); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3327.N,IP.G3327.N
+"Coating, engraving, heat treating, and allied activities  (NAICS = 3328); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3328.S,IP.N3328.S
+"Coating, engraving, heat treating, and allied activities  (NAICS = 3328); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3328.N,IP.N3328.N
+Other fabricated metal product  (NAICS = 3329); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3329.S,IP.G3329.S
+Other fabricated metal product  (NAICS = 3329); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3329.N,IP.G3329.N
+Ball and roller bearing  (NAICS = 332991); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G332991.S,IP.G332991.S
+Ball and roller bearing  (NAICS = 332991); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G332991.N,IP.G332991.N
+Machinery  (NAICS = 333); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G333.S,IP.G333.S
+Machinery  (NAICS = 333); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G333.N,IP.G333.N
+"Agriculture, construction, and mining machinery  (NAICS = 3331); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3331.S,IP.G3331.S
+"Agriculture, construction, and mining machinery  (NAICS = 3331); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3331.N,IP.G3331.N
+Agricultural implement  (NAICS = 33311); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33311.S,IP.G33311.S
+Agricultural implement  (NAICS = 33311); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33311.N,IP.G33311.N
+Farm machinery and equipment  (NAICS = 333111); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G333111.S,IP.G333111.S
+Farm machinery and equipment  (NAICS = 333111); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G333111.N,IP.G333111.N
+Construction machinery  (NAICS = 33312); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33312.S,IP.G33312.S
+Construction machinery  (NAICS = 33312); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33312.N,IP.G33312.N
+Mining and oil and gas field machinery  (NAICS = 33313); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N33313.S,IP.N33313.S
+Mining and oil and gas field machinery  (NAICS = 33313); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N33313.N,IP.N33313.N
+Industrial machinery  (NAICS = 3332); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3332.S,IP.G3332.S
+Industrial machinery  (NAICS = 3332); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3332.N,IP.G3332.N
+"Commercial and service industry machinery and other general purpose machinery  (NAICS = 3333,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3333A9.S,IP.G3333A9.S
+"Commercial and service industry machinery and other general purpose machinery  (NAICS = 3333,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3333A9.N,IP.G3333A9.N
+"HVAC, metalworking, and power transmission machinery  (NAICS = 3334-6); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3334T6.S,IP.G3334T6.S
+"HVAC, metalworking, and power transmission machinery  (NAICS = 3334-6); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3334T6.N,IP.G3334T6.N
+"Ventilation, heating, air-conditioning, and commercial refrigeration equipment  (NAICS = 3334); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3334.S,IP.G3334.S
+"Ventilation, heating, air-conditioning, and commercial refrigeration equipment  (NAICS = 3334); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3334.N,IP.G3334.N
+Metalworking machinery  (NAICS = 3335); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3335.S,IP.G3335.S
+Metalworking machinery  (NAICS = 3335); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3335.N,IP.G3335.N
+"Engine, turbine, and power transmission equipment  (NAICS = 3336); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3336.S,IP.G3336.S
+"Engine, turbine, and power transmission equipment  (NAICS = 3336); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3336.N,IP.G3336.N
+Computer and electronic product  (NAICS = 334); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G334.S,IP.G334.S
+Computer and electronic product  (NAICS = 334); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G334.N,IP.G334.N
+Computer and peripheral equipment  (NAICS = 3341); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3341.S,IP.G3341.S
+Computer and peripheral equipment  (NAICS = 3341); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3341.N,IP.G3341.N
+Communications equipment  (NAICS = 3342); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3342.S,IP.G3342.S
+Communications equipment  (NAICS = 3342); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3342.N,IP.G3342.N
+Audio and video equipment  (NAICS = 3343); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3343.S,IP.G3343.S
+Audio and video equipment  (NAICS = 3343); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3343.N,IP.G3343.N
+Semiconductor and other electronic component  (NAICS = 3344); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3344.S,IP.G3344.S
+Semiconductor and other electronic component  (NAICS = 3344); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3344.N,IP.G3344.N
+"Navigational, measuring, electromedical, and control instruments  (NAICS = 3345); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3345.S,IP.G3345.S
+"Navigational, measuring, electromedical, and control instruments  (NAICS = 3345); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3345.N,IP.G3345.N
+"Electrical equipment, appliance, and component  (NAICS = 335); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G335.S,IP.G335.S
+"Electrical equipment, appliance, and component  (NAICS = 335); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G335.N,IP.G335.N
+Household appliance  (NAICS = 3352); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3352.S,IP.G3352.S
+Household appliance  (NAICS = 3352); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3352.N,IP.G3352.N
+Small electrical appliance  (NAICS = 33521); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33521.S,IP.G33521.S
+Small electrical appliance  (NAICS = 33521); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33521.N,IP.G33521.N
+Major appliance  (NAICS = 33522); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33522.S,IP.G33522.S
+Major appliance  (NAICS = 33522); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33522.N,IP.G33522.N
+"Electrical equipment except appliances  (NAICS = 3351,3,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G335@2.S,IP.G335@2.S
+"Electrical equipment except appliances  (NAICS = 3351,3,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G335@2.N,IP.G335@2.N
+Electric lighting equipment  (NAICS = 3351); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3351.S,IP.G3351.S
+Electric lighting equipment  (NAICS = 3351); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3351.N,IP.G3351.N
+Electrical equipment  (NAICS = 3353); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3353.S,IP.G3353.S
+Electrical equipment  (NAICS = 3353); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3353.N,IP.G3353.N
+Other electrical equipment and component  (NAICS = 3359); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3359.S,IP.G3359.S
+Other electrical equipment and component  (NAICS = 3359); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3359.N,IP.G3359.N
+Battery  (NAICS = 33591); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33591.S,IP.G33591.S
+Battery  (NAICS = 33591); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33591.N,IP.G33591.N
+Communication and energy wire and cable  (NAICS = 33592); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N33592.S,IP.N33592.S
+Communication and energy wire and cable  (NAICS = 33592); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N33592.N,IP.N33592.N
+"Other electrical equipment  (NAICS = 33593,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33593T9.S,IP.G33593T9.S
+"Other electrical equipment  (NAICS = 33593,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33593T9.N,IP.G33593T9.N
+Transportation equipment  (NAICS = 336); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336.S,IP.G336.S
+Transportation equipment  (NAICS = 336); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336.N,IP.G336.N
+Motor vehicle  (NAICS = 3361); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3361.S,IP.G3361.S
+Motor vehicle  (NAICS = 3361); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3361.N,IP.G3361.N
+Automobile and light duty motor vehicle  (NAICS = 33611); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33611.S,IP.G33611.S
+Automobile and light duty motor vehicle  (NAICS = 33611); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33611.N,IP.G33611.N
+Automobile  (NAICS = 336111); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336111.S,IP.G336111.S
+Automobile  (NAICS = 336111); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336111.N,IP.G336111.N
+Light truck and utility vehicle  (NAICS = 336112); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336112.S,IP.G336112.S
+Light truck and utility vehicle  (NAICS = 336112); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336112.N,IP.G336112.N
+Heavy duty truck  (NAICS = 33612); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33612.S,IP.G33612.S
+Heavy duty truck  (NAICS = 33612); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G33612.N,IP.G33612.N
+Motor vehicle body and trailer  (NAICS = 3362); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3362.S,IP.G3362.S
+Motor vehicle body and trailer  (NAICS = 3362); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3362.N,IP.G3362.N
+Truck trailer  (NAICS = 336212); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336212.S,IP.G336212.S
+Truck trailer  (NAICS = 336212); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336212.N,IP.G336212.N
+Motor home  (NAICS = 336213); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N336213.S,IP.N336213.S
+Motor home  (NAICS = 336213); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N336213.N,IP.N336213.N
+Travel trailer and camper  (NAICS = 336214); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336214.S,IP.G336214.S
+Travel trailer and camper  (NAICS = 336214); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336214.N,IP.G336214.N
+Motor vehicle parts  (NAICS = 3363); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3363.S,IP.G3363.S
+Motor vehicle parts  (NAICS = 3363); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3363.N,IP.G3363.N
+Aerospace product and parts  (NAICS = 3364); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3364.S,IP.G3364.S
+Aerospace product and parts  (NAICS = 3364); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3364.N,IP.G3364.N
+Aircraft and parts  (NAICS = 336411-3); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336411T3.S,IP.G336411T3.S
+Aircraft and parts  (NAICS = 336411-3); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G336411T3.N,IP.G336411T3.N
+"Railroad eq., ships and boats, and other transportation equipment  (NAICS = 3365-9); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3365T9.S,IP.G3365T9.S
+"Railroad eq., ships and boats, and other transportation equipment  (NAICS = 3365-9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3365T9.N,IP.G3365T9.N
+Railroad rolling stock  (NAICS = 3365); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3365.S,IP.N3365.S
+Railroad rolling stock  (NAICS = 3365); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3365.N,IP.N3365.N
+Ship and boat building  (NAICS = 3366); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3366.S,IP.G3366.S
+Ship and boat building  (NAICS = 3366); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3366.N,IP.G3366.N
+Other transportation equipment  (NAICS = 3369); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3369.S,IP.N3369.S
+Other transportation equipment  (NAICS = 3369); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3369.N,IP.N3369.N
+Furniture and related product  (NAICS = 337); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G337.S,IP.G337.S
+Furniture and related product  (NAICS = 337); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G337.N,IP.G337.N
+Household and institutional furniture and kitchen cabinet  (NAICS = 3371); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3371.S,IP.N3371.S
+Household and institutional furniture and kitchen cabinet  (NAICS = 3371); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3371.N,IP.N3371.N
+"Office and other furniture  (NAICS = 3372,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3372A9.S,IP.G3372A9.S
+"Office and other furniture  (NAICS = 3372,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G3372A9.N,IP.G3372A9.N
+Miscellaneous  (NAICS = 339); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G339.S,IP.G339.S
+Miscellaneous  (NAICS = 339); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.G339.N,IP.G339.N
+Medical equipment and supplies  (NAICS = 3391); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3391.S,IP.N3391.S
+Medical equipment and supplies  (NAICS = 3391); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N3391.N,IP.N3391.N
+Logging  (NAICS = 1133); s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N1133.S,IP.N1133.S
+Logging  (NAICS = 1133); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_DURABLE_GOODS_DETAIL/IP.N1133.N,IP.N1133.N
+Nondurable manufacturing (NAICS); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.GMFN.S,IP.GMFN.S
+Nondurable manufacturing (NAICS); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.GMFN.N,IP.GMFN.N
+Food  (NAICS = 311); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G311.S,IP.G311.S
+Food  (NAICS = 311); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G311.N,IP.G311.N
+Animal food  (NAICS = 3111); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3111.S,IP.G3111.S
+Animal food  (NAICS = 3111); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3111.N,IP.G3111.N
+Grain and oilseed milling  (NAICS = 3112); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3112.S,IP.G3112.S
+Grain and oilseed milling  (NAICS = 3112); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3112.N,IP.G3112.N
+Sugar and confectionery product  (NAICS = 3113); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3113.S,IP.G3113.S
+Sugar and confectionery product  (NAICS = 3113); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3113.N,IP.G3113.N
+Fruit and vegetable preserving and specialty food  (NAICS = 3114); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3114.S,IP.G3114.S
+Fruit and vegetable preserving and specialty food  (NAICS = 3114); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3114.N,IP.G3114.N
+Dairy product  (NAICS = 3115); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3115.S,IP.G3115.S
+Dairy product  (NAICS = 3115); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3115.N,IP.G3115.N
+Dairy product (except frozen)  (NAICS = 31151); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G31151.S,IP.G31151.S
+Dairy product (except frozen)  (NAICS = 31151); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G31151.N,IP.G31151.N
+Fluid milk  (NAICS = 311511); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311511.S,IP.N311511.S
+Fluid milk  (NAICS = 311511); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311511.N,IP.N311511.N
+Creamery butter  (NAICS = 311512); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311512.S,IP.N311512.S
+Creamery butter  (NAICS = 311512); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311512.N,IP.N311512.N
+Cheese  (NAICS = 311513); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311513.S,IP.N311513.S
+Cheese  (NAICS = 311513); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311513.N,IP.N311513.N
+"Dry, condensed, and evaporated dairy product  (NAICS = 311514); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311514.S,IP.N311514.S
+"Dry, condensed, and evaporated dairy product  (NAICS = 311514); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311514.N,IP.N311514.N
+Ice cream and frozen dessert  (NAICS = 31152); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N31152.S,IP.N31152.S
+Ice cream and frozen dessert  (NAICS = 31152); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N31152.N,IP.N31152.N
+Animal slaughtering and processing  (NAICS = 3116); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3116.S,IP.G3116.S
+Animal slaughtering and processing  (NAICS = 3116); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3116.N,IP.G3116.N
+Animal (except poultry) slaughtering and meat processing  (NAICS = 311611-3); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G311611T3.S,IP.G311611T3.S
+Animal (except poultry) slaughtering and meat processing  (NAICS = 311611-3); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G311611T3.N,IP.G311611T3.N
+Beef  (NAICS = 311611-3pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311611T3B.S,IP.N311611T3B.S
+Beef  (NAICS = 311611-3pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311611T3B.N,IP.N311611T3B.N
+Pork  (NAICS = 311611-3pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311611T3P.S,IP.N311611T3P.S
+Pork  (NAICS = 311611-3pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311611T3P.N,IP.N311611T3P.N
+Miscellaneous meats  (NAICS = 311611-3pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311611T3Z.S,IP.N311611T3Z.S
+Miscellaneous meats  (NAICS = 311611-3pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311611T3Z.N,IP.N311611T3Z.N
+Poultry processing  (NAICS = 311615); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311615.S,IP.N311615.S
+Poultry processing  (NAICS = 311615); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N311615.N,IP.N311615.N
+Bakeries and tortilla  (NAICS = 3118); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N3118.S,IP.N3118.S
+Bakeries and tortilla  (NAICS = 3118); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N3118.N,IP.N3118.N
+Other food  (NAICS = 3119); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3119.S,IP.G3119.S
+Other food  (NAICS = 3119); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3119.N,IP.G3119.N
+Coffee and tea  (NAICS = 31192); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G31192.S,IP.G31192.S
+Coffee and tea  (NAICS = 31192); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G31192.N,IP.G31192.N
+Beverage and tobacco product  (NAICS = 312); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G312.S,IP.G312.S
+Beverage and tobacco product  (NAICS = 312); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G312.N,IP.G312.N
+Beverage  (NAICS = 3121); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3121.S,IP.G3121.S
+Beverage  (NAICS = 3121); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3121.N,IP.G3121.N
+Soft drink and ice  (NAICS = 31211); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N31211.S,IP.N31211.S
+Soft drink and ice  (NAICS = 31211); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N31211.N,IP.N31211.N
+Breweries  (NAICS = 31212); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N31212.S,IP.N31212.S
+Breweries  (NAICS = 31212); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N31212.N,IP.N31212.N
+Tobacco  (NAICS = 3122); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3122.S,IP.G3122.S
+Tobacco  (NAICS = 3122); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3122.N,IP.G3122.N
+Textile mills  (NAICS = 313); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G313.S,IP.G313.S
+Textile mills  (NAICS = 313); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G313.N,IP.G313.N
+"Fiber, yarn, and thread mills  (NAICS = 3131); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3131.S,IP.G3131.S
+"Fiber, yarn, and thread mills  (NAICS = 3131); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3131.N,IP.G3131.N
+Fabric mills  (NAICS = 3132); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3132.S,IP.G3132.S
+Fabric mills  (NAICS = 3132); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3132.N,IP.G3132.N
+Textile and fabric finishing and fabric coating mills  (NAICS = 3133); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3133.S,IP.G3133.S
+Textile and fabric finishing and fabric coating mills  (NAICS = 3133); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3133.N,IP.G3133.N
+Textile product mills  (NAICS = 314); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G314.S,IP.G314.S
+Textile product mills  (NAICS = 314); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G314.N,IP.G314.N
+Textile furnishings mills  (NAICS = 3141); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3141.S,IP.G3141.S
+Textile furnishings mills  (NAICS = 3141); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3141.N,IP.G3141.N
+Carpet and rug mills  (NAICS = 31411); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G31411.S,IP.G31411.S
+Carpet and rug mills  (NAICS = 31411); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G31411.N,IP.G31411.N
+Other textile product mills  (NAICS = 3149); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3149.S,IP.G3149.S
+Other textile product mills  (NAICS = 3149); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3149.N,IP.G3149.N
+Apparel  (NAICS = 315); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G315.S,IP.G315.S
+Apparel  (NAICS = 315); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G315.N,IP.G315.N
+Leather and allied product  (NAICS = 316); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G316.S,IP.G316.S
+Leather and allied product  (NAICS = 316); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G316.N,IP.G316.N
+Paper  (NAICS = 322); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G322.S,IP.G322.S
+Paper  (NAICS = 322); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G322.N,IP.G322.N
+"Pulp, paper, and paperboard mills  (NAICS = 3221); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3221.S,IP.G3221.S
+"Pulp, paper, and paperboard mills  (NAICS = 3221); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3221.N,IP.G3221.N
+Pulp mills  (NAICS = 32211); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32211.S,IP.N32211.S
+Pulp mills  (NAICS = 32211); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32211.N,IP.N32211.N
+Paper mills  (NAICS = 32212); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32212.S,IP.G32212.S
+Paper mills  (NAICS = 32212); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32212.N,IP.G32212.N
+Paper (except newsprint) mills  (NAICS = 322121); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N322121.S,IP.N322121.S
+Paper (except newsprint) mills  (NAICS = 322121); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N322121.N,IP.N322121.N
+Paperboard mills  (NAICS = 32213); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32213.S,IP.N32213.S
+Paperboard mills  (NAICS = 32213); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32213.N,IP.N32213.N
+Converted paper product  (NAICS = 3222); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3222.S,IP.G3222.S
+Converted paper product  (NAICS = 3222); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3222.N,IP.G3222.N
+Paperboard container  (NAICS = 32221); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32221.S,IP.N32221.S
+Paperboard container  (NAICS = 32221); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32221.N,IP.N32221.N
+Paper bag and coated and treated paper  (NAICS = 32222); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32222.S,IP.G32222.S
+Paper bag and coated and treated paper  (NAICS = 32222); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32222.N,IP.G32222.N
+"Other converted paper products  (NAICS = 32223,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32223A9.S,IP.G32223A9.S
+"Other converted paper products  (NAICS = 32223,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32223A9.N,IP.G32223A9.N
+Printing and related support activities  (NAICS = 323); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G323.S,IP.G323.S
+Printing and related support activities  (NAICS = 323); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G323.N,IP.G323.N
+Petroleum and coal products  (NAICS = 324); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G324.S,IP.G324.S
+Petroleum and coal products  (NAICS = 324); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G324.N,IP.G324.N
+Petroleum refineries  (NAICS = 32411); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32411.S,IP.G32411.S
+Petroleum refineries  (NAICS = 32411); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32411.N,IP.G32411.N
+Aviation fuel and kerosene  (NAICS = 32411pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32411A.S,IP.N32411A.S
+Aviation fuel and kerosene  (NAICS = 32411pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32411A.N,IP.N32411A.N
+Distillate fuel oil  (NAICS = 32411pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32411D.S,IP.N32411D.S
+Distillate fuel oil  (NAICS = 32411pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32411D.N,IP.N32411D.N
+Automotive gasoline  (NAICS = 32411pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32411G.S,IP.N32411G.S
+Automotive gasoline  (NAICS = 32411pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32411G.N,IP.N32411G.N
+Residual fuel oil  (NAICS = 32411pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32411R.S,IP.N32411R.S
+Residual fuel oil  (NAICS = 32411pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32411R.N,IP.N32411R.N
+Other refinery output  (NAICS = 32411pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32411X.S,IP.G32411X.S
+Other refinery output  (NAICS = 32411pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32411X.N,IP.G32411X.N
+"Paving, roofing, and other petroleum and coal products  (NAICS = 32412,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32412A9.S,IP.N32412A9.S
+"Paving, roofing, and other petroleum and coal products  (NAICS = 32412,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32412A9.N,IP.N32412A9.N
+Chemical  (NAICS = 325); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G325.S,IP.G325.S
+Chemical  (NAICS = 325); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G325.N,IP.G325.N
+Basic chemical  (NAICS = 3251); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3251.S,IP.G3251.S
+Basic chemical  (NAICS = 3251); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3251.N,IP.G3251.N
+"Organic chemicals  (NAICS = 32511,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32511A9.S,IP.G32511A9.S
+"Organic chemicals  (NAICS = 32511,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32511A9.N,IP.G32511A9.N
+Basic inorganic chemicals  (NAICS = 32512-8); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32512T8.S,IP.G32512T8.S
+Basic inorganic chemicals  (NAICS = 32512-8); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32512T8.N,IP.G32512T8.N
+Industrial gas  (NAICS = 32512); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32512.S,IP.G32512.S
+Industrial gas  (NAICS = 32512); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32512.N,IP.G32512.N
+Synthetic dye and pigment  (NAICS = 32513); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32513.S,IP.G32513.S
+Synthetic dye and pigment  (NAICS = 32513); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32513.N,IP.G32513.N
+Other basic inorganic chemical  (NAICS = 32518pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32518.S,IP.G32518.S
+Other basic inorganic chemical  (NAICS = 32518pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32518.N,IP.G32518.N
+Alkalies and chlorine  (NAICS = 32518pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32518C.S,IP.N32518C.S
+Alkalies and chlorine  (NAICS = 32518pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N32518C.N,IP.N32518C.N
+"Resin, synthetic rubber, and artificial and synthetic fibers and filaments  (NAICS = 3252); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3252.S,IP.G3252.S
+"Resin, synthetic rubber, and artificial and synthetic fibers and filaments  (NAICS = 3252); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3252.N,IP.G3252.N
+Resin and synthetic rubber  (NAICS = 32521); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32521.S,IP.G32521.S
+Resin and synthetic rubber  (NAICS = 32521); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32521.N,IP.G32521.N
+Plastics material and resin  (NAICS = 325211); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N325211.S,IP.N325211.S
+Plastics material and resin  (NAICS = 325211); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.N325211.N,IP.N325211.N
+Synthetic rubber  (NAICS = 325212); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G325212.S,IP.G325212.S
+Synthetic rubber  (NAICS = 325212); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G325212.N,IP.G325212.N
+Artificial and synthetic fibers and filaments  (NAICS = 32522); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32522.S,IP.G32522.S
+Artificial and synthetic fibers and filaments  (NAICS = 32522); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32522.N,IP.G32522.N
+"Pesticide, fertilizer, and other agricultural chemical  (NAICS = 3253); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3253.S,IP.G3253.S
+"Pesticide, fertilizer, and other agricultural chemical  (NAICS = 3253); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3253.N,IP.G3253.N
+Pharmaceutical and medicine  (NAICS = 3254); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3254.S,IP.G3254.S
+Pharmaceutical and medicine  (NAICS = 3254); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3254.N,IP.G3254.N
+"Chemicals except pharmaceuticals and medicines  (NAICS = 3251-3,5-9); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G325@4.S,IP.G325@4.S
+"Chemicals except pharmaceuticals and medicines  (NAICS = 3251-3,5-9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G325@4.N,IP.G325@4.N
+"Paints, soaps and toiletries, and other chemical products  (NAICS = 3255-9); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3255T9.S,IP.G3255T9.S
+"Paints, soaps and toiletries, and other chemical products  (NAICS = 3255-9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3255T9.N,IP.G3255T9.N
+"Paints and other chemical products  (NAICS = 3255,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3255A9.S,IP.G3255A9.S
+"Paints and other chemical products  (NAICS = 3255,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3255A9.N,IP.G3255A9.N
+"Paint, coating, and adhesive  (NAICS = 3255); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3255.S,IP.G3255.S
+"Paint, coating, and adhesive  (NAICS = 3255); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3255.N,IP.G3255.N
+Paint and coating  (NAICS = 32551); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32551.S,IP.G32551.S
+Paint and coating  (NAICS = 32551); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32551.N,IP.G32551.N
+"Soap, cleaning compound, and toilet preparation  (NAICS = 3256); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3256.S,IP.G3256.S
+"Soap, cleaning compound, and toilet preparation  (NAICS = 3256); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3256.N,IP.G3256.N
+Plastics and rubber products  (NAICS = 326); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G326.S,IP.G326.S
+Plastics and rubber products  (NAICS = 326); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G326.N,IP.G326.N
+Plastics product  (NAICS = 3261); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3261.S,IP.G3261.S
+Plastics product  (NAICS = 3261); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3261.N,IP.G3261.N
+Rubber product  (NAICS = 3262); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3262.S,IP.G3262.S
+Rubber product  (NAICS = 3262); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G3262.N,IP.G3262.N
+Tire  (NAICS = 32621); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32621.S,IP.G32621.S
+Tire  (NAICS = 32621); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32621.N,IP.G32621.N
+"Rubber products ex. tires  (NAICS = 32622,9); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32622A9.S,IP.G32622A9.S
+"Rubber products ex. tires  (NAICS = 32622,9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G32622A9.N,IP.G32622A9.N
+"Newspaper, periodical, book, and directory publishers  (NAICS = 5111); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G5111.S,IP.G5111.S
+"Newspaper, periodical, book, and directory publishers  (NAICS = 5111); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G5111.N,IP.G5111.N
+Newspaper publishers  (NAICS = 51111); s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G51111.S,IP.G51111.S
+Newspaper publishers  (NAICS = 51111); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G51111.N,IP.G51111.N
+"Periodical, book, and other publishers  (NAICS = 51112-9); s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G51112T9.S,IP.G51112T9.S
+"Periodical, book, and other publishers  (NAICS = 51112-9); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_NONDURABLE_GOODS_DETAIL/IP.G51112T9.N,IP.G51112T9.N
+Oil and gas extraction  (NAICS = 211); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G211.S,IP.G211.S
+Oil and gas extraction  (NAICS = 211); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G211.N,IP.G211.N
+Crude petroleum and natural gas extraction  (NAICS = 211111); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G211111.S,IP.G211111.S
+Crude petroleum and natural gas extraction  (NAICS = 211111); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G211111.N,IP.G211111.N
+Crude oil  (NAICS = 211111pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G211111C.S,IP.G211111C.S
+Crude oil  (NAICS = 211111pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G211111C.N,IP.G211111C.N
+Natural gas  (NAICS = 211111pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N211111G.S,IP.N211111G.S
+Natural gas  (NAICS = 211111pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N211111G.N,IP.N211111G.N
+Natural gas liquid extraction  (NAICS = 211112); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G211112.S,IP.G211112.S
+Natural gas liquid extraction  (NAICS = 211112); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G211112.N,IP.G211112.N
+Mining (except oil and gas)  (NAICS = 212); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G212.S,IP.G212.S
+Mining (except oil and gas)  (NAICS = 212); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G212.N,IP.G212.N
+Coal mining  (NAICS = 2121); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N2121.S,IP.N2121.S
+Coal mining  (NAICS = 2121); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N2121.N,IP.N2121.N
+Metal ore mining  (NAICS = 2122); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G2122.S,IP.G2122.S
+Metal ore mining  (NAICS = 2122); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G2122.N,IP.G2122.N
+Iron ore mining  (NAICS = 21221); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N21221.S,IP.N21221.S
+Iron ore mining  (NAICS = 21221); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N21221.N,IP.N21221.N
+Gold ore and silver ore mining  (NAICS = 21222); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G21222.S,IP.G21222.S
+Gold ore and silver ore mining  (NAICS = 21222); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G21222.N,IP.G21222.N
+"Copper, nickel, lead, and zinc mining  (NAICS = 21223); s.a. IP",Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G21223.S,IP.G21223.S
+"Copper, nickel, lead, and zinc mining  (NAICS = 21223); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G21223.N,IP.G21223.N
+Nonmetallic mineral mining and quarrying  (NAICS = 2123); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G2123.S,IP.G2123.S
+Nonmetallic mineral mining and quarrying  (NAICS = 2123); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G2123.N,IP.G2123.N
+Support activities for mining  (NAICS = 213); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G213.S,IP.G213.S
+Support activities for mining  (NAICS = 213); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G213.N,IP.G213.N
+Drilling oil and gas wells  (NAICS = 213111); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N213111.S,IP.N213111.S
+Drilling oil and gas wells  (NAICS = 213111); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N213111.N,IP.N213111.N
+"Electric power generation, transmission, and distribution  (NAICS = 2211); s.a. IP",Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G2211.S,IP.G2211.S
+"Electric power generation, transmission, and distribution  (NAICS = 2211); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G2211.N,IP.G2211.N
+Electric power generation  (NAICS = 22111); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G22111.S,IP.G22111.S
+Electric power generation  (NAICS = 22111); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G22111.N,IP.G22111.N
+"Hydroelectric, renewables, and other  (NAICS = 221111,4-8); s.a. IP",Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G221111A4T8.S,IP.G221111A4T8.S
+"Hydroelectric, renewables, and other  (NAICS = 221111,4-8); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G221111A4T8.N,IP.G221111A4T8.N
+Hydroelectric power generation  (NAICS = 221111); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N221111.S,IP.N221111.S
+Hydroelectric power generation  (NAICS = 221111); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N221111.N,IP.N221111.N
+Renewables and other electric power generation  (NAICS = 221114-8); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N221114T8.S,IP.N221114T8.S
+Renewables and other electric power generation  (NAICS = 221114-8); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N221114T8.N,IP.N221114T8.N
+Fossil Fuel electric power generation  (NAICS = 221112); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N221112.S,IP.N221112.S
+Fossil Fuel electric power generation  (NAICS = 221112); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N221112.N,IP.N221112.N
+Nuclear electric power generation  (NAICS = 221113); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N221113.S,IP.N221113.S
+Nuclear electric power generation  (NAICS = 221113); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N221113.N,IP.N221113.N
+"Electric power transmission, control, and distribution  (NAICS = 22112); s.a. IP",Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G22112.S,IP.G22112.S
+"Electric power transmission, control, and distribution  (NAICS = 22112); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G22112.N,IP.G22112.N
+Commercial and other electricity sales  (NAICS = 22112pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N22112C.S,IP.N22112C.S
+Commercial and other electricity sales  (NAICS = 22112pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N22112C.N,IP.N22112C.N
+Industrial electricity sales  (NAICS = 22112pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N22112M.S,IP.N22112M.S
+Industrial electricity sales  (NAICS = 22112pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N22112M.N,IP.N22112M.N
+Residential electricity sales  (NAICS = 22112pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N22112R.S,IP.N22112R.S
+Residential electricity sales  (NAICS = 22112pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N22112R.N,IP.N22112R.N
+Natural gas distribution  (NAICS = 2212); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G2212.S,IP.G2212.S
+Natural gas distribution  (NAICS = 2212); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.G2212.N,IP.G2212.N
+Commercial and other gas sales  (NAICS = 2212pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N2212C.S,IP.N2212C.S
+Commercial and other gas sales  (NAICS = 2212pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N2212C.N,IP.N2212C.N
+Industrial gas sales  (NAICS = 2212pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N2212M.S,IP.N2212M.S
+Industrial gas sales  (NAICS = 2212pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N2212M.N,IP.N2212M.N
+Residential gas sales  (NAICS = 2212pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N2212R.S,IP.N2212R.S
+Residential gas sales  (NAICS = 2212pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N2212R.N,IP.N2212R.N
+Gas transmission  (NAICS = 2212pt.); s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N2212T.S,IP.N2212T.S
+Gas transmission  (NAICS = 2212pt.); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MINING_AND_UTILITY_DETAIL/IP.N2212T.N,IP.N2212T.N
+Total index; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B50001.S,IP.B50001.S
+Total index; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B50001.N,IP.B50001.N
+Final products and nonindustrial supplies; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B50030.S,IP.B50030.S
+Final products and nonindustrial supplies; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B50030.N,IP.B50030.N
+Final products; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B50002.S,IP.B50002.S
+Final products; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B50002.N,IP.B50002.N
+Consumer goods; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51000.S,IP.B51000.S
+Consumer goods; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51000.N,IP.B51000.N
+Durable consumer goods; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51100.S,IP.B51100.S
+Durable consumer goods; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51100.N,IP.B51100.N
+Automotive products; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51110.S,IP.B51110.S
+Automotive products; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51110.N,IP.B51110.N
+"Autos and trucks, consumer; s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51111.S,IP.B51111.S
+"Autos and trucks, consumer; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51111.N,IP.B51111.N
+Auto parts and allied goods; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51112.S,IP.B51112.S
+Auto parts and allied goods; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51112.N,IP.B51112.N
+Other durable goods; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51120.S,IP.B51120.S
+Other durable goods; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51120.N,IP.B51120.N
+"Computers, video and audio equipment; s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51121.S,IP.B51121.S
+"Computers, video and audio equipment; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51121.N,IP.B51121.N
+"Appliances, furniture, and carpeting; s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51122.S,IP.B51122.S
+"Appliances, furniture, and carpeting; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51122.N,IP.B51122.N
+Household appliances; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B511221.S,IP.B511221.S
+Household appliances; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B511221.N,IP.B511221.N
+Carpeting and furniture; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B511222.S,IP.B511222.S
+Carpeting and furniture; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B511222.N,IP.B511222.N
+Miscellaneous durable goods; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51123.S,IP.B51123.S
+Miscellaneous durable goods; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51123.N,IP.B51123.N
+Nondurable consumer goods; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51200.S,IP.B51200.S
+Nondurable consumer goods; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51200.N,IP.B51200.N
+Nondurable nonenergy consumer goods; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51210.S,IP.B51210.S
+Nondurable nonenergy consumer goods; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51210.N,IP.B51210.N
+Foods and tobacco; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51211.S,IP.B51211.S
+Foods and tobacco; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51211.N,IP.B51211.N
+Clothing; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51212.S,IP.B51212.S
+Clothing; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51212.N,IP.B51212.N
+Chemical products; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51213.S,IP.B51213.S
+Chemical products; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51213.N,IP.B51213.N
+Paper products; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51214.S,IP.B51214.S
+Paper products; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51214.N,IP.B51214.N
+Miscellaneous nondurable goods; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51215.S,IP.B51215.S
+Miscellaneous nondurable goods; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51215.N,IP.B51215.N
+Consumer energy products; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51220.S,IP.B51220.S
+Consumer energy products; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51220.N,IP.B51220.N
+Fuels; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51221.S,IP.B51221.S
+Fuels; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51221.N,IP.B51221.N
+Residential utilities; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51222.S,IP.B51222.S
+Residential utilities; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B51222.N,IP.B51222.N
+"Equipment, total; s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52000.S,IP.B52000.S
+"Equipment, total; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52000.N,IP.B52000.N
+Business equipment; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52100.S,IP.B52100.S
+Business equipment; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52100.N,IP.B52100.N
+Transit equipment; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52110.S,IP.B52110.S
+Transit equipment; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52110.N,IP.B52110.N
+Business vehicles; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.G3361E.S,IP.G3361E.S
+Business vehicles; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.G3361E.N,IP.G3361E.N
+Business light vehicles; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.G33611E.S,IP.G33611E.S
+Business light vehicles; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.G33611E.N,IP.G33611E.N
+"Automobile, business  (NAICS = 336111pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.G336111B.S,IP.G336111B.S
+"Automobile, business  (NAICS = 336111pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.G336111B.N,IP.G336111B.N
+"Light trucks, business  (NAICS = 336112pt.); s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.G336112B.S,IP.G336112B.S
+"Light trucks, business  (NAICS = 336112pt.); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.G336112B.N,IP.G336112B.N
+Information processing and related equipment; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52120.S,IP.B52120.S
+Information processing and related equipment; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52120.N,IP.B52120.N
+Industrial and other equipment; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52130.S,IP.B52130.S
+Industrial and other equipment; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52130.N,IP.B52130.N
+Industrial equipment; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52131.S,IP.B52131.S
+Industrial equipment; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52131.N,IP.B52131.N
+Other equipment; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52132.S,IP.B52132.S
+Other equipment; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52132.N,IP.B52132.N
+Oil and gas well drilling and manufactured homes; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52200.S,IP.B52200.S
+Oil and gas well drilling and manufactured homes; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52200.N,IP.B52200.N
+Defense and space equipment; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52300.S,IP.B52300.S
+Defense and space equipment; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B52300.N,IP.B52300.N
+Nonindustrial supplies; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B54000.S,IP.B54000.S
+Nonindustrial supplies; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B54000.N,IP.B54000.N
+Construction supplies; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B54100.S,IP.B54100.S
+Construction supplies; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B54100.N,IP.B54100.N
+Business supplies; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B54200.S,IP.B54200.S
+Business supplies; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B54200.N,IP.B54200.N
+Non-energy business supplies; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B54210.S,IP.B54210.S
+Non-energy business supplies; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B54210.N,IP.B54210.N
+Commercial energy products; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B54220.S,IP.B54220.S
+Commercial energy products; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B54220.N,IP.B54220.N
+Materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53000.S,IP.B53000.S
+Materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53000.N,IP.B53000.N
+Materials ex. energy materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.Z53010.S,IP.Z53010.S
+Materials ex. energy materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.Z53010.N,IP.Z53010.N
+Durable goods materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53100.S,IP.B53100.S
+Durable goods materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53100.N,IP.B53100.N
+Consumer parts; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53110.S,IP.B53110.S
+Consumer parts; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53110.N,IP.B53110.N
+Equipment parts; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53120.S,IP.B53120.S
+Equipment parts; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53120.N,IP.B53120.N
+Computer and other board assemblies and parts; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53121.S,IP.B53121.S
+Computer and other board assemblies and parts; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53121.N,IP.B53121.N
+"Semiconductors, printed circuit boards, and other; s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53122.S,IP.B53122.S
+"Semiconductors, printed circuit boards, and other; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53122.N,IP.B53122.N
+Other equipment parts; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53123.S,IP.B53123.S
+Other equipment parts; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53123.N,IP.B53123.N
+Other durable materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53130.S,IP.B53130.S
+Other durable materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53130.N,IP.B53130.N
+Basic metals; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53131.S,IP.B53131.S
+Basic metals; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53131.N,IP.B53131.N
+Miscellaneous durable materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53132.S,IP.B53132.S
+Miscellaneous durable materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53132.N,IP.B53132.N
+Nondurable goods materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53200.S,IP.B53200.S
+Nondurable goods materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53200.N,IP.B53200.N
+Textile materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53210.S,IP.B53210.S
+Textile materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53210.N,IP.B53210.N
+Paper materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53220.S,IP.B53220.S
+Paper materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53220.N,IP.B53220.N
+Chemical materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53230.S,IP.B53230.S
+Chemical materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53230.N,IP.B53230.N
+Other nondurable materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53240.S,IP.B53240.S
+Other nondurable materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53240.N,IP.B53240.N
+Containers; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53241.S,IP.B53241.S
+Containers; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53241.N,IP.B53241.N
+Miscellaneous nondurable materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53242.S,IP.B53242.S
+Miscellaneous nondurable materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53242.N,IP.B53242.N
+Energy materials; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53300.S,IP.B53300.S
+Energy materials; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53300.N,IP.B53300.N
+Primary energy; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53310.S,IP.B53310.S
+Primary energy; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53310.N,IP.B53310.N
+Converted fuel; s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53320.S,IP.B53320.S
+Converted fuel; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_MARKET_GROUPS/IP.B53320.N,IP.B53320.N
+Total index; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B50001.S,IP.B50001.S
+Total index; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B50001.N,IP.B50001.N
+"Energy, total; s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B50089.S,IP.B50089.S
+"Energy, total; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B50089.N,IP.B50089.N
+Consumer energy products; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B51220.S,IP.B51220.S
+Consumer energy products; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B51220.N,IP.B51220.N
+Commercial energy products; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B54220.S,IP.B54220.S
+Commercial energy products; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B54220.N,IP.B54220.N
+Drilling oil and gas wells  (NAICS = 213111); s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.N213111.S,IP.N213111.S
+Drilling oil and gas wells  (NAICS = 213111); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.N213111.N,IP.N213111.N
+Converted fuel; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B53320.S,IP.B53320.S
+Converted fuel; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B53320.N,IP.B53320.N
+Primary energy; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B53310.S,IP.B53310.S
+Primary energy; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B53310.N,IP.B53310.N
+"Non-energy, total; s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5001E.S,IP.X5001E.S
+"Non-energy, total; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5001E.N,IP.X5001E.N
+"Computers, communications eq., and semiconductors  (NAICS = 3341,3342,3344); s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.HITEK2.S,IP.HITEK2.S
+"Computers, communications eq., and semiconductors  (NAICS = 3341,3342,3344); n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.HITEK2.N,IP.HITEK2.N
+Computer and peripheral equipment  (NAICS = 3341); s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3341.S,IP.G3341.S
+Computer and peripheral equipment  (NAICS = 3341); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3341.N,IP.G3341.N
+Communications equipment  (NAICS = 3342); s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3342.S,IP.G3342.S
+Communications equipment  (NAICS = 3342); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3342.N,IP.G3342.N
+Semiconductor and other electronic component  (NAICS = 3344); s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3344.S,IP.G3344.S
+Semiconductor and other electronic component  (NAICS = 3344); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3344.N,IP.G3344.N
+"Non-energy ex. computers, communications eq., and semiconductors; s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5EHTK.S,IP.X5EHTK.S
+"Non-energy ex. computers, communications eq., and semiconductors; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5EHTK.N,IP.X5EHTK.N
+Motor vehicles and parts  (NAICS = 3361-3); s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3361T3.S,IP.G3361T3.S
+Motor vehicles and parts  (NAICS = 3361-3); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3361T3.N,IP.G3361T3.N
+Motor vehicle  (NAICS = 3361); s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3361.S,IP.G3361.S
+Motor vehicle  (NAICS = 3361); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3361.N,IP.G3361.N
+Motor vehicle parts  (NAICS = 3363); s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3363.S,IP.G3363.S
+Motor vehicle parts  (NAICS = 3363); n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.G3363.N,IP.G3363.N
+"Non-energy ex. motor vehicles & pts., computers, communications eq., and semiconductors; s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X50EHV.S,IP.X50EHV.S
+"Non-energy ex. motor vehicles & pts., computers, communications eq., and semiconductors; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X50EHV.N,IP.X50EHV.N
+"Consumer goods ex. hi-tech, motor vehicles & pts., and energy; s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X51HVE.S,IP.X51HVE.S
+"Consumer goods ex. hi-tech, motor vehicles & pts., and energy; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X51HVE.N,IP.X51HVE.N
+Business equipment ex. hi-tech and motor vehicles and parts; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X52HTV.S,IP.X52HTV.S
+Business equipment ex. hi-tech and motor vehicles and parts; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X52HTV.N,IP.X52HTV.N
+Construction supplies ex. hi-tech; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5410H.S,IP.X5410H.S
+Construction supplies ex. hi-tech; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5410H.N,IP.X5410H.N
+"Business supplies ex. energy, motor vehicles & parts, and selected high-tech industries; s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5421T.S,IP.X5421T.S
+"Business supplies ex. energy, motor vehicles & parts, and selected high-tech industries; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5421T.N,IP.X5421T.N
+"Materials ex. energy, motor vehicles & pts., computers, communications eq., and semiconductors; s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X53EHV.S,IP.X53EHV.S
+"Materials ex. energy, motor vehicles & pts., computers, communications eq., and semiconductors; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X53EHV.N,IP.X53EHV.N
+"Total ex. computers, communications eq., and semiconductors; s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X50HTK.S,IP.X50HTK.S
+"Total ex. computers, communications eq., and semiconductors; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X50HTK.N,IP.X50HTK.N
+"Manufacturing ex. computers, communications eq., and semiconductors; s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X4HTK2.S,IP.X4HTK2.S
+"Manufacturing ex. computers, communications eq., and semiconductors; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X4HTK2.N,IP.X4HTK2.N
+"Durable mfg. ex. computers, communications eq., and semiconductors; s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5HTK2.S,IP.X5HTK2.S
+"Durable mfg. ex. computers, communications eq., and semiconductors; n.s.a. IP",Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5HTK2.N,IP.X5HTK2.N
+Total ex. motor vehicles and parts; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X50001.S,IP.X50001.S
+Total ex. motor vehicles and parts; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X50001.N,IP.X50001.N
+Manufacturing ex. motor vehicles and parts; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.XXX001.S,IP.XXX001.S
+Manufacturing ex. motor vehicles and parts; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.XXX001.N,IP.XXX001.N
+Durable manufacturing ex. motor vehicles & parts; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X005MV.S,IP.X005MV.S
+Durable manufacturing ex. motor vehicles & parts; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X005MV.N,IP.X005MV.N
+Total ex. selected high-tech. and motor vehicles & pts.; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5VHT2.S,IP.X5VHT2.S
+Total ex. selected high-tech. and motor vehicles & pts.; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X5VHT2.N,IP.X5VHT2.N
+Manufacturing ex. hi-tech and motor vehicles & pts.; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X4HTMV.S,IP.X4HTMV.S
+Manufacturing ex. hi-tech and motor vehicles & pts.; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.X4HTMV.N,IP.X4HTMV.N
+Non-energy materials for finished goods producers; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B53810.S,IP.B53810.S
+Non-energy materials for finished goods producers; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B53810.N,IP.B53810.N
+Non-energy materials for intermediate goods producers; s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B53820.S,IP.B53820.S
+Non-energy materials for intermediate goods producers; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_SPECIAL_AGGREGATES/IP.B53820.N,IP.B53820.N
+Finished processing--gross value; s.a. IP,Index:_2012_100,1,NA,G17/IP_GROSS_VALUE_STAGE_OF_PROCESS_GROUPS/IP.TB56400.S,IP.TB56400.S
+Finished processing--gross value; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_GROSS_VALUE_STAGE_OF_PROCESS_GROUPS/IP.TB56400.N,IP.TB56400.N
+Semifinished processing--gross value; s.a. IP,Index:_2012_100,1,NA,G17/IP_GROSS_VALUE_STAGE_OF_PROCESS_GROUPS/IP.TB56300.S,IP.TB56300.S
+Semifinished processing--gross value; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_GROSS_VALUE_STAGE_OF_PROCESS_GROUPS/IP.TB56300.N,IP.TB56300.N
+Primary processing--gross value; s.a. IP,Index:_2012_100,1,NA,G17/IP_GROSS_VALUE_STAGE_OF_PROCESS_GROUPS/IP.TB56200.S,IP.TB56200.S
+Primary processing--gross value; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_GROSS_VALUE_STAGE_OF_PROCESS_GROUPS/IP.TB56200.N,IP.TB56200.N
+Crude processing--gross value; s.a. IP,Index:_2012_100,1,NA,G17/IP_GROSS_VALUE_STAGE_OF_PROCESS_GROUPS/IP.TB56100.S,IP.TB56100.S
+Crude processing--gross value; n.s.a. IP,Index:_2012_100,1,NA,G17/IP_GROSS_VALUE_STAGE_OF_PROCESS_GROUPS/IP.TB56100.N,IP.TB56100.N
+Total motor vehicle assemblies; s.a.,Number,1000000,NA,G17/MVA/MVA.TOTASS.S,MVA.TOTASS.S
+Total motor vehicle assemblies; n.s.a.,Number,1000000,NA,G17/MVA/MVA.TOTASS.N,MVA.TOTASS.N
+Auto assemblies; s.a.,Number,1000000,NA,G17/MVA/MVA.AUTOAS.S,MVA.AUTOAS.S
+Auto assemblies; n.s.a.,Number,1000000,NA,G17/MVA/MVA.AUTOAS.N,MVA.AUTOAS.N
+Truck assemblies; s.a.,Number,1000000,NA,G17/MVA/MVA.TRUCKS.S,MVA.TRUCKS.S
+Truck assemblies; n.s.a.,Number,1000000,NA,G17/MVA/MVA.TRUCKS.N,MVA.TRUCKS.N
+Light truck assemblies; s.a.,Number,1000000,NA,G17/MVA/MVA.LTTRCK.S,MVA.LTTRCK.S
+Light truck assemblies; n.s.a.,Number,1000000,NA,G17/MVA/MVA.LTTRCK.N,MVA.LTTRCK.N
+Heavy and medium truck assemblies; s.a.,Number,1000000,NA,G17/MVA/MVA.HMTRCK.S,MVA.HMTRCK.S
+Heavy and medium truck assemblies; n.s.a.,Number,1000000,NA,G17/MVA/MVA.HMTRCK.N,MVA.HMTRCK.N
+Autos and light truck assemblies; s.a.,Number,1000000,NA,G17/MVA/MVA.AUTLTT.S,MVA.AUTLTT.S
+Autos and light truck assemblies; n.s.a.,Number,1000000,NA,G17/MVA/MVA.AUTLTT.N,MVA.AUTLTT.N
+"Diffusion index of industrial production, one month earlier; s.a. DIFF",Percentage,1,NA,G17/DIFF/DIFF.DIFFUSION_1.S,DIFF.DIFFUSION_1.S
+"Diffusion index of industrial production, three months earlier; s.a. DIFF",Percentage,1,NA,G17/DIFF/DIFF.DIFFUSION_3.S,DIFF.DIFFUSION_3.S
+"Diffusion index of industrial production, six months earlier; s.a. DIFF",Percentage,1,NA,G17/DIFF/DIFF.DIFFUSION_6.S,DIFF.DIFFUSION_6.S
+Total index; s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.B50001.S,CAP.B50001.S
+Manufacturing (SIC); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.B00004.S,CAP.B00004.S
+Manufacturing (NAICS); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.GMF.S,CAP.GMF.S
+Durable manufacturing (NAICS); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.GMFD.S,CAP.GMFD.S
+Wood product  (NAICS = 321); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G321.S,CAP.G321.S
+Nonmetallic mineral product  (NAICS = 327); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G327.S,CAP.G327.S
+Primary metal  (NAICS = 331); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G331.S,CAP.G331.S
+Fabricated metal product  (NAICS = 332); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G332.S,CAP.G332.S
+Machinery  (NAICS = 333); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G333.S,CAP.G333.S
+Computer and electronic product  (NAICS = 334); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G334.S,CAP.G334.S
+"Electrical equipment, appliance, and component  (NAICS = 335); s.a. CAP",Index:_2012_100,1,NA,G17/CAP/CAP.G335.S,CAP.G335.S
+Motor vehicles and parts  (NAICS = 3361-3); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G3361T3.S,CAP.G3361T3.S
+Aerospace and miscellaneous transportation eq.  (NAICS = 3364-9); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G3364T9.S,CAP.G3364T9.S
+Furniture and related product  (NAICS = 337); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G337.S,CAP.G337.S
+Miscellaneous  (NAICS = 339); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G339.S,CAP.G339.S
+Nondurable manufacturing (NAICS); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.GMFN.S,CAP.GMFN.S
+"Food, beverage, and tobacco  (NAICS = 311,2); s.a. CAP",Index:_2012_100,1,NA,G17/CAP/CAP.G311A2.S,CAP.G311A2.S
+"Textiles and products  (NAICS = 313,4); s.a. CAP",Index:_2012_100,1,NA,G17/CAP/CAP.G313A4.S,CAP.G313A4.S
+"Apparel and leather goods  (NAICS = 315,6); s.a. CAP",Index:_2012_100,1,NA,G17/CAP/CAP.G315A6.S,CAP.G315A6.S
+Paper  (NAICS = 322); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G322.S,CAP.G322.S
+Printing and related support activities  (NAICS = 323); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G323.S,CAP.G323.S
+Petroleum and coal products  (NAICS = 324); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G324.S,CAP.G324.S
+Chemical  (NAICS = 325); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G325.S,CAP.G325.S
+Plastics and rubber products  (NAICS = 326); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G326.S,CAP.G326.S
+Other manufacturing; s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.GMFO.S,CAP.GMFO.S
+Mining  (NAICS = 21); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G21.S,CAP.G21.S
+"Electric and gas utilities  (NAICS = 2211,2); s.a. CAP",Index:_2012_100,1,NA,G17/CAP/CAP.G2211A2.S,CAP.G2211A2.S
+"Computers, communications eq., and semiconductors  (NAICS = 3341,3342,3344); s.a. CAP",Index:_2012_100,1,NA,G17/CAP/CAP.HITEK2.S,CAP.HITEK2.S
+Computer and peripheral equipment  (NAICS = 3341); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G3341.S,CAP.G3341.S
+Communications equipment  (NAICS = 3342); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G3342.S,CAP.G3342.S
+Semiconductor and other electronic component  (NAICS = 3344); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G3344.S,CAP.G3344.S
+"Total ex. computers, communications eq., and semiconductors; s.a. CAP",Index:_2012_100,1,NA,G17/CAP/CAP.X50HTK.S,CAP.X50HTK.S
+"Manufacturing ex. computers, communications eq., and semiconductors; s.a. CAP",Index:_2012_100,1,NA,G17/CAP/CAP.X4HTK2.S,CAP.X4HTK2.S
+Crude processing (capacity); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.B5610C.S,CAP.B5610C.S
+Primary & semifinished processing (capacity); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.B562A3C.S,CAP.B562A3C.S
+Finished processing (capacity); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.B5640C.S,CAP.B5640C.S
+"Iron and steel products  (NAICS = 3311,2); s.a. CAP",Index:_2012_100,1,NA,G17/CAP/CAP.G3311A2.S,CAP.G3311A2.S
+Transportation equipment  (NAICS = 336); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G336.S,CAP.G336.S
+Automobile and light duty motor vehicle  (NAICS = 33611); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G33611.S,CAP.G33611.S
+Food  (NAICS = 311); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G311.S,CAP.G311.S
+Beverage and tobacco product  (NAICS = 312); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G312.S,CAP.G312.S
+Textile mills  (NAICS = 313); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G313.S,CAP.G313.S
+Textile product mills  (NAICS = 314); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G314.S,CAP.G314.S
+Apparel  (NAICS = 315); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G315.S,CAP.G315.S
+Leather and allied product  (NAICS = 316); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G316.S,CAP.G316.S
+Plastics material and resin  (NAICS = 325211); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.N325211.S,CAP.N325211.S
+Synthetic rubber  (NAICS = 325212); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G325212.S,CAP.G325212.S
+Artificial and synthetic fibers and filaments  (NAICS = 32522); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G32522.S,CAP.G32522.S
+Oil and gas extraction  (NAICS = 211); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G211.S,CAP.G211.S
+Mining (except oil and gas)  (NAICS = 212); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G212.S,CAP.G212.S
+Coal mining  (NAICS = 2121); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.N2121.S,CAP.N2121.S
+Metal ore mining  (NAICS = 2122); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G2122.S,CAP.G2122.S
+Nonmetallic mineral mining and quarrying  (NAICS = 2123); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G2123.S,CAP.G2123.S
+Support activities for mining  (NAICS = 213); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G213.S,CAP.G213.S
+"Electric power generation, transmission, and distribution  (NAICS = 2211); s.a. CAP",Index:_2012_100,1,NA,G17/CAP/CAP.G2211.S,CAP.G2211.S
+Natural gas distribution  (NAICS = 2212); s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.G2212.S,CAP.G2212.S
+Manufacturing ex. hi-tech and motor vehicles & pts.; s.a. CAP,Index:_2012_100,1,NA,G17/CAP/CAP.X4HTMV.S,CAP.X4HTMV.S
+Total index; s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.B50001.S,CAPUTL.B50001.S
+Manufacturing (SIC); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.B00004.S,CAPUTL.B00004.S
+Manufacturing (NAICS); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.GMF.S,CAPUTL.GMF.S
+Durable manufacturing (NAICS); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.GMFD.S,CAPUTL.GMFD.S
+Wood product  (NAICS = 321); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G321.S,CAPUTL.G321.S
+Nonmetallic mineral product  (NAICS = 327); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G327.S,CAPUTL.G327.S
+Primary metal  (NAICS = 331); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G331.S,CAPUTL.G331.S
+Fabricated metal product  (NAICS = 332); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G332.S,CAPUTL.G332.S
+Machinery  (NAICS = 333); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G333.S,CAPUTL.G333.S
+Computer and electronic product  (NAICS = 334); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G334.S,CAPUTL.G334.S
+"Electrical equipment, appliance, and component  (NAICS = 335); s.a. CAPUTL",Percentage,1,NA,G17/CAPUTL/CAPUTL.G335.S,CAPUTL.G335.S
+Motor vehicles and parts  (NAICS = 3361-3); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G3361T3.S,CAPUTL.G3361T3.S
+Aerospace and miscellaneous transportation eq.  (NAICS = 3364-9); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G3364T9.S,CAPUTL.G3364T9.S
+Furniture and related product  (NAICS = 337); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G337.S,CAPUTL.G337.S
+Miscellaneous  (NAICS = 339); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G339.S,CAPUTL.G339.S
+Nondurable manufacturing (NAICS); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.GMFN.S,CAPUTL.GMFN.S
+"Food, beverage, and tobacco  (NAICS = 311,2); s.a. CAPUTL",Percentage,1,NA,G17/CAPUTL/CAPUTL.G311A2.S,CAPUTL.G311A2.S
+"Textiles and products  (NAICS = 313,4); s.a. CAPUTL",Percentage,1,NA,G17/CAPUTL/CAPUTL.G313A4.S,CAPUTL.G313A4.S
+"Apparel and leather goods  (NAICS = 315,6); s.a. CAPUTL",Percentage,1,NA,G17/CAPUTL/CAPUTL.G315A6.S,CAPUTL.G315A6.S
+Paper  (NAICS = 322); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G322.S,CAPUTL.G322.S
+Printing and related support activities  (NAICS = 323); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G323.S,CAPUTL.G323.S
+Petroleum and coal products  (NAICS = 324); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G324.S,CAPUTL.G324.S
+Chemical  (NAICS = 325); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G325.S,CAPUTL.G325.S
+Plastics and rubber products  (NAICS = 326); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G326.S,CAPUTL.G326.S
+Other manufacturing; s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.GMFO.S,CAPUTL.GMFO.S
+Mining  (NAICS = 21); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G21.S,CAPUTL.G21.S
+"Electric and gas utilities  (NAICS = 2211,2); s.a. CAPUTL",Percentage,1,NA,G17/CAPUTL/CAPUTL.G2211A2.S,CAPUTL.G2211A2.S
+"Computers, communications eq., and semiconductors  (NAICS = 3341,3342,3344); s.a. CAPUTL",Percentage,1,NA,G17/CAPUTL/CAPUTL.HITEK2.S,CAPUTL.HITEK2.S
+Computer and peripheral equipment  (NAICS = 3341); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G3341.S,CAPUTL.G3341.S
+Communications equipment  (NAICS = 3342); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G3342.S,CAPUTL.G3342.S
+Semiconductor and other electronic component  (NAICS = 3344); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G3344.S,CAPUTL.G3344.S
+"Total ex. computers, communications eq., and semiconductors; s.a. CAPUTL",Percentage,1,NA,G17/CAPUTL/CAPUTL.X50HTK.S,CAPUTL.X50HTK.S
+"Manufacturing ex. computers, communications eq., and semiconductors; s.a. CAPUTL",Percentage,1,NA,G17/CAPUTL/CAPUTL.X4HTK2.S,CAPUTL.X4HTK2.S
+Crude processing (capacity); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.B5610C.S,CAPUTL.B5610C.S
+Primary & semifinished processing (capacity); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.B562A3C.S,CAPUTL.B562A3C.S
+Finished processing (capacity); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.B5640C.S,CAPUTL.B5640C.S
+"Iron and steel products  (NAICS = 3311,2); s.a. CAPUTL",Percentage,1,NA,G17/CAPUTL/CAPUTL.G3311A2.S,CAPUTL.G3311A2.S
+Transportation equipment  (NAICS = 336); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G336.S,CAPUTL.G336.S
+Automobile and light duty motor vehicle  (NAICS = 33611); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G33611.S,CAPUTL.G33611.S
+Food  (NAICS = 311); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G311.S,CAPUTL.G311.S
+Beverage and tobacco product  (NAICS = 312); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G312.S,CAPUTL.G312.S
+Textile mills  (NAICS = 313); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G313.S,CAPUTL.G313.S
+Textile product mills  (NAICS = 314); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G314.S,CAPUTL.G314.S
+Apparel  (NAICS = 315); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G315.S,CAPUTL.G315.S
+Leather and allied product  (NAICS = 316); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G316.S,CAPUTL.G316.S
+Plastics material and resin  (NAICS = 325211); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.N325211.S,CAPUTL.N325211.S
+Synthetic rubber  (NAICS = 325212); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G325212.S,CAPUTL.G325212.S
+Artificial and synthetic fibers and filaments  (NAICS = 32522); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G32522.S,CAPUTL.G32522.S
+Oil and gas extraction  (NAICS = 211); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G211.S,CAPUTL.G211.S
+Mining (except oil and gas)  (NAICS = 212); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G212.S,CAPUTL.G212.S
+Coal mining  (NAICS = 2121); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.N2121.S,CAPUTL.N2121.S
+Metal ore mining  (NAICS = 2122); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G2122.S,CAPUTL.G2122.S
+Nonmetallic mineral mining and quarrying  (NAICS = 2123); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G2123.S,CAPUTL.G2123.S
+Support activities for mining  (NAICS = 213); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G213.S,CAPUTL.G213.S
+"Electric power generation, transmission, and distribution  (NAICS = 2211); s.a. CAPUTL",Percentage,1,NA,G17/CAPUTL/CAPUTL.G2211.S,CAPUTL.G2211.S
+Natural gas distribution  (NAICS = 2212); s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.G2212.S,CAPUTL.G2212.S
+Manufacturing ex. hi-tech and motor vehicles & pts.; s.a. CAPUTL,Percentage,1,NA,G17/CAPUTL/CAPUTL.X4HTMV.S,CAPUTL.X4HTMV.S
+Final products and nonindustrial supplies--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T50030.S,GVIP.T50030.S
+Final products--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T50002.S,GVIP.T50002.S
+Consumer goods--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T51000.S,GVIP.T51000.S
+Durable consumer goods--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T51100.S,GVIP.T51100.S
+Automotive products--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T51110.S,GVIP.T51110.S
+Other durable goods--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T51120.S,GVIP.T51120.S
+Nondurable consumer goods--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T51200.S,GVIP.T51200.S
+"Equipment, total--gross value; s.a. GVIP",Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T52000.S,GVIP.T52000.S
+Business equipment and defense and space equipment--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T521A3.S,GVIP.T521A3.S
+Business equipment--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T52100.S,GVIP.T52100.S
+Defense and space equipment--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T52300.S,GVIP.T52300.S
+Nonindustrial supplies--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T54000.S,GVIP.T54000.S
+Construction supplies--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T54100.S,GVIP.T54100.S
+Business supplies--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T54200.S,GVIP.T54200.S
+Commercial energy products--gross value; s.a. GVIP,Currency:_Base_2012,1.00E+09,USD,G17/GVIP/GVIP.T54220.S,GVIP.T54220.S
+Total index; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B50001.S,RIW.B50001.S
+Final products and nonindustrial supplies; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B50030.S,RIW.B50030.S
+Consumer goods; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51000.S,RIW.B51000.S
+Durable consumer goods; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51100.S,RIW.B51100.S
+Automotive products; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51110.S,RIW.B51110.S
+"Computers, video and audio equipment; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.B51121.S,RIW.B51121.S
+"Appliances, furniture, and carpeting; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.B51122.S,RIW.B51122.S
+Miscellaneous durable goods; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51123.S,RIW.B51123.S
+Nondurable consumer goods; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51200.S,RIW.B51200.S
+Nondurable nonenergy consumer goods; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51210.S,RIW.B51210.S
+Foods and tobacco; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51211.S,RIW.B51211.S
+Clothing; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51212.S,RIW.B51212.S
+Chemical products; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51213.S,RIW.B51213.S
+Paper products; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51214.S,RIW.B51214.S
+Consumer energy products; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51220.S,RIW.B51220.S
+Business equipment; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B52100.S,RIW.B52100.S
+Transit equipment; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B52110.S,RIW.B52110.S
+Information processing and related equipment; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B52120.S,RIW.B52120.S
+Industrial and other equipment; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B52130.S,RIW.B52130.S
+Defense and space equipment; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B52300.S,RIW.B52300.S
+Construction supplies; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B54100.S,RIW.B54100.S
+Business supplies; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B54200.S,RIW.B54200.S
+Materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53000.S,RIW.B53000.S
+Materials ex. energy materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.Z53010.S,RIW.Z53010.S
+Durable goods materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53100.S,RIW.B53100.S
+Consumer parts; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53110.S,RIW.B53110.S
+Equipment parts; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53120.S,RIW.B53120.S
+Other durable materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53130.S,RIW.B53130.S
+Nondurable goods materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53200.S,RIW.B53200.S
+Textile materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53210.S,RIW.B53210.S
+Paper materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53220.S,RIW.B53220.S
+Chemical materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53230.S,RIW.B53230.S
+Energy materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53300.S,RIW.B53300.S
+Manufacturing (SIC); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B00004.S,RIW.B00004.S
+Manufacturing (NAICS); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.GMF.S,RIW.GMF.S
+Durable manufacturing (NAICS); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.GMFD.S,RIW.GMFD.S
+Wood product  (NAICS = 321); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G321.S,RIW.G321.S
+Nonmetallic mineral product  (NAICS = 327); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G327.S,RIW.G327.S
+Primary metal  (NAICS = 331); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G331.S,RIW.G331.S
+Fabricated metal product  (NAICS = 332); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G332.S,RIW.G332.S
+Machinery  (NAICS = 333); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G333.S,RIW.G333.S
+Computer and electronic product  (NAICS = 334); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G334.S,RIW.G334.S
+"Electrical equipment, appliance, and component  (NAICS = 335); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G335.S,RIW.G335.S
+Motor vehicles and parts  (NAICS = 3361-3); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3361T3.S,RIW.G3361T3.S
+Aerospace and miscellaneous transportation eq.  (NAICS = 3364-9); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3364T9.S,RIW.G3364T9.S
+Furniture and related product  (NAICS = 337); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G337.S,RIW.G337.S
+Miscellaneous  (NAICS = 339); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G339.S,RIW.G339.S
+Nondurable manufacturing (NAICS); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.GMFN.S,RIW.GMFN.S
+"Food, beverage, and tobacco  (NAICS = 311,2); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G311A2.S,RIW.G311A2.S
+"Textiles and products  (NAICS = 313,4); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G313A4.S,RIW.G313A4.S
+"Apparel and leather goods  (NAICS = 315,6); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G315A6.S,RIW.G315A6.S
+Paper  (NAICS = 322); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G322.S,RIW.G322.S
+Printing and related support activities  (NAICS = 323); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G323.S,RIW.G323.S
+Petroleum and coal products  (NAICS = 324); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G324.S,RIW.G324.S
+Chemical  (NAICS = 325); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G325.S,RIW.G325.S
+Plastics and rubber products  (NAICS = 326); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G326.S,RIW.G326.S
+Other manufacturing; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.GMFO.S,RIW.GMFO.S
+Mining  (NAICS = 21); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G21.S,RIW.G21.S
+"Electric and gas utilities  (NAICS = 2211,2); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G2211A2.S,RIW.G2211A2.S
+"Electric power generation, transmission, and distribution  (NAICS = 2211); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G2211.S,RIW.G2211.S
+Natural gas distribution  (NAICS = 2212); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G2212.S,RIW.G2212.S
+"Energy, total; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.B50089.S,RIW.B50089.S
+Commercial energy products; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B54220.S,RIW.B54220.S
+Drilling oil and gas wells  (NAICS = 213111); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N213111.S,RIW.N213111.S
+Converted fuel; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53320.S,RIW.B53320.S
+Primary energy; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53310.S,RIW.B53310.S
+"Non-energy, total; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.X5001E.S,RIW.X5001E.S
+"Computers, communications eq., and semiconductors  (NAICS = 3341,3342,3344); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.HITEK2.S,RIW.HITEK2.S
+Computer and peripheral equipment  (NAICS = 3341); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3341.S,RIW.G3341.S
+Communications equipment  (NAICS = 3342); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3342.S,RIW.G3342.S
+"Non-energy ex. computers, communications eq., and semiconductors; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.X5EHTK.S,RIW.X5EHTK.S
+Motor vehicle  (NAICS = 3361); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3361.S,RIW.G3361.S
+Motor vehicle parts  (NAICS = 3363); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3363.S,RIW.G3363.S
+"Non-energy ex. motor vehicles & pts., computers, communications eq., and semiconductors; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.X50EHV.S,RIW.X50EHV.S
+"Consumer goods ex. hi-tech, motor vehicles & pts., and energy; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.X51HVE.S,RIW.X51HVE.S
+Business equipment ex. hi-tech and motor vehicles and parts; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.X52HTV.S,RIW.X52HTV.S
+Construction supplies ex. hi-tech; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.X5410H.S,RIW.X5410H.S
+"Business supplies ex. energy, motor vehicles & parts, and selected high-tech industries; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.X5421T.S,RIW.X5421T.S
+"Materials ex. energy, motor vehicles & pts., computers, communications eq., and semiconductors; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.X53EHV.S,RIW.X53EHV.S
+"Total ex. computers, communications eq., and semiconductors; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.X50HTK.S,RIW.X50HTK.S
+"Manufacturing ex. computers, communications eq., and semiconductors; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.X4HTK2.S,RIW.X4HTK2.S
+"Durable mfg. ex. computers, communications eq., and semiconductors; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.X5HTK2.S,RIW.X5HTK2.S
+Total ex. motor vehicles and parts; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.X50001.S,RIW.X50001.S
+Manufacturing ex. motor vehicles and parts; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.XXX001.S,RIW.XXX001.S
+Durable manufacturing ex. motor vehicles & parts; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.X005MV.S,RIW.X005MV.S
+Total ex. selected high-tech. and motor vehicles & pts.; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.X5VHT2.S,RIW.X5VHT2.S
+Manufacturing ex. hi-tech and motor vehicles & pts.; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.X4HTMV.S,RIW.X4HTMV.S
+Non-energy materials for finished goods producers; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53810.S,RIW.B53810.S
+Non-energy materials for intermediate goods producers; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53820.S,RIW.B53820.S
+Oil and gas extraction  (NAICS = 211); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G211.S,RIW.G211.S
+Crude petroleum and natural gas extraction  (NAICS = 211111); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G211111.S,RIW.G211111.S
+Crude oil  (NAICS = 211111pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G211111C.S,RIW.G211111C.S
+Natural gas  (NAICS = 211111pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N211111G.S,RIW.N211111G.S
+Natural gas liquid extraction  (NAICS = 211112); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G211112.S,RIW.G211112.S
+Mining (except oil and gas)  (NAICS = 212); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G212.S,RIW.G212.S
+Coal mining  (NAICS = 2121); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N2121.S,RIW.N2121.S
+Metal ore mining  (NAICS = 2122); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G2122.S,RIW.G2122.S
+Iron ore mining  (NAICS = 21221); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N21221.S,RIW.N21221.S
+Gold ore and silver ore mining  (NAICS = 21222); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G21222.S,RIW.G21222.S
+"Copper, nickel, lead, and zinc mining  (NAICS = 21223); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G21223.S,RIW.G21223.S
+Nonmetallic mineral mining and quarrying  (NAICS = 2123); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G2123.S,RIW.G2123.S
+Support activities for mining  (NAICS = 213); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G213.S,RIW.G213.S
+Electric power generation  (NAICS = 22111); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G22111.S,RIW.G22111.S
+"Hydroelectric, renewables, and other  (NAICS = 221111,4-8); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G221111A4T8.S,RIW.G221111A4T8.S
+Hydroelectric power generation  (NAICS = 221111); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N221111.S,RIW.N221111.S
+Renewables and other electric power generation  (NAICS = 221114-8); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N221114T8.S,RIW.N221114T8.S
+Fossil Fuel electric power generation  (NAICS = 221112); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N221112.S,RIW.N221112.S
+Nuclear electric power generation  (NAICS = 221113); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N221113.S,RIW.N221113.S
+"Electric power transmission, control, and distribution  (NAICS = 22112); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G22112.S,RIW.G22112.S
+Commercial and other electricity sales  (NAICS = 22112pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N22112C.S,RIW.N22112C.S
+Industrial electricity sales  (NAICS = 22112pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N22112M.S,RIW.N22112M.S
+Residential electricity sales  (NAICS = 22112pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N22112R.S,RIW.N22112R.S
+Commercial and other gas sales  (NAICS = 2212pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N2212C.S,RIW.N2212C.S
+Industrial gas sales  (NAICS = 2212pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N2212M.S,RIW.N2212M.S
+Residential gas sales  (NAICS = 2212pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N2212R.S,RIW.N2212R.S
+Gas transmission  (NAICS = 2212pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N2212T.S,RIW.N2212T.S
+Food  (NAICS = 311); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G311.S,RIW.G311.S
+Animal food  (NAICS = 3111); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3111.S,RIW.G3111.S
+Grain and oilseed milling  (NAICS = 3112); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3112.S,RIW.G3112.S
+Sugar and confectionery product  (NAICS = 3113); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3113.S,RIW.G3113.S
+Fruit and vegetable preserving and specialty food  (NAICS = 3114); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3114.S,RIW.G3114.S
+Dairy product  (NAICS = 3115); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3115.S,RIW.G3115.S
+Dairy product (except frozen)  (NAICS = 31151); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G31151.S,RIW.G31151.S
+Fluid milk  (NAICS = 311511); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N311511.S,RIW.N311511.S
+Creamery butter  (NAICS = 311512); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N311512.S,RIW.N311512.S
+Cheese  (NAICS = 311513); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N311513.S,RIW.N311513.S
+"Dry, condensed, and evaporated dairy product  (NAICS = 311514); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N311514.S,RIW.N311514.S
+Ice cream and frozen dessert  (NAICS = 31152); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N31152.S,RIW.N31152.S
+Animal slaughtering and processing  (NAICS = 3116); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3116.S,RIW.G3116.S
+Animal (except poultry) slaughtering and meat processing  (NAICS = 311611-3); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G311611T3.S,RIW.G311611T3.S
+Beef  (NAICS = 311611-3pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N311611T3B.S,RIW.N311611T3B.S
+Pork  (NAICS = 311611-3pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N311611T3P.S,RIW.N311611T3P.S
+Miscellaneous meats  (NAICS = 311611-3pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N311611T3Z.S,RIW.N311611T3Z.S
+Poultry processing  (NAICS = 311615); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N311615.S,RIW.N311615.S
+Bakeries and tortilla  (NAICS = 3118); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N3118.S,RIW.N3118.S
+Other food  (NAICS = 3119); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3119.S,RIW.G3119.S
+Coffee and tea  (NAICS = 31192); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G31192.S,RIW.G31192.S
+Beverage and tobacco product  (NAICS = 312); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G312.S,RIW.G312.S
+Beverage  (NAICS = 3121); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3121.S,RIW.G3121.S
+Soft drink and ice  (NAICS = 31211); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N31211.S,RIW.N31211.S
+Breweries  (NAICS = 31212); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N31212.S,RIW.N31212.S
+Tobacco  (NAICS = 3122); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3122.S,RIW.G3122.S
+Textile mills  (NAICS = 313); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G313.S,RIW.G313.S
+"Fiber, yarn, and thread mills  (NAICS = 3131); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3131.S,RIW.G3131.S
+Fabric mills  (NAICS = 3132); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3132.S,RIW.G3132.S
+Textile and fabric finishing and fabric coating mills  (NAICS = 3133); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3133.S,RIW.G3133.S
+Textile product mills  (NAICS = 314); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G314.S,RIW.G314.S
+Textile furnishings mills  (NAICS = 3141); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3141.S,RIW.G3141.S
+Carpet and rug mills  (NAICS = 31411); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G31411.S,RIW.G31411.S
+Other textile product mills  (NAICS = 3149); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3149.S,RIW.G3149.S
+Apparel  (NAICS = 315); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G315.S,RIW.G315.S
+Leather and allied product  (NAICS = 316); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G316.S,RIW.G316.S
+Sawmills and wood preservation  (NAICS = 3211); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N3211.S,RIW.N3211.S
+"Plywood and misc. wood products  (NAICS = 3212,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3212A9.S,RIW.G3212A9.S
+"Veneer, plywood, and engineered wood product  (NAICS = 3212); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3212.S,RIW.G3212.S
+"Veneer and plywood  (NAICS = 321211,2); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G321211A2.S,RIW.G321211A2.S
+Reconstituted wood product  (NAICS = 321219); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G321219.S,RIW.G321219.S
+Other wood product  (NAICS = 3219); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3219.S,RIW.G3219.S
+Millwork  (NAICS = 32191); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32191.S,RIW.G32191.S
+Wood container and pallet  (NAICS = 32192); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32192.S,RIW.N32192.S
+All other wood product  (NAICS = 32199); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32199.S,RIW.G32199.S
+Manufactured home (mobile home)  (NAICS = 321991); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N321991.S,RIW.N321991.S
+"Pulp, paper, and paperboard mills  (NAICS = 3221); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3221.S,RIW.G3221.S
+Pulp mills  (NAICS = 32211); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32211.S,RIW.N32211.S
+Paper mills  (NAICS = 32212); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32212.S,RIW.G32212.S
+Paper (except newsprint) mills  (NAICS = 322121); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N322121.S,RIW.N322121.S
+Paperboard mills  (NAICS = 32213); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32213.S,RIW.N32213.S
+Converted paper product  (NAICS = 3222); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3222.S,RIW.G3222.S
+Paperboard container  (NAICS = 32221); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32221.S,RIW.N32221.S
+Paper bag and coated and treated paper  (NAICS = 32222); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32222.S,RIW.G32222.S
+"Other converted paper products  (NAICS = 32223,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G32223A9.S,RIW.G32223A9.S
+Petroleum refineries  (NAICS = 32411); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32411.S,RIW.G32411.S
+Aviation fuel and kerosene  (NAICS = 32411pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32411A.S,RIW.N32411A.S
+Distillate fuel oil  (NAICS = 32411pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32411D.S,RIW.N32411D.S
+Automotive gasoline  (NAICS = 32411pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32411G.S,RIW.N32411G.S
+Residual fuel oil  (NAICS = 32411pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32411R.S,RIW.N32411R.S
+Other refinery output  (NAICS = 32411pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32411X.S,RIW.G32411X.S
+"Paving, roofing, and other petroleum and coal products  (NAICS = 32412,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N32412A9.S,RIW.N32412A9.S
+Basic chemical  (NAICS = 3251); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3251.S,RIW.G3251.S
+"Organic chemicals  (NAICS = 32511,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G32511A9.S,RIW.G32511A9.S
+Basic inorganic chemicals  (NAICS = 32512-8); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32512T8.S,RIW.G32512T8.S
+Industrial gas  (NAICS = 32512); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32512.S,RIW.G32512.S
+Synthetic dye and pigment  (NAICS = 32513); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32513.S,RIW.G32513.S
+Other basic inorganic chemical  (NAICS = 32518pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32518.S,RIW.G32518.S
+Alkalies and chlorine  (NAICS = 32518pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32518C.S,RIW.N32518C.S
+"Resin, synthetic rubber, and artificial and synthetic fibers and filaments  (NAICS = 3252); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3252.S,RIW.G3252.S
+Resin and synthetic rubber  (NAICS = 32521); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32521.S,RIW.G32521.S
+Plastics material and resin  (NAICS = 325211); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N325211.S,RIW.N325211.S
+Synthetic rubber  (NAICS = 325212); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G325212.S,RIW.G325212.S
+Artificial and synthetic fibers and filaments  (NAICS = 32522); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32522.S,RIW.G32522.S
+"Pesticide, fertilizer, and other agricultural chemical  (NAICS = 3253); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3253.S,RIW.G3253.S
+Pharmaceutical and medicine  (NAICS = 3254); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3254.S,RIW.G3254.S
+"Chemicals except pharmaceuticals and medicines  (NAICS = 3251-3,5-9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G325@4.S,RIW.G325@4.S
+"Paints, soaps and toiletries, and other chemical products  (NAICS = 3255-9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3255T9.S,RIW.G3255T9.S
+"Paints and other chemical products  (NAICS = 3255,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3255A9.S,RIW.G3255A9.S
+"Paint, coating, and adhesive  (NAICS = 3255); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3255.S,RIW.G3255.S
+Paint and coating  (NAICS = 32551); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32551.S,RIW.G32551.S
+"Soap, cleaning compound, and toilet preparation  (NAICS = 3256); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3256.S,RIW.G3256.S
+Plastics product  (NAICS = 3261); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3261.S,RIW.G3261.S
+Rubber product  (NAICS = 3262); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3262.S,RIW.G3262.S
+Tire  (NAICS = 32621); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32621.S,RIW.G32621.S
+"Rubber products ex. tires  (NAICS = 32622,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G32622A9.S,RIW.G32622A9.S
+"Clay, lime, gypsum, and misc. nonmetallic mineral products  (NAICS = 3271,4,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3271A4A9.S,RIW.G3271A4A9.S
+"Clay and misc. nonmetallic mineral products  (NAICS = 3271,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3271A9.S,RIW.G3271A9.S
+Clay product and refractory  (NAICS = 3271); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3271.S,RIW.G3271.S
+"Pottery, ceramics, and plumbing fixture  (NAICS = 32711); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G32711.S,RIW.G32711.S
+Clay building material and refractories  (NAICS = 32712); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G32712.S,RIW.G32712.S
+Other nonmetallic mineral product  (NAICS = 3279); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3279.S,RIW.G3279.S
+Lime and gypsum product  (NAICS = 3274); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3274.S,RIW.G3274.S
+Glass and glass product  (NAICS = 3272); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3272.S,RIW.G3272.S
+Glass container  (NAICS = 327213); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N327213.S,RIW.N327213.S
+Cement and concrete product  (NAICS = 3273); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3273.S,RIW.G3273.S
+Cement  (NAICS = 32731); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32731.S,RIW.N32731.S
+Concrete and product  (NAICS = 32732-9); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N32732T9.S,RIW.N32732T9.S
+"Iron and steel products  (NAICS = 3311,2); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3311A2.S,RIW.G3311A2.S
+"Pig iron  (NAICS = 3311,2pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N3311A2P.S,RIW.N3311A2P.S
+"Raw steel  (NAICS = 3311,2pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N3311A2R.S,RIW.N3311A2R.S
+"Coke and products  (NAICS = 3311,2pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3311A2F.S,RIW.G3311A2F.S
+"Construction steel  (NAICS = 3311,2pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N3311A2B.S,RIW.N3311A2B.S
+"Consumer durable steel  (NAICS = 3311,2pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N3311A2C.S,RIW.N3311A2C.S
+"Can and closure steel  (NAICS = 3311,2pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N3311A2D.S,RIW.N3311A2D.S
+"Equipment steel  (NAICS = 3311,2pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N3311A2E.S,RIW.N3311A2E.S
+"Miscellaneous steel  (NAICS = 3311,2pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N3311A2Z.S,RIW.N3311A2Z.S
+"Nonferrous except foundries  (NAICS = 3313,4); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3313A4.S,RIW.G3313A4.S
+Alumina and aluminum production and processing  (NAICS = 3313); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3313.S,RIW.G3313.S
+Primary aluminum production  (NAICS = 331313pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N331313P.S,RIW.N331313P.S
+Secondary smelting and alloying of aluminum  (NAICS = 331314); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N331314.S,RIW.N331314.S
+"Misc. aluminum materials  (NAICS = 331315,8pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N331315A8M.S,RIW.N331315A8M.S
+Aluminum extruded product  (NAICS = 331318pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N331318E.S,RIW.N331318E.S
+Nonferrous metal (except aluminum) production and processing  (NAICS = 3314); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3314.S,RIW.G3314.S
+Nonferrous metal (except aluminum) smelting and refining  (NAICS = 33141); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G33141.S,RIW.G33141.S
+Primary smelting and refining of copper  (NAICS = 33141pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G33141C.S,RIW.G33141C.S
+Primary smelting and refining of nonferrous metal (except copper and aluminum)  (NAICS = 33141pt.); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N33141N.S,RIW.N33141N.S
+Foundries  (NAICS = 3315); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3315.S,RIW.G3315.S
+Forging and stamping  (NAICS = 3321); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N3321.S,RIW.N3321.S
+Cutlery and handtool  (NAICS = 3322); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N3322.S,RIW.N3322.S
+Architectural and structural metals  (NAICS = 3323); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N3323.S,RIW.N3323.S
+Hardware  (NAICS = 3325); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3325.S,RIW.G3325.S
+Spring and wire product  (NAICS = 3326); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N3326.S,RIW.N3326.S
+"Machine shops; turned product; and screw, nut, and bolt  (NAICS = 3327); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3327.S,RIW.G3327.S
+"Coating, engraving, heat treating, and allied activities  (NAICS = 3328); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.N3328.S,RIW.N3328.S
+Other fabricated metal product  (NAICS = 3329); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3329.S,RIW.G3329.S
+Ball and roller bearing  (NAICS = 332991); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G332991.S,RIW.G332991.S
+"Agriculture, construction, and mining machinery  (NAICS = 3331); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3331.S,RIW.G3331.S
+Agricultural implement  (NAICS = 33311); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G33311.S,RIW.G33311.S
+Farm machinery and equipment  (NAICS = 333111); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G333111.S,RIW.G333111.S
+Construction machinery  (NAICS = 33312); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G33312.S,RIW.G33312.S
+Mining and oil and gas field machinery  (NAICS = 33313); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N33313.S,RIW.N33313.S
+Industrial machinery  (NAICS = 3332); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3332.S,RIW.G3332.S
+"Commercial and service industry machinery and other general purpose machinery  (NAICS = 3333,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3333A9.S,RIW.G3333A9.S
+"HVAC, metalworking, and power transmission machinery  (NAICS = 3334-6); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3334T6.S,RIW.G3334T6.S
+"Ventilation, heating, air-conditioning, and commercial refrigeration equipment  (NAICS = 3334); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3334.S,RIW.G3334.S
+Metalworking machinery  (NAICS = 3335); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3335.S,RIW.G3335.S
+"Engine, turbine, and power transmission equipment  (NAICS = 3336); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3336.S,RIW.G3336.S
+Audio and video equipment  (NAICS = 3343); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3343.S,RIW.G3343.S
+Semiconductor and other electronic component  (NAICS = 3344); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3344.S,RIW.G3344.S
+"Navigational, measuring, electromedical, and control instruments  (NAICS = 3345); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3345.S,RIW.G3345.S
+Household appliance  (NAICS = 3352); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3352.S,RIW.G3352.S
+Small electrical appliance  (NAICS = 33521); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G33521.S,RIW.G33521.S
+Major appliance  (NAICS = 33522); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G33522.S,RIW.G33522.S
+"Electrical equipment except appliances  (NAICS = 3351,3,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G335@2.S,RIW.G335@2.S
+Electric lighting equipment  (NAICS = 3351); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3351.S,RIW.G3351.S
+Electrical equipment  (NAICS = 3353); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3353.S,RIW.G3353.S
+Other electrical equipment and component  (NAICS = 3359); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3359.S,RIW.G3359.S
+Battery  (NAICS = 33591); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G33591.S,RIW.G33591.S
+Communication and energy wire and cable  (NAICS = 33592); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N33592.S,RIW.N33592.S
+"Other electrical equipment  (NAICS = 33593,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G33593T9.S,RIW.G33593T9.S
+Transportation equipment  (NAICS = 336); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G336.S,RIW.G336.S
+Automobile and light duty motor vehicle  (NAICS = 33611); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G33611.S,RIW.G33611.S
+Automobile  (NAICS = 336111); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G336111.S,RIW.G336111.S
+Light truck and utility vehicle  (NAICS = 336112); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G336112.S,RIW.G336112.S
+Heavy duty truck  (NAICS = 33612); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G33612.S,RIW.G33612.S
+Motor vehicle body and trailer  (NAICS = 3362); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3362.S,RIW.G3362.S
+Truck trailer  (NAICS = 336212); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G336212.S,RIW.G336212.S
+Motor home  (NAICS = 336213); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N336213.S,RIW.N336213.S
+Travel trailer and camper  (NAICS = 336214); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G336214.S,RIW.G336214.S
+Aerospace product and parts  (NAICS = 3364); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3364.S,RIW.G3364.S
+Aircraft and parts  (NAICS = 336411-3); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G336411T3.S,RIW.G336411T3.S
+"Railroad eq., ships and boats, and other transportation equipment  (NAICS = 3365-9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3365T9.S,RIW.G3365T9.S
+Railroad rolling stock  (NAICS = 3365); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N3365.S,RIW.N3365.S
+Ship and boat building  (NAICS = 3366); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3366.S,RIW.G3366.S
+Other transportation equipment  (NAICS = 3369); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N3369.S,RIW.N3369.S
+Household and institutional furniture and kitchen cabinet  (NAICS = 3371); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N3371.S,RIW.N3371.S
+"Office and other furniture  (NAICS = 3372,9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G3372A9.S,RIW.G3372A9.S
+Medical equipment and supplies  (NAICS = 3391); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N3391.S,RIW.N3391.S
+Logging  (NAICS = 1133); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.N1133.S,RIW.N1133.S
+"Newspaper, periodical, book, and directory publishers  (NAICS = 5111); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G5111.S,RIW.G5111.S
+Newspaper publishers  (NAICS = 51111); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G51111.S,RIW.G51111.S
+"Periodical, book, and other publishers  (NAICS = 51112-9); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G51112T9.S,RIW.G51112T9.S
+Crude processing (capacity); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B5610C.S,RIW.B5610C.S
+Primary & semifinished processing (capacity); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B562A3C.S,RIW.B562A3C.S
+Finished processing (capacity); s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B5640C.S,RIW.B5640C.S
+Final products; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B50002.S,RIW.B50002.S
+"Autos and trucks, consumer; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.B51111.S,RIW.B51111.S
+Auto parts and allied goods; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51112.S,RIW.B51112.S
+Other durable goods; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51120.S,RIW.B51120.S
+Household appliances; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B511221.S,RIW.B511221.S
+Carpeting and furniture; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B511222.S,RIW.B511222.S
+Miscellaneous nondurable goods; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51215.S,RIW.B51215.S
+Fuels; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51221.S,RIW.B51221.S
+Residential utilities; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B51222.S,RIW.B51222.S
+"Equipment, total; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.B52000.S,RIW.B52000.S
+Business vehicles; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G3361E.S,RIW.G3361E.S
+Business light vehicles; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.G33611E.S,RIW.G33611E.S
+"Automobile, business  (NAICS = 336111pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G336111B.S,RIW.G336111B.S
+"Light trucks, business  (NAICS = 336112pt.); s.a. RIW",Percentage,1,NA,G17/RIW/RIW.G336112B.S,RIW.G336112B.S
+Industrial equipment; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B52131.S,RIW.B52131.S
+Other equipment; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B52132.S,RIW.B52132.S
+Oil and gas well drilling and manufactured homes; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B52200.S,RIW.B52200.S
+Nonindustrial supplies; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B54000.S,RIW.B54000.S
+Non-energy business supplies; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B54210.S,RIW.B54210.S
+Computer and other board assemblies and parts; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53121.S,RIW.B53121.S
+"Semiconductors, printed circuit boards, and other; s.a. RIW",Percentage,1,NA,G17/RIW/RIW.B53122.S,RIW.B53122.S
+Other equipment parts; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53123.S,RIW.B53123.S
+Basic metals; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53131.S,RIW.B53131.S
+Miscellaneous durable materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53132.S,RIW.B53132.S
+Other nondurable materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53240.S,RIW.B53240.S
+Containers; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53241.S,RIW.B53241.S
+Miscellaneous nondurable materials; s.a. RIW,Percentage,1,NA,G17/RIW/RIW.B53242.S,RIW.B53242.S
