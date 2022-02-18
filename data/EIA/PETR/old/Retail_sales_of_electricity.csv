@@ -1,0 +1,13 @@
+"Retail sales of electricity"
+"https://www.eia.gov/electricity/data/browser/#/topic/5?agg=0,1&geo=g&endsec=vg&linechart=ELEC.SALES.US-ALL.A~ELEC.SALES.US-RES.A~ELEC.SALES.US-COM.A~ELEC.SALES.US-IND.A&columnchart=ELEC.SALES.US-ALL.A~ELEC.SALES.US-RES.A~ELEC.SALES.US-COM.A~ELEC.SALES.US-IND.A&map=ELEC.SALES.US-ALL.A&freq=A&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin="
+"Sun Jul 04 2021 04:48:26 GMT+0800 (台北標準時間)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020"
+"Retail sales of electricity","million kilowatthours",,,,,,,,,,,,,,,,,,,,,
+"United States","million kilowatthours","ELEC.SALES.US-ALL.A",,,,,,,,,,,,,,,,,,,,
+"United States : all sectors","million kilowatthours","ELEC.SALES.US-ALL.A",3394458,3465466,3493734,3547479,3660969,3669919,3764561,3733965,3596795,3754841,3749846,3694650,3724868,3764700,3758992,3762462,3723356,3859185,3811150,3663741
+"United States : residential","million kilowatthours","ELEC.SALES.US-RES.A",1201607,1265180,1275824,1291982,1359227,1351520,1392241,1380662,1364758,1445708,1422801,1374515,1394812,1407208,1404096,1411058,1378648,1469093,1440289,1461958
+"United States : commercial","million kilowatthours","ELEC.SALES.US-COM.A",1083069,1104497,1198728,1230425,1275079,1299744,1336315,1336133,1306853,1330199,1328057,1327101,1337079,1352158,1360752,1367191,1352888,1381755,1360877,1275718
+"United States : industrial","million kilowatthours","ELEC.SALES.US-IND.A",996609,990238,1012373,1017850,1019156,1011298,1027832,1009516,917416,971221,991316,985714,985352,997576,986508,976715,984298,1000673,1002353,919533
+"United States : transportation","million kilowatthours","ELEC.SALES.US-TRA.A","--","--",6810,7224,7506,7358,8173,7653,7768,7712,7672,7320,7625,7758,7637,7497,7523,7665,7632,6532
+"United States : other","million kilowatthours","ELEC.SALES.US-OTH.A",113174,105552,"--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--","--"
