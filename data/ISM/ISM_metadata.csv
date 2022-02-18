@@ -1,0 +1,26 @@
+code,name,description,refreshed_at,from_date,to_date
+BUY_CAP_EXP,Manufacturing Buying Policy: Capital Expenditures,Manufacturing Buying Policy: Capital Expenditures,2021-02-25 16:01:26,1987-01-01,2021-01-01
+BUY_MRO_SUPP,Manufacturing Buying Policy: MRO Supplies,Manufacturing Buying Policy: MRO Supplies,2021-02-25 16:01:26,1987-01-01,2021-01-01
+BUY_PROD_MAT,Manufacturing Buying Policy: Production Materials,Manufacturing Buying Policy: Production Materials,2021-02-25 16:01:26,1987-01-01,2021-01-01
+MAN_BACKLOG,Manufacturing Backlog of Orders Index,Manufacturing Backlog of Orders Index,2021-02-25 16:01:26,1993-01-01,2021-01-01
+MAN_CUSTINV,Manufacturing Customers' Inventories Index,Manufacturing Customers' Inventories Index,2021-02-25 16:01:26,1997-01-01,2021-01-01
+MAN_DELIV,Manufacturing Supplier Deliveries Index,Diffusion Index Seasonally Adjusted.,2021-02-25 16:01:26,1948-01-01,2021-01-01
+MAN_EMPL,Manufacturing Employment Index,Diffusion Index Seasonally Adjusted.,2021-02-25 16:01:26,1948-01-01,2021-01-01
+MAN_EXPORTS,Manufacturing New Export Orders Index,"As of January 2007, the New Export Orders Index is no longer seasonally adjusted.",2021-02-25 16:01:26,1988-01-01,2021-01-01
+MAN_IMPORTS,Manufacturing Imports Index,"As of January 2006, the Imports Index is no longer seasonally adjusted.",2021-02-25 16:01:26,1989-10-01,2021-01-01
+MAN_INVENT,Manufacturing Inventories Index,"As of January 2012, the Inventories Index is no longer seasonally adjusted.",2021-02-25 16:01:26,1948-01-01,2021-01-01
+MAN_NEWORDERS,Manufacturing New Orders Index,Seasonally Adjusted.,2021-02-25 16:01:26,1948-01-01,2021-01-01
+MAN_PMI,PMI Composite Index,"The PMI (R) is a composite index based on the diffusion indexes of five of the indexes with equal weights: New Orders (seasonally adjusted), Production (seasonally adjusted), Employment (seasonally adjusted), Supplier Deliveries (seasonally adjusted), and Inventories.",2021-02-25 16:01:26,1948-01-01,2021-01-01
+MAN_PRICES,Manufacturing Prices Index,"As of January 2003, the Prices Index is no longer seasonally adjusted.",2021-02-25 16:01:26,1948-01-01,2021-01-01
+MAN_PROD,Manufacturing Production Index,Diffusion Index Seasonally Adjusted.,2021-02-25 16:01:26,1948-01-01,2021-01-01
+NONMAN_BACKLOG,Services PMI Backlog of Orders Index,Formerly Non-Manufacturing.,2021-02-25 16:02:31,1997-07-01,2021-01-01
+NONMAN_BUSACT,Services PMI Business Activity Index,Formerly Non-Manufacturing. Seasonally Adjusted.,2021-02-25 16:02:31,1997-07-01,2021-01-01
+NONMAN_DELIV,Services PMI Supplier Deliveries Index,Formerly Non-Manufacturing.,2021-02-25 16:02:31,2002-01-01,2021-01-01
+NONMAN_EMPL,Services PMI Employment Index,Formerly Non-Manufacturing. Seasonally Adjusted. ,2021-02-25 16:02:31,1997-07-01,2021-01-01
+NONMAN_EXPORTS,Services PMI New Export Orders Index,Formerly Non-Manufacturing.,2021-02-25 16:02:31,1997-07-01,2021-01-01
+NONMAN_IMPORTS,Services PMI Imports Index,"Formerly Non-Manufacturing. As of January 2003, Imports will no longer be seasonally adjusted. ",2021-02-25 16:02:31,1997-07-01,2021-01-01
+NONMAN_INVENT,Services PMI Inventories Index,Formerly Non-Manufacturing.,2021-02-25 16:02:31,1997-07-01,2021-01-01
+NONMAN_INVSENT,Services PMI Inventory Sentiment Index,Formerly Non-Manufacturing.,2021-02-25 16:02:31,1997-07-01,2021-01-01
+NONMAN_NEWORD,Services PMI New Orders Index,Formerly Non-Manufacturing. Seasonally Adjusted.,2021-02-25 16:02:31,1997-07-01,2021-01-01
+NONMAN_NMI,Services PMI Index (Formerly Non-Manufacturing),"The Services PMI (R) (Formerly Non-Manufacturing) is a composite index based on the diffusion indexes for four of the indicators with equal weights: Business Activity (seasonally adjusted), New Orders (seasonally adjusted), Employment (seasonally adjusted) and Supplier Deliveries. Diffusion indexes have the properties of leading indicators and are convenient summary measures showing the prevailing direction of change and the scope of change.",2021-02-25 16:02:31,2008-01-01,2021-01-01
+NONMAN_PRICES,Services PMI Prices Index,Formerly Non-Manufacturing. Seasonally Adjusted.,2021-02-25 16:02:31,1997-07-01,2021-01-01
