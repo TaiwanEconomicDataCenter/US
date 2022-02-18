@@ -1,0 +1,9 @@
+index,Index,Label,unit,start,last,2015,2016,2017,2018,2019,2020
+WPUIP484000                   ,WPUIP484000                   ,"PPI Commodity data for Inputs to 484000, truck transportation, excluding capital investment, labor, and imports, not seasonally adjusted",Index base: 2014.03 = 100,2014-M03,2021-M11,86.9,83.0,89.6,99.2,97.4,91.8
+WPUIP4840001                  ,WPUIP4840001                  ,"PPI Commodity data for Inputs to 484000, goods, not seasonally adjusted",Index base: 2014.03 = 100,2014-M03,2021-M11,62.8,51.7,64.0,82.2,74.5,60.8
+WPUIP48400012                 ,WPUIP48400012                 ,"PPI Commodity data for Inputs to 484000, energy, not seasonally adjusted",Index base: 2014.03 = 100,2014-M03,2021-M11,57.5,45.5,58.9,78.4,70.2,55.7
+WPUIP48400013                 ,WPUIP48400013                 ,"PPI Commodity data for Inputs to 484000, goods less foods and energy, not seasonally adjusted",Index base: 2014.03 = 100,2014-M03,2021-M11,99.9,99.1,99.4,100.7,101.0,101.6
+WPUIP4840002                  ,WPUIP4840002                  ,"PPI Commodity data for Inputs to 484000, services, not seasonally adjusted",Index base: 2014.03 = 100,2014-M03,2021-M11,101.6,102.1,105.3,108.7,112.2,113.7
+WPUIP48400021                 ,WPUIP48400021                 ,"PPI Commodity data for Inputs to 484000, trade services, not seasonally adjusted",Index base: 2014.03 = 100,2014-M03,2021-M11,106.4,107.1,113.9,116.1,121.0,127.4
+WPUIP48400022                 ,WPUIP48400022                 ,"PPI Commodity data for Inputs to 484000, transportation and warehousing services, not seasonally adjusted",Index base: 2014.03 = 100,2014-M03,2021-M11,100.9,100.5,102.9,106.8,110.4,111.7
+WPUIP48400023                 ,WPUIP48400023                 ,"PPI Commodity data for Inputs to 484000, services less trade, transportation, and warehousing, not seasonally adjusted",Index base: 2014.03 = 100,2014-M03,2021-M11,101.7,104.3,107.2,110.6,113.0,111.8
