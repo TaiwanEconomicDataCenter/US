@@ -1,0 +1,18 @@
+Function REGPLACE(myRange As Range, matchPattern As String, outputPattern As String) As Variant
+    Dim regex As New VBScript_RegExp_55.RegExp
+    Dim strInput As String
+
+    strInput = myRange.Value
+
+    With regex
+        .Global = True
+        .MultiLine = True
+        .IgnoreCase = False
+        .Pattern = matchPattern
+    End With
+
+    REGPLACE = regex.Replace(strInput, outputPattern)
+
+End Function
+
+=REGPLACE(C247,"\s*([0-9a-zA-Z\.]+)\s+\-.+","$1")

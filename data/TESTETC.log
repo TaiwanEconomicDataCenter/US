@@ -1,0 +1,162 @@
+﻿2021-10-06 11:13:32 AM Checking Identities: 3065 s
+
+2021-10-06 11:13:34 AM Index IIPPEDD.A desc_e updated
+2021-10-06 11:13:34 AM Index IITPEMC.A desc_e updated
+2021-10-06 11:13:34 AM Index IITPESP.A desc_e updated
+2021-10-06 11:13:34 AM Index IITTIHB.A desc_e updated
+2021-10-06 11:13:34 AM Index IITTILB.A desc_e updated
+2021-10-06 11:13:34 AM Index IITTRHB.A desc_e updated
+2021-10-06 11:13:34 AM Index IITTRLB.A desc_e updated
+2021-10-06 11:13:35 AM Index UCYCPM.A desc_e updated
+2021-10-06 11:13:35 AM Index UWLKPM.A desc_e updated
+2021-10-06 11:13:36 AM Index A001XV.M desc_e updated
+2021-10-06 11:13:36 AM Index A002XV.M desc_e updated
+2021-10-06 11:13:36 AM Index A00XXV.M desc_e updated
+2021-10-06 11:13:37 AM Index AAA.M desc_e updated
+2021-10-06 11:13:37 AM Index AASMSATUDMI.M desc_e updated
+2021-10-06 11:13:37 AM Index ALDFSATUDMI.M desc_e updated
+2021-10-06 11:13:38 AM Index APSGSATUDMI.M desc_e updated
+2021-10-06 11:13:38 AM Index APSGSATUDOM.M desc_e updated
+2021-10-06 11:13:38 AM Index APSGSATUINT.M desc_e updated
+2021-10-06 11:13:38 AM Index APTCTSI.M desc_e updated
+2021-10-06 11:13:38 AM Index APTLTRPT.M desc_e updated
+2021-10-06 11:13:38 AM Index APTRTRPT.M desc_e updated
+2021-10-06 11:13:38 AM Index ARFCTRPT.M desc_e updated
+2021-10-06 11:13:38 AM Index ARFITRPT.M desc_e updated
+2021-10-06 11:13:38 AM Index ARLPTRPT.M desc_e updated
+2021-10-06 11:13:38 AM Index ARPMSATUDMI.M desc_e updated
+2021-10-06 11:13:38 AM Index ATKTTRPT.M desc_e: base updated
+2021-10-06 11:13:38 AM Index BAA.M desc_e updated
+2021-10-06 11:13:38 AM Index CANDH.M desc_e: base updated
+2021-10-06 11:13:38 AM Index CFNAI.M desc_e: base updated
+2021-10-06 11:13:38 AM Index CFNAIDIFF.M desc_e: base updated
+2021-10-06 11:13:38 AM Index CFNAIMA3.M desc_e: base updated
+2021-10-06 11:13:40 AM Index EUANDH.M desc_e: base updated
+2021-10-06 11:13:41 AM Index MEDCPIM159.M desc_e inconsistent
+2021-10-06 11:13:41 AM DF_KEY = United States Miscellaneous Statistics, Current Median CPI, Median Consumer Price Index, Percent Change from Previous Year, Seasonally Adjusted, Unit: Percent Change at Annual Rate, Source: Federal Reserve Economic Data, Note: (1)Median Consumer Price Index (CPI) is a measure of core inflation calculated the Federal Reserve Bank of Cleveland and the Ohio State University. Median CPI was created as a different way to get a Core CPI measure, or a better measure of underlying inflation trends. To calculate the Median CPI, the Cleveland Fed analyzes the median price change of the goods and services published by the BLS. The median price change is the price change that’s right in the middle of the long list of all of the price changes. This series excludes 49.5% of the CPI components with the highest and lowest one-month price changes from each tail of the price-change distribution resulting in a Median CPI Inflation Estimate. (2)According to research from the Cleveland Fed, the Median CPI provides a better signal of the inflation trend than either the all-items CPI or the CPI excluding food and energy. According to newer research done at the Cleveland Fed, the Median CPI is even better at PCE inflation in the near and longer term than the core PCE. (3)For further information, go to https://www.clevelandfed.org/en/our-research/indicators-and-data/median-cpi.aspx.
+2021-10-06 11:13:41 AM df_key = United States Miscellaneous Statistics, Current Median CPI, Median Consumer Price Index, Percent Change from Previous Year, Seasonally Adjusted, Unit: Percent Change from Year Ago, Source: Federal Reserve Economic Data, Note: (1)Median Consumer Price Index (CPI) is a measure of core inflation calculated the Federal Reserve Bank of Cleveland and the Ohio State University. Median CPI was created as a different way to get a & 39;Core CPI& 39; measure, or a better measure of underlying inflation trends. To calculate the Median CPI, the Cleveland Fed analyzes the median price change of the goods and services published by the BLS. The median price change is the price change that’s right in the middle of the long list of all of the price changes. This series excludes 49.5% of the CPI components with the highest and lowest one-month price changes from each tail of the price-change distribution resulting in a Median CPI Inflation Estimate. (2)According to research from the Cleveland Fed, the Median CPI provides a better signal of the inflation trend than either the all-items CPI or the CPI excluding food and energy. According to newer research done at the Cleveland Fed, the Median CPI is even better at PCE inflation in the near and longer term than the core PCE. (3)For further information, go to https://www.clevelandfed.org/en/our-research/indicators-and-data/median-cpi.aspx.
+2021-10-06 11:13:41 AM Index MEDCPIM159.M unit inconsistent
+2021-10-06 11:13:41 AM DF_KEY = Percent Change at Annual Rate
+2021-10-06 11:13:41 AM df_key = Percent Change from Year Ago
+2021-10-06 11:13:41 AM Index PANDI.M desc_e: base updated
+2021-10-06 11:13:42 AM Index U001XV.M desc_e updated
+2021-10-06 11:13:42 AM Index U002XV.M desc_e updated
+2021-10-06 11:13:42 AM Index U00XXV.M desc_e updated
+2021-10-06 11:13:44 AM Index UARPTRPT.M desc_e updated
+2021-10-06 11:13:44 AM Index UASMSATUDMI.M desc_e updated
+2021-10-06 11:13:44 AM Index ULDFSATUDMI.M desc_e updated
+2021-10-06 11:13:44 AM Index UPSGSATUDMI.M desc_e updated
+2021-10-06 11:13:44 AM Index UPSGSATUDOM.M desc_e updated
+2021-10-06 11:13:44 AM Index UPSGSATUINT.M desc_e updated
+2021-10-06 11:13:44 AM Index UPTLTRPT.M desc_e updated
+2021-10-06 11:13:44 AM Index UPTRTRPT.M desc_e updated
+2021-10-06 11:13:44 AM Index URFCTRPT.M desc_e updated
+2021-10-06 11:13:44 AM Index URFITRPT.M desc_e updated
+2021-10-06 11:13:44 AM Index URLPTRPT.M desc_e updated
+2021-10-06 11:13:44 AM Index URPMSATUDMI.M desc_e updated
+2021-10-06 11:13:44 AM Index UTFMTRPT.M desc_e updated
+2021-10-06 11:13:44 AM Index UTWTTRPT.M desc_e updated
+2021-10-06 11:13:44 AM Index ARATEUSHOR.Q desc_e updated
+2021-10-06 11:13:45 AM Index NROUST.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWOCC.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWOCU.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWOFF.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWOTH.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWOWN.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWREN.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWRNT.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWROS.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWSAL.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWSEA.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWTOT.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWURE.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWVAC.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESMWYRV.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNEOCC.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNEOCU.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNEOFF.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNEOTH.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNEOWN.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNEREN.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNERNT.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNEROS.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNESAL.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNESEA.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNETOT.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNEURE.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNEVAC.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESNEYRV.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOOCC.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOOCU.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOOFF.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOOTH.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOOWN.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOREN.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSORNT.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOROS.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOSAL.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOSEA.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOTOT.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOURE.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOVAC.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESSOYRV.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSOCC.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSOCU.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSOFF.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSOTH.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSOWN.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSREN.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSRNT.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSROS.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSSAL.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSSEA.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSTOT.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSURE.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSVAC.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESUSYRV.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWEOCC.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWEOCU.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWEOFF.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWEOTH.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWEOWN.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWEREN.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWERNT.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWEROS.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWESAL.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWESEA.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWETOT.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWEURE.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWEVAC.Q desc_e updated
+2021-10-06 11:13:45 AM Index UHIESWEYRV.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATEMWHOR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATEMWHVR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATEMWRVR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATENEHOR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATENEHVR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATENERVR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATESOHOR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATESOHVR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATESORVR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATEUSHOR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATEUSHVR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATEUSRVR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATEWEHOR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATEWEHVR.Q desc_e updated
+2021-10-06 11:13:45 AM Index URATEWERVR.Q desc_e updated
+2021-10-06 11:13:46 AM unknown: 0
+2021-10-06 11:13:46 AM name too long: 0
+2021-10-06 11:13:46 AM inconsistent: 2
+2021-10-06 11:13:46 AM Total desc_e inconsistent: 1
+2021-10-06 11:13:46 AM Total desc_c inconsistent: 0
+2021-10-06 11:13:46 AM Total freq inconsistent: 0
+2021-10-06 11:13:46 AM Total unit inconsistent: 1
+2021-10-06 11:13:46 AM Total type inconsistent: 0
+2021-10-06 11:13:46 AM Total source inconsistent: 0
+2021-10-06 11:13:46 AM Total form_e inconsistent: 0
+2021-10-06 11:13:46 AM Total form_c inconsistent: 0
+2021-10-06 11:13:46 AM inconsistent earliest: 1983
+2021-10-06 11:13:46 AM base updated: 0
+2021-10-06 11:13:46 AM data updated: 9124
+2021-10-06 11:13:46 AM including weekly: True
+2021-10-06 11:13:46 AM too many months: True
+2021-10-06 11:14:19 AM unfound: 6

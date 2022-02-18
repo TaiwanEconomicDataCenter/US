@@ -1,0 +1,474 @@
+﻿2021-10-07 09:10:24 AM Checking Identities: 94 s
+
+2021-10-07 09:10:32 AM Index PCU3113401.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Nonchocolate confectionery manufacturing, Nonchocolate-type confectioneries, made/pkg. for shipment, not seasonally adjusted, Unit: Index base: 1983.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Nonchocolate confectionery manufacturing, Nonchocolate-type confectioneries, made and packaged for shipment, not seasonally adjusted, Unit: Index base: 1983.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU3113401.A type inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Nonchocolate-Type Confectioneries, Made/Pkg. For Shipment
+2021-10-07 09:10:32 AM df_key = Nonchocolate-Type Confectioneries, Made and Packaged For Shipment
+2021-10-07 09:10:32 AM Index PCU3221109.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Pulp mills, All other miscellaneous pulp, other than wood, and pulp mill byproducts incl. turpentine, not seasonally adjusted, Unit: Index base: 1988.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Pulp mills, All other miscellaneous pulp, other than wood, and pulp mill by-products, incl. turpentine, not seasonally adjusted, Unit: Index base: 1988.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU3221109.A type inconsistent
+2021-10-07 09:10:32 AM DF_KEY = All Other Miscellaneous Pulp, Other Than Wood, and Pulp Mill Byproducts Incl. Turpentine
+2021-10-07 09:10:32 AM df_key = All Other Miscellaneous Pulp, Other Than Wood, and Pulp Mill By-Products, Incl. Turpentine
+2021-10-07 09:10:32 AM Index PCU3221301.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Paperboard mills, Unbleached kraft packaging and industrial converting paperboard (80 percent or more virgin wood), not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Paperboard mills, Unbleached kraft packaging and industrial converting paperboard, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU3221301.A type inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Unbleached Kraft Packaging & Industrial Converting Paperboard (80 Percent Or More Virgin Wood)
+2021-10-07 09:10:32 AM df_key = Unbleached Kraft Packaging and Industrial Converting Paperboard
+2021-10-07 09:10:32 AM Index PCU3221305.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Paperboard mills, Semichemical paperboard, including corrugating medium (75 percent or more virgin woodpulp), not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Paperboard mills, Semichemical paperboard, including corrugating medium, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU3221305.A type inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Semichemical Paperboard, Including Corrugating Medium (75 Percent Or More Virgin Woodpulp)
+2021-10-07 09:10:32 AM df_key = Semichemical Paperboard, Including Corrugating Medium
+2021-10-07 09:10:32 AM Index PCU3324101.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Power boiler and heat exchanger mfg, Fabricated heat exchangers and steam condensers (except for nuclear applications), not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Power boiler and heat exchanger mfg, Fabricated heat exchangers and steam condensers (excluding nuclear applications), not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU3324101.A type inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Fabricated Heat Exchangers and Steam Condensers (Except For Nuclear Applications)
+2021-10-07 09:10:32 AM df_key = Fabricated Heat Exchangers and Steam Condensers (Excluding Nuclear Applications)
+2021-10-07 09:10:32 AM Index PCU332420.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU332420.A type inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Metal Tank, Heavy Gauge, Mfg
+2021-10-07 09:10:32 AM df_key = Metal Tanks, Heavy Gauge, Mfg
+2021-10-07 09:10:32 AM Index PCU332420.A form_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:32 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:32 AM Index PCU332420M.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, Miscellaneous receipts, not seasonally adjusted, Unit: Index base: 1986.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, Miscellaneous receipts, not seasonally adjusted, Unit: Index base: 1986.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU332420M.A form_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:32 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:32 AM Index PCU332420P.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, Primary products, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, Primary products, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU332420P.A form_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:32 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:32 AM Index PCU332420S.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, Secondary products, not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, Secondary products, not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU332420S.A form_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:32 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:32 AM Index PCU332420SS.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, Secondary products, not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, Secondary products, not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU332420SS.A form_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:32 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:32 AM Index PCU3329194.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Other metal valve and pipe fitting mfg, Metal fittings, flanges, and unions for piping systems, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Other metal valve and pipe fitting mfg, Metal fittings, flanges, and unions for pipe fittings, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU3329194.A type inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Metal Fittings, Flanges, and Unions For Piping Systems
+2021-10-07 09:10:32 AM df_key = Metal Fittings, Flanges, and Unions For Pipe Fittings
+2021-10-07 09:10:32 AM Index PCU3339231.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Hoists, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Hoists and parts and attachments for hoists (sold separately), not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU3339231.A type inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Hoists
+2021-10-07 09:10:32 AM df_key = Hoists and Parts and Attachments For Hoists (Sold Separately)
+2021-10-07 09:10:32 AM Index PCU3339233.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Overhead traveling cranes and monorail systems, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Overhead traveling cranes and monorail systems, including parts and attachments sold separately, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU3339233.A type inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Overhead Traveling Cranes and Monorail Systems
+2021-10-07 09:10:32 AM df_key = Overhead Traveling Cranes and Monorail Systems, Including Parts and Attachments Sold Separately
+2021-10-07 09:10:32 AM Index PCU3339237.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Winches, aerial work platforms, and automotive wrecker hoists, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM df_key = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Winches, aerial work platforms, and automotive wrecker hoists, including parts and attachments, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:32 AM Index PCU3339237.A type inconsistent
+2021-10-07 09:10:32 AM DF_KEY = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists
+2021-10-07 09:10:32 AM df_key = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists, Including Parts and Attachments
+2021-10-07 09:10:32 AM Index PCU3352105.A desc_e inconsistent
+2021-10-07 09:10:32 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Small electrical appliance mfg, Parts and attachments for small household electric appliance, including fans, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:33 AM df_key = United States Prices, Producer Price Index, PPI industry data for Small electrical appliance mfg, Parts and attachments for small electric household appliances, including fan parts, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:33 AM Index PCU3352105.A type inconsistent
+2021-10-07 09:10:33 AM DF_KEY = Parts and Attachments For Small Household Electric Appliance, Including Fans
+2021-10-07 09:10:33 AM df_key = Parts and Attachments For Small Electric Household Appliances, Including Fan Parts
+2021-10-07 09:10:33 AM Index PCU3352106.A desc_e inconsistent
+2021-10-07 09:10:33 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Small electrical appliance mfg, Household vacuum cleaners, floor waxing,floor polishing machines and parts, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:33 AM df_key = United States Prices, Producer Price Index, PPI industry data for Small electrical appliance mfg, Household vacuum cleaners and other floor care machines (including parts and attachments), not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:33 AM Index PCU3352106.A type inconsistent
+2021-10-07 09:10:33 AM DF_KEY = Household Vacuum Cleaners, Floor Waxing,Floor Polishing Machines and Parts
+2021-10-07 09:10:33 AM df_key = Household Vacuum Cleaners and Other Floor Care Machines (Including Parts and Attachments)
+2021-10-07 09:10:33 AM Index PCU3379101.A type inconsistent
+2021-10-07 09:10:33 AM DF_KEY = Innerspring Mattresses , Excluding Crib-Size
+2021-10-07 09:10:33 AM df_key = Innerspring Mattresses, Excluding Crib-Size
+2021-10-07 09:10:33 AM Index PCU337910A.A desc_e inconsistent
+2021-10-07 09:10:33 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Mattress mfg, Sleep system ensembles and mattresses, excl. conventional waterbeds, not seasonally adjusted, Unit: Index base: 1996.05 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:33 AM df_key = United States Prices, Producer Price Index, PPI industry data for Mattress mfg, Sleep system ensembles and mattresses, excluding conventional waterbeds, not seasonally adjusted, Unit: Index base: 1996.05 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:33 AM Index PCU337910A.A type inconsistent
+2021-10-07 09:10:33 AM DF_KEY = Sleep System Ensembles and Mattresses, Excl. Conventional Waterbeds
+2021-10-07 09:10:33 AM df_key = Sleep System Ensembles and Mattresses, Excluding Conventional Waterbeds
+2021-10-07 09:10:35 AM Index WPU025503021.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Nonchocolate-type confectioneries, made/pkg for shipment, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Nonchocolate-type confectioneries, made and packaged for shipment, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU025503021.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Nonchocolate-Type Confectioneries, Made/Pkg For Shipment
+2021-10-07 09:10:35 AM df_key = Nonchocolate-Type Confectioneries, Made and Packaged For Shipment
+2021-10-07 09:10:35 AM Index WPU09141104.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Pulp, paper, and allied products, Semichemical paperboard, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Pulp, paper, and allied products, Semichemical paperboard, including corrugating medium, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU09141104.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Semichemical Paperboard
+2021-10-07 09:10:35 AM df_key = Semichemical Paperboard, Including Corrugating Medium
+2021-10-07 09:10:35 AM Index WPU107701.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Metals and metal products, Stationary and marine power boilers, not seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Metals and metal products, Steel power boilers, parts and attachments (excl. nuclear applications), not seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU107701.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Stationary and Marine Power Boilers
+2021-10-07 09:10:35 AM df_key = Steel Power Boilers, Parts and Attachments (Excl. Nuclear Applications)
+2021-10-07 09:10:35 AM Index WPU112J01.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Winches, aerial work platforms, and automotive wrecker hoists, not seasonally adjusted, Unit: Index base: 2005.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Winches, aerial work platforms, and automotive wrecker hoists, including parts and attachments, not seasonally adjusted, Unit: Index base: 2005.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU112J01.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists
+2021-10-07 09:10:35 AM df_key = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists, Including Parts and Attachments
+2021-10-07 09:10:35 AM Index WPU112J0101.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Winches, aerial work platforms, and automotive wrecker hoists, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Winches, aerial work platforms, and automotive wrecker hoists, including parts and attachments, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU112J0101.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists
+2021-10-07 09:10:35 AM df_key = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists, Including Parts and Attachments
+2021-10-07 09:10:35 AM Index WPU11440481.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Hoists, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Hoists and parts and attachments for hoists (sold separately), not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU11440481.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Hoists
+2021-10-07 09:10:35 AM df_key = Hoists and Parts and Attachments For Hoists (Sold Separately)
+2021-10-07 09:10:35 AM Index WPU11440485.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Overhead traveling cranes and monorail systems, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Overhead traveling cranes and monorail systems, including parts and attachments sold separately, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU11440485.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Overhead Traveling Cranes and Monorail Systems
+2021-10-07 09:10:35 AM df_key = Overhead Traveling Cranes and Monorail Systems, Including Parts and Attachments Sold Separately
+2021-10-07 09:10:35 AM Index WPU11490205.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Plumbing and heating valves (low pressure), not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Plumbing and heating valves and specialties, except plumbers brass goods, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU11490205.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Plumbing and Heating Valves (Low Pressure)
+2021-10-07 09:10:35 AM df_key = Plumbing and Heating Valves and Specialties, Except Plumbers' Brass Goods
+2021-10-07 09:10:35 AM Index WPU12140104.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Innerspring mattresses, excl. crib size, not seasonally adjusted, Unit: Index base: 1995.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Innerspring mattresses, excluding crib size, not seasonally adjusted, Unit: Index base: 1995.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU12140104.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Innerspring Mattresses, Excl. Crib Size
+2021-10-07 09:10:35 AM df_key = Innerspring Mattresses, Excluding Crib Size
+2021-10-07 09:10:35 AM Index WPU12140122.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Sleep system ensembles and mattresses, except conventional waterbeds, not seasonally adjusted, Unit: Index base: 1995.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Sleep system ensembles and mattresses, excluding conventional waterbeds, not seasonally adjusted, Unit: Index base: 1995.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU12140122.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Sleep System Ensembles and Mattresses, Except Conventional Waterbeds
+2021-10-07 09:10:35 AM df_key = Sleep System Ensembles and Mattresses, Excluding Conventional Waterbeds
+2021-10-07 09:10:35 AM Index WPU124301.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Household vacuum cleaners, including parts and attachments, not seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Household vacuum cleaners and other floor care machines (including parts and attachments), not seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU124301.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Household Vacuum Cleaners, Including Parts and Attachments
+2021-10-07 09:10:35 AM df_key = Household Vacuum Cleaners and Other Floor Care Machines (Including Parts and Attachments)
+2021-10-07 09:10:35 AM Index WPU12430114.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Household vacuum cleaners, including parts and attachments, not seasonally adjusted, Unit: Index base: 2007.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Household vacuum cleaners and other floor care machines (including parts and attachments), not seasonally adjusted, Unit: Index base: 2007.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU12430114.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Household Vacuum Cleaners, Including Parts and Attachments
+2021-10-07 09:10:35 AM df_key = Household Vacuum Cleaners and Other Floor Care Machines (Including Parts and Attachments)
+2021-10-07 09:10:35 AM Index WPU124403.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Parts and attachments for small household electric appliances, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Parts and attachments for small electric household appliances, including fan parts, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU124403.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Parts and Attachments For Small Household Electric Appliances
+2021-10-07 09:10:35 AM df_key = Parts and Attachments For Small Electric Household Appliances, Including Fan Parts
+2021-10-07 09:10:35 AM Index WPU12440311.A desc_e inconsistent
+2021-10-07 09:10:35 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Parts and attachments for small household electric appliances, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Parts and attachments for small electric household appliances, including fan parts, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:35 AM Index WPU12440311.A type inconsistent
+2021-10-07 09:10:35 AM DF_KEY = Parts and Attachments For Small Household Electric Appliances
+2021-10-07 09:10:35 AM df_key = Parts and Attachments For Small Electric Household Appliances, Including Fan Parts
+2021-10-07 09:10:47 AM Index EIUIQ00220.M type inconsistent
+2021-10-07 09:10:47 AM DF_KEY = Other Animal Feeds, N.E.S.
+2021-10-07 09:10:47 AM df_key = Animal Feeds, N.E.S.
+2021-10-07 09:10:47 AM Index EIUIQ30200.M type inconsistent
+2021-10-07 09:10:47 AM DF_KEY = Engines and Engine Parts For Automotive Vehicles
+2021-10-07 09:10:47 AM df_key = Engines and Engine Parts (Carburetors, Pistons, Rings, & Valves)
+2021-10-07 09:10:47 AM Index EIUIR10000.M desc_e inconsistent
+2021-10-07 09:10:47 AM DF_KEY = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 10000, Crude oil, not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:47 AM df_key = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 10000, Crude petroleum, not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:47 AM Index EIUIR10000.M type inconsistent
+2021-10-07 09:10:47 AM DF_KEY = Crude
+2021-10-07 09:10:47 AM df_key = Crude Petroleum
+2021-10-07 09:10:47 AM Index EIUIR10110.M desc_e inconsistent
+2021-10-07 09:10:47 AM DF_KEY = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 10110, Gas-natural, not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:47 AM df_key = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 10110, Natural gas, not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:47 AM Index EIUIR10110.M type inconsistent
+2021-10-07 09:10:47 AM DF_KEY = Gas-Natural
+2021-10-07 09:10:47 AM df_key = Natural Gas
+2021-10-07 09:10:47 AM Index EIUIR41050.M desc_e inconsistent
+2021-10-07 09:10:47 AM DF_KEY = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 41050, Other Household Goods, not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:47 AM df_key = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 41050, Other household goods, n.e.s., not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:47 AM Index EIUIR41050.M type inconsistent
+2021-10-07 09:10:47 AM DF_KEY = Other Household Goods, Nes
+2021-10-07 09:10:47 AM df_key = Other Household Goods, N.E.S.
+2021-10-07 09:10:52 AM Index PCU3113401.M desc_e inconsistent
+2021-10-07 09:10:52 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Nonchocolate confectionery manufacturing, Nonchocolate-type confectioneries, made/pkg. for shipment, not seasonally adjusted, Unit: Index base: 1983.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:52 AM df_key = United States Prices, Producer Price Index, PPI industry data for Nonchocolate confectionery manufacturing, Nonchocolate-type confectioneries, made and packaged for shipment, not seasonally adjusted, Unit: Index base: 1983.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:52 AM Index PCU3113401.M type inconsistent
+2021-10-07 09:10:52 AM DF_KEY = Nonchocolate-Type Confectioneries, Made/Pkg. For Shipment
+2021-10-07 09:10:52 AM df_key = Nonchocolate-Type Confectioneries, Made and Packaged For Shipment
+2021-10-07 09:10:52 AM Index PCU3221109.M desc_e inconsistent
+2021-10-07 09:10:52 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Pulp mills, All other miscellaneous pulp, other than wood, and pulp mill byproducts incl. turpentine, not seasonally adjusted, Unit: Index base: 1988.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:52 AM df_key = United States Prices, Producer Price Index, PPI industry data for Pulp mills, All other miscellaneous pulp, other than wood, and pulp mill by-products, incl. turpentine, not seasonally adjusted, Unit: Index base: 1988.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:52 AM Index PCU3221109.M type inconsistent
+2021-10-07 09:10:52 AM DF_KEY = All Other Miscellaneous Pulp, Other Than Wood, and Pulp Mill Byproducts Incl. Turpentine
+2021-10-07 09:10:52 AM df_key = All Other Miscellaneous Pulp, Other Than Wood, and Pulp Mill By-Products, Incl. Turpentine
+2021-10-07 09:10:52 AM Index PCU3221301.M desc_e inconsistent
+2021-10-07 09:10:52 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Paperboard mills, Unbleached kraft packaging and industrial converting paperboard (80 percent or more virgin wood), not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:52 AM df_key = United States Prices, Producer Price Index, PPI industry data for Paperboard mills, Unbleached kraft packaging and industrial converting paperboard, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:52 AM Index PCU3221301.M type inconsistent
+2021-10-07 09:10:52 AM DF_KEY = Unbleached Kraft Packaging & Industrial Converting Paperboard (80 Percent Or More Virgin Wood)
+2021-10-07 09:10:52 AM df_key = Unbleached Kraft Packaging and Industrial Converting Paperboard
+2021-10-07 09:10:52 AM Index PCU3221305.M desc_e inconsistent
+2021-10-07 09:10:52 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Paperboard mills, Semichemical paperboard, including corrugating medium (75 percent or more virgin woodpulp), not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:52 AM df_key = United States Prices, Producer Price Index, PPI industry data for Paperboard mills, Semichemical paperboard, including corrugating medium, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:52 AM Index PCU3221305.M type inconsistent
+2021-10-07 09:10:52 AM DF_KEY = Semichemical Paperboard, Including Corrugating Medium (75 Percent Or More Virgin Woodpulp)
+2021-10-07 09:10:52 AM df_key = Semichemical Paperboard, Including Corrugating Medium
+2021-10-07 09:10:52 AM The program did not fetch the latest data for: PCU325920M.M
+2021-10-07 09:10:53 AM The program did not fetch the latest data for: PCU3314207.M
+2021-10-07 09:10:53 AM The program did not fetch the latest data for: PCU332312S.M
+2021-10-07 09:10:53 AM Index PCU3324101.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Power boiler and heat exchanger mfg, Fabricated heat exchangers and steam condensers (except for nuclear applications), not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Power boiler and heat exchanger mfg, Fabricated heat exchangers and steam condensers (excluding nuclear applications), not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU3324101.M type inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Fabricated Heat Exchangers and Steam Condensers (Except For Nuclear Applications)
+2021-10-07 09:10:53 AM df_key = Fabricated Heat Exchangers and Steam Condensers (Excluding Nuclear Applications)
+2021-10-07 09:10:53 AM Index PCU332420.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU332420.M type inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Metal Tank, Heavy Gauge, Mfg
+2021-10-07 09:10:53 AM df_key = Metal Tanks, Heavy Gauge, Mfg
+2021-10-07 09:10:53 AM Index PCU332420.M form_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:53 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:53 AM Index PCU332420M.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, Miscellaneous receipts, not seasonally adjusted, Unit: Index base: 1986.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, Miscellaneous receipts, not seasonally adjusted, Unit: Index base: 1986.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU332420M.M form_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:53 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:53 AM Index PCU332420P.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, Primary products, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, Primary products, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU332420P.M form_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:53 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:53 AM Index PCU332420S.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, Secondary products, not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, Secondary products, not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU332420S.M form_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:53 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:53 AM Index PCU332420SM.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, Secondary products and miscellaneous receipts, not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, Secondary products and miscellaneous receipts, not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU332420SM.M form_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:53 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:53 AM Index PCU332420SS.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Metal tank, heavy gauge, mfg, Secondary products, not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Metal tanks, heavy gauge, mfg, Secondary products, not seasonally adjusted, Unit: Index base: 1980.03 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU332420SS.M form_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Metal tank, heavy gauge, mfg
+2021-10-07 09:10:53 AM df_key = Metal tanks, heavy gauge, mfg
+2021-10-07 09:10:53 AM Index PCU3329194.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Other metal valve and pipe fitting mfg, Metal fittings, flanges, and unions for piping systems, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Other metal valve and pipe fitting mfg, Metal fittings, flanges, and unions for pipe fittings, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU3329194.M type inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Metal Fittings, Flanges, and Unions For Piping Systems
+2021-10-07 09:10:53 AM df_key = Metal Fittings, Flanges, and Unions For Pipe Fittings
+2021-10-07 09:10:53 AM The program did not fetch the latest data for: PCU333318C.M
+2021-10-07 09:10:53 AM Index PCU3339231.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Hoists, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Hoists and parts and attachments for hoists (sold separately), not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU3339231.M type inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Hoists
+2021-10-07 09:10:53 AM df_key = Hoists and Parts and Attachments For Hoists (Sold Separately)
+2021-10-07 09:10:53 AM Index PCU3339233.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Overhead traveling cranes and monorail systems, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Overhead traveling cranes and monorail systems, including parts and attachments sold separately, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU3339233.M type inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Overhead Traveling Cranes and Monorail Systems
+2021-10-07 09:10:53 AM df_key = Overhead Traveling Cranes and Monorail Systems, Including Parts and Attachments Sold Separately
+2021-10-07 09:10:53 AM Index PCU3339237.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Winches, aerial work platforms, and automotive wrecker hoists, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Overhead cranes, hoists and monorail systems mfg, Winches, aerial work platforms, and automotive wrecker hoists, including parts and attachments, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU3339237.M type inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists
+2021-10-07 09:10:53 AM df_key = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists, Including Parts and Attachments
+2021-10-07 09:10:53 AM Index PCU3352105.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Small electrical appliance mfg, Parts and attachments for small household electric appliance, including fans, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Small electrical appliance mfg, Parts and attachments for small electric household appliances, including fan parts, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU3352105.M type inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Parts and Attachments For Small Household Electric Appliance, Including Fans
+2021-10-07 09:10:53 AM df_key = Parts and Attachments For Small Electric Household Appliances, Including Fan Parts
+2021-10-07 09:10:53 AM Index PCU3352106.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Small electrical appliance mfg, Household vacuum cleaners, floor waxing,floor polishing machines and parts, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Small electrical appliance mfg, Household vacuum cleaners and other floor care machines (including parts and attachments), not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU3352106.M type inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Household Vacuum Cleaners, Floor Waxing,Floor Polishing Machines and Parts
+2021-10-07 09:10:53 AM df_key = Household Vacuum Cleaners and Other Floor Care Machines (Including Parts and Attachments)
+2021-10-07 09:10:53 AM Index PCU3379101.M type inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Innerspring Mattresses , Excluding Crib-Size
+2021-10-07 09:10:53 AM df_key = Innerspring Mattresses, Excluding Crib-Size
+2021-10-07 09:10:53 AM Index PCU337910A.M desc_e inconsistent
+2021-10-07 09:10:53 AM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Mattress mfg, Sleep system ensembles and mattresses, excl. conventional waterbeds, not seasonally adjusted, Unit: Index base: 1996.05 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM df_key = United States Prices, Producer Price Index, PPI industry data for Mattress mfg, Sleep system ensembles and mattresses, excluding conventional waterbeds, not seasonally adjusted, Unit: Index base: 1996.05 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:53 AM Index PCU337910A.M type inconsistent
+2021-10-07 09:10:53 AM DF_KEY = Sleep System Ensembles and Mattresses, Excl. Conventional Waterbeds
+2021-10-07 09:10:53 AM df_key = Sleep System Ensembles and Mattresses, Excluding Conventional Waterbeds
+2021-10-07 09:10:56 AM Index WPS107701.M desc_e inconsistent
+2021-10-07 09:10:56 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Metals and metal products, Stationary and marine power boilers, seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:56 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Metals and metal products, Steel power boilers, parts and attachments (excl. nuclear applications), seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:56 AM Index WPS107701.M type inconsistent
+2021-10-07 09:10:56 AM DF_KEY = Stationary and Marine Power Boilers
+2021-10-07 09:10:56 AM df_key = Steel Power Boilers, Parts and Attachments (Excl. Nuclear Applications)
+2021-10-07 09:10:56 AM Index WPS124301.M desc_e inconsistent
+2021-10-07 09:10:56 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Household vacuum cleaners, including parts and attachments, seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:56 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Household vacuum cleaners and other floor care machines (including parts and attachments), seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:56 AM Index WPS124301.M type inconsistent
+2021-10-07 09:10:56 AM DF_KEY = Household Vacuum Cleaners, Including Parts and Attachments
+2021-10-07 09:10:56 AM df_key = Household Vacuum Cleaners and Other Floor Care Machines (Including Parts and Attachments)
+2021-10-07 09:10:57 AM Index WPU025503021.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Nonchocolate-type confectioneries, made/pkg for shipment, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Nonchocolate-type confectioneries, made and packaged for shipment, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU025503021.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Nonchocolate-Type Confectioneries, Made/Pkg For Shipment
+2021-10-07 09:10:57 AM df_key = Nonchocolate-Type Confectioneries, Made and Packaged For Shipment
+2021-10-07 09:10:57 AM Index WPU09141104.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Pulp, paper, and allied products, Semichemical paperboard, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Pulp, paper, and allied products, Semichemical paperboard, including corrugating medium, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU09141104.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Semichemical Paperboard
+2021-10-07 09:10:57 AM df_key = Semichemical Paperboard, Including Corrugating Medium
+2021-10-07 09:10:57 AM Index WPU107701.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Metals and metal products, Stationary and marine power boilers, not seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Metals and metal products, Steel power boilers, parts and attachments (excl. nuclear applications), not seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU107701.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Stationary and Marine Power Boilers
+2021-10-07 09:10:57 AM df_key = Steel Power Boilers, Parts and Attachments (Excl. Nuclear Applications)
+2021-10-07 09:10:57 AM Index WPU112J01.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Winches, aerial work platforms, and automotive wrecker hoists, not seasonally adjusted, Unit: Index base: 2005.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Winches, aerial work platforms, and automotive wrecker hoists, including parts and attachments, not seasonally adjusted, Unit: Index base: 2005.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU112J01.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists
+2021-10-07 09:10:57 AM df_key = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists, Including Parts and Attachments
+2021-10-07 09:10:57 AM Index WPU112J0101.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Winches, aerial work platforms, and automotive wrecker hoists, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Winches, aerial work platforms, and automotive wrecker hoists, including parts and attachments, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU112J0101.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists
+2021-10-07 09:10:57 AM df_key = Winches, Aerial Work Platforms, and Automotive Wrecker Hoists, Including Parts and Attachments
+2021-10-07 09:10:57 AM Index WPU11440481.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Hoists, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Hoists and parts and attachments for hoists (sold separately), not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU11440481.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Hoists
+2021-10-07 09:10:57 AM df_key = Hoists and Parts and Attachments For Hoists (Sold Separately)
+2021-10-07 09:10:57 AM Index WPU11440485.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Overhead traveling cranes and monorail systems, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Overhead traveling cranes and monorail systems, including parts and attachments sold separately, not seasonally adjusted, Unit: Index base: 1984.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU11440485.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Overhead Traveling Cranes and Monorail Systems
+2021-10-07 09:10:57 AM df_key = Overhead Traveling Cranes and Monorail Systems, Including Parts and Attachments Sold Separately
+2021-10-07 09:10:57 AM Index WPU11490205.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Plumbing and heating valves (low pressure), not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Machinery and equipment, Plumbing and heating valves and specialties, except plumbers brass goods, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU11490205.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Plumbing and Heating Valves (Low Pressure)
+2021-10-07 09:10:57 AM df_key = Plumbing and Heating Valves and Specialties, Except Plumbers' Brass Goods
+2021-10-07 09:10:57 AM The program did not fetch the latest data for: WPU11680111.M
+2021-10-07 09:10:57 AM Index WPU12140104.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Innerspring mattresses, excl. crib size, not seasonally adjusted, Unit: Index base: 1995.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Innerspring mattresses, excluding crib size, not seasonally adjusted, Unit: Index base: 1995.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU12140104.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Innerspring Mattresses, Excl. Crib Size
+2021-10-07 09:10:57 AM df_key = Innerspring Mattresses, Excluding Crib Size
+2021-10-07 09:10:57 AM Index WPU12140122.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Sleep system ensembles and mattresses, except conventional waterbeds, not seasonally adjusted, Unit: Index base: 1995.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Sleep system ensembles and mattresses, excluding conventional waterbeds, not seasonally adjusted, Unit: Index base: 1995.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU12140122.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Sleep System Ensembles and Mattresses, Except Conventional Waterbeds
+2021-10-07 09:10:57 AM df_key = Sleep System Ensembles and Mattresses, Excluding Conventional Waterbeds
+2021-10-07 09:10:57 AM Index WPU124301.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Household vacuum cleaners, including parts and attachments, not seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Household vacuum cleaners and other floor care machines (including parts and attachments), not seasonally adjusted, Unit: Index base: 1982 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU124301.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Household Vacuum Cleaners, Including Parts and Attachments
+2021-10-07 09:10:57 AM df_key = Household Vacuum Cleaners and Other Floor Care Machines (Including Parts and Attachments)
+2021-10-07 09:10:57 AM Index WPU12430114.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Household vacuum cleaners, including parts and attachments, not seasonally adjusted, Unit: Index base: 2007.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Household vacuum cleaners and other floor care machines (including parts and attachments), not seasonally adjusted, Unit: Index base: 2007.06 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU12430114.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Household Vacuum Cleaners, Including Parts and Attachments
+2021-10-07 09:10:57 AM df_key = Household Vacuum Cleaners and Other Floor Care Machines (Including Parts and Attachments)
+2021-10-07 09:10:57 AM Index WPU124403.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Parts and attachments for small household electric appliances, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Parts and attachments for small electric household appliances, including fan parts, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU124403.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Parts and Attachments For Small Household Electric Appliances
+2021-10-07 09:10:57 AM df_key = Parts and Attachments For Small Electric Household Appliances, Including Fan Parts
+2021-10-07 09:10:57 AM Index WPU12440311.M desc_e inconsistent
+2021-10-07 09:10:57 AM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Parts and attachments for small household electric appliances, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM df_key = United States Prices, Producer Price Index, PPI Commodity data for Furniture and household durables, Parts and attachments for small electric household appliances, including fan parts, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:57 AM Index WPU12440311.M type inconsistent
+2021-10-07 09:10:57 AM DF_KEY = Parts and Attachments For Small Household Electric Appliances
+2021-10-07 09:10:57 AM df_key = Parts and Attachments For Small Electric Household Appliances, Including Fan Parts
+2021-10-07 09:10:59 AM Index EIUIQ00220.Q type inconsistent
+2021-10-07 09:10:59 AM DF_KEY = Other Animal Feeds, N.E.S.
+2021-10-07 09:10:59 AM df_key = Animal Feeds, N.E.S.
+2021-10-07 09:10:59 AM Index EIUIQ30200.Q type inconsistent
+2021-10-07 09:10:59 AM DF_KEY = Engines and Engine Parts For Automotive Vehicles
+2021-10-07 09:10:59 AM df_key = Engines and Engine Parts (Carburetors, Pistons, Rings, & Valves)
+2021-10-07 09:10:59 AM Index EIUIR10000.Q desc_e inconsistent
+2021-10-07 09:10:59 AM DF_KEY = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 10000, Crude oil, not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:59 AM df_key = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 10000, Crude petroleum, not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:59 AM Index EIUIR10000.Q type inconsistent
+2021-10-07 09:10:59 AM DF_KEY = Crude
+2021-10-07 09:10:59 AM df_key = Crude Petroleum
+2021-10-07 09:10:59 AM Index EIUIR10110.Q desc_e inconsistent
+2021-10-07 09:10:59 AM DF_KEY = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 10110, Gas-natural, not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:59 AM df_key = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 10110, Natural gas, not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:59 AM Index EIUIR10110.Q type inconsistent
+2021-10-07 09:10:59 AM DF_KEY = Gas-Natural
+2021-10-07 09:10:59 AM df_key = Natural Gas
+2021-10-07 09:10:59 AM Index EIUIR41050.Q desc_e inconsistent
+2021-10-07 09:10:59 AM DF_KEY = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 41050, Other Household Goods, not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:59 AM df_key = United States Prices, U.S. Import and Export Price Indexes, Monthly import price index for BEA End Use 41050, Other household goods, n.e.s., not seasonally adjusted, Unit: Index base: 2000=100, Source: Bureau Of Labor Statistics
+2021-10-07 09:10:59 AM Index EIUIR41050.Q type inconsistent
+2021-10-07 09:10:59 AM DF_KEY = Other Household Goods, Nes
+2021-10-07 09:10:59 AM df_key = Other Household Goods, N.E.S.
+2021-10-07 09:11:04 AM unknown: 0
+2021-10-07 09:11:04 AM name too long: 0
+2021-10-07 09:11:04 AM inconsistent: 150
+2021-10-07 09:11:04 AM Total desc_e inconsistent: 71
+2021-10-07 09:11:04 AM Total desc_c inconsistent: 0
+2021-10-07 09:11:04 AM Total freq inconsistent: 0
+2021-10-07 09:11:04 AM Total unit inconsistent: 0
+2021-10-07 09:11:04 AM Total type inconsistent: 68
+2021-10-07 09:11:04 AM Total source inconsistent: 0
+2021-10-07 09:11:04 AM Total form_e inconsistent: 11
+2021-10-07 09:11:04 AM Total form_c inconsistent: 0
+2021-10-07 09:11:04 AM inconsistent earliest: 1965
+2021-10-07 09:11:04 AM base updated: 0
+2021-10-07 09:11:04 AM data updated: 71672
+2021-10-07 09:11:04 AM including weekly: False
+2021-10-07 09:11:04 AM too many months: True
+2021-10-07 09:11:37 AM unfound: 3593
