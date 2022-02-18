@@ -2057,21 +2057,6 @@ logging.info('\ndatabase_num = '+str(database_num))
 if database_num > 1:
     with open(out_path+NAME+'database_num'+excel_suffix+'.txt','w', encoding=ENCODING) as f:    #用with一次性完成open、close檔案
         f.write(str(database_num))
-"""with pd.ExcelWriter(out_path+NAME+"database"+excel_suffix+".xlsx") as writer:
-    if updating == True:
-        for d in DATA_BASE_dict:
-            sys.stdout.write("\rOutputing sheet: "+str(d))
-            sys.stdout.flush()
-            if DATA_BASE_dict[d].empty == False:
-                DATA_BASE_dict[d].to_excel(writer, sheet_name = d)
-    else:
-        for f in FREQNAME:
-            for d in DATA_BASE_dict[f]:
-                sys.stdout.write("\rOutputing sheet: "+str(d))
-                sys.stdout.flush()
-                if DATA_BASE_dict[f][d].empty == False:
-                    DATA_BASE_dict[f][d].to_excel(writer, sheet_name = d)
-            sys.stdout.write("\n")"""
 
 if data_processing and find_unknown == True:
     if new_tables.empty == False:
