@@ -1,0 +1,1 @@
+從pov01_100_1檔案中選取Unrelated Individuals的資料(Both Sexes, Male, Female)

@@ -1,0 +1,1 @@
+從t2檔案中選取Children ever born per 1,000 women的資料(All Marital Statuses)
