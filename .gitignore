@@ -4,3 +4,4 @@ data/BLS/bd/bd.data.1.AllItems.csv
 data/BLS/ln/ln.data.1.AllData.csv
 data/BLS/ln/ln.data.1.AllData - Monthly.csv
 output/dumps/Dump202201/us_us_key.sql
+.tmp.driveupload/*
