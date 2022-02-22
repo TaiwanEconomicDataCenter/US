@@ -1,9 +1,53 @@
-﻿2021-07-04 05:48:21 AM Checking Identities: 36 s
+﻿2022-02-22 04:31:28 PM Checking Identities: 44 s
 
-2021-07-04 05:48:21 AM unknown: 0
-2021-07-04 05:48:21 AM name too long: 0
-2021-07-04 05:48:21 AM inconsistent: 0
-2021-07-04 05:48:21 AM updated: 0
-2021-07-04 05:48:21 AM including weekly: False
-2021-07-04 05:48:21 AM too many months: False
-2021-07-04 05:49:53 AM unfound: 0
+2022-02-22 04:31:29 PM Index IIPPEDD.A desc_e updated
+2022-02-22 04:31:29 PM Index IITPEMC.A desc_e updated
+2022-02-22 04:31:29 PM Index IITPESP.A desc_e updated
+2022-02-22 04:31:29 PM Index IITTIHB.A desc_e updated
+2022-02-22 04:31:29 PM Index IITTILB.A desc_e updated
+2022-02-22 04:31:29 PM Index IITTRHB.A desc_e updated
+2022-02-22 04:31:29 PM Index IITTRLB.A desc_e updated
+2022-02-22 04:31:30 PM Index AAA.M desc_e updated
+2022-02-22 04:31:30 PM Index AASMSATUDMI.M desc_e updated
+2022-02-22 04:31:30 PM Index ALDFSATUDMI.M desc_e updated
+2022-02-22 04:31:30 PM Index APSGSATUDMI.M desc_e updated
+2022-02-22 04:31:30 PM Index APSGSATUDOM.M desc_e updated
+2022-02-22 04:31:30 PM Index APSGSATUINT.M desc_e updated
+2022-02-22 04:31:30 PM Index APTCTSI.M desc_e updated
+2022-02-22 04:31:30 PM Index APTLTRPT.M desc_e updated
+2022-02-22 04:31:30 PM Index APTRTRPT.M desc_e updated
+2022-02-22 04:31:30 PM Index ARFCTRPT.M desc_e updated
+2022-02-22 04:31:30 PM Index ARFITRPT.M desc_e updated
+2022-02-22 04:31:30 PM Index ARLPTRPT.M desc_e updated
+2022-02-22 04:31:30 PM Index ARPMSATUDMI.M desc_e updated
+2022-02-22 04:31:30 PM Index ATKTTRPT.M desc_e: base updated
+2022-02-22 04:31:30 PM Index BAA.M desc_e updated
+2022-02-22 04:31:30 PM Index CANDH.M desc_e: base updated
+2022-02-22 04:31:30 PM Index CFNAI.M desc_e: base updated
+2022-02-22 04:31:30 PM Index CFNAIDIFF.M desc_e: base updated
+2022-02-22 04:31:30 PM Index CFNAIMA3.M desc_e: base updated
+2022-02-22 04:31:31 PM Index EUANDH.M desc_e: base updated
+2022-02-22 04:31:31 PM Index PANDI.M desc_e: base updated
+2022-02-22 04:31:32 PM Index UARPTRPT.M desc_e updated
+2022-02-22 04:31:32 PM Index UASMSATUDMI.M desc_e updated
+2022-02-22 04:31:32 PM Index ULDFSATUDMI.M desc_e updated
+2022-02-22 04:31:32 PM Index UPSGSATUDMI.M desc_e updated
+2022-02-22 04:31:32 PM Index UPSGSATUDOM.M desc_e updated
+2022-02-22 04:31:32 PM Index UPSGSATUINT.M desc_e updated
+2022-02-22 04:31:32 PM Index UPTLTRPT.M desc_e updated
+2022-02-22 04:31:32 PM Index UPTRTRPT.M desc_e updated
+2022-02-22 04:31:32 PM Index URFCTRPT.M desc_e updated
+2022-02-22 04:31:32 PM Index URFITRPT.M desc_e updated
+2022-02-22 04:31:32 PM Index URLPTRPT.M desc_e updated
+2022-02-22 04:31:32 PM Index URPMSATUDMI.M desc_e updated
+2022-02-22 04:31:32 PM Index UTFMTRPT.M desc_e updated
+2022-02-22 04:31:33 PM Index UTWTTRPT.M desc_e updated
+2022-02-22 04:31:33 PM Index NROUST.Q desc_e updated
+2022-02-22 04:31:33 PM unknown: 0
+2022-02-22 04:31:33 PM name too long: 0
+2022-02-22 04:31:33 PM inconsistent: 0
+2022-02-22 04:31:33 PM base updated: 0
+2022-02-22 04:31:33 PM data updated: 117
+2022-02-22 04:31:33 PM including weekly: True
+2022-02-22 04:31:33 PM too many months: True
+2022-02-22 04:32:13 PM unfound: 312
