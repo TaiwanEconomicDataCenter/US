@@ -1346,8 +1346,8 @@ if data_processing:
     new_item_counts = 0
 
 for source in SOURCE(TABLES):
-    #if main_file.empty == False:
-    #    break
+    if data_processing == False:
+        break
     for address in FILE_ADDRESS(source):
         if make_discontinued == False and (address.find('DSCO') >= 0 or address.find('in/') >= 0 or address.find('ml/') >= 0):
             continue
