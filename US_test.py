@@ -5,13 +5,13 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, date
 from dateutil.relativedelta import relativedelta
-from US_extention import ERROR, readFile, readExcelFile
+from US_extention import ERROR, readFile, readExcelFile, SELECT_DF_KEY
 import US_extention as EXT
 
 ENCODING = 'utf-8-sig'
 data_path = "./output/"
-with open(data_path+'TOT_name.txt','r',encoding='ANSI') as f:
-    DF_suffix = f.read()
+# with open(data_path+'TOT_name.txt','r',encoding='ANSI') as f:
+#     DF_suffix = f.read()
 
 if EXT.excel_suffix != "0":
     local = False
@@ -167,7 +167,9 @@ if local == True:
     styr = 1901#int(input('Dealing Start Year of Main data: '))
     logging.info('Reading file: US_key'+main_suf+'\n')
     df_key = readExcelFile(data_path+'US_key'+main_suf+'.xlsx', header_ = 0, acceptNoFile=False, index_col_=0, sheet_name_='US_key')
-    logging.info('Reading TOT file: US_key'+DF_suffix+'\n')
-    DF_KEY = readExcelFile(data_path+'US_key'+DF_suffix+'.xlsx', header_ = 0, acceptNoFile=False, index_col_=0, sheet_name_='US_key')
+    logging.info('Reading file from DB: us_key'+'\n')
+    DF_KEY = SELECT_DF_KEY('US')
+    #logging.info('Reading TOT file: US_key'+DF_suffix+'\n')
+    #DF_KEY = readExcelFile(data_path+'US_key'+DF_suffix+'.xlsx', header_ = 0, acceptNoFile=False, index_col_=0, sheet_name_='US_key')
     DF_KEY = DF_KEY.set_index('name') 
     unknown_list, toolong_list, update_list, unfound_list = US_identity(data_path, df_key, DF_KEY, checkDESC=checkDESC, start_year=styr)

@@ -1,107 +1,1595 @@
-﻿2021-12-24 09:41:42 PM excel_suffix: TOT202201
+﻿2022-02-22 03:20:07 PM excel_suffix: BLSNEW
 
-2021-12-24 09:41:42 PM data_processing: False
+2022-02-22 03:20:07 PM data_processing: True
 
-2021-12-24 09:41:42 PM find_unknown: False
+2022-02-22 03:20:07 PM find_unknown: False
 
-2021-12-24 09:41:42 PM dealing_start_year: 1900
+2022-02-22 03:20:07 PM dealing_start_year: 1900
 
-2021-12-24 09:42:11 PM Process: File Merging
+2022-02-22 03:20:11 PM Data Processing
 
-2021-12-24 09:42:11 PM Reading main key: US_keyBLSNEW.xlsx, Time: 28 s
+2022-02-22 03:20:11 PM Reading table: TABLES, Time: 4 s
 
-2021-12-24 09:42:11 PM Reading main database: US_databaseBLSNEW.xlsx, Time: 29 s
+2022-02-22 03:20:18 PM Reading file: BLS_series, Time: 11 s
 
-2021-12-24 09:42:28 PM Reading original key: US_keyTOT202110.xlsx, Time: 45 s
+2022-02-22 03:20:18 PM Present File Exists. Reading Data From Default Path.
 
-2021-12-24 09:43:00 PM Reading original database: US_database_1TOT202110, Time: 78 s
+2022-02-22 03:20:24 PM Reading file: bd.data.1.AllItems, sheet: 0, frequency: Q, Time: 17 s
 
-2021-12-24 09:43:42 PM Reading original database: US_database_2TOT202110, Time: 120 s
+2022-02-22 03:20:24 PM Present File Exists. Reading Data From Default Path.
 
-2021-12-24 09:44:55 PM Reading original database: US_database_3TOT202110, Time: 193 s
+2022-02-22 03:20:31 PM Total New Items Found: 0 Time: 24 s
 
-2021-12-24 09:45:55 PM Reading original database: US_database_4TOT202110, Time: 253 s
+2022-02-22 03:20:31 PM Reading file: BLS_series, Time: 24 s
 
-2021-12-24 09:47:09 PM Reading original database: US_database_5TOT202110, Time: 326 s
+2022-02-22 03:20:38 PM Reading file: ce.data.00a.TotalNonfarm.Employment, sheet: 0, frequency: M, Time: 31 s
 
-2021-12-24 09:48:16 PM Reading original database: US_database_6TOT202110, Time: 394 s
+2022-02-22 03:20:40 PM Total New Items Found: 0 Time: 33 s
 
-2021-12-24 09:48:47 PM Reading original database: US_database_7TOT202110, Time: 425 s
+2022-02-22 03:20:40 PM Reading file: ce.data.00a.TotalNonfarm.Employment, sheet: 0, frequency: A, Time: 33 s
 
-2021-12-24 09:49:46 PM Merging File: ./output/US_keyTOT202110.xlsx, Time: 484 s
+2022-02-22 03:20:40 PM Present File Exists. Reading Data From Default Path.
 
-2021-12-24 09:50:46 PM Setting files, Time: 544 s
+2022-02-22 03:20:40 PM Total New Items Found: 0 Time: 33 s
 
-2021-12-24 09:51:17 PM Concating file: US_keyTOT202110, Time: 574 s
+2022-02-22 03:20:40 PM Reading file: ce.data.05a.TotalPrivate.Employment, sheet: 0, frequency: M, Time: 33 s
 
-2021-12-24 09:51:17 PM Concating file: US_databaseTOT202110, Time: 575 s
+2022-02-22 03:20:42 PM Total New Items Found: 0 Time: 35 s
 
-2021-12-24 10:11:08 PM Setting new files, Time: 1766 s
+2022-02-22 03:20:42 PM Reading file: ce.data.05a.TotalPrivate.Employment, sheet: 0, frequency: A, Time: 35 s
 
-2021-12-25 12:02:35 AM Concating new files: US_database, Time: 8453 s
+2022-02-22 03:20:42 PM Present File Exists. Reading Data From Default Path.
 
-2021-12-25 12:21:47 AM Process: File Updating
+2022-02-22 03:20:43 PM Total New Items Found: 0 Time: 36 s
 
-2021-12-25 12:21:47 AM Reading main key: US_keyBEAUP.xlsx, Time: 9605 s
+2022-02-22 03:20:43 PM Reading file: ce.data.05b.TotalPrivate.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 36 s
 
-2021-12-25 12:21:55 AM Reading main database: US_databaseBEAUP.xlsx, Time: 9613 s
+2022-02-22 03:20:45 PM Total New Items Found: 0 Time: 38 s
 
-2021-12-25 12:23:47 AM Updating file: 0 s
+2022-02-22 03:20:45 PM Reading file: ce.data.05b.TotalPrivate.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 38 s
 
-2021-12-25 01:58:12 AM updated: 8850
+2022-02-22 03:20:45 PM Present File Exists. Reading Data From Default Path.
 
-2021-12-25 12:40:14 PM Process: File Updating
+2022-02-22 03:20:45 PM Total New Items Found: 0 Time: 38 s
 
-2021-12-25 12:40:14 PM Reading main key: US_keyBLSUP.xlsx, Time: 53912 s
+2022-02-22 03:20:45 PM Reading file: ce.data.05c.TotalPrivate.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 38 s
 
-2021-12-25 12:40:40 PM Reading main database: US_database_1BLSUP, Time: 53938 s
+2022-02-22 03:20:48 PM Total New Items Found: 0 Time: 40 s
 
-2021-12-25 12:41:04 PM Reading main database: US_database_2BLSUP, Time: 53962 s
+2022-02-22 03:20:48 PM Reading file: ce.data.05c.TotalPrivate.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 40 s
 
-2021-12-25 12:42:27 PM Reading main database: US_database_3BLSUP, Time: 54045 s
+2022-02-22 03:20:48 PM Present File Exists. Reading Data From Default Path.
 
-2021-12-25 12:43:45 PM Reading main database: US_database_4BLSUP, Time: 54123 s
+2022-02-22 03:20:48 PM Total New Items Found: 0 Time: 41 s
 
-2021-12-25 12:45:03 PM Reading main database: US_database_5BLSUP, Time: 54201 s
+2022-02-22 03:20:48 PM Reading file: ce.data.10a.MiningAndLogging.Employment, sheet: 0, frequency: M, Time: 41 s
 
-2021-12-25 12:45:54 PM Reading main database: US_database_6BLSUP, Time: 54252 s
+2022-02-22 03:20:51 PM Total New Items Found: 0 Time: 44 s
 
-2021-12-25 12:46:41 PM Updating file: 0 s
+2022-02-22 03:20:51 PM Reading file: ce.data.10a.MiningAndLogging.Employment, sheet: 0, frequency: A, Time: 44 s
 
-2021-12-26 12:30:38 AM updated: 81580
+2022-02-22 03:20:51 PM Present File Exists. Reading Data From Default Path.
 
-2021-12-26 12:53:12 AM Process: File Updating
+2022-02-22 03:20:51 PM Total New Items Found: 0 Time: 44 s
 
-2021-12-26 12:53:12 AM Reading main key: US_keyETCUP.xlsx, Time: 97890 s
+2022-02-22 03:20:51 PM Reading file: ce.data.10b.MiningAndLogging.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 44 s
 
-2021-12-26 12:53:27 AM Reading main database: US_databaseETCUP.xlsx, Time: 97905 s
+2022-02-22 03:20:53 PM Total New Items Found: 0 Time: 46 s
 
-2021-12-26 12:55:26 AM Updating file: 0 s
+2022-02-22 03:20:53 PM Reading file: ce.data.10b.MiningAndLogging.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 46 s
 
-2021-12-26 01:49:31 AM updated: 9203
+2022-02-22 03:20:53 PM Present File Exists. Reading Data From Default Path.
 
-2021-12-26 02:04:57 AM        databank        name   db_table  db_code                                             desc_e  ...                          type     snl                             source                                             form_e                   form_c
-0            US    A001RC.A  DB_A_0001  data001  United States National Income and Production A...  ...                         Level       1        Bureau of Economic Analysis  Relation of Gross Domestic Product, Gross Nati...             Table 1.7.5.
-1            US    A001RD.A  DB_A_0001  data002  United States National Income and Production A...  ...                         Level       2        Bureau of Economic Analysis  Implicit Price Deflators for Gross Domestic Pr...             Table 1.1.9.
-2            US    A001RG.A  DB_A_0001  data003  United States National Income and Production A...  ...                         Level       3        Bureau of Economic Analysis  Price Indexes for Gross Domestic Product, Gros...             Table 1.7.4.
-3            US    A001RI.A  DB_A_0001  data004  United States National Income and Production A...  ...   Percent change, annual rate       4        Bureau of Economic Analysis  Percent Change From Preceding Period in Prices...             Table 1.1.7.
-4            US    A001RL.A  DB_A_0001  data005  United States National Income and Production A...  ...   Percent change, annual rate       5        Bureau of Economic Analysis  Percent Change From Preceding Period in Real G...             Table 1.7.1.
-...         ...         ...        ...      ...                                                ...  ...                           ...     ...                                ...                                                ...                      ...
-205163       US  WRPNTUS2.W  DB_W_0001  data097  United States Miscellaneous Statistics, Energy...  ...  U.S. Weekly Supply Estimates  205164  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
-205164       US  WTTEXUS2.W  DB_W_0001  data098  United States Miscellaneous Statistics, Energy...  ...  U.S. Weekly Supply Estimates  205165  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
-205165       US  WTTIMUS2.W  DB_W_0001  data099  United States Miscellaneous Statistics, Energy...  ...  U.S. Weekly Supply Estimates  205166  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
-205166       US  WTTNTUS2.W  DB_W_0001  data100  United States Miscellaneous Statistics, Energy...  ...  U.S. Weekly Supply Estimates  205167  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
-205167       US  WUPSTLNS.W  DB_W_0001  data101  United States Miscellaneous Statistics, Indust...  ...       Production of Raw Steel  205168  American Iron and Steel Institute            Industrial Statistics, Raw Steel Output  Not Seasonally Adjusted
+2022-02-22 03:20:54 PM Total New Items Found: 0 Time: 47 s
 
-[205168 rows x 15 columns]
-2021-12-26 02:04:58 AM Total Items: 205168
-2021-12-26 02:06:27 AM Total databases: 7
-2021-12-26 02:06:27 AM Outputing file: US_database_1
-2021-12-26 02:10:11 AM Outputing file: US_database_2
-2021-12-26 02:15:22 AM Outputing file: US_database_3
-2021-12-26 02:20:27 AM Outputing file: US_database_4
-2021-12-26 02:25:41 AM Outputing file: US_database_5
-2021-12-26 02:30:44 AM Outputing file: US_database_6
-2021-12-26 02:33:20 AM Outputing file: US_database_7
-2021-12-26 02:36:56 AM 
-database_num = 7
+2022-02-22 03:20:54 PM Reading file: ce.data.10c.MiningAndLogging.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 47 s
+
+2022-02-22 03:20:58 PM Total New Items Found: 0 Time: 51 s
+
+2022-02-22 03:20:58 PM Reading file: ce.data.10c.MiningAndLogging.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 51 s
+
+2022-02-22 03:20:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:20:58 PM Total New Items Found: 0 Time: 51 s
+
+2022-02-22 03:20:58 PM Reading file: ce.data.20a.Construction.Employment, sheet: 0, frequency: M, Time: 51 s
+
+2022-02-22 03:21:03 PM Total New Items Found: 0 Time: 56 s
+
+2022-02-22 03:21:03 PM Reading file: ce.data.20a.Construction.Employment, sheet: 0, frequency: A, Time: 56 s
+
+2022-02-22 03:21:03 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:21:04 PM Total New Items Found: 0 Time: 56 s
+
+2022-02-22 03:21:04 PM Reading file: ce.data.20b.Construction.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 57 s
+
+2022-02-22 03:21:10 PM Total New Items Found: 0 Time: 63 s
+
+2022-02-22 03:21:10 PM Reading file: ce.data.20b.Construction.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 63 s
+
+2022-02-22 03:21:10 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:21:11 PM Total New Items Found: 0 Time: 64 s
+
+2022-02-22 03:21:11 PM Reading file: ce.data.20c.Construction.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 64 s
+
+2022-02-22 03:21:21 PM Total New Items Found: 0 Time: 74 s
+
+2022-02-22 03:21:21 PM Reading file: ce.data.20c.Construction.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 74 s
+
+2022-02-22 03:21:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:21:22 PM Total New Items Found: 0 Time: 75 s
+
+2022-02-22 03:21:22 PM Reading file: ce.data.30a.Manufacturing.Employment, sheet: 0, frequency: M, Time: 75 s
+
+2022-02-22 03:21:24 PM Total New Items Found: 0 Time: 77 s
+
+2022-02-22 03:21:24 PM Reading file: ce.data.30a.Manufacturing.Employment, sheet: 0, frequency: A, Time: 77 s
+
+2022-02-22 03:21:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:21:24 PM Total New Items Found: 0 Time: 77 s
+
+2022-02-22 03:21:24 PM Reading file: ce.data.30b.Manufacturing.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 77 s
+
+2022-02-22 03:21:26 PM Total New Items Found: 0 Time: 79 s
+
+2022-02-22 03:21:26 PM Reading file: ce.data.30b.Manufacturing.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 79 s
+
+2022-02-22 03:21:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:21:26 PM Total New Items Found: 0 Time: 79 s
+
+2022-02-22 03:21:26 PM Reading file: ce.data.30c.Manufacturing.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 79 s
+
+2022-02-22 03:21:28 PM Total New Items Found: 0 Time: 81 s
+
+2022-02-22 03:21:28 PM Reading file: ce.data.30c.Manufacturing.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 81 s
+
+2022-02-22 03:21:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:21:29 PM Total New Items Found: 0 Time: 81 s
+
+2022-02-22 03:21:29 PM Reading file: ce.data.31a.ManufacturingDurableGoods.Employment, sheet: 0, frequency: M, Time: 82 s
+
+2022-02-22 03:21:40 PM Total New Items Found: 0 Time: 93 s
+
+2022-02-22 03:21:40 PM Reading file: ce.data.31a.ManufacturingDurableGoods.Employment, sheet: 0, frequency: A, Time: 93 s
+
+2022-02-22 03:21:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:21:41 PM Total New Items Found: 0 Time: 94 s
+
+2022-02-22 03:21:42 PM Reading file: ce.data.31b.ManufacturingDurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 94 s
+
+2022-02-22 03:21:52 PM Total New Items Found: 0 Time: 105 s
+
+2022-02-22 03:21:52 PM Reading file: ce.data.31b.ManufacturingDurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 105 s
+
+2022-02-22 03:21:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:21:54 PM Total New Items Found: 0 Time: 107 s
+
+2022-02-22 03:21:54 PM Reading file: ce.data.31c.ManufacturingDurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 107 s
+
+2022-02-22 03:22:17 PM Total New Items Found: 0 Time: 130 s
+
+2022-02-22 03:22:17 PM Reading file: ce.data.31c.ManufacturingDurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 130 s
+
+2022-02-22 03:22:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:22:21 PM Total New Items Found: 0 Time: 133 s
+
+2022-02-22 03:22:21 PM Reading file: ce.data.32a.ManufacturingNondurableGoods.Employment, sheet: 0, frequency: M, Time: 134 s
+
+2022-02-22 03:22:28 PM Total New Items Found: 0 Time: 141 s
+
+2022-02-22 03:22:28 PM Reading file: ce.data.32a.ManufacturingNondurableGoods.Employment, sheet: 0, frequency: A, Time: 141 s
+
+2022-02-22 03:22:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:22:28 PM Total New Items Found: 0 Time: 141 s
+
+2022-02-22 03:22:29 PM Reading file: ce.data.32b.ManufacturingNondurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 141 s
+
+2022-02-22 03:22:36 PM Total New Items Found: 0 Time: 149 s
+
+2022-02-22 03:22:36 PM Reading file: ce.data.32b.ManufacturingNondurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 149 s
+
+2022-02-22 03:22:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:22:37 PM Total New Items Found: 0 Time: 150 s
+
+2022-02-22 03:22:37 PM Reading file: ce.data.32c.ManufacturingNondurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 150 s
+
+2022-02-22 03:22:47 PM Total New Items Found: 0 Time: 159 s
+
+2022-02-22 03:22:47 PM Reading file: ce.data.32c.ManufacturingNondurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 159 s
+
+2022-02-22 03:22:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:22:48 PM Total New Items Found: 0 Time: 161 s
+
+2022-02-22 03:22:48 PM Reading file: ce.data.40a.TradeTransportationAndUtilities.Employment, sheet: 0, frequency: M, Time: 161 s
+
+2022-02-22 03:22:50 PM Total New Items Found: 0 Time: 163 s
+
+2022-02-22 03:22:50 PM Reading file: ce.data.40a.TradeTransportationAndUtilities.Employment, sheet: 0, frequency: A, Time: 163 s
+
+2022-02-22 03:22:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:22:50 PM Total New Items Found: 0 Time: 163 s
+
+2022-02-22 03:22:51 PM Reading file: ce.data.40b.TradeTransportationAndUtilities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 163 s
+
+2022-02-22 03:22:52 PM Total New Items Found: 0 Time: 165 s
+
+2022-02-22 03:22:52 PM Reading file: ce.data.40b.TradeTransportationAndUtilities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 165 s
+
+2022-02-22 03:22:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:22:52 PM Total New Items Found: 0 Time: 165 s
+
+2022-02-22 03:22:52 PM Reading file: ce.data.40c.TradeTransportationAndUtilities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 165 s
+
+2022-02-22 03:22:54 PM Total New Items Found: 0 Time: 167 s
+
+2022-02-22 03:22:54 PM Reading file: ce.data.40c.TradeTransportationAndUtilities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 167 s
+
+2022-02-22 03:22:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:22:54 PM Total New Items Found: 0 Time: 167 s
+
+2022-02-22 03:22:54 PM Reading file: ce.data.41a.WholesaleTrade.Employment, sheet: 0, frequency: M, Time: 167 s
+
+2022-02-22 03:22:59 PM Total New Items Found: 0 Time: 172 s
+
+2022-02-22 03:22:59 PM Reading file: ce.data.41a.WholesaleTrade.Employment, sheet: 0, frequency: A, Time: 172 s
+
+2022-02-22 03:22:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:23:00 PM Total New Items Found: 0 Time: 173 s
+
+2022-02-22 03:23:00 PM Reading file: ce.data.41b.WholesaleTrade.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 173 s
+
+2022-02-22 03:23:08 PM Total New Items Found: 0 Time: 180 s
+
+2022-02-22 03:23:08 PM Reading file: ce.data.41b.WholesaleTrade.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 180 s
+
+2022-02-22 03:23:08 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:23:09 PM Total New Items Found: 0 Time: 182 s
+
+2022-02-22 03:23:09 PM Reading file: ce.data.41c.WholesaleTrade.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 182 s
+
+2022-02-22 03:23:19 PM Total New Items Found: 0 Time: 192 s
+
+2022-02-22 03:23:19 PM Reading file: ce.data.41c.WholesaleTrade.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 192 s
+
+2022-02-22 03:23:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:23:21 PM Total New Items Found: 0 Time: 194 s
+
+2022-02-22 03:23:21 PM Reading file: ce.data.42a.RetailTrade.Employment, sheet: 0, frequency: M, Time: 194 s
+
+2022-02-22 03:23:27 PM Total New Items Found: 0 Time: 200 s
+
+2022-02-22 03:23:27 PM Reading file: ce.data.42a.RetailTrade.Employment, sheet: 0, frequency: A, Time: 200 s
+
+2022-02-22 03:23:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:23:28 PM Total New Items Found: 0 Time: 201 s
+
+2022-02-22 03:23:28 PM Reading file: ce.data.42b.RetailTrade.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 201 s
+
+2022-02-22 03:23:37 PM Total New Items Found: 0 Time: 210 s
+
+2022-02-22 03:23:37 PM Reading file: ce.data.42b.RetailTrade.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 210 s
+
+2022-02-22 03:23:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:23:38 PM Total New Items Found: 0 Time: 211 s
+
+2022-02-22 03:23:38 PM Reading file: ce.data.42c.RetailTrade.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 211 s
+
+2022-02-22 03:23:54 PM Total New Items Found: 0 Time: 227 s
+
+2022-02-22 03:23:54 PM Reading file: ce.data.42c.RetailTrade.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 227 s
+
+2022-02-22 03:23:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:23:57 PM Total New Items Found: 0 Time: 229 s
+
+2022-02-22 03:23:57 PM Reading file: ce.data.43a.TransportationAndWarehousingAndUtilities.Employment, sheet: 0, frequency: M, Time: 230 s
+
+2022-02-22 03:24:01 PM Total New Items Found: 0 Time: 234 s
+
+2022-02-22 03:24:01 PM Reading file: ce.data.43a.TransportationAndWarehousingAndUtilities.Employment, sheet: 0, frequency: A, Time: 234 s
+
+2022-02-22 03:24:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:24:02 PM Total New Items Found: 0 Time: 235 s
+
+2022-02-22 03:24:02 PM Reading file: ce.data.43b.TransportationAndWarehousingAndUtilities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 235 s
+
+2022-02-22 03:24:08 PM Total New Items Found: 0 Time: 241 s
+
+2022-02-22 03:24:08 PM Reading file: ce.data.43b.TransportationAndWarehousingAndUtilities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 241 s
+
+2022-02-22 03:24:08 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:24:08 PM Total New Items Found: 0 Time: 241 s
+
+2022-02-22 03:24:09 PM Reading file: ce.data.43c.TransportationAndWarehousingAndUtilities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 241 s
+
+2022-02-22 03:24:21 PM Total New Items Found: 0 Time: 254 s
+
+2022-02-22 03:24:21 PM Reading file: ce.data.43c.TransportationAndWarehousingAndUtilities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 254 s
+
+2022-02-22 03:24:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:24:22 PM Total New Items Found: 0 Time: 255 s
+
+2022-02-22 03:24:22 PM Reading file: ce.data.50a.Information.Employment, sheet: 0, frequency: M, Time: 255 s
+
+2022-02-22 03:24:25 PM Total New Items Found: 0 Time: 258 s
+
+2022-02-22 03:24:25 PM Reading file: ce.data.50a.Information.Employment, sheet: 0, frequency: A, Time: 258 s
+
+2022-02-22 03:24:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:24:26 PM Total New Items Found: 0 Time: 259 s
+
+2022-02-22 03:24:26 PM Reading file: ce.data.50b.Information.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 259 s
+
+2022-02-22 03:24:29 PM Total New Items Found: 0 Time: 262 s
+
+2022-02-22 03:24:29 PM Reading file: ce.data.50b.Information.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 262 s
+
+2022-02-22 03:24:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:24:29 PM Total New Items Found: 0 Time: 262 s
+
+2022-02-22 03:24:29 PM Reading file: ce.data.50c.Information.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 262 s
+
+2022-02-22 03:24:33 PM Total New Items Found: 0 Time: 266 s
+
+2022-02-22 03:24:33 PM Reading file: ce.data.50c.Information.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 266 s
+
+2022-02-22 03:24:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:24:33 PM Total New Items Found: 0 Time: 266 s
+
+2022-02-22 03:24:33 PM Reading file: ce.data.55a.FinancialActivities.Employment, sheet: 0, frequency: M, Time: 266 s
+
+2022-02-22 03:24:39 PM Total New Items Found: 0 Time: 272 s
+
+2022-02-22 03:24:39 PM Reading file: ce.data.55a.FinancialActivities.Employment, sheet: 0, frequency: A, Time: 272 s
+
+2022-02-22 03:24:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:24:40 PM Total New Items Found: 0 Time: 272 s
+
+2022-02-22 03:24:40 PM Reading file: ce.data.55b.FinancialActivities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 273 s
+
+2022-02-22 03:24:47 PM Total New Items Found: 0 Time: 280 s
+
+2022-02-22 03:24:47 PM Reading file: ce.data.55b.FinancialActivities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 280 s
+
+2022-02-22 03:24:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:24:48 PM Total New Items Found: 0 Time: 281 s
+
+2022-02-22 03:24:48 PM Reading file: ce.data.55c.FinancialActivities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 281 s
+
+2022-02-22 03:24:59 PM Total New Items Found: 0 Time: 292 s
+
+2022-02-22 03:24:59 PM Reading file: ce.data.55c.FinancialActivities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 292 s
+
+2022-02-22 03:24:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:25:01 PM Total New Items Found: 0 Time: 294 s
+
+2022-02-22 03:25:01 PM Reading file: ce.data.60a.ProfessionalBusinessServices.Employment, sheet: 0, frequency: M, Time: 294 s
+
+2022-02-22 03:25:09 PM Total New Items Found: 0 Time: 302 s
+
+2022-02-22 03:25:09 PM Reading file: ce.data.60a.ProfessionalBusinessServices.Employment, sheet: 0, frequency: A, Time: 302 s
+
+2022-02-22 03:25:09 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:25:11 PM Total New Items Found: 0 Time: 304 s
+
+2022-02-22 03:25:11 PM Reading file: ce.data.60b.ProfessionalBusinessServices.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 304 s
+
+2022-02-22 03:25:34 PM Total New Items Found: 0 Time: 327 s
+
+2022-02-22 03:25:34 PM Reading file: ce.data.60b.ProfessionalBusinessServices.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 327 s
+
+2022-02-22 03:25:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:25:36 PM Total New Items Found: 0 Time: 329 s
+
+2022-02-22 03:25:36 PM Reading file: ce.data.60c.ProfessionalBusinessServices.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 329 s
+
+2022-02-22 03:25:53 PM Total New Items Found: 0 Time: 345 s
+
+2022-02-22 03:25:53 PM Reading file: ce.data.60c.ProfessionalBusinessServices.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 345 s
+
+2022-02-22 03:25:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:25:56 PM Total New Items Found: 0 Time: 349 s
+
+2022-02-22 03:25:56 PM Reading file: ce.data.65a.EducationAndHealthCare.Employment, sheet: 0, frequency: M, Time: 349 s
+
+2022-02-22 03:26:03 PM Total New Items Found: 0 Time: 356 s
+
+2022-02-22 03:26:03 PM Reading file: ce.data.65a.EducationAndHealthCare.Employment, sheet: 0, frequency: A, Time: 356 s
+
+2022-02-22 03:26:03 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:26:04 PM Total New Items Found: 0 Time: 357 s
+
+2022-02-22 03:26:04 PM Reading file: ce.data.65b.EducationAndHealthCare.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 357 s
+
+2022-02-22 03:26:12 PM Total New Items Found: 0 Time: 365 s
+
+2022-02-22 03:26:12 PM Reading file: ce.data.65b.EducationAndHealthCare.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 365 s
+
+2022-02-22 03:26:12 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:26:14 PM Total New Items Found: 0 Time: 367 s
+
+2022-02-22 03:26:14 PM Reading file: ce.data.65c.EducationAndHealthCare.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 367 s
+
+2022-02-22 03:26:26 PM Total New Items Found: 0 Time: 379 s
+
+2022-02-22 03:26:26 PM Reading file: ce.data.65c.EducationAndHealthCare.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 379 s
+
+2022-02-22 03:26:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:26:27 PM Total New Items Found: 0 Time: 380 s
+
+2022-02-22 03:26:27 PM Reading file: ce.data.70a.LeisureAndHospitality.Employment, sheet: 0, frequency: M, Time: 380 s
+
+2022-02-22 03:26:32 PM Total New Items Found: 0 Time: 385 s
+
+2022-02-22 03:26:32 PM Reading file: ce.data.70a.LeisureAndHospitality.Employment, sheet: 0, frequency: A, Time: 385 s
+
+2022-02-22 03:26:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:26:33 PM Total New Items Found: 0 Time: 386 s
+
+2022-02-22 03:26:33 PM Reading file: ce.data.70b.LeisureAndHospitality.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 386 s
+
+2022-02-22 03:26:39 PM Total New Items Found: 0 Time: 391 s
+
+2022-02-22 03:26:39 PM Reading file: ce.data.70b.LeisureAndHospitality.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 391 s
+
+2022-02-22 03:26:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:26:39 PM Total New Items Found: 0 Time: 392 s
+
+2022-02-22 03:26:39 PM Reading file: ce.data.70c.LeisureAndHospitality.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 392 s
+
+2022-02-22 03:26:49 PM Total New Items Found: 0 Time: 402 s
+
+2022-02-22 03:26:49 PM Reading file: ce.data.70c.LeisureAndHospitality.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 402 s
+
+2022-02-22 03:26:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:26:51 PM Total New Items Found: 0 Time: 404 s
+
+2022-02-22 03:26:51 PM Reading file: ce.data.80a.OtherServices.Employment, sheet: 0, frequency: M, Time: 404 s
+
+2022-02-22 03:26:56 PM Total New Items Found: 0 Time: 409 s
+
+2022-02-22 03:26:56 PM Reading file: ce.data.80a.OtherServices.Employment, sheet: 0, frequency: A, Time: 409 s
+
+2022-02-22 03:26:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:26:56 PM Total New Items Found: 0 Time: 409 s
+
+2022-02-22 03:26:56 PM Reading file: ce.data.80b.OtherServices.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 409 s
+
+2022-02-22 03:27:03 PM Total New Items Found: 0 Time: 416 s
+
+2022-02-22 03:27:03 PM Reading file: ce.data.80b.OtherServices.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 416 s
+
+2022-02-22 03:27:03 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:27:05 PM Total New Items Found: 0 Time: 418 s
+
+2022-02-22 03:27:05 PM Reading file: ce.data.80c.OtherServices.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 418 s
+
+2022-02-22 03:27:15 PM Total New Items Found: 0 Time: 428 s
+
+2022-02-22 03:27:15 PM Reading file: ce.data.80c.OtherServices.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 428 s
+
+2022-02-22 03:27:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:27:17 PM Total New Items Found: 0 Time: 430 s
+
+2022-02-22 03:27:17 PM Reading file: ce.data.90a.Government.Employment, sheet: 0, frequency: M, Time: 430 s
+
+2022-02-22 03:27:21 PM Total New Items Found: 0 Time: 433 s
+
+2022-02-22 03:27:21 PM Reading file: ce.data.90a.Government.Employment, sheet: 0, frequency: A, Time: 433 s
+
+2022-02-22 03:27:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:27:21 PM Total New Items Found: 0 Time: 434 s
+
+2022-02-22 03:27:21 PM Reading file: BLS_series, Time: 434 s
+
+2022-02-22 03:27:26 PM Reading file: cu.data.10.OtherWest, sheet: 0, frequency: M, Time: 439 s
+
+2022-02-22 03:27:36 PM Total New Items Found: 0 Time: 448 s
+
+2022-02-22 03:27:36 PM Reading file: cu.data.10.OtherWest, sheet: 0, frequency: S, Time: 448 s
+
+2022-02-22 03:27:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:27:39 PM Total New Items Found: 0 Time: 452 s
+
+2022-02-22 03:27:39 PM Reading file: cu.data.10.OtherWest, sheet: 0, frequency: A, Time: 452 s
+
+2022-02-22 03:27:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:27:41 PM Total New Items Found: 1 Time: 454 s
+
+2022-02-22 03:27:41 PM Reading file: cu.data.11.USFoodBeverage, sheet: 0, frequency: M, Time: 454 s
+
+2022-02-22 03:27:48 PM Total New Items Found: 1 Time: 461 s
+
+2022-02-22 03:27:48 PM Reading file: cu.data.11.USFoodBeverage, sheet: 0, frequency: S, Time: 461 s
+
+2022-02-22 03:27:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:27:51 PM Total New Items Found: 1 Time: 464 s
+
+2022-02-22 03:27:51 PM Reading file: cu.data.11.USFoodBeverage, sheet: 0, frequency: A, Time: 464 s
+
+2022-02-22 03:27:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:27:52 PM Total New Items Found: 1 Time: 464 s
+
+2022-02-22 03:27:52 PM Reading file: cu.data.12.USHousing, sheet: 0, frequency: M, Time: 465 s
+
+2022-02-22 03:27:55 PM Total New Items Found: 1 Time: 468 s
+
+2022-02-22 03:27:55 PM Reading file: cu.data.12.USHousing, sheet: 0, frequency: S, Time: 468 s
+
+2022-02-22 03:27:55 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:03 PM Total New Items Found: 1 Time: 476 s
+
+2022-02-22 03:28:03 PM Reading file: cu.data.12.USHousing, sheet: 0, frequency: A, Time: 476 s
+
+2022-02-22 03:28:03 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:04 PM Total New Items Found: 1 Time: 477 s
+
+2022-02-22 03:28:04 PM Reading file: cu.data.13.USApparel, sheet: 0, frequency: M, Time: 477 s
+
+2022-02-22 03:28:06 PM Total New Items Found: 1 Time: 479 s
+
+2022-02-22 03:28:06 PM Reading file: cu.data.13.USApparel, sheet: 0, frequency: S, Time: 479 s
+
+2022-02-22 03:28:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:06 PM Total New Items Found: 1 Time: 479 s
+
+2022-02-22 03:28:06 PM Reading file: cu.data.13.USApparel, sheet: 0, frequency: A, Time: 479 s
+
+2022-02-22 03:28:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:06 PM Total New Items Found: 1 Time: 479 s
+
+2022-02-22 03:28:06 PM Reading file: cu.data.14.USTransportation, sheet: 0, frequency: M, Time: 479 s
+
+2022-02-22 03:28:09 PM Total New Items Found: 1 Time: 482 s
+
+2022-02-22 03:28:09 PM Reading file: cu.data.14.USTransportation, sheet: 0, frequency: S, Time: 482 s
+
+2022-02-22 03:28:09 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:09 PM Total New Items Found: 1 Time: 482 s
+
+2022-02-22 03:28:09 PM Reading file: cu.data.14.USTransportation, sheet: 0, frequency: A, Time: 482 s
+
+2022-02-22 03:28:09 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:10 PM Total New Items Found: 1 Time: 482 s
+
+2022-02-22 03:28:10 PM Reading file: cu.data.15.USMedical, sheet: 0, frequency: M, Time: 482 s
+
+2022-02-22 03:28:12 PM Total New Items Found: 1 Time: 485 s
+
+2022-02-22 03:28:12 PM Reading file: cu.data.15.USMedical, sheet: 0, frequency: S, Time: 485 s
+
+2022-02-22 03:28:12 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:12 PM Total New Items Found: 1 Time: 485 s
+
+2022-02-22 03:28:12 PM Reading file: cu.data.15.USMedical, sheet: 0, frequency: A, Time: 485 s
+
+2022-02-22 03:28:12 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:12 PM Total New Items Found: 1 Time: 485 s
+
+2022-02-22 03:28:12 PM Reading file: cu.data.16.USRecreation, sheet: 0, frequency: M, Time: 485 s
+
+2022-02-22 03:28:14 PM Total New Items Found: 1 Time: 487 s
+
+2022-02-22 03:28:14 PM Reading file: cu.data.16.USRecreation, sheet: 0, frequency: S, Time: 487 s
+
+2022-02-22 03:28:14 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:14 PM Total New Items Found: 1 Time: 487 s
+
+2022-02-22 03:28:14 PM Reading file: cu.data.16.USRecreation, sheet: 0, frequency: A, Time: 487 s
+
+2022-02-22 03:28:14 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:15 PM Total New Items Found: 1 Time: 488 s
+
+2022-02-22 03:28:15 PM Reading file: cu.data.17.USEducationAndCommunication, sheet: 0, frequency: M, Time: 488 s
+
+2022-02-22 03:28:17 PM Total New Items Found: 1 Time: 490 s
+
+2022-02-22 03:28:17 PM Reading file: cu.data.17.USEducationAndCommunication, sheet: 0, frequency: S, Time: 490 s
+
+2022-02-22 03:28:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:17 PM Total New Items Found: 1 Time: 490 s
+
+2022-02-22 03:28:17 PM Reading file: cu.data.17.USEducationAndCommunication, sheet: 0, frequency: A, Time: 490 s
+
+2022-02-22 03:28:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:17 PM Total New Items Found: 1 Time: 490 s
+
+2022-02-22 03:28:17 PM Reading file: cu.data.18.USOtherGoodsAndServices, sheet: 0, frequency: M, Time: 490 s
+
+2022-02-22 03:28:18 PM Total New Items Found: 1 Time: 491 s
+
+2022-02-22 03:28:18 PM Reading file: cu.data.18.USOtherGoodsAndServices, sheet: 0, frequency: S, Time: 491 s
+
+2022-02-22 03:28:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:19 PM Total New Items Found: 1 Time: 492 s
+
+2022-02-22 03:28:19 PM Reading file: cu.data.18.USOtherGoodsAndServices, sheet: 0, frequency: A, Time: 492 s
+
+2022-02-22 03:28:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:19 PM Total New Items Found: 1 Time: 492 s
+
+2022-02-22 03:28:19 PM Reading file: cu.data.19.PopulationSize, sheet: 0, frequency: M, Time: 492 s
+
+2022-02-22 03:28:21 PM Total New Items Found: 1 Time: 494 s
+
+2022-02-22 03:28:21 PM Reading file: cu.data.19.PopulationSize, sheet: 0, frequency: S, Time: 494 s
+
+2022-02-22 03:28:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:22 PM Total New Items Found: 1 Time: 495 s
+
+2022-02-22 03:28:22 PM Reading file: cu.data.19.PopulationSize, sheet: 0, frequency: A, Time: 495 s
+
+2022-02-22 03:28:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:22 PM Total New Items Found: 1 Time: 495 s
+
+2022-02-22 03:28:22 PM Reading file: cu.data.20.USCommoditiesServicesSpecial, sheet: 0, frequency: M, Time: 495 s
+
+2022-02-22 03:28:26 PM Total New Items Found: 1 Time: 499 s
+
+2022-02-22 03:28:26 PM Reading file: cu.data.20.USCommoditiesServicesSpecial, sheet: 0, frequency: S, Time: 499 s
+
+2022-02-22 03:28:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:27 PM Total New Items Found: 1 Time: 500 s
+
+2022-02-22 03:28:27 PM Reading file: cu.data.20.USCommoditiesServicesSpecial, sheet: 0, frequency: A, Time: 500 s
+
+2022-02-22 03:28:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:27 PM Total New Items Found: 1 Time: 500 s
+
+2022-02-22 03:28:27 PM Reading file: cu.data.3.AsizeNorthEast, sheet: 0, frequency: M, Time: 500 s
+
+2022-02-22 03:28:31 PM Total New Items Found: 1 Time: 504 s
+
+2022-02-22 03:28:31 PM Reading file: cu.data.3.AsizeNorthEast, sheet: 0, frequency: S, Time: 504 s
+
+2022-02-22 03:28:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:31 PM Total New Items Found: 1 Time: 504 s
+
+2022-02-22 03:28:31 PM Reading file: cu.data.3.AsizeNorthEast, sheet: 0, frequency: A, Time: 504 s
+
+2022-02-22 03:28:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:31 PM Total New Items Found: 1 Time: 504 s
+
+2022-02-22 03:28:31 PM Reading file: cu.data.4.AsizeNorthCentral, sheet: 0, frequency: M, Time: 504 s
+
+2022-02-22 03:28:35 PM Total New Items Found: 1 Time: 508 s
+
+2022-02-22 03:28:35 PM Reading file: cu.data.4.AsizeNorthCentral, sheet: 0, frequency: S, Time: 508 s
+
+2022-02-22 03:28:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:35 PM Total New Items Found: 1 Time: 508 s
+
+2022-02-22 03:28:35 PM Reading file: cu.data.4.AsizeNorthCentral, sheet: 0, frequency: A, Time: 508 s
+
+2022-02-22 03:28:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:36 PM Total New Items Found: 1 Time: 509 s
+
+2022-02-22 03:28:36 PM Reading file: cu.data.5.AsizeSouth, sheet: 0, frequency: M, Time: 509 s
+
+2022-02-22 03:28:37 PM Total New Items Found: 1 Time: 510 s
+
+2022-02-22 03:28:37 PM Reading file: cu.data.5.AsizeSouth, sheet: 0, frequency: S, Time: 510 s
+
+2022-02-22 03:28:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:37 PM Total New Items Found: 1 Time: 510 s
+
+2022-02-22 03:28:37 PM Reading file: cu.data.5.AsizeSouth, sheet: 0, frequency: A, Time: 510 s
+
+2022-02-22 03:28:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:37 PM Total New Items Found: 1 Time: 510 s
+
+2022-02-22 03:28:37 PM Reading file: cu.data.6.AsizeWest, sheet: 0, frequency: M, Time: 510 s
+
+2022-02-22 03:28:39 PM Total New Items Found: 1 Time: 512 s
+
+2022-02-22 03:28:39 PM Reading file: cu.data.6.AsizeWest, sheet: 0, frequency: S, Time: 512 s
+
+2022-02-22 03:28:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:40 PM Total New Items Found: 1 Time: 513 s
+
+2022-02-22 03:28:40 PM Reading file: cu.data.6.AsizeWest, sheet: 0, frequency: A, Time: 513 s
+
+2022-02-22 03:28:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:40 PM Total New Items Found: 1 Time: 513 s
+
+2022-02-22 03:28:40 PM Reading file: cu.data.7.OtherNorthEast, sheet: 0, frequency: M, Time: 513 s
+
+2022-02-22 03:28:47 PM Total New Items Found: 1 Time: 520 s
+
+2022-02-22 03:28:47 PM Reading file: cu.data.7.OtherNorthEast, sheet: 0, frequency: S, Time: 520 s
+
+2022-02-22 03:28:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:49 PM Total New Items Found: 1 Time: 522 s
+
+2022-02-22 03:28:49 PM Reading file: cu.data.7.OtherNorthEast, sheet: 0, frequency: A, Time: 522 s
+
+2022-02-22 03:28:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:28:50 PM Total New Items Found: 1 Time: 523 s
+
+2022-02-22 03:28:50 PM Reading file: cu.data.8.OtherNorthCentral, sheet: 0, frequency: M, Time: 523 s
+
+2022-02-22 03:28:59 PM Total New Items Found: 1 Time: 532 s
+
+2022-02-22 03:28:59 PM Reading file: cu.data.8.OtherNorthCentral, sheet: 0, frequency: S, Time: 532 s
+
+2022-02-22 03:28:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:29:00 PM Total New Items Found: 1 Time: 533 s
+
+2022-02-22 03:29:00 PM Reading file: cu.data.8.OtherNorthCentral, sheet: 0, frequency: A, Time: 533 s
+
+2022-02-22 03:29:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:29:01 PM Total New Items Found: 1 Time: 534 s
+
+2022-02-22 03:29:02 PM Reading file: cu.data.9.OtherSouth, sheet: 0, frequency: M, Time: 534 s
+
+2022-02-22 03:29:24 PM Total New Items Found: 1 Time: 557 s
+
+2022-02-22 03:29:24 PM Reading file: cu.data.9.OtherSouth, sheet: 0, frequency: S, Time: 557 s
+
+2022-02-22 03:29:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:29:26 PM Total New Items Found: 1 Time: 559 s
+
+2022-02-22 03:29:26 PM Reading file: cu.data.9.OtherSouth, sheet: 0, frequency: A, Time: 559 s
+
+2022-02-22 03:29:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:29:28 PM Total New Items Found: 1 Time: 561 s
+
+2022-02-22 03:29:28 PM Reading file: BLS_series, Time: 561 s
+
+2022-02-22 03:29:34 PM Reading file: cw.data.10.OtherWest, sheet: 0, frequency: M, Time: 566 s
+
+2022-02-22 03:29:48 PM Total New Items Found: 1 Time: 581 s
+
+2022-02-22 03:29:48 PM Reading file: cw.data.10.OtherWest, sheet: 0, frequency: S, Time: 581 s
+
+2022-02-22 03:29:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:29:50 PM Total New Items Found: 1 Time: 583 s
+
+2022-02-22 03:29:50 PM Reading file: cw.data.10.OtherWest, sheet: 0, frequency: A, Time: 583 s
+
+2022-02-22 03:29:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:29:51 PM Total New Items Found: 1 Time: 584 s
+
+2022-02-22 03:29:51 PM Reading file: cw.data.11.USFoodBeverage, sheet: 0, frequency: M, Time: 584 s
+
+2022-02-22 03:29:57 PM Total New Items Found: 1 Time: 589 s
+
+2022-02-22 03:29:57 PM Reading file: cw.data.11.USFoodBeverage, sheet: 0, frequency: S, Time: 589 s
+
+2022-02-22 03:29:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:29:57 PM Total New Items Found: 1 Time: 590 s
+
+2022-02-22 03:29:57 PM Reading file: cw.data.11.USFoodBeverage, sheet: 0, frequency: A, Time: 590 s
+
+2022-02-22 03:29:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:29:58 PM Total New Items Found: 1 Time: 591 s
+
+2022-02-22 03:29:58 PM Reading file: cw.data.12.USHousing, sheet: 0, frequency: M, Time: 591 s
+
+2022-02-22 03:30:02 PM Total New Items Found: 1 Time: 595 s
+
+2022-02-22 03:30:02 PM Reading file: cw.data.12.USHousing, sheet: 0, frequency: S, Time: 595 s
+
+2022-02-22 03:30:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:02 PM Total New Items Found: 1 Time: 595 s
+
+2022-02-22 03:30:02 PM Reading file: cw.data.12.USHousing, sheet: 0, frequency: A, Time: 595 s
+
+2022-02-22 03:30:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:03 PM Total New Items Found: 1 Time: 596 s
+
+2022-02-22 03:30:03 PM Reading file: cw.data.13.USApparel, sheet: 0, frequency: M, Time: 596 s
+
+2022-02-22 03:30:05 PM Total New Items Found: 1 Time: 598 s
+
+2022-02-22 03:30:05 PM Reading file: cw.data.13.USApparel, sheet: 0, frequency: S, Time: 598 s
+
+2022-02-22 03:30:05 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:05 PM Total New Items Found: 1 Time: 598 s
+
+2022-02-22 03:30:05 PM Reading file: cw.data.13.USApparel, sheet: 0, frequency: A, Time: 598 s
+
+2022-02-22 03:30:05 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:06 PM Total New Items Found: 1 Time: 599 s
+
+2022-02-22 03:30:06 PM Reading file: cw.data.14.USTransportation, sheet: 0, frequency: M, Time: 599 s
+
+2022-02-22 03:30:08 PM Total New Items Found: 1 Time: 601 s
+
+2022-02-22 03:30:08 PM Reading file: cw.data.14.USTransportation, sheet: 0, frequency: S, Time: 601 s
+
+2022-02-22 03:30:08 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:09 PM Total New Items Found: 1 Time: 601 s
+
+2022-02-22 03:30:09 PM Reading file: cw.data.14.USTransportation, sheet: 0, frequency: A, Time: 601 s
+
+2022-02-22 03:30:09 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:09 PM Total New Items Found: 1 Time: 602 s
+
+2022-02-22 03:30:09 PM Reading file: cw.data.15.USMedical, sheet: 0, frequency: M, Time: 602 s
+
+2022-02-22 03:30:11 PM Total New Items Found: 1 Time: 603 s
+
+2022-02-22 03:30:11 PM Reading file: cw.data.15.USMedical, sheet: 0, frequency: S, Time: 603 s
+
+2022-02-22 03:30:11 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:11 PM Total New Items Found: 1 Time: 604 s
+
+2022-02-22 03:30:11 PM Reading file: cw.data.15.USMedical, sheet: 0, frequency: A, Time: 604 s
+
+2022-02-22 03:30:11 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:11 PM Total New Items Found: 1 Time: 604 s
+
+2022-02-22 03:30:11 PM Reading file: cw.data.16.USRecreation, sheet: 0, frequency: M, Time: 604 s
+
+2022-02-22 03:30:13 PM Total New Items Found: 1 Time: 606 s
+
+2022-02-22 03:30:13 PM Reading file: cw.data.16.USRecreation, sheet: 0, frequency: S, Time: 606 s
+
+2022-02-22 03:30:13 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:14 PM Total New Items Found: 1 Time: 606 s
+
+2022-02-22 03:30:14 PM Reading file: cw.data.16.USRecreation, sheet: 0, frequency: A, Time: 606 s
+
+2022-02-22 03:30:14 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:14 PM Total New Items Found: 1 Time: 607 s
+
+2022-02-22 03:30:14 PM Reading file: cw.data.17.USEducationAndCommunication, sheet: 0, frequency: M, Time: 607 s
+
+2022-02-22 03:30:16 PM Total New Items Found: 1 Time: 609 s
+
+2022-02-22 03:30:16 PM Reading file: cw.data.17.USEducationAndCommunication, sheet: 0, frequency: S, Time: 609 s
+
+2022-02-22 03:30:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:16 PM Total New Items Found: 1 Time: 609 s
+
+2022-02-22 03:30:16 PM Reading file: cw.data.17.USEducationAndCommunication, sheet: 0, frequency: A, Time: 609 s
+
+2022-02-22 03:30:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:16 PM Total New Items Found: 1 Time: 609 s
+
+2022-02-22 03:30:16 PM Reading file: cw.data.18.USOtherGoodsAndServices, sheet: 0, frequency: M, Time: 609 s
+
+2022-02-22 03:30:18 PM Total New Items Found: 1 Time: 611 s
+
+2022-02-22 03:30:18 PM Reading file: cw.data.18.USOtherGoodsAndServices, sheet: 0, frequency: S, Time: 611 s
+
+2022-02-22 03:30:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:18 PM Total New Items Found: 1 Time: 611 s
+
+2022-02-22 03:30:18 PM Reading file: cw.data.18.USOtherGoodsAndServices, sheet: 0, frequency: A, Time: 611 s
+
+2022-02-22 03:30:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:18 PM Total New Items Found: 1 Time: 611 s
+
+2022-02-22 03:30:18 PM Reading file: cw.data.19.PopulationSize, sheet: 0, frequency: M, Time: 611 s
+
+2022-02-22 03:30:20 PM Total New Items Found: 1 Time: 613 s
+
+2022-02-22 03:30:20 PM Reading file: cw.data.19.PopulationSize, sheet: 0, frequency: S, Time: 613 s
+
+2022-02-22 03:30:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:21 PM Total New Items Found: 1 Time: 614 s
+
+2022-02-22 03:30:21 PM Reading file: cw.data.19.PopulationSize, sheet: 0, frequency: A, Time: 614 s
+
+2022-02-22 03:30:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:21 PM Total New Items Found: 1 Time: 614 s
+
+2022-02-22 03:30:21 PM Reading file: cw.data.20.USCommoditiesServicesSpecial, sheet: 0, frequency: M, Time: 614 s
+
+2022-02-22 03:30:25 PM Total New Items Found: 1 Time: 618 s
+
+2022-02-22 03:30:25 PM Reading file: cw.data.20.USCommoditiesServicesSpecial, sheet: 0, frequency: S, Time: 618 s
+
+2022-02-22 03:30:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:25 PM Total New Items Found: 1 Time: 618 s
+
+2022-02-22 03:30:25 PM Reading file: cw.data.20.USCommoditiesServicesSpecial, sheet: 0, frequency: A, Time: 618 s
+
+2022-02-22 03:30:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:26 PM Total New Items Found: 1 Time: 619 s
+
+2022-02-22 03:30:26 PM Reading file: cw.data.3.AsizeNorthEast, sheet: 0, frequency: M, Time: 619 s
+
+2022-02-22 03:30:27 PM Total New Items Found: 1 Time: 620 s
+
+2022-02-22 03:30:27 PM Reading file: cw.data.3.AsizeNorthEast, sheet: 0, frequency: S, Time: 620 s
+
+2022-02-22 03:30:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:28 PM Total New Items Found: 1 Time: 621 s
+
+2022-02-22 03:30:28 PM Reading file: cw.data.3.AsizeNorthEast, sheet: 0, frequency: A, Time: 621 s
+
+2022-02-22 03:30:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:28 PM Total New Items Found: 1 Time: 621 s
+
+2022-02-22 03:30:28 PM Reading file: cw.data.4.AsizeNorthCentral, sheet: 0, frequency: M, Time: 621 s
+
+2022-02-22 03:30:32 PM Total New Items Found: 1 Time: 625 s
+
+2022-02-22 03:30:32 PM Reading file: cw.data.4.AsizeNorthCentral, sheet: 0, frequency: S, Time: 625 s
+
+2022-02-22 03:30:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:32 PM Total New Items Found: 1 Time: 625 s
+
+2022-02-22 03:30:32 PM Reading file: cw.data.4.AsizeNorthCentral, sheet: 0, frequency: A, Time: 625 s
+
+2022-02-22 03:30:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:33 PM Total New Items Found: 1 Time: 626 s
+
+2022-02-22 03:30:33 PM Reading file: cw.data.5.AsizeSouth, sheet: 0, frequency: M, Time: 626 s
+
+2022-02-22 03:30:36 PM Total New Items Found: 1 Time: 629 s
+
+2022-02-22 03:30:36 PM Reading file: cw.data.5.AsizeSouth, sheet: 0, frequency: S, Time: 629 s
+
+2022-02-22 03:30:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:37 PM Total New Items Found: 1 Time: 630 s
+
+2022-02-22 03:30:37 PM Reading file: cw.data.5.AsizeSouth, sheet: 0, frequency: A, Time: 630 s
+
+2022-02-22 03:30:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:37 PM Total New Items Found: 1 Time: 630 s
+
+2022-02-22 03:30:37 PM Reading file: cw.data.6.AsizeWest, sheet: 0, frequency: M, Time: 630 s
+
+2022-02-22 03:30:41 PM Total New Items Found: 1 Time: 634 s
+
+2022-02-22 03:30:41 PM Reading file: cw.data.6.AsizeWest, sheet: 0, frequency: S, Time: 634 s
+
+2022-02-22 03:30:41 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:41 PM Total New Items Found: 1 Time: 634 s
+
+2022-02-22 03:30:41 PM Reading file: cw.data.6.AsizeWest, sheet: 0, frequency: A, Time: 634 s
+
+2022-02-22 03:30:41 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:42 PM Total New Items Found: 1 Time: 634 s
+
+2022-02-22 03:30:42 PM Reading file: cw.data.7.OtherNorthEast, sheet: 0, frequency: M, Time: 635 s
+
+2022-02-22 03:30:52 PM Total New Items Found: 1 Time: 645 s
+
+2022-02-22 03:30:52 PM Reading file: cw.data.7.OtherNorthEast, sheet: 0, frequency: S, Time: 645 s
+
+2022-02-22 03:30:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:54 PM Total New Items Found: 1 Time: 647 s
+
+2022-02-22 03:30:54 PM Reading file: cw.data.7.OtherNorthEast, sheet: 0, frequency: A, Time: 647 s
+
+2022-02-22 03:30:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:30:56 PM Total New Items Found: 1 Time: 649 s
+
+2022-02-22 03:30:56 PM Reading file: cw.data.8.OtherNorthCentral, sheet: 0, frequency: M, Time: 649 s
+
+2022-02-22 03:31:05 PM Total New Items Found: 1 Time: 657 s
+
+2022-02-22 03:31:05 PM Reading file: cw.data.8.OtherNorthCentral, sheet: 0, frequency: S, Time: 657 s
+
+2022-02-22 03:31:05 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:31:06 PM Total New Items Found: 1 Time: 659 s
+
+2022-02-22 03:31:06 PM Reading file: cw.data.8.OtherNorthCentral, sheet: 0, frequency: A, Time: 659 s
+
+2022-02-22 03:31:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:31:08 PM Total New Items Found: 1 Time: 661 s
+
+2022-02-22 03:31:08 PM Reading file: cw.data.9.OtherSouth, sheet: 0, frequency: M, Time: 661 s
+
+2022-02-22 03:31:25 PM Total New Items Found: 1 Time: 678 s
+
+2022-02-22 03:31:25 PM Reading file: cw.data.9.OtherSouth, sheet: 0, frequency: S, Time: 678 s
+
+2022-02-22 03:31:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:31:27 PM Total New Items Found: 1 Time: 680 s
+
+2022-02-22 03:31:27 PM Reading file: cw.data.9.OtherSouth, sheet: 0, frequency: A, Time: 680 s
+
+2022-02-22 03:31:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:31:28 PM Total New Items Found: 1 Time: 681 s
+
+2022-02-22 03:31:28 PM Reading file: BLS_series, Time: 681 s
+
+2022-02-22 03:31:34 PM Reading file: ec.data.1.AllData, sheet: 0, frequency: Q, Time: 687 s
+
+2022-02-22 03:31:38 PM Total New Items Found: 1 Time: 691 s
+
+2022-02-22 03:31:38 PM Reading file: BLS_series, Time: 691 s
+
+2022-02-22 03:31:42 PM Reading file: ei.data.01.BEAImport, sheet: 0, frequency: M, Time: 695 s
+
+2022-02-22 03:31:45 PM Total New Items Found: 1 Time: 698 s
+
+2022-02-22 03:31:45 PM Reading file: ei.data.01.BEAImport, sheet: 0, frequency: Q, Time: 698 s
+
+2022-02-22 03:31:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:31:47 PM Total New Items Found: 1 Time: 700 s
+
+2022-02-22 03:31:47 PM Reading file: ei.data.02.BEAExport, sheet: 0, frequency: M, Time: 700 s
+
+2022-02-22 03:31:50 PM Total New Items Found: 4 Time: 703 s
+
+2022-02-22 03:31:50 PM Reading file: ei.data.02.BEAExport, sheet: 0, frequency: Q, Time: 703 s
+
+2022-02-22 03:31:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:31:50 PM Total New Items Found: 7 Time: 703 s
+
+2022-02-22 03:31:50 PM Reading file: ei.data.03.NAICSImport, sheet: 0, frequency: M, Time: 703 s
+
+2022-02-22 03:32:02 PM Total New Items Found: 16 Time: 715 s
+
+2022-02-22 03:32:02 PM Reading file: ei.data.03.NAICSImport, sheet: 0, frequency: Q, Time: 715 s
+
+2022-02-22 03:32:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:02 PM Total New Items Found: 25 Time: 715 s
+
+2022-02-22 03:32:02 PM Reading file: ei.data.04.NAICSExport, sheet: 0, frequency: M, Time: 715 s
+
+2022-02-22 03:32:04 PM Total New Items Found: 35 Time: 717 s
+
+2022-02-22 03:32:04 PM Reading file: ei.data.04.NAICSExport, sheet: 0, frequency: Q, Time: 717 s
+
+2022-02-22 03:32:04 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:04 PM Total New Items Found: 45 Time: 717 s
+
+2022-02-22 03:32:04 PM Reading file: ei.data.05.HarmonizedImport, sheet: 0, frequency: M, Time: 717 s
+
+2022-02-22 03:32:13 PM Total New Items Found: 53 Time: 726 s
+
+2022-02-22 03:32:13 PM Reading file: ei.data.05.HarmonizedImport, sheet: 0, frequency: Q, Time: 726 s
+
+2022-02-22 03:32:13 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:14 PM Total New Items Found: 61 Time: 727 s
+
+2022-02-22 03:32:14 PM Reading file: ei.data.06.HarmonizedExport, sheet: 0, frequency: M, Time: 727 s
+
+2022-02-22 03:32:17 PM Total New Items Found: 66 Time: 730 s
+
+2022-02-22 03:32:17 PM Reading file: ei.data.06.HarmonizedExport, sheet: 0, frequency: Q, Time: 730 s
+
+2022-02-22 03:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:17 PM Total New Items Found: 71 Time: 730 s
+
+2022-02-22 03:32:17 PM Reading file: ei.data.07.LocalityofOrigin, sheet: 0, frequency: M, Time: 730 s
+
+2022-02-22 03:32:20 PM Total New Items Found: 77 Time: 732 s
+
+2022-02-22 03:32:20 PM Reading file: ei.data.07.LocalityofOrigin, sheet: 0, frequency: Q, Time: 732 s
+
+2022-02-22 03:32:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:20 PM Total New Items Found: 83 Time: 733 s
+
+2022-02-22 03:32:20 PM Reading file: ei.data.08.LocalityofDestination, sheet: 0, frequency: M, Time: 733 s
+
+2022-02-22 03:32:21 PM Total New Items Found: 83 Time: 734 s
+
+2022-02-22 03:32:21 PM Reading file: ei.data.08.LocalityofDestination, sheet: 0, frequency: Q, Time: 734 s
+
+2022-02-22 03:32:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:21 PM Total New Items Found: 83 Time: 734 s
+
+2022-02-22 03:32:21 PM Reading file: ei.data.09.TermsofTrade, sheet: 0, frequency: M, Time: 734 s
+
+2022-02-22 03:32:22 PM Total New Items Found: 83 Time: 734 s
+
+2022-02-22 03:32:22 PM Reading file: ei.data.09.TermsofTrade, sheet: 0, frequency: Q, Time: 734 s
+
+2022-02-22 03:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:22 PM Total New Items Found: 83 Time: 734 s
+
+2022-02-22 03:32:22 PM Reading file: ei.data.10.ServicesImport, sheet: 0, frequency: M, Time: 735 s
+
+2022-02-22 03:32:23 PM Total New Items Found: 83 Time: 735 s
+
+2022-02-22 03:32:23 PM Reading file: ei.data.10.ServicesImport, sheet: 0, frequency: Q, Time: 735 s
+
+2022-02-22 03:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:23 PM Total New Items Found: 83 Time: 735 s
+
+2022-02-22 03:32:23 PM Reading file: ei.data.11.ServicesExport, sheet: 0, frequency: M, Time: 736 s
+
+2022-02-22 03:32:24 PM Total New Items Found: 83 Time: 736 s
+
+2022-02-22 03:32:24 PM Reading file: ei.data.11.ServicesExport, sheet: 0, frequency: Q, Time: 736 s
+
+2022-02-22 03:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:24 PM Total New Items Found: 83 Time: 737 s
+
+2022-02-22 03:32:24 PM Reading file: ei.data.12.ServicesInbound, sheet: 0, frequency: M, Time: 737 s
+
+2022-02-22 03:32:26 PM Total New Items Found: 83 Time: 738 s
+
+2022-02-22 03:32:26 PM Reading file: ei.data.12.ServicesInbound, sheet: 0, frequency: Q, Time: 738 s
+
+2022-02-22 03:32:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:26 PM Total New Items Found: 83 Time: 739 s
+
+2022-02-22 03:32:26 PM Reading file: ei.data.13.ServicesOutbound, sheet: 0, frequency: M, Time: 739 s
+
+2022-02-22 03:32:27 PM Total New Items Found: 83 Time: 739 s
+
+2022-02-22 03:32:27 PM Reading file: ei.data.13.ServicesOutbound, sheet: 0, frequency: Q, Time: 739 s
+
+2022-02-22 03:32:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:27 PM Total New Items Found: 83 Time: 739 s
+
+2022-02-22 03:32:27 PM Reading file: BLS_series, Time: 739 s
+
+2022-02-22 03:32:30 PM Reading file: jt.data.2.JobOpenings, sheet: 0, frequency: M, Time: 743 s
+
+2022-02-22 03:32:35 PM Total New Items Found: 83 Time: 748 s
+
+2022-02-22 03:32:35 PM Reading file: jt.data.3.Hires, sheet: 0, frequency: M, Time: 748 s
+
+2022-02-22 03:32:40 PM Total New Items Found: 83 Time: 753 s
+
+2022-02-22 03:32:40 PM Reading file: jt.data.3.Hires, sheet: 0, frequency: A, Time: 753 s
+
+2022-02-22 03:32:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:32:41 PM Total New Items Found: 83 Time: 754 s
+
+2022-02-22 03:32:41 PM Reading file: jt.data.4.TotalSeparations, sheet: 0, frequency: M, Time: 754 s
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   2022-02-22 03:20:31 PM Reading file: Section2all_xls, sheet: U20405-M, frequency: M, Time: 1294 s
+
+2022-02-22 03:20:31 PM Total Items: 412 Time: 1294 s
+
+2022-02-22 03:21:52 PM Reading file: Section2all_xls, sheet: U20406-A, frequency: A, Time: 1375 s
+
+2022-02-22 03:21:52 PM Total Items: 412 Time: 1375 s
+
+2022-02-22 03:21:55 PM Reading file: Section2all_xls, sheet: U20406-Q, frequency: Q, Time: 1379 s
+
+2022-02-22 03:21:55 PM Total Items: 412 Time: 1379 s
+
+2022-02-22 03:22:06 PM Reading file: Section2all_xls, sheet: U20406-M, frequency: M, Time: 1390 s
+
+2022-02-22 03:22:06 PM Total Items: 412 Time: 1390 s
+
+2022-02-22 03:22:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:22:33 PM Reading source file, Time: 1417 s
+
+2022-02-22 03:22:34 PM Reading file: Section3all_xls, sheet: U30400-Q, frequency: Q, Time: 1418 s
+
+2022-02-22 03:22:34 PM Total Items: 17 Time: 1418 s
+
+2022-02-22 03:22:35 PM Reading file: Section3all_xls, sheet: U30500-Q, frequency: Q, Time: 1419 s
+
+2022-02-22 03:22:35 PM Total Items: 49 Time: 1419 s
+
+2022-02-22 03:22:38 PM Reading file: Section3all_xls, sheet: U30600-Q, frequency: Q, Time: 1421 s
+
+2022-02-22 03:22:38 PM Total Items: 36 Time: 1421 s
+
+2022-02-22 03:22:40 PM Reading file: Section3all_xls, sheet: U30700-Q, frequency: Q, Time: 1424 s
+
+2022-02-22 03:22:40 PM Total Items: 23 Time: 1424 s
+
+2022-02-22 03:22:41 PM Reading file: Section3all_xls, sheet: U30800-Q, frequency: Q, Time: 1425 s
+
+2022-02-22 03:22:41 PM Total Items: 18 Time: 1425 s
+
+2022-02-22 03:22:42 PM Reading file: Section3all_xls, sheet: U31200-Q, frequency: Q, Time: 1426 s
+
+2022-02-22 03:22:42 PM Total Items: 57 Time: 1426 s
+
+2022-02-22 03:22:46 PM Reading file: Section3all_xls, sheet: U31300-Q, frequency: Q, Time: 1430 s
+
+2022-02-22 03:22:46 PM Total Items: 10 Time: 1430 s
+
+2022-02-22 03:22:47 PM Reading file: Section3all_xls, sheet: U32400-Q, frequency: Q, Time: 1430 s
+
+2022-02-22 03:22:47 PM Total Items: 26 Time: 1430 s
+
+2022-02-22 03:22:47 PM Reading file: Section3all_xls, sheet: U32500-A, frequency: A, Time: 1431 s
+
+2022-02-22 03:22:47 PM Total Items: 25 Time: 1431 s
+
+2022-02-22 03:22:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:22:48 PM Reading source file, Time: 1431 s
+
+2022-02-22 03:22:49 PM Reading file: Section4all_xls, sheet: U40203-A, frequency: A, Time: 1432 s
+
+2022-02-22 03:22:49 PM Total Items: 103 Time: 1432 s
+
+2022-02-22 03:22:50 PM Reading file: Section4all_xls, sheet: U40203-Q, frequency: Q, Time: 1433 s
+
+2022-02-22 03:22:50 PM Total Items: 103 Time: 1433 s
+
+2022-02-22 03:22:52 PM Reading file: Section4all_xls, sheet: U40204-A, frequency: A, Time: 1436 s
+
+2022-02-22 03:22:52 PM Total Items: 103 Time: 1436 s
+
+2022-02-22 03:22:54 PM Reading file: Section4all_xls, sheet: U40204-Q, frequency: Q, Time: 1437 s
+
+2022-02-22 03:22:54 PM Total Items: 103 Time: 1438 s
+
+2022-02-22 03:22:58 PM Reading file: Section4all_xls, sheet: U40205-A, frequency: A, Time: 1441 s
+
+2022-02-22 03:22:58 PM Total Items: 103 Time: 1441 s
+
+2022-02-22 03:22:58 PM Reading file: Section4all_xls, sheet: U40205-Q, frequency: Q, Time: 1442 s
+
+2022-02-22 03:22:58 PM Total Items: 103 Time: 1442 s
+
+2022-02-22 03:23:01 PM Reading file: Section4all_xls, sheet: U40206-A, frequency: A, Time: 1445 s
+
+2022-02-22 03:23:01 PM Total Items: 105 Time: 1445 s
+
+2022-02-22 03:23:02 PM Reading file: Section4all_xls, sheet: U40206-Q, frequency: Q, Time: 1446 s
+
+2022-02-22 03:23:02 PM Total Items: 105 Time: 1446 s
+
+2022-02-22 03:23:05 PM Reading file: Section4all_xls, sheet: U4030B-Q, frequency: Q, Time: 1448 s
+
+2022-02-22 03:23:05 PM Total Items: 68 Time: 1448 s
+
+2022-02-22 03:23:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:23:06 PM Reading source file, Time: 1449 s
+
+2022-02-22 03:23:10 PM Reading file: Section5all_xls, sheet: U50203-Q, frequency: Q, Time: 1454 s
+
+2022-02-22 03:23:10 PM Total Items: 60 Time: 1454 s
+
+2022-02-22 03:23:11 PM Reading file: Section5all_xls, sheet: U50205-Q, frequency: Q, Time: 1455 s
+
+2022-02-22 03:23:11 PM Total Items: 59 Time: 1455 s
+
+2022-02-22 03:23:13 PM Reading file: Section5all_xls, sheet: U50206-Q, frequency: Q, Time: 1457 s
+
+2022-02-22 03:23:13 PM Total Items: 60 Time: 1457 s
+
+2022-02-22 03:23:14 PM Reading file: Section5all_xls, sheet: U50404-A, frequency: A, Time: 1458 s
+
+2022-02-22 03:23:14 PM Total Items: 56 Time: 1458 s
+
+2022-02-22 03:23:15 PM Reading file: Section5all_xls, sheet: U50404-Q, frequency: Q, Time: 1459 s
+
+2022-02-22 03:23:15 PM Total Items: 56 Time: 1459 s
+
+2022-02-22 03:23:18 PM Reading file: Section5all_xls, sheet: U50405-A, frequency: A, Time: 1462 s
+
+2022-02-22 03:23:18 PM Total Items: 56 Time: 1462 s
+
+2022-02-22 03:23:19 PM Reading file: Section5all_xls, sheet: U50405-Q, frequency: Q, Time: 1462 s
+
+2022-02-22 03:23:19 PM Total Items: 56 Time: 1462 s
+
+2022-02-22 03:23:22 PM Reading file: Section5all_xls, sheet: U50406-A, frequency: A, Time: 1466 s
+
+2022-02-22 03:23:22 PM Total Items: 58 Time: 1466 s
+
+2022-02-22 03:23:23 PM Reading file: Section5all_xls, sheet: U50406-Q, frequency: Q, Time: 1466 s
+
+2022-02-22 03:23:23 PM Total Items: 58 Time: 1466 s
+
+2022-02-22 03:23:24 PM Reading file: Section5all_xls, sheet: U50504-A, frequency: A, Time: 1468 s
+
+2022-02-22 03:23:24 PM Total Items: 49 Time: 1468 s
+
+2022-02-22 03:23:25 PM Reading file: Section5all_xls, sheet: U50504-Q, frequency: Q, Time: 1469 s
+
+2022-02-22 03:23:25 PM Total Items: 49 Time: 1469 s
+
+2022-02-22 03:23:28 PM Reading file: Section5all_xls, sheet: U50505-A, frequency: A, Time: 1471 s
+
+2022-02-22 03:23:28 PM Total Items: 49 Time: 1471 s
+
+2022-02-22 03:23:28 PM Reading file: Section5all_xls, sheet: U50505-Q, frequency: Q, Time: 1472 s
+
+2022-02-22 03:23:28 PM Total Items: 49 Time: 1472 s
+
+2022-02-22 03:23:31 PM Reading file: Section5all_xls, sheet: U50506-A, frequency: A, Time: 1475 s
+
+2022-02-22 03:23:31 PM Total Items: 51 Time: 1475 s
+
+2022-02-22 03:23:31 PM Reading file: Section5all_xls, sheet: U50506-Q, frequency: Q, Time: 1475 s
+
+2022-02-22 03:23:31 PM Total Items: 51 Time: 1475 s
+
+2022-02-22 03:23:32 PM Reading file: Section5all_xls, sheet: U50705AM1-M, frequency: M, Time: 1476 s
+
+2022-02-22 03:23:32 PM Total Items: 26 Time: 1476 s
+
+2022-02-22 03:23:35 PM Reading file: Section5all_xls, sheet: U50705AM2-M, frequency: M, Time: 1479 s
+
+2022-02-22 03:23:35 PM Total Items: 26 Time: 1479 s
+
+2022-02-22 03:23:36 PM Reading file: Section5all_xls, sheet: U50705AM3-M, frequency: M, Time: 1480 s
+
+2022-02-22 03:23:36 PM Total Items: 26 Time: 1480 s
+
+2022-02-22 03:23:38 PM Reading file: Section5all_xls, sheet: U50705AU1-Q, frequency: Q, Time: 1482 s
+
+2022-02-22 03:23:38 PM Total Items: 80 Time: 1482 s
+
+2022-02-22 03:23:41 PM Reading file: Section5all_xls, sheet: U50705AU2-Q, frequency: Q, Time: 1485 s
+
+2022-02-22 03:23:41 PM Total Items: 80 Time: 1485 s
+
+2022-02-22 03:23:43 PM Reading file: Section5all_xls, sheet: U50705AU3-Q, frequency: Q, Time: 1487 s
+
+2022-02-22 03:23:43 PM Total Items: 80 Time: 1487 s
+
+2022-02-22 03:23:46 PM Reading file: Section5all_xls, sheet: U50705BM1-M, frequency: M, Time: 1490 s
+
+2022-02-22 03:23:46 PM Total Items: 24 Time: 1490 s
+
+2022-02-22 03:23:47 PM Reading file: Section5all_xls, sheet: U50705BM2-M, frequency: M, Time: 1491 s
+
+2022-02-22 03:23:47 PM Total Items: 24 Time: 1491 s
+
+2022-02-22 03:23:49 PM Reading file: Section5all_xls, sheet: U50705BM3-M, frequency: M, Time: 1492 s
+
+2022-02-22 03:23:49 PM Total Items: 24 Time: 1492 s
+
+2022-02-22 03:23:51 PM Reading file: Section5all_xls, sheet: U50705BU1-A, frequency: A, Time: 1494 s
+
+2022-02-22 03:23:51 PM Total Items: 83 Time: 1494 s
+
+2022-02-22 03:23:52 PM Reading file: Section5all_xls, sheet: U50705BU1-Q, frequency: Q, Time: 1495 s
+
+2022-02-22 03:23:52 PM Total Items: 83 Time: 1495 s
+
+2022-02-22 03:23:54 PM Reading file: Section5all_xls, sheet: U50705BU2-A, frequency: A, Time: 1498 s
+
+2022-02-22 03:23:54 PM Total Items: 83 Time: 1498 s
+
+2022-02-22 03:23:55 PM Reading file: Section5all_xls, sheet: U50705BU2-Q, frequency: Q, Time: 1499 s
+
+2022-02-22 03:23:55 PM Total Items: 83 Time: 1499 s
+
+2022-02-22 03:23:58 PM Reading file: Section5all_xls, sheet: U50705BU3-A, frequency: A, Time: 1501 s
+
+2022-02-22 03:23:58 PM Total Items: 83 Time: 1501 s
+
+2022-02-22 03:23:58 PM Reading file: Section5all_xls, sheet: U50705BU3-Q, frequency: Q, Time: 1502 s
+
+2022-02-22 03:23:58 PM Total Items: 83 Time: 1502 s
+
+2022-02-22 03:24:02 PM Reading file: Section5all_xls, sheet: U50706AM-M, frequency: M, Time: 1505 s
+
+2022-02-22 03:24:02 PM Total Items: 23 Time: 1505 s
+
+2022-02-22 03:24:04 PM Reading file: Section5all_xls, sheet: U50706AU-Q, frequency: Q, Time: 1508 s
+
+2022-02-22 03:24:04 PM Total Items: 80 Time: 1508 s
+
+2022-02-22 03:24:06 PM Reading file: Section5all_xls, sheet: U50706BM-M, frequency: M, Time: 1510 s
+
+2022-02-22 03:24:06 PM Total Items: 24 Time: 1510 s
+
+2022-02-22 03:24:08 PM Reading file: Section5all_xls, sheet: U50706BU-A, frequency: A, Time: 1512 s
+
+2022-02-22 03:24:08 PM Total Items: 81 Time: 1512 s
+
+2022-02-22 03:24:09 PM Reading file: Section5all_xls, sheet: U50706BU-Q, frequency: Q, Time: 1512 s
+
+2022-02-22 03:24:09 PM Total Items: 81 Time: 1513 s
+
+2022-02-22 03:24:11 PM Reading file: Section5all_xls, sheet: U51100-Q, frequency: Q, Time: 1515 s
+
+2022-02-22 03:24:11 PM Total Items: 69 Time: 1515 s
+
+2022-02-22 03:24:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:24:16 PM Reading source file, Time: 1519 s
+
+2022-02-22 03:24:17 PM Reading file: Section7all_xls, sheet: U70204-A, frequency: A, Time: 1521 s
+
+2022-02-22 03:24:17 PM Total Items: 63 Time: 1521 s
+
+2022-02-22 03:24:18 PM Reading file: Section7all_xls, sheet: U70204-Q, frequency: Q, Time: 1521 s
+
+2022-02-22 03:24:18 PM Total Items: 63 Time: 1521 s
+
+2022-02-22 03:24:20 PM Reading file: Section7all_xls, sheet: U70205-A, frequency: A, Time: 1524 s
+
+2022-02-22 03:24:20 PM Total Items: 83 Time: 1524 s
+
+2022-02-22 03:24:22 PM Reading file: Section7all_xls, sheet: U70205-Q, frequency: Q, Time: 1526 s
+
+2022-02-22 03:24:22 PM Total Items: 83 Time: 1526 s
+
+2022-02-22 03:24:27 PM Reading file: Section7all_xls, sheet: U70205S-M, frequency: M, Time: 1530 s
+
+2022-02-22 03:24:27 PM Total Items: 64 Time: 1530 s
+
+2022-02-22 03:24:37 PM Reading file: Section7all_xls, sheet: U70206-A, frequency: A, Time: 1540 s
+
+2022-02-22 03:24:37 PM Total Items: 85 Time: 1540 s
+
+2022-02-22 03:24:37 PM Reading file: Section7all_xls, sheet: U70206-Q, frequency: Q, Time: 1541 s
+
+2022-02-22 03:24:37 PM Total Items: 85 Time: 1541 s
+
+2022-02-22 03:24:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-22 03:24:39 PM Reading source file, Time: 1543 s
+
+2022-02-22 03:24:40 PM Reading file: Section9all_xls, sheet: U90100-Q, frequency: Q, Time: 1544 s
+
+2022-02-22 03:24:40 PM Total Items: 42 Time: 1544 s
+
+2022-02-22 03:24:41 PM Reading file: Section9all_xls, sheet: U90100-M, frequency: M, Time: 1544 s
+
+2022-02-22 03:24:41 PM Total Items: 42 Time: 1544 s
+
+2022-02-22 03:24:43 PM Reading file: Section9all_xls, sheet: U90200-A, frequency: A, Time: 1547 s
+
+2022-02-22 03:24:43 PM Total Items: 33 Time: 1547 s
+
+2022-02-22 03:24:43 PM Reading file: Section9all_xls, sheet: U90200-Q, frequency: Q, Time: 1547 s
+
+2022-02-22 03:24:43 PM Total Items: 33 Time: 1547 s
+
+2022-02-22 03:24:43 PM Reading file: Section9all_xls, sheet: U90300-A, frequency: A, Time: 1547 s
+
+2022-02-22 03:24:43 PM Total Items: 21 Time: 1547 s
+
+2022-02-22 03:24:44 PM Reading file: Section9all_xls, sheet: U90400-A, frequency: A, Time: 1547 s
+
+2022-02-22 03:24:44 PM Total Items: 42 Time: 1547 s
+
+2022-02-22 03:24:44 PM Reading file: Section9all_xls, sheet: U90500-A, frequency: A, Time: 1548 s
+
+2022-02-22 03:24:44 PM Total Items: 36 Time: 1548 s
+
+2022-02-22 03:24:48 PM Reading file: US_database?, Time: 1551 s
+
+2022-02-22 03:24:48 PM Concating file: US_key?, Time: 1551 s
+
+2022-02-22 03:24:48 PM Concating file: US_database?, Time: 1551 s
+
+2022-02-22 03:25:19 PM Setting new files, Time: 1582 s
+
+2022-02-22 03:26:23 PM Concating new files: US_database, Time: 1647 s
+
+2022-02-22 03:26:23 PM       databank      name   db_table  db_code                                             desc_e  ...                         type    snl                       source                                             form_e         form_c
+0           US  A001RC.A  DB_A_0001  data001  United States National Income and Production A...  ...                        Level      1  Bureau of Economic Analysis  Relation of Gross Domestic Product, Gross Nati...   Table 1.7.5.
+1           US  A001RD.A  DB_A_0001  data002  United States National Income and Production A...  ...                        Level      2  Bureau of Economic Analysis  Implicit Price Deflators for Gross Domestic Pr...   Table 1.1.9.
+2           US  A001RG.A  DB_A_0001  data003  United States National Income and Production A...  ...                        Level      3  Bureau of Economic Analysis  Price Indexes for Gross Domestic Product, Gros...   Table 1.7.4.
+3           US  A001RI.A  DB_A_0001  data004  United States National Income and Production A...  ...  Percent change, annual rate      4  Bureau of Economic Analysis  Percent Change From Preceding Period in Prices...   Table 1.1.7.
+4           US  A001RL.A  DB_A_0001  data005  United States National Income and Production A...  ...  Percent change, annual rate      5  Bureau of Economic Analysis  Percent Change From Preceding Period in Real G...   Table 1.7.1.
+...        ...       ...        ...      ...                                                ...  ...                          ...    ...                          ...                                                ...            ...
+30709       US  Y998RX.Q  DB_Q_0043  data058  United States National Income and Production A...  ...                        Level  30710  Bureau of Economic Analysis  Real Exports and Imports of Goods and Services...  Table 4.2.6U.
+30710       US  Y999RA.Q  DB_Q_0043  data059  United States National Income and Production A...  ...                        Level  30711  Bureau of Economic Analysis  Real Exports and Imports of Goods and Services...  Table 4.2.3U.
+30711       US  Y999RC.Q  DB_Q_0043  data060  United States National Income and Production A...  ...                        Level  30712  Bureau of Economic Analysis  Exports and Imports of Goods and Services by T...  Table 4.2.5U.
+30712       US  Y999RG.Q  DB_Q_0043  data061  United States National Income and Production A...  ...                        Level  30713  Bureau of Economic Analysis  Price Indexes for Exports and Imports of Goods...  Table 4.2.4U.
+30713       US  Y999RX.Q  DB_Q_0043  data062  United States National Income and Production A...  ...                        Level  30714  Bureau of Economic Analysis  Real Exports and Imports of Goods and Services...  Table 4.2.6U.
+
+[30714 rows x 15 columns]
+2022-02-22 03:26:23 PM Total Items: 30714
+2022-02-22 03:29:42 PM 
+database_num = 1

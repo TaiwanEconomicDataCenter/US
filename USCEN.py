@@ -20,7 +20,8 @@ import sqlalchemy
 from sqlalchemy import create_engine
 import US_extention as EXT
 from US_extention import ERROR, readFile, readExcelFile, US_NOTE, US_HISTORYDATA, DATA_SETS, takeFirst, US_IHS, US_BLS, MERGE, NEW_KEYS, CONCATE, UPDATE, ATTRIBUTES,\
- US_POPP, US_FAMI, EXCHANGE, NEW_LABEL, US_STL, US_DOT, US_TICS, US_BTSDOL, US_ISM, US_RCM, US_CBS, US_DOA, US_AISI, US_EIAIRS, US_SEMI, US_WEB, GET_NAME, PRESENT, US_FTD_NEW, US_POPT, SELECT_DF_KEY
+ US_POPP, US_FAMI, EXCHANGE, NEW_LABEL, US_STL, US_DOT, US_TICS, US_BTSDOL, US_ISM, US_RCM, US_CBS, US_DOA, US_AISI, US_EIAIRS, US_SEMI, US_WEB, GET_NAME, PRESENT, US_FTD_NEW, US_POPT,\
+      SELECT_DF_KEY, SELECT_DATABASES, INSERT_TABLES
 import US_test as test
 from US_test import US_identity
 FORMAT = '%(asctime)s %(message)s'
@@ -41,7 +42,7 @@ data_processing = bool(int(input('Processing data (1/0): ')))
 keyword = ['','']
 bls_start = dealing_start_year
 TICS_start = str(dealing_start_year)+'-01'
-DF_suffix = test.DF_suffix
+# DF_suffix = test.DF_suffix
 Historical = False
 make_discontinued = False
 ENCODING = EXT.ENCODING
@@ -65,7 +66,7 @@ for i in range(len(key_list)):
         snl_pos = i
         break
 tStart = time.time()
-using_database = True
+"""using_database = True
 pwd = open(data_path+'password.txt','r',encoding='ANSI').read()
 try:
     engine = create_engine('mysql+pymysql://root:'+pwd+'@localhost:3306')
@@ -75,7 +76,7 @@ except sqlalchemy.exc.OperationalError:
 else:
     if databank.lower() not in connection.dialect.get_schema_names(connection):
         connection.execute('create database '+databank.lower())
-    engine = create_engine('mysql+pymysql://root:'+pwd+'@localhost:3306/'+databank.lower())
+    engine = create_engine('mysql+pymysql://root:'+pwd+'@localhost:3306/'+databank.lower())"""
 
 FREQNAME = {'A':'annual','M':'month','Q':'quarter','S':'semiannual','W':'week'}
 FREQLIST = {}
@@ -145,11 +146,15 @@ if data_processing:
     Titles = readExcelFile(data_path+'tables.xlsx', header_ = 0, index_col_=0, sheet_name_='titles').to_dict()
 
 merge_file_loaded = False
+if excel_suffix == 'mysql':
+    df_key = SELECT_DF_KEY(databank)
+    DATA_BASE_dict = SELECT_DATABASES(databank)
+    merge_file_loaded = True
 while data_processing == False:
     TABLES = pd.DataFrame()
     while True:
         try:
-            merging = bool(int(input('Merging data file = 1/Updating TOT file = 0: ')))
+            merging = bool(int(input('Merging data file = 1/Updating data file = 0: ')))
             updating = not merging
             if merge_file_loaded == False:
                 merge_suf = input('Be Merged(Original) data suffix: ')
@@ -205,7 +210,7 @@ while data_processing == False:
             merge_database = readExcelFile(out_path+NAME+'database'+merge_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
     #if merge_file.empty == False and merging == True and updating == False:
     if merging:
-        logging.info('Merging File: '+out_path+NAME+'key'+merge_suf+'.xlsx, Time: '+str(int(time.time() - tStart))+' s'+'\n')
+        logging.info('Merging File, Time: '+str(int(time.time() - tStart))+' s'+'\n')
         snl = int(merge_file['snl'][merge_file.shape[0]-1]+1)
         for f in FREQNAME:
             table_num_dict[f], code_num_dict[f] = MERGE(merge_file, DB_TABLE, DB_CODE, f)
@@ -250,7 +255,11 @@ while data_processing == False:
     if continuing == False:
         break
 
-if updating == False and DF_suffix != merge_suf:
+if updating == False:
+    DF_KEY = SELECT_DF_KEY(databank)
+    DF_KEY = DF_KEY.set_index('name')
+    #print(DF_KEY)
+"""if updating == False and DF_suffix != merge_suf:
     logging.info('Reading file: US_key'+DF_suffix+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
     if using_database:
         DF_KEY = pd.read_sql_query("SELECT * FROM "+('US_key'+DF_suffix).lower(), engine)
@@ -259,7 +268,7 @@ if updating == False and DF_suffix != merge_suf:
     DF_KEY = DF_KEY.set_index('name')
 elif updating == False and DF_suffix == merge_suf:
     DF_KEY = merge_file
-    DF_KEY = DF_KEY.set_index('name')
+    DF_KEY = DF_KEY.set_index('name')"""
 
 CONTINUE = []
 def SOURCE(TABLES):
@@ -2004,59 +2013,62 @@ logging.info(df_key)
 logging.info('Total Items: '+str(df_key.shape[0]))
 
 print('Time: '+str(int(time.time() - tStart))+' s'+'\n')
-df_key.to_excel(out_path+NAME+"key"+excel_suffix+".xlsx", sheet_name=NAME+'key')
-DB_name = []
-database_num = 0
-annual_num = 0
-monthly_num = 0
-other_num = 0
-for table in DATA_BASE_dict.keys():
-    DB_name.append(table)
-    if str(table).find('M_') >= 0:
-        monthly_num += 1
-    elif str(table).find('A_') >= 0:
-        annual_num += 1
-    else:
-        other_num += 1
-if annual_num > 0:
-    database_num += 1
-if other_num > 0:
-    database_num += 1
-if monthly_num > 0:
-    database_num += int((monthly_num-1)/maximum)+1
-if monthly_num > maximum:#database_num > 1:
-    logging.info('Total databases: '+str(database_num))
-    current_db = 0
-    for d in range(1, database_num+1):
-        with pd.ExcelWriter(out_path+NAME+"database_"+str(d)+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
-            logging.info('Outputing file: '+NAME+"database_"+str(d))
-            current_monthly = 0
-            for db in range(current_db, len(DB_name)):
-                sys.stdout.write("\rOutputing sheet: "+str(DB_name[db])+'  Time: '+str(int(time.time() - tStart))+'s')
-                sys.stdout.flush()
-                if DATA_BASE_dict[DB_name[db]].empty == False:
-                    DATA_BASE_dict[DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
-                if db < len(DB_name)-1:
-                    if str(DB_name[db]).find('M_') >= 0:
-                        current_monthly += 1
-                    if (str(DB_name[db]).find('A_') >= 0 and str(DB_name[db+1]).find('M_') >= 0) or (current_monthly >= maximum) or (str(DB_name[db]).find('M_') >= 0 and str(DB_name[db+1]).find('M_') < 0):
-                        current_db = db+1
-                        break
-            writer.save()
-            sys.stdout.write("\n")
+if excel_suffix == 'mysql':
+    INSERT_TABLES(databank, df_key, DATA_BASE_dict)
 else:
-    database_num = 1
-    with pd.ExcelWriter(out_path+NAME+"database"+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
-        for key in DATA_BASE_dict:
-            sys.stdout.write("\rOutputing sheet: "+str(key))
-            sys.stdout.flush()
-            if DATA_BASE_dict[key].empty == False:
-                DATA_BASE_dict[key].to_excel(writer, sheet_name = key)
-sys.stdout.write("\n")
-logging.info('\ndatabase_num = '+str(database_num))
-if database_num > 1:
-    with open(out_path+NAME+'database_num'+excel_suffix+'.txt','w', encoding=ENCODING) as f:    #用with一次性完成open、close檔案
-        f.write(str(database_num))
+    df_key.to_excel(out_path+NAME+"key"+excel_suffix+".xlsx", sheet_name=NAME+'key')
+    DB_name = []
+    database_num = 0
+    annual_num = 0
+    monthly_num = 0
+    other_num = 0
+    for table in DATA_BASE_dict.keys():
+        DB_name.append(table)
+        if str(table).find('M_') >= 0:
+            monthly_num += 1
+        elif str(table).find('A_') >= 0:
+            annual_num += 1
+        else:
+            other_num += 1
+    if annual_num > 0:
+        database_num += 1
+    if other_num > 0:
+        database_num += 1
+    if monthly_num > 0:
+        database_num += int((monthly_num-1)/maximum)+1
+    if monthly_num > maximum:#database_num > 1:
+        logging.info('Total databases: '+str(database_num))
+        current_db = 0
+        for d in range(1, database_num+1):
+            with pd.ExcelWriter(out_path+NAME+"database_"+str(d)+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
+                logging.info('Outputing file: '+NAME+"database_"+str(d))
+                current_monthly = 0
+                for db in range(current_db, len(DB_name)):
+                    sys.stdout.write("\rOutputing sheet: "+str(DB_name[db])+'  Time: '+str(int(time.time() - tStart))+'s')
+                    sys.stdout.flush()
+                    if DATA_BASE_dict[DB_name[db]].empty == False:
+                        DATA_BASE_dict[DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
+                    if db < len(DB_name)-1:
+                        if str(DB_name[db]).find('M_') >= 0:
+                            current_monthly += 1
+                        if (str(DB_name[db]).find('A_') >= 0 and str(DB_name[db+1]).find('M_') >= 0) or (current_monthly >= maximum) or (str(DB_name[db]).find('M_') >= 0 and str(DB_name[db+1]).find('M_') < 0):
+                            current_db = db+1
+                            break
+                writer.save()
+                sys.stdout.write("\n")
+    else:
+        database_num = 1
+        with pd.ExcelWriter(out_path+NAME+"database"+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
+            for key in DATA_BASE_dict:
+                sys.stdout.write("\rOutputing sheet: "+str(key))
+                sys.stdout.flush()
+                if DATA_BASE_dict[key].empty == False:
+                    DATA_BASE_dict[key].to_excel(writer, sheet_name = key)
+    sys.stdout.write("\n")
+    logging.info('\ndatabase_num = '+str(database_num))
+    if database_num > 1:
+        with open(out_path+NAME+'database_num'+excel_suffix+'.txt','w', encoding=ENCODING) as f:    #用with一次性完成open、close檔案
+            f.write(str(database_num))
 
 if data_processing and find_unknown == True:
     if new_tables.empty == False:

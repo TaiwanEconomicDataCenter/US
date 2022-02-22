@@ -30,7 +30,7 @@ from datetime import datetime, date, timedelta
 from dateutil.relativedelta import relativedelta
 from urllib.error import HTTPError
 sys.path.append('../TO_DB')
-from TO_DB import SELECT_DF_KEY
+from TO_DB import SELECT_DF_KEY, SELECT_DATABASES, INSERT_TABLES
 urllib3.disable_warnings()
 #from US_concat import CONCATE, readExcelFile
 
@@ -38,7 +38,9 @@ NAME = 'US_'
 ENCODING = 'utf-8-sig'
 data_path = "./data/"
 out_path = "./output/"
-excel_suffix = input('Output file suffix (If test identity press 0): ')
+excel_suffix = input('Output file suffix or mysql (If test identity press 0): ')
+if excel_suffix.lower().strip() == 'mysql':
+    excel_suffix = 'mysql'
 
 def takeFirst(alist):
     return alist[0]
@@ -176,6 +178,9 @@ def NEW_LABEL(key, label, Series, Table, cat_idx=None, item=None):
 
     if key in normal:
         for l in range(label.shape[0]):
+            print("l: "+str(l))
+            print(label.index[l])
+            print(Table[cat_idx+'_code'][label.index[l]])
             label.loc[label.index[l]] = Series['CATEGORIES'].loc[Table[cat_idx+'_code'][label.index[l]], cat_idx+'_'+item].title().replace('And','and').replace("'S","'s").replace(', ',',')
     else:
         if key == 'ec/': 
