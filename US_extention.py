@@ -178,9 +178,6 @@ def NEW_LABEL(key, label, Series, Table, cat_idx=None, item=None):
 
     if key in normal:
         for l in range(label.shape[0]):
-            print("l: "+str(l))
-            print(label.index[l])
-            print(Table[cat_idx+'_code'][label.index[l]])
             label.loc[label.index[l]] = Series['CATEGORIES'].loc[Table[cat_idx+'_code'][label.index[l]], cat_idx+'_'+item].title().replace('And','and').replace("'S","'s").replace(', ',',')
     else:
         if key == 'ec/': 
