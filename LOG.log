@@ -1540,11 +1540,11 @@
 
 2022-02-23 10:08:56 AM Total Items: 15296 Time: 64807 s
 
-heet: 0, frequency: M, Time: 2338 s
+2022-02-23 11:18:54 AM Reading file: ln.data.1.AllData, sheet: 0, frequency: Q, Time: 69005 s
 
-2022-02-22 04:21:40 PM Total Items: 5 Time: 2339 s
+2022-02-23 11:18:54 AM Present File Exists. Reading Data From Default Path.
 
-2022-02-22 04:21:40 PM Reading file: NONMAN_INVENT, sheet: 0, frequency: M, Time: 2339 s
+339 s
 
 2022-02-22 04:21:41 PM Total Items: 5 Time: 2340 s
 
