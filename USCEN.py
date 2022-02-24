@@ -35,7 +35,7 @@ start_year = 1900
 start_yearQ = 1940
 start_yearM = 1909
 start_yearS = 1980
-maximum = 90
+maximum = 35
 merging = False
 updating = False
 data_processing = bool(int(input('Processing data (1/0): ')))
@@ -66,17 +66,6 @@ for i in range(len(key_list)):
         snl_pos = i
         break
 tStart = time.time()
-"""using_database = True
-pwd = open(data_path+'password.txt','r',encoding='ANSI').read()
-try:
-    engine = create_engine('mysql+pymysql://root:'+pwd+'@localhost:3306')
-    connection = engine.connect()
-except sqlalchemy.exc.OperationalError:
-    using_database = False
-else:
-    if databank.lower() not in connection.dialect.get_schema_names(connection):
-        connection.execute('create database '+databank.lower())
-    engine = create_engine('mysql+pymysql://root:'+pwd+'@localhost:3306/'+databank.lower())"""
 
 FREQNAME = {'A':'annual','M':'month','Q':'quarter','S':'semiannual','W':'week'}
 FREQLIST = {}
@@ -259,16 +248,6 @@ if updating == False:
     DF_KEY = SELECT_DF_KEY(databank)
     DF_KEY = DF_KEY.set_index('name')
     #print(DF_KEY)
-"""if updating == False and DF_suffix != merge_suf:
-    logging.info('Reading file: US_key'+DF_suffix+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
-    if using_database:
-        DF_KEY = pd.read_sql_query("SELECT * FROM "+('US_key'+DF_suffix).lower(), engine)
-    else:
-        DF_KEY = readExcelFile(out_path+'US_key'+DF_suffix+'.xlsx', header_=0, acceptNoFile=False, index_col_=0, sheet_name_='US_key')
-    DF_KEY = DF_KEY.set_index('name')
-elif updating == False and DF_suffix == merge_suf:
-    DF_KEY = merge_file
-    DF_KEY = DF_KEY.set_index('name')"""
 
 CONTINUE = []
 def SOURCE(TABLES):
