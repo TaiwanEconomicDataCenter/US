@@ -1981,7 +1981,7 @@ if data_processing:
                 ERROR('Item not counted: name = '+df_key.iloc[ind]['name']+', table_id = '+df_key.iloc[ind]['table_id'])
         for ind in range(NEW_TABLES.shape[0]):
             if NEW_TABLES.iloc[ind]['new_counts'] != 0 and NEW_TABLES.iloc[ind]['counts'] != NEW_TABLES.iloc[ind]['new_counts']:
-                new_tables = pd.concat([new_tables, NEW_TABLES.iloc[ind]])
+                new_tables = pd.concat([new_tables, NEW_TABLES.iloc[[ind]]])
                 #new_tables = new_tables.append(NEW_TABLES.iloc[ind])
         sys.stdout.write("\n\n")
         df_key = df_key.drop(columns=['table_id'])
