@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # pylint: disable=E1101
-import math, sys, calendar, os, copy, time, shutil, logging, zipfile, io, traceback
+import math, sys, calendar, os, copy, time, shutil, logging, zipfile, io, traceback, warnings
 import regex as re
 import pandas as pd
 import numpy as np
@@ -32,6 +32,7 @@ from urllib.error import HTTPError
 sys.path.append('../TO_DB')
 from TO_DB import SELECT_DF_KEY, SELECT_DATABASES, INSERT_TABLES
 urllib3.disable_warnings()
+warnings.simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
 #from US_concat import CONCATE, readExcelFile
 
 NAME = 'US_'
