@@ -1534,3 +1534,1691 @@
 
 2022-03-21 01:49:08 PM Present File Exists. Reading Data From Default Path.
 
+2022-03-21 01:49:44 PM Reading file: ln.data.1.AllData, sheet: 0, frequency: M, Time: 256 s
+
+2022-03-21 01:49:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:17 PM Total New Items Found: 0 Time: 290 s
+
+2022-03-21 01:50:17 PM Reading file: ln.data.1.AllData, sheet: 0, frequency: Q, Time: 290 s
+
+2022-03-21 01:50:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:31 PM Total New Items Found: 0 Time: 304 s
+
+2022-03-21 01:50:31 PM Reading file: ln.data.1.AllData, sheet: 0, frequency: A, Time: 304 s
+
+2022-03-21 01:50:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:38 PM Total New Items Found: 0 Time: 310 s
+
+2022-03-21 01:50:38 PM Reading file: BLS_series, Time: 310 s
+
+2022-03-21 01:50:38 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:40 PM Reading file: mp.data.1.AllData, sheet: 0, frequency: A, Time: 312 s
+
+2022-03-21 01:50:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:41 PM Total New Items Found: 0 Time: 314 s
+
+2022-03-21 01:50:41 PM Reading file: BLS_series, Time: 314 s
+
+2022-03-21 01:50:41 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:43 PM Reading file: pc.data.01.aggregates, sheet: 0, frequency: M, Time: 315 s
+
+2022-03-21 01:50:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:43 PM Total New Items Found: 0 Time: 316 s
+
+2022-03-21 01:50:43 PM Reading file: pc.data.01.aggregates, sheet: 0, frequency: A, Time: 316 s
+
+2022-03-21 01:50:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:43 PM Total New Items Found: 0 Time: 316 s
+
+2022-03-21 01:50:43 PM Reading file: pc.data.05.ForestryandLogging, sheet: 0, frequency: M, Time: 316 s
+
+2022-03-21 01:50:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:43 PM Total New Items Found: 0 Time: 316 s
+
+2022-03-21 01:50:43 PM Reading file: pc.data.05.ForestryandLogging, sheet: 0, frequency: A, Time: 316 s
+
+2022-03-21 01:50:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:43 PM Total New Items Found: 0 Time: 316 s
+
+2022-03-21 01:50:44 PM Reading file: pc.data.1.OilAndGas, sheet: 0, frequency: M, Time: 316 s
+
+2022-03-21 01:50:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:44 PM Total New Items Found: 0 Time: 316 s
+
+2022-03-21 01:50:44 PM Reading file: pc.data.1.OilAndGas, sheet: 0, frequency: A, Time: 316 s
+
+2022-03-21 01:50:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:44 PM Total New Items Found: 0 Time: 316 s
+
+2022-03-21 01:50:44 PM Reading file: pc.data.10.Wood, sheet: 0, frequency: M, Time: 316 s
+
+2022-03-21 01:50:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:44 PM Total New Items Found: 0 Time: 316 s
+
+2022-03-21 01:50:44 PM Reading file: pc.data.10.Wood, sheet: 0, frequency: A, Time: 316 s
+
+2022-03-21 01:50:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:44 PM Total New Items Found: 0 Time: 316 s
+
+2022-03-21 01:50:44 PM Reading file: pc.data.11.Paper, sheet: 0, frequency: M, Time: 317 s
+
+2022-03-21 01:50:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:45 PM Total New Items Found: 0 Time: 317 s
+
+2022-03-21 01:50:45 PM Reading file: pc.data.11.Paper, sheet: 0, frequency: A, Time: 317 s
+
+2022-03-21 01:50:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:45 PM Total New Items Found: 0 Time: 317 s
+
+2022-03-21 01:50:45 PM Reading file: pc.data.12.Printing, sheet: 0, frequency: M, Time: 317 s
+
+2022-03-21 01:50:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:45 PM Total New Items Found: 0 Time: 317 s
+
+2022-03-21 01:50:45 PM Reading file: pc.data.12.Printing, sheet: 0, frequency: A, Time: 317 s
+
+2022-03-21 01:50:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:45 PM Total New Items Found: 0 Time: 317 s
+
+2022-03-21 01:50:45 PM Reading file: pc.data.13.PetroleumCoalProducts, sheet: 0, frequency: M, Time: 317 s
+
+2022-03-21 01:50:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:45 PM Total New Items Found: 0 Time: 318 s
+
+2022-03-21 01:50:45 PM Reading file: pc.data.13.PetroleumCoalProducts, sheet: 0, frequency: A, Time: 318 s
+
+2022-03-21 01:50:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:45 PM Total New Items Found: 0 Time: 318 s
+
+2022-03-21 01:50:45 PM Reading file: pc.data.14.Chemicals, sheet: 0, frequency: M, Time: 318 s
+
+2022-03-21 01:50:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:46 PM Total New Items Found: 0 Time: 318 s
+
+2022-03-21 01:50:46 PM Reading file: pc.data.14.Chemicals, sheet: 0, frequency: A, Time: 318 s
+
+2022-03-21 01:50:46 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:46 PM Total New Items Found: 0 Time: 318 s
+
+2022-03-21 01:50:46 PM Reading file: pc.data.15.PlasticsRubberProducts, sheet: 0, frequency: M, Time: 318 s
+
+2022-03-21 01:50:46 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:46 PM Total New Items Found: 0 Time: 319 s
+
+2022-03-21 01:50:46 PM Reading file: pc.data.15.PlasticsRubberProducts, sheet: 0, frequency: A, Time: 319 s
+
+2022-03-21 01:50:46 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:46 PM Total New Items Found: 0 Time: 319 s
+
+2022-03-21 01:50:46 PM Reading file: pc.data.16.NonmetallicMineral, sheet: 0, frequency: M, Time: 319 s
+
+2022-03-21 01:50:46 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:47 PM Total New Items Found: 0 Time: 319 s
+
+2022-03-21 01:50:47 PM Reading file: pc.data.16.NonmetallicMineral, sheet: 0, frequency: A, Time: 319 s
+
+2022-03-21 01:50:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:47 PM Total New Items Found: 0 Time: 319 s
+
+2022-03-21 01:50:47 PM Reading file: pc.data.17.PrimaryMetal, sheet: 0, frequency: M, Time: 319 s
+
+2022-03-21 01:50:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:47 PM Total New Items Found: 0 Time: 320 s
+
+2022-03-21 01:50:47 PM Reading file: pc.data.17.PrimaryMetal, sheet: 0, frequency: A, Time: 320 s
+
+2022-03-21 01:50:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:47 PM Total New Items Found: 0 Time: 320 s
+
+2022-03-21 01:50:47 PM Reading file: pc.data.18.FabricatedMetalProduct, sheet: 0, frequency: M, Time: 320 s
+
+2022-03-21 01:50:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:48 PM Total New Items Found: 0 Time: 320 s
+
+2022-03-21 01:50:48 PM Reading file: pc.data.18.FabricatedMetalProduct, sheet: 0, frequency: A, Time: 320 s
+
+2022-03-21 01:50:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:48 PM Total New Items Found: 0 Time: 320 s
+
+2022-03-21 01:50:48 PM Reading file: pc.data.19.Machinery, sheet: 0, frequency: M, Time: 321 s
+
+2022-03-21 01:50:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:49 PM Total New Items Found: 0 Time: 321 s
+
+2022-03-21 01:50:49 PM Reading file: pc.data.19.Machinery, sheet: 0, frequency: A, Time: 321 s
+
+2022-03-21 01:50:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:49 PM Total New Items Found: 0 Time: 322 s
+
+2022-03-21 01:50:49 PM Reading file: pc.data.2.Mining, sheet: 0, frequency: M, Time: 322 s
+
+2022-03-21 01:50:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:49 PM Total New Items Found: 0 Time: 322 s
+
+2022-03-21 01:50:49 PM Reading file: pc.data.2.Mining, sheet: 0, frequency: A, Time: 322 s
+
+2022-03-21 01:50:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:49 PM Total New Items Found: 0 Time: 322 s
+
+2022-03-21 01:50:49 PM Reading file: pc.data.20.ComputerProduct, sheet: 0, frequency: M, Time: 322 s
+
+2022-03-21 01:50:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:50 PM Total New Items Found: 0 Time: 322 s
+
+2022-03-21 01:50:50 PM Reading file: pc.data.20.ComputerProduct, sheet: 0, frequency: A, Time: 322 s
+
+2022-03-21 01:50:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:50 PM Total New Items Found: 0 Time: 322 s
+
+2022-03-21 01:50:50 PM Reading file: pc.data.21.ElectricalMachinery, sheet: 0, frequency: M, Time: 322 s
+
+2022-03-21 01:50:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:50 PM Total New Items Found: 0 Time: 323 s
+
+2022-03-21 01:50:50 PM Reading file: pc.data.21.ElectricalMachinery, sheet: 0, frequency: A, Time: 323 s
+
+2022-03-21 01:50:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:50 PM Total New Items Found: 0 Time: 323 s
+
+2022-03-21 01:50:50 PM Reading file: pc.data.22.TransportationEquipment, sheet: 0, frequency: M, Time: 323 s
+
+2022-03-21 01:50:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:51 PM Total New Items Found: 0 Time: 323 s
+
+2022-03-21 01:50:51 PM Reading file: pc.data.22.TransportationEquipment, sheet: 0, frequency: A, Time: 323 s
+
+2022-03-21 01:50:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:51 PM Total New Items Found: 0 Time: 323 s
+
+2022-03-21 01:50:51 PM Reading file: pc.data.23.Furniture, sheet: 0, frequency: M, Time: 323 s
+
+2022-03-21 01:50:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:51 PM Total New Items Found: 0 Time: 324 s
+
+2022-03-21 01:50:51 PM Reading file: pc.data.23.Furniture, sheet: 0, frequency: A, Time: 324 s
+
+2022-03-21 01:50:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:51 PM Total New Items Found: 0 Time: 324 s
+
+2022-03-21 01:50:51 PM Reading file: pc.data.24.Miscellaneous, sheet: 0, frequency: M, Time: 324 s
+
+2022-03-21 01:50:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 324 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.24.Miscellaneous, sheet: 0, frequency: A, Time: 324 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 324 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.25.MotorVehicleDealers, sheet: 0, frequency: M, Time: 324 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 324 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.25.MotorVehicleDealers, sheet: 0, frequency: A, Time: 324 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 324 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.26.FurnitureStores, sheet: 0, frequency: M, Time: 324 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 324 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.26.FurnitureStores, sheet: 0, frequency: A, Time: 324 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 324 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.27.ElectronicsStores, sheet: 0, frequency: M, Time: 325 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.27.ElectronicsStores, sheet: 0, frequency: A, Time: 325 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.28.BuildingGardenStores, sheet: 0, frequency: M, Time: 325 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.28.BuildingGardenStores, sheet: 0, frequency: A, Time: 325 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.29.FoodBeverageStores, sheet: 0, frequency: M, Time: 325 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:52 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:52 PM Reading file: pc.data.29.FoodBeverageStores, sheet: 0, frequency: A, Time: 325 s
+
+2022-03-21 01:50:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.3.MiningSupport, sheet: 0, frequency: M, Time: 325 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.3.MiningSupport, sheet: 0, frequency: A, Time: 325 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.30.HealthStores, sheet: 0, frequency: M, Time: 325 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.30.HealthStores, sheet: 0, frequency: A, Time: 325 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.31.GasolineStations, sheet: 0, frequency: M, Time: 325 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.31.GasolineStations, sheet: 0, frequency: A, Time: 325 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 325 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.32.ClothingStores, sheet: 0, frequency: M, Time: 326 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.32.ClothingStores, sheet: 0, frequency: A, Time: 326 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.33.SportsMusicStores, sheet: 0, frequency: M, Time: 326 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.33.SportsMusicStores, sheet: 0, frequency: A, Time: 326 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:53 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:53 PM Reading file: pc.data.34.GeneralStores, sheet: 0, frequency: M, Time: 326 s
+
+2022-03-21 01:50:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.34.GeneralStores, sheet: 0, frequency: A, Time: 326 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.35.NonstoreRetailers, sheet: 0, frequency: M, Time: 326 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.35.NonstoreRetailers, sheet: 0, frequency: A, Time: 326 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.36.AirTransportation, sheet: 0, frequency: M, Time: 326 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.36.AirTransportation, sheet: 0, frequency: A, Time: 326 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.37.RailTransportation, sheet: 0, frequency: M, Time: 326 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.37.RailTransportation, sheet: 0, frequency: A, Time: 326 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 326 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.38.WaterTransportation, sheet: 0, frequency: M, Time: 326 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 327 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.38.WaterTransportation, sheet: 0, frequency: A, Time: 327 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 327 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.39.TruckTransportation, sheet: 0, frequency: M, Time: 327 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:54 PM Total New Items Found: 0 Time: 327 s
+
+2022-03-21 01:50:54 PM Reading file: pc.data.39.TruckTransportation, sheet: 0, frequency: A, Time: 327 s
+
+2022-03-21 01:50:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:55 PM Total New Items Found: 0 Time: 327 s
+
+2022-03-21 01:50:55 PM Reading file: pc.data.4.Food, sheet: 0, frequency: M, Time: 327 s
+
+2022-03-21 01:50:55 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:55 PM Total New Items Found: 0 Time: 328 s
+
+2022-03-21 01:50:55 PM Reading file: pc.data.4.Food, sheet: 0, frequency: A, Time: 328 s
+
+2022-03-21 01:50:55 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 328 s
+
+2022-03-21 01:50:56 PM Reading file: pc.data.40.PipelineTransportation, sheet: 0, frequency: M, Time: 328 s
+
+2022-03-21 01:50:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 328 s
+
+2022-03-21 01:50:56 PM Reading file: pc.data.40.PipelineTransportation, sheet: 0, frequency: A, Time: 328 s
+
+2022-03-21 01:50:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 328 s
+
+2022-03-21 01:50:56 PM Reading file: pc.data.42.TransportationSupport, sheet: 0, frequency: M, Time: 328 s
+
+2022-03-21 01:50:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 328 s
+
+2022-03-21 01:50:56 PM Reading file: pc.data.42.TransportationSupport, sheet: 0, frequency: A, Time: 328 s
+
+2022-03-21 01:50:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 328 s
+
+2022-03-21 01:50:56 PM Reading file: pc.data.43.PostalService, sheet: 0, frequency: M, Time: 328 s
+
+2022-03-21 01:50:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 329 s
+
+2022-03-21 01:50:56 PM Reading file: pc.data.43.PostalService, sheet: 0, frequency: A, Time: 329 s
+
+2022-03-21 01:50:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 329 s
+
+2022-03-21 01:50:56 PM Reading file: pc.data.44.CouriersAndMessengers, sheet: 0, frequency: M, Time: 329 s
+
+2022-03-21 01:50:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 329 s
+
+2022-03-21 01:50:56 PM Reading file: pc.data.44.CouriersAndMessengers, sheet: 0, frequency: A, Time: 329 s
+
+2022-03-21 01:50:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 329 s
+
+2022-03-21 01:50:56 PM Reading file: pc.data.45.WarehousingStorage, sheet: 0, frequency: M, Time: 329 s
+
+2022-03-21 01:50:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 329 s
+
+2022-03-21 01:50:56 PM Reading file: pc.data.45.WarehousingStorage, sheet: 0, frequency: A, Time: 329 s
+
+2022-03-21 01:50:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:56 PM Total New Items Found: 0 Time: 329 s
+
+2022-03-21 01:50:57 PM Reading file: pc.data.46.Utilities, sheet: 0, frequency: M, Time: 329 s
+
+2022-03-21 01:50:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:57 PM Total New Items Found: 0 Time: 329 s
+
+2022-03-21 01:50:57 PM Reading file: pc.data.46.Utilities, sheet: 0, frequency: A, Time: 329 s
+
+2022-03-21 01:50:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:57 PM Total New Items Found: 0 Time: 329 s
+
+2022-03-21 01:50:57 PM Reading file: pc.data.47.AmbulatoryHealthCareServices, sheet: 0, frequency: M, Time: 329 s
+
+2022-03-21 01:50:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:57 PM Total New Items Found: 0 Time: 329 s
+
+2022-03-21 01:50:57 PM Reading file: pc.data.47.AmbulatoryHealthCareServices, sheet: 0, frequency: A, Time: 329 s
+
+2022-03-21 01:50:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:57 PM Total New Items Found: 0 Time: 329 s
+
+2022-03-21 01:50:57 PM Reading file: pc.data.5.BeverageTobacco, sheet: 0, frequency: M, Time: 330 s
+
+2022-03-21 01:50:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:57 PM Total New Items Found: 0 Time: 330 s
+
+2022-03-21 01:50:57 PM Reading file: pc.data.5.BeverageTobacco, sheet: 0, frequency: A, Time: 330 s
+
+2022-03-21 01:50:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:57 PM Total New Items Found: 0 Time: 330 s
+
+2022-03-21 01:50:57 PM Reading file: pc.data.50.Hospitals, sheet: 0, frequency: M, Time: 330 s
+
+2022-03-21 01:50:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:58 PM Total New Items Found: 0 Time: 330 s
+
+2022-03-21 01:50:58 PM Reading file: pc.data.50.Hospitals, sheet: 0, frequency: A, Time: 330 s
+
+2022-03-21 01:50:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:58 PM Total New Items Found: 0 Time: 330 s
+
+2022-03-21 01:50:58 PM Reading file: pc.data.51.NursingResidentialCareFacil, sheet: 0, frequency: M, Time: 330 s
+
+2022-03-21 01:50:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:58 PM Total New Items Found: 0 Time: 330 s
+
+2022-03-21 01:50:58 PM Reading file: pc.data.51.NursingResidentialCareFacil, sheet: 0, frequency: A, Time: 330 s
+
+2022-03-21 01:50:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:58 PM Total New Items Found: 0 Time: 330 s
+
+2022-03-21 01:50:58 PM Reading file: pc.data.53.Publishing, sheet: 0, frequency: M, Time: 330 s
+
+2022-03-21 01:50:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:58 PM Total New Items Found: 0 Time: 330 s
+
+2022-03-21 01:50:58 PM Reading file: pc.data.53.Publishing, sheet: 0, frequency: A, Time: 330 s
+
+2022-03-21 01:50:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:58 PM Total New Items Found: 0 Time: 330 s
+
+2022-03-21 01:50:58 PM Reading file: pc.data.54.Broadcasting, sheet: 0, frequency: M, Time: 330 s
+
+2022-03-21 01:50:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:58 PM Total New Items Found: 0 Time: 331 s
+
+2022-03-21 01:50:58 PM Reading file: pc.data.54.Broadcasting, sheet: 0, frequency: A, Time: 331 s
+
+2022-03-21 01:50:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:58 PM Total New Items Found: 0 Time: 331 s
+
+2022-03-21 01:50:58 PM Reading file: pc.data.55.Telecommunications, sheet: 0, frequency: M, Time: 331 s
+
+2022-03-21 01:50:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:58 PM Total New Items Found: 0 Time: 331 s
+
+2022-03-21 01:50:58 PM Reading file: pc.data.55.Telecommunications, sheet: 0, frequency: A, Time: 331 s
+
+2022-03-21 01:50:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:58 PM Total New Items Found: 0 Time: 331 s
+
+2022-03-21 01:50:59 PM Reading file: pc.data.56.ISPsSearchPortandDataProcess, sheet: 0, frequency: M, Time: 331 s
+
+2022-03-21 01:50:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:59 PM Total New Items Found: 0 Time: 331 s
+
+2022-03-21 01:50:59 PM Reading file: pc.data.56.ISPsSearchPortandDataProcess, sheet: 0, frequency: A, Time: 331 s
+
+2022-03-21 01:50:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:59 PM Total New Items Found: 0 Time: 331 s
+
+2022-03-21 01:50:59 PM Reading file: pc.data.57.Finance, sheet: 0, frequency: M, Time: 331 s
+
+2022-03-21 01:50:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:59 PM Total New Items Found: 0 Time: 331 s
+
+2022-03-21 01:50:59 PM Reading file: pc.data.57.Finance, sheet: 0, frequency: A, Time: 331 s
+
+2022-03-21 01:50:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:59 PM Total New Items Found: 0 Time: 331 s
+
+2022-03-21 01:50:59 PM Reading file: pc.data.58.InsuranceCarriers, sheet: 0, frequency: M, Time: 331 s
+
+2022-03-21 01:50:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:59 PM Total New Items Found: 0 Time: 331 s
+
+2022-03-21 01:50:59 PM Reading file: pc.data.58.InsuranceCarriers, sheet: 0, frequency: A, Time: 331 s
+
+2022-03-21 01:50:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:59 PM Total New Items Found: 0 Time: 331 s
+
+2022-03-21 01:50:59 PM Reading file: pc.data.59.RealEstate, sheet: 0, frequency: M, Time: 331 s
+
+2022-03-21 01:50:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:59 PM Total New Items Found: 0 Time: 332 s
+
+2022-03-21 01:50:59 PM Reading file: pc.data.59.RealEstate, sheet: 0, frequency: A, Time: 332 s
+
+2022-03-21 01:50:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:59 PM Total New Items Found: 0 Time: 332 s
+
+2022-03-21 01:50:59 PM Reading file: pc.data.6.Textile, sheet: 0, frequency: M, Time: 332 s
+
+2022-03-21 01:50:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:59 PM Total New Items Found: 0 Time: 332 s
+
+2022-03-21 01:50:59 PM Reading file: pc.data.6.Textile, sheet: 0, frequency: A, Time: 332 s
+
+2022-03-21 01:50:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:50:59 PM Total New Items Found: 0 Time: 332 s
+
+2022-03-21 01:51:00 PM Reading file: pc.data.61.EducationalServices, sheet: 0, frequency: M, Time: 332 s
+
+2022-03-21 01:51:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:00 PM Reading file: pc.data.61.EducationalServices, sheet: 0, frequency: A, Time: 332 s
+
+2022-03-21 01:51:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:00 PM Reading file: pc.data.62.RentalandLeasingServices, sheet: 0, frequency: M, Time: 332 s
+
+2022-03-21 01:51:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:00 PM Total New Items Found: 0 Time: 332 s
+
+2022-03-21 01:51:00 PM Reading file: pc.data.62.RentalandLeasingServices, sheet: 0, frequency: A, Time: 332 s
+
+2022-03-21 01:51:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:00 PM Total New Items Found: 0 Time: 332 s
+
+2022-03-21 01:51:00 PM Reading file: pc.data.63.ProfessionalandTechnicalServ, sheet: 0, frequency: M, Time: 332 s
+
+2022-03-21 01:51:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:00 PM Total New Items Found: 0 Time: 332 s
+
+2022-03-21 01:51:00 PM Reading file: pc.data.63.ProfessionalandTechnicalServ, sheet: 0, frequency: A, Time: 332 s
+
+2022-03-21 01:51:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:00 PM Total New Items Found: 0 Time: 332 s
+
+2022-03-21 01:51:00 PM Reading file: pc.data.67.AdministrativeandSupportServ, sheet: 0, frequency: M, Time: 333 s
+
+2022-03-21 01:51:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:00 PM Total New Items Found: 0 Time: 333 s
+
+2022-03-21 01:51:00 PM Reading file: pc.data.67.AdministrativeandSupportServ, sheet: 0, frequency: A, Time: 333 s
+
+2022-03-21 01:51:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:00 PM Total New Items Found: 0 Time: 333 s
+
+2022-03-21 01:51:00 PM Reading file: pc.data.7.TextileProduct, sheet: 0, frequency: M, Time: 333 s
+
+2022-03-21 01:51:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 333 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.7.TextileProduct, sheet: 0, frequency: A, Time: 333 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 333 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.70.WasteMgtandRemediationServ, sheet: 0, frequency: M, Time: 333 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 333 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.70.WasteMgtandRemediationServ, sheet: 0, frequency: A, Time: 333 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 333 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.71.Accommodation, sheet: 0, frequency: M, Time: 333 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 333 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.71.Accommodation, sheet: 0, frequency: A, Time: 333 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 333 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.72.RecyclableMaterials, sheet: 0, frequency: M, Time: 333 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.72.RecyclableMaterials, sheet: 0, frequency: A, Time: 334 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.73.MiscellaneousStoreRetailers, sheet: 0, frequency: M, Time: 334 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.73.MiscellaneousStoreRetailers, sheet: 0, frequency: A, Time: 334 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.74.PremiumsforPropandCasualtyIns, sheet: 0, frequency: M, Time: 334 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:01 PM Reading file: pc.data.74.PremiumsforPropandCasualtyIns, sheet: 0, frequency: A, Time: 334 s
+
+2022-03-21 01:51:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:01 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:02 PM Reading file: pc.data.75.Construction, sheet: 0, frequency: M, Time: 334 s
+
+2022-03-21 01:51:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:02 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:02 PM Reading file: pc.data.75.Construction, sheet: 0, frequency: A, Time: 334 s
+
+2022-03-21 01:51:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:02 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:02 PM Reading file: pc.data.76.WholesaleTrade, sheet: 0, frequency: M, Time: 334 s
+
+2022-03-21 01:51:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:02 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:02 PM Reading file: pc.data.76.WholesaleTrade, sheet: 0, frequency: A, Time: 334 s
+
+2022-03-21 01:51:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:02 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:02 PM Reading file: pc.data.77.Recreation, sheet: 0, frequency: M, Time: 334 s
+
+2022-03-21 01:51:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:02 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:02 PM Reading file: pc.data.77.Recreation, sheet: 0, frequency: A, Time: 334 s
+
+2022-03-21 01:51:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:02 PM Total New Items Found: 0 Time: 334 s
+
+2022-03-21 01:51:02 PM Reading file: pc.data.8.Apparel, sheet: 0, frequency: M, Time: 335 s
+
+2022-03-21 01:51:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:02 PM Total New Items Found: 0 Time: 335 s
+
+2022-03-21 01:51:02 PM Reading file: pc.data.8.Apparel, sheet: 0, frequency: A, Time: 335 s
+
+2022-03-21 01:51:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:02 PM Total New Items Found: 0 Time: 335 s
+
+2022-03-21 01:51:02 PM Reading file: pc.data.81.OtherServices, sheet: 0, frequency: M, Time: 335 s
+
+2022-03-21 01:51:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:02 PM Total New Items Found: 0 Time: 335 s
+
+2022-03-21 01:51:02 PM Reading file: pc.data.81.OtherServices, sheet: 0, frequency: A, Time: 335 s
+
+2022-03-21 01:51:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:02 PM Total New Items Found: 0 Time: 335 s
+
+2022-03-21 01:51:03 PM Reading file: pc.data.9.Leather, sheet: 0, frequency: M, Time: 335 s
+
+2022-03-21 01:51:03 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:03 PM Total New Items Found: 0 Time: 335 s
+
+2022-03-21 01:51:03 PM Reading file: pc.data.9.Leather, sheet: 0, frequency: A, Time: 335 s
+
+2022-03-21 01:51:03 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:03 PM Total New Items Found: 0 Time: 335 s
+
+2022-03-21 01:51:03 PM Reading file: BLS_series, Time: 335 s
+
+2022-03-21 01:51:03 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:05 PM Reading file: pr.data.1.AllData, sheet: 0, frequency: Q, Time: 337 s
+
+2022-03-21 01:51:05 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:05 PM Total New Items Found: 0 Time: 337 s
+
+2022-03-21 01:51:05 PM Reading file: pr.data.1.AllData, sheet: 0, frequency: A, Time: 337 s
+
+2022-03-21 01:51:05 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:05 PM Total New Items Found: 0 Time: 338 s
+
+2022-03-21 01:51:05 PM Reading file: BLS_series, Time: 338 s
+
+2022-03-21 01:51:05 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:07 PM Reading file: wd.data.10.Pulp, sheet: 0, frequency: M, Time: 339 s
+
+2022-03-21 01:51:07 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:07 PM Total New Items Found: 0 Time: 340 s
+
+2022-03-21 01:51:07 PM Reading file: wd.data.10.Pulp, sheet: 0, frequency: A, Time: 340 s
+
+2022-03-21 01:51:07 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:07 PM Total New Items Found: 0 Time: 340 s
+
+2022-03-21 01:51:07 PM Reading file: wd.data.11a.Metals10-103, sheet: 0, frequency: M, Time: 340 s
+
+2022-03-21 01:51:07 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:08 PM Total New Items Found: 0 Time: 341 s
+
+2022-03-21 01:51:08 PM Reading file: wd.data.11a.Metals10-103, sheet: 0, frequency: A, Time: 341 s
+
+2022-03-21 01:51:08 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:08 PM Total New Items Found: 0 Time: 341 s
+
+2022-03-21 01:51:09 PM Reading file: wd.data.11b.Metals104-109, sheet: 0, frequency: M, Time: 341 s
+
+2022-03-21 01:51:09 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:09 PM Total New Items Found: 0 Time: 342 s
+
+2022-03-21 01:51:09 PM Reading file: wd.data.11b.Metals104-109, sheet: 0, frequency: A, Time: 342 s
+
+2022-03-21 01:51:09 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:09 PM Total New Items Found: 0 Time: 342 s
+
+2022-03-21 01:51:09 PM Reading file: wd.data.12a.Machinery11-113, sheet: 0, frequency: M, Time: 342 s
+
+2022-03-21 01:51:09 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:10 PM Total New Items Found: 0 Time: 343 s
+
+2022-03-21 01:51:10 PM Reading file: wd.data.12a.Machinery11-113, sheet: 0, frequency: A, Time: 343 s
+
+2022-03-21 01:51:10 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:11 PM Total New Items Found: 0 Time: 343 s
+
+2022-03-21 01:51:11 PM Reading file: wd.data.12b.Machinery114-116, sheet: 0, frequency: M, Time: 343 s
+
+2022-03-21 01:51:11 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:11 PM Total New Items Found: 0 Time: 344 s
+
+2022-03-21 01:51:11 PM Reading file: wd.data.12b.Machinery114-116, sheet: 0, frequency: A, Time: 344 s
+
+2022-03-21 01:51:11 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:11 PM Total New Items Found: 0 Time: 344 s
+
+2022-03-21 01:51:11 PM Reading file: wd.data.12c.Machinery117-119, sheet: 0, frequency: M, Time: 344 s
+
+2022-03-21 01:51:11 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:12 PM Total New Items Found: 0 Time: 345 s
+
+2022-03-21 01:51:12 PM Reading file: wd.data.12c.Machinery117-119, sheet: 0, frequency: A, Time: 345 s
+
+2022-03-21 01:51:12 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:12 PM Total New Items Found: 0 Time: 345 s
+
+2022-03-21 01:51:12 PM Reading file: wd.data.12i.MachineryInputs, sheet: 0, frequency: M, Time: 345 s
+
+2022-03-21 01:51:12 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:13 PM Total New Items Found: 0 Time: 345 s
+
+2022-03-21 01:51:13 PM Reading file: wd.data.12i.MachineryInputs, sheet: 0, frequency: A, Time: 345 s
+
+2022-03-21 01:51:13 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:13 PM Total New Items Found: 0 Time: 345 s
+
+2022-03-21 01:51:13 PM Reading file: wd.data.13.Furniture, sheet: 0, frequency: M, Time: 345 s
+
+2022-03-21 01:51:13 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:13 PM Total New Items Found: 0 Time: 345 s
+
+2022-03-21 01:51:13 PM Reading file: wd.data.13.Furniture, sheet: 0, frequency: A, Time: 345 s
+
+2022-03-21 01:51:13 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:13 PM Total New Items Found: 0 Time: 346 s
+
+2022-03-21 01:51:13 PM Reading file: wd.data.14.Minerals, sheet: 0, frequency: M, Time: 346 s
+
+2022-03-21 01:51:13 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:13 PM Total New Items Found: 0 Time: 346 s
+
+2022-03-21 01:51:13 PM Reading file: wd.data.14.Minerals, sheet: 0, frequency: A, Time: 346 s
+
+2022-03-21 01:51:13 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:14 PM Total New Items Found: 0 Time: 346 s
+
+2022-03-21 01:51:14 PM Reading file: wd.data.14i.TransportEqInputs, sheet: 0, frequency: M, Time: 346 s
+
+2022-03-21 01:51:14 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:14 PM Reading file: wd.data.14i.TransportEqInputs, sheet: 0, frequency: A, Time: 346 s
+
+2022-03-21 01:51:14 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:14 PM Reading file: wd.data.15.Transportation, sheet: 0, frequency: M, Time: 346 s
+
+2022-03-21 01:51:14 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:14 PM Total New Items Found: 1 Time: 346 s
+
+2022-03-21 01:51:14 PM Reading file: wd.data.15.Transportation, sheet: 0, frequency: A, Time: 346 s
+
+2022-03-21 01:51:14 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:14 PM Total New Items Found: 2 Time: 346 s
+
+2022-03-21 01:51:14 PM Reading file: wd.data.16.Miscellaneous, sheet: 0, frequency: M, Time: 346 s
+
+2022-03-21 01:51:14 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:15 PM Total New Items Found: 2 Time: 347 s
+
+2022-03-21 01:51:15 PM Reading file: wd.data.16.Miscellaneous, sheet: 0, frequency: A, Time: 347 s
+
+2022-03-21 01:51:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:15 PM Total New Items Found: 2 Time: 347 s
+
+2022-03-21 01:51:15 PM Reading file: wd.data.17.TotalDurables, sheet: 0, frequency: M, Time: 347 s
+
+2022-03-21 01:51:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:15 PM Total New Items Found: 2 Time: 347 s
+
+2022-03-21 01:51:15 PM Reading file: wd.data.17.TotalDurables, sheet: 0, frequency: A, Time: 347 s
+
+2022-03-21 01:51:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:15 PM Total New Items Found: 2 Time: 347 s
+
+2022-03-21 01:51:15 PM Reading file: wd.data.18.SpecialIndexes, sheet: 0, frequency: M, Time: 347 s
+
+2022-03-21 01:51:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:15 PM Total New Items Found: 2 Time: 347 s
+
+2022-03-21 01:51:15 PM Reading file: wd.data.18.SpecialIndexes, sheet: 0, frequency: A, Time: 347 s
+
+2022-03-21 01:51:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:15 PM Total New Items Found: 2 Time: 347 s
+
+2022-03-21 01:51:15 PM Reading file: wd.data.2.FarmProducts, sheet: 0, frequency: M, Time: 347 s
+
+2022-03-21 01:51:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:15 PM Total New Items Found: 2 Time: 348 s
+
+2022-03-21 01:51:15 PM Reading file: wd.data.2.FarmProducts, sheet: 0, frequency: A, Time: 348 s
+
+2022-03-21 01:51:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:15 PM Total New Items Found: 2 Time: 348 s
+
+2022-03-21 01:51:15 PM Reading file: wd.data.20.StageofProcessing, sheet: 0, frequency: M, Time: 348 s
+
+2022-03-21 01:51:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:16 PM Total New Items Found: 2 Time: 348 s
+
+2022-03-21 01:51:16 PM Reading file: wd.data.20.StageofProcessing, sheet: 0, frequency: A, Time: 348 s
+
+2022-03-21 01:51:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:16 PM Total New Items Found: 2 Time: 348 s
+
+2022-03-21 01:51:16 PM Reading file: wd.data.21.FD-ID, sheet: 0, frequency: M, Time: 348 s
+
+2022-03-21 01:51:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:16 PM Total New Items Found: 2 Time: 349 s
+
+2022-03-21 01:51:16 PM Reading file: wd.data.21.FD-ID, sheet: 0, frequency: A, Time: 349 s
+
+2022-03-21 01:51:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:16 PM Total New Items Found: 2 Time: 349 s
+
+2022-03-21 01:51:16 PM Reading file: wd.data.23.RefinedPetroleum, sheet: 0, frequency: M, Time: 349 s
+
+2022-03-21 01:51:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:16 PM Total New Items Found: 2 Time: 349 s
+
+2022-03-21 01:51:16 PM Reading file: wd.data.23.RefinedPetroleum, sheet: 0, frequency: A, Time: 349 s
+
+2022-03-21 01:51:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:16 PM Reading file: wd.data.3.ProcessedFoods, sheet: 0, frequency: M, Time: 349 s
+
+2022-03-21 01:51:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:17 PM Total New Items Found: 2 Time: 350 s
+
+2022-03-21 01:51:17 PM Reading file: wd.data.3.ProcessedFoods, sheet: 0, frequency: A, Time: 350 s
+
+2022-03-21 01:51:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:17 PM Total New Items Found: 2 Time: 350 s
+
+2022-03-21 01:51:17 PM Reading file: wd.data.30.Services, sheet: 0, frequency: M, Time: 350 s
+
+2022-03-21 01:51:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:17 PM Total New Items Found: 2 Time: 350 s
+
+2022-03-21 01:51:17 PM Reading file: wd.data.30.Services, sheet: 0, frequency: A, Time: 350 s
+
+2022-03-21 01:51:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:18 PM Total New Items Found: 2 Time: 350 s
+
+2022-03-21 01:51:18 PM Reading file: wd.data.30i.TransportServInputs, sheet: 0, frequency: M, Time: 350 s
+
+2022-03-21 01:51:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:18 PM Reading file: wd.data.30i.TransportServInputs, sheet: 0, frequency: A, Time: 350 s
+
+2022-03-21 01:51:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:18 PM Reading file: wd.data.4.Textile, sheet: 0, frequency: M, Time: 350 s
+
+2022-03-21 01:51:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:18 PM Total New Items Found: 2 Time: 351 s
+
+2022-03-21 01:51:18 PM Reading file: wd.data.4.Textile, sheet: 0, frequency: A, Time: 351 s
+
+2022-03-21 01:51:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:19 PM Total New Items Found: 2 Time: 351 s
+
+2022-03-21 01:51:19 PM Reading file: wd.data.5.Leather, sheet: 0, frequency: M, Time: 351 s
+
+2022-03-21 01:51:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:19 PM Total New Items Found: 2 Time: 351 s
+
+2022-03-21 01:51:19 PM Reading file: wd.data.5.Leather, sheet: 0, frequency: A, Time: 351 s
+
+2022-03-21 01:51:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:19 PM Total New Items Found: 2 Time: 351 s
+
+2022-03-21 01:51:19 PM Reading file: wd.data.51i.HealthServInputs, sheet: 0, frequency: M, Time: 352 s
+
+2022-03-21 01:51:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:19 PM Reading file: wd.data.51i.HealthServInputs, sheet: 0, frequency: A, Time: 352 s
+
+2022-03-21 01:51:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:19 PM Reading file: wd.data.56i.EntertnOtherInputs, sheet: 0, frequency: M, Time: 352 s
+
+2022-03-21 01:51:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:19 PM Reading file: wd.data.56i.EntertnOtherInputs, sheet: 0, frequency: A, Time: 352 s
+
+2022-03-21 01:51:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:19 PM Reading file: wd.data.6.Fuels, sheet: 0, frequency: M, Time: 352 s
+
+2022-03-21 01:51:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:20 PM Total New Items Found: 2 Time: 352 s
+
+2022-03-21 01:51:20 PM Reading file: wd.data.6.Fuels, sheet: 0, frequency: A, Time: 352 s
+
+2022-03-21 01:51:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:20 PM Total New Items Found: 2 Time: 352 s
+
+2022-03-21 01:51:20 PM Reading file: wd.data.7.Chemicals, sheet: 0, frequency: M, Time: 352 s
+
+2022-03-21 01:51:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:21 PM Total New Items Found: 2 Time: 353 s
+
+2022-03-21 01:51:21 PM Reading file: wd.data.7.Chemicals, sheet: 0, frequency: A, Time: 353 s
+
+2022-03-21 01:51:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:21 PM Total New Items Found: 2 Time: 353 s
+
+2022-03-21 01:51:21 PM Reading file: wd.data.7i.ChemicalsInputs, sheet: 0, frequency: M, Time: 353 s
+
+2022-03-21 01:51:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:21 PM Total New Items Found: 2 Time: 354 s
+
+2022-03-21 01:51:21 PM Reading file: wd.data.7i.ChemicalsInputs, sheet: 0, frequency: A, Time: 354 s
+
+2022-03-21 01:51:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:21 PM Total New Items Found: 2 Time: 354 s
+
+2022-03-21 01:51:21 PM Reading file: wd.data.8.Rubber, sheet: 0, frequency: M, Time: 354 s
+
+2022-03-21 01:51:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:21 PM Total New Items Found: 2 Time: 354 s
+
+2022-03-21 01:51:21 PM Reading file: wd.data.8.Rubber, sheet: 0, frequency: A, Time: 354 s
+
+2022-03-21 01:51:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:22 PM Total New Items Found: 2 Time: 354 s
+
+2022-03-21 01:51:22 PM Reading file: wd.data.80.Construction, sheet: 0, frequency: M, Time: 354 s
+
+2022-03-21 01:51:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:22 PM Reading file: wd.data.80.Construction, sheet: 0, frequency: A, Time: 354 s
+
+2022-03-21 01:51:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:22 PM Reading file: wd.data.80i.ConstructnInputs, sheet: 0, frequency: M, Time: 354 s
+
+2022-03-21 01:51:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:22 PM Reading file: wd.data.80i.ConstructnInputs, sheet: 0, frequency: A, Time: 354 s
+
+2022-03-21 01:51:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:22 PM Reading file: wd.data.8i.RubberInputs, sheet: 0, frequency: M, Time: 354 s
+
+2022-03-21 01:51:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:22 PM Total New Items Found: 2 Time: 354 s
+
+2022-03-21 01:51:22 PM Reading file: wd.data.8i.RubberInputs, sheet: 0, frequency: A, Time: 354 s
+
+2022-03-21 01:51:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:22 PM Total New Items Found: 2 Time: 354 s
+
+2022-03-21 01:51:22 PM Reading file: wd.data.9.Lumber, sheet: 0, frequency: M, Time: 354 s
+
+2022-03-21 01:51:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:22 PM Total New Items Found: 2 Time: 355 s
+
+2022-03-21 01:51:22 PM Reading file: wd.data.9.Lumber, sheet: 0, frequency: A, Time: 355 s
+
+2022-03-21 01:51:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:22 PM Total New Items Found: 2 Time: 355 s
+
+2022-03-21 01:51:22 PM Reading file: BLS_series, Time: 355 s
+
+2022-03-21 01:51:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:24 PM Reading file: wp.data.1.AllCommodities, sheet: 0, frequency: M, Time: 357 s
+
+2022-03-21 01:51:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:24 PM Total New Items Found: 2 Time: 357 s
+
+2022-03-21 01:51:24 PM Reading file: wp.data.1.AllCommodities, sheet: 0, frequency: A, Time: 357 s
+
+2022-03-21 01:51:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:24 PM Total New Items Found: 2 Time: 357 s
+
+2022-03-21 01:51:24 PM Reading file: wp.data.10.Pulp, sheet: 0, frequency: M, Time: 357 s
+
+2022-03-21 01:51:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:25 PM Total New Items Found: 2 Time: 357 s
+
+2022-03-21 01:51:25 PM Reading file: wp.data.10.Pulp, sheet: 0, frequency: A, Time: 357 s
+
+2022-03-21 01:51:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:25 PM Total New Items Found: 2 Time: 357 s
+
+2022-03-21 01:51:25 PM Reading file: wp.data.11a.Metals10-103, sheet: 0, frequency: M, Time: 357 s
+
+2022-03-21 01:51:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:25 PM Total New Items Found: 2 Time: 358 s
+
+2022-03-21 01:51:25 PM Reading file: wp.data.11a.Metals10-103, sheet: 0, frequency: A, Time: 358 s
+
+2022-03-21 01:51:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:25 PM Total New Items Found: 2 Time: 358 s
+
+2022-03-21 01:51:25 PM Reading file: wp.data.11b.Metals104-109, sheet: 0, frequency: M, Time: 358 s
+
+2022-03-21 01:51:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:26 PM Total New Items Found: 2 Time: 358 s
+
+2022-03-21 01:51:26 PM Reading file: wp.data.11b.Metals104-109, sheet: 0, frequency: A, Time: 358 s
+
+2022-03-21 01:51:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:26 PM Total New Items Found: 2 Time: 358 s
+
+2022-03-21 01:51:26 PM Reading file: wp.data.12a.Machinery11-113, sheet: 0, frequency: M, Time: 359 s
+
+2022-03-21 01:51:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:27 PM Total New Items Found: 2 Time: 359 s
+
+2022-03-21 01:51:27 PM Reading file: wp.data.12a.Machinery11-113, sheet: 0, frequency: A, Time: 359 s
+
+2022-03-21 01:51:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:27 PM Total New Items Found: 2 Time: 359 s
+
+2022-03-21 01:51:27 PM Reading file: wp.data.12b.Machinery114-116, sheet: 0, frequency: M, Time: 359 s
+
+2022-03-21 01:51:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:27 PM Total New Items Found: 2 Time: 360 s
+
+2022-03-21 01:51:27 PM Reading file: wp.data.12b.Machinery114-116, sheet: 0, frequency: A, Time: 360 s
+
+2022-03-21 01:51:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:28 PM Total New Items Found: 2 Time: 360 s
+
+2022-03-21 01:51:28 PM Reading file: wp.data.12c.Machinery117-119, sheet: 0, frequency: M, Time: 360 s
+
+2022-03-21 01:51:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:28 PM Total New Items Found: 2 Time: 361 s
+
+2022-03-21 01:51:28 PM Reading file: wp.data.12c.Machinery117-119, sheet: 0, frequency: A, Time: 361 s
+
+2022-03-21 01:51:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:28 PM Total New Items Found: 2 Time: 361 s
+
+2022-03-21 01:51:29 PM Reading file: wp.data.12i.MachineryInputs, sheet: 0, frequency: M, Time: 361 s
+
+2022-03-21 01:51:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:29 PM Total New Items Found: 2 Time: 361 s
+
+2022-03-21 01:51:29 PM Reading file: wp.data.12i.MachineryInputs, sheet: 0, frequency: A, Time: 361 s
+
+2022-03-21 01:51:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:29 PM Total New Items Found: 2 Time: 361 s
+
+2022-03-21 01:51:29 PM Reading file: wp.data.13.Furniture, sheet: 0, frequency: M, Time: 361 s
+
+2022-03-21 01:51:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:29 PM Total New Items Found: 2 Time: 361 s
+
+2022-03-21 01:51:29 PM Reading file: wp.data.13.Furniture, sheet: 0, frequency: A, Time: 361 s
+
+2022-03-21 01:51:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:29 PM Total New Items Found: 2 Time: 362 s
+
+2022-03-21 01:51:29 PM Reading file: wp.data.14.Minerals, sheet: 0, frequency: M, Time: 362 s
+
+2022-03-21 01:51:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:30 PM Total New Items Found: 2 Time: 362 s
+
+2022-03-21 01:51:30 PM Reading file: wp.data.14.Minerals, sheet: 0, frequency: A, Time: 362 s
+
+2022-03-21 01:51:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:30 PM Total New Items Found: 2 Time: 362 s
+
+2022-03-21 01:51:30 PM Reading file: wp.data.14i.TransportEqInputs, sheet: 0, frequency: M, Time: 362 s
+
+2022-03-21 01:51:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:30 PM Total New Items Found: 2 Time: 362 s
+
+2022-03-21 01:51:30 PM Reading file: wp.data.14i.TransportEqInputs, sheet: 0, frequency: A, Time: 362 s
+
+2022-03-21 01:51:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:30 PM Total New Items Found: 2 Time: 362 s
+
+2022-03-21 01:51:30 PM Reading file: wp.data.15.Transportation, sheet: 0, frequency: M, Time: 362 s
+
+2022-03-21 01:51:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:30 PM Total New Items Found: 2 Time: 363 s
+
+2022-03-21 01:51:30 PM Reading file: wp.data.15.Transportation, sheet: 0, frequency: A, Time: 363 s
+
+2022-03-21 01:51:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:31 PM Total New Items Found: 2 Time: 363 s
+
+2022-03-21 01:51:31 PM Reading file: wp.data.16.Miscellaneous, sheet: 0, frequency: M, Time: 363 s
+
+2022-03-21 01:51:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:31 PM Total New Items Found: 2 Time: 363 s
+
+2022-03-21 01:51:31 PM Reading file: wp.data.16.Miscellaneous, sheet: 0, frequency: A, Time: 363 s
+
+2022-03-21 01:51:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:31 PM Total New Items Found: 2 Time: 364 s
+
+2022-03-21 01:51:31 PM Reading file: wp.data.17.TotalDurables, sheet: 0, frequency: M, Time: 364 s
+
+2022-03-21 01:51:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:31 PM Reading file: wp.data.17.TotalDurables, sheet: 0, frequency: A, Time: 364 s
+
+2022-03-21 01:51:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:31 PM Reading file: wp.data.18.SpecialIndexes, sheet: 0, frequency: M, Time: 364 s
+
+2022-03-21 01:51:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:31 PM Total New Items Found: 2 Time: 364 s
+
+2022-03-21 01:51:31 PM Reading file: wp.data.18.SpecialIndexes, sheet: 0, frequency: A, Time: 364 s
+
+2022-03-21 01:51:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:31 PM Total New Items Found: 2 Time: 364 s
+
+2022-03-21 01:51:32 PM Reading file: wp.data.19.SteelMill, sheet: 0, frequency: M, Time: 364 s
+
+2022-03-21 01:51:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:32 PM Total New Items Found: 2 Time: 364 s
+
+2022-03-21 01:51:32 PM Reading file: wp.data.19.SteelMill, sheet: 0, frequency: A, Time: 364 s
+
+2022-03-21 01:51:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:32 PM Total New Items Found: 2 Time: 364 s
+
+2022-03-21 01:51:32 PM Reading file: wp.data.2.FarmProducts, sheet: 0, frequency: M, Time: 364 s
+
+2022-03-21 01:51:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:32 PM Total New Items Found: 2 Time: 365 s
+
+2022-03-21 01:51:32 PM Reading file: wp.data.2.FarmProducts, sheet: 0, frequency: A, Time: 365 s
+
+2022-03-21 01:51:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:32 PM Total New Items Found: 2 Time: 365 s
+
+2022-03-21 01:51:33 PM Reading file: wp.data.21.Aggregates, sheet: 0, frequency: M, Time: 365 s
+
+2022-03-21 01:51:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:33 PM Total New Items Found: 2 Time: 365 s
+
+2022-03-21 01:51:33 PM Reading file: wp.data.21.Aggregates, sheet: 0, frequency: A, Time: 365 s
+
+2022-03-21 01:51:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:33 PM Total New Items Found: 2 Time: 365 s
+
+2022-03-21 01:51:33 PM Reading file: wp.data.22.FD-ID, sheet: 0, frequency: M, Time: 365 s
+
+2022-03-21 01:51:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:34 PM Total New Items Found: 2 Time: 366 s
+
+2022-03-21 01:51:34 PM Reading file: wp.data.22.FD-ID, sheet: 0, frequency: A, Time: 366 s
+
+2022-03-21 01:51:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:34 PM Total New Items Found: 2 Time: 366 s
+
+2022-03-21 01:51:34 PM Reading file: wp.data.3.ProcessedFoods, sheet: 0, frequency: M, Time: 366 s
+
+2022-03-21 01:51:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:35 PM Total New Items Found: 2 Time: 367 s
+
+2022-03-21 01:51:35 PM Reading file: wp.data.3.ProcessedFoods, sheet: 0, frequency: A, Time: 367 s
+
+2022-03-21 01:51:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:35 PM Total New Items Found: 2 Time: 367 s
+
+2022-03-21 01:51:35 PM Reading file: wp.data.30.Services, sheet: 0, frequency: M, Time: 367 s
+
+2022-03-21 01:51:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:36 PM Total New Items Found: 2 Time: 368 s
+
+2022-03-21 01:51:36 PM Reading file: wp.data.30.Services, sheet: 0, frequency: A, Time: 368 s
+
+2022-03-21 01:51:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:36 PM Total New Items Found: 2 Time: 368 s
+
+2022-03-21 01:51:36 PM Reading file: wp.data.30i.TransportServInputs, sheet: 0, frequency: M, Time: 368 s
+
+2022-03-21 01:51:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:36 PM Total New Items Found: 2 Time: 368 s
+
+2022-03-21 01:51:36 PM Reading file: wp.data.30i.TransportServInputs, sheet: 0, frequency: A, Time: 368 s
+
+2022-03-21 01:51:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:36 PM Total New Items Found: 2 Time: 368 s
+
+2022-03-21 01:51:36 PM Reading file: wp.data.4.Textile, sheet: 0, frequency: M, Time: 369 s
+
+2022-03-21 01:51:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:36 PM Total New Items Found: 2 Time: 369 s
+
+2022-03-21 01:51:36 PM Reading file: wp.data.4.Textile, sheet: 0, frequency: A, Time: 369 s
+
+2022-03-21 01:51:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:37 PM Total New Items Found: 2 Time: 369 s
+
+2022-03-21 01:51:37 PM Reading file: wp.data.5.Leather, sheet: 0, frequency: M, Time: 369 s
+
+2022-03-21 01:51:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:37 PM Total New Items Found: 2 Time: 369 s
+
+2022-03-21 01:51:37 PM Reading file: wp.data.5.Leather, sheet: 0, frequency: A, Time: 369 s
+
+2022-03-21 01:51:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:37 PM Total New Items Found: 2 Time: 369 s
+
+2022-03-21 01:51:37 PM Reading file: wp.data.51i.HealthServInputs, sheet: 0, frequency: M, Time: 369 s
+
+2022-03-21 01:51:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:37 PM Total New Items Found: 2 Time: 370 s
+
+2022-03-21 01:51:37 PM Reading file: wp.data.51i.HealthServInputs, sheet: 0, frequency: A, Time: 370 s
+
+2022-03-21 01:51:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:37 PM Total New Items Found: 2 Time: 370 s
+
+2022-03-21 01:51:37 PM Reading file: wp.data.56i.EntertnOtherInputs, sheet: 0, frequency: M, Time: 370 s
+
+2022-03-21 01:51:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:37 PM Total New Items Found: 2 Time: 370 s
+
+2022-03-21 01:51:37 PM Reading file: wp.data.56i.EntertnOtherInputs, sheet: 0, frequency: A, Time: 370 s
+
+2022-03-21 01:51:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:37 PM Total New Items Found: 2 Time: 370 s
+
+2022-03-21 01:51:37 PM Reading file: wp.data.6.Fuels, sheet: 0, frequency: M, Time: 370 s
+
+2022-03-21 01:51:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:38 PM Total New Items Found: 2 Time: 370 s
+
+2022-03-21 01:51:38 PM Reading file: wp.data.6.Fuels, sheet: 0, frequency: A, Time: 370 s
+
+2022-03-21 01:51:38 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:38 PM Total New Items Found: 2 Time: 370 s
+
+2022-03-21 01:51:38 PM Reading file: wp.data.7.Chemicals, sheet: 0, frequency: M, Time: 370 s
+
+2022-03-21 01:51:38 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:39 PM Total New Items Found: 2 Time: 371 s
+
+2022-03-21 01:51:39 PM Reading file: wp.data.7.Chemicals, sheet: 0, frequency: A, Time: 371 s
+
+2022-03-21 01:51:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:39 PM Total New Items Found: 2 Time: 371 s
+
+2022-03-21 01:51:39 PM Reading file: wp.data.7i.ChemicalsInputs, sheet: 0, frequency: M, Time: 371 s
+
+2022-03-21 01:51:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:39 PM Total New Items Found: 2 Time: 371 s
+
+2022-03-21 01:51:39 PM Reading file: wp.data.7i.ChemicalsInputs, sheet: 0, frequency: A, Time: 371 s
+
+2022-03-21 01:51:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:39 PM Total New Items Found: 2 Time: 371 s
+
+2022-03-21 01:51:39 PM Reading file: wp.data.8.Rubber, sheet: 0, frequency: M, Time: 371 s
+
+2022-03-21 01:51:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:39 PM Total New Items Found: 2 Time: 372 s
+
+2022-03-21 01:51:39 PM Reading file: wp.data.8.Rubber, sheet: 0, frequency: A, Time: 372 s
+
+2022-03-21 01:51:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:39 PM Total New Items Found: 2 Time: 372 s
+
+2022-03-21 01:51:39 PM Reading file: wp.data.80.Construction, sheet: 0, frequency: M, Time: 372 s
+
+2022-03-21 01:51:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:39 PM Total New Items Found: 2 Time: 372 s
+
+2022-03-21 01:51:39 PM Reading file: wp.data.80.Construction, sheet: 0, frequency: A, Time: 372 s
+
+2022-03-21 01:51:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:39 PM Total New Items Found: 2 Time: 372 s
+
+2022-03-21 01:51:40 PM Reading file: wp.data.80i.ConstructnInputs, sheet: 0, frequency: M, Time: 372 s
+
+2022-03-21 01:51:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:40 PM Total New Items Found: 2 Time: 372 s
+
+2022-03-21 01:51:40 PM Reading file: wp.data.80i.ConstructnInputs, sheet: 0, frequency: A, Time: 372 s
+
+2022-03-21 01:51:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:40 PM Total New Items Found: 2 Time: 372 s
+
+2022-03-21 01:51:40 PM Reading file: wp.data.8i.RubberInputs, sheet: 0, frequency: M, Time: 372 s
+
+2022-03-21 01:51:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:40 PM Total New Items Found: 2 Time: 372 s
+
+2022-03-21 01:51:40 PM Reading file: wp.data.8i.RubberInputs, sheet: 0, frequency: A, Time: 372 s
+
+2022-03-21 01:51:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:40 PM Total New Items Found: 2 Time: 372 s
+
+2022-03-21 01:51:40 PM Reading file: wp.data.9.Lumber, sheet: 0, frequency: M, Time: 372 s
+
+2022-03-21 01:51:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:40 PM Total New Items Found: 2 Time: 373 s
+
+2022-03-21 01:51:40 PM Reading file: wp.data.9.Lumber, sheet: 0, frequency: A, Time: 373 s
+
+2022-03-21 01:51:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-21 01:51:40 PM Total New Items Found: 2 Time: 373 s
+
+2022-03-21 01:51:41 PM Reading file: US_database?, Time: 374 s
+
+2022-03-21 01:51:41 PM Concating file: US_key?, Time: 374 s
+
+2022-03-21 01:51:41 PM Concating file: US_database?, Time: 374 s
+
+2022-03-21 01:51:41 PM Setting new files, Time: 374 s
+
+2022-03-21 01:51:41 PM Concating new files: US_database, Time: 374 s
+
+2022-03-21 01:51:41 PM   databank             name   db_table  db_code                                             desc_e desc_c  ...                       unit                                 type snl                      source                    form_e                   form_c
+0       US  WDU1416020142.A  DB_A_0001  data001  United States Prices, Producer Price Index, PP...         ...  Index base: 2011.12 = 100  Truck Campers, Caps, and Box Covers   1  Bureau Of Labor Statistics  Transportation equipment  Not Seasonally Adjusted
+1       US  WDU1416020142.M  DB_M_0001  data001  United States Prices, Producer Price Index, PP...         ...  Index base: 2011.12 = 100  Truck Campers, Caps, and Box Covers   2  Bureau Of Labor Statistics  Transportation equipment  Not Seasonally Adjusted
+
+[2 rows x 15 columns]
+2022-03-21 01:51:41 PM Total Items: 2
+2022-03-21 01:51:41 PM 
+database_num = 1
+2022-03-21 01:51:41 PM New items were found
+2022-03-21 01:51:41 PM                                                                                                   Source Subset Frequency      keyword  counts  Unnamed: 8 Unnamed: 9  new_counts
+Address                                      File                      Sheet                                                                                                     
+https://download.bls.gov/pub/time.series/wd/ wd.data.15.Transportation 0      Bureau Of Labor Statistics   BLS/      M, A  web crawler   207.0         NaN        NaN           2
