@@ -33,6 +33,7 @@ sys.path.append('../TO_DB')
 from TO_DB import SELECT_DF_KEY, SELECT_DATABASES, INSERT_TABLES
 urllib3.disable_warnings()
 warnings.simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
+warnings.simplefilter(action="ignore", category=DeprecationWarning)
 #from US_concat import CONCATE, readExcelFile
 
 NAME = 'US_'

@@ -1459,7 +1459,8 @@ for source in SOURCE(TABLES):
                                     lab = lab+' ('+re.findall(r'S[0-9]+', lab)[0]+')'
                                     lab = re.sub(r'[\s]*S[0-9]+\s',"",lab, 1)
                                 if new == True:
-                                    new_label = new_label.append(pd.Series([lab], index=[label.index[l]]))
+                                    #new_label = new_label.append(pd.Series([lab], index=[label.index[l]]))
+                                    new_label = pd.concat([new_label, pd.Series([lab], index=[label.index[l]])])
                             if new_label.empty == False:
                                 label = new_label
                             label_level = US_LEVEL(label, source)
