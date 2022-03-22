@@ -1,11 +1,136 @@
-﻿2022-03-21 02:05:47 PM Checking Identities: 1219 s
+﻿2022-03-22 03:10:49 PM Checking Identities: 21572 s
 
-2022-03-21 02:05:47 PM unknown: 2
-2022-03-21 02:05:47 PM unknown earliest: 2011
-2022-03-21 02:05:47 PM name too long: 0
-2022-03-21 02:05:47 PM inconsistent: 0
-2022-03-21 02:05:47 PM base updated: 0
-2022-03-21 02:05:47 PM data updated: 0
-2022-03-21 02:05:47 PM including weekly: False
-2022-03-21 02:05:47 PM too many months: False
-2022-03-21 02:05:56 PM unfound: 161403
+2022-03-22 03:11:01 PM Index PCU3114231.A desc_e inconsistent
+2022-03-22 03:11:01 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Soup mixes (dried/dehydrated/freeze-dried) and bouillon, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:01 PM df_key = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Soup mixes (including dried/dehydrated/freeze-dried) and bouillon, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:01 PM Index PCU3114231.A type inconsistent
+2022-03-22 03:11:01 PM DF_KEY = Soup Mixes (Dried/Dehydrated/Freeze-Dried) and Bouillon
+2022-03-22 03:11:01 PM df_key = Soup Mixes (Including Dried/Dehydrated/Freeze-Dried) and Bouillon
+2022-03-22 03:11:01 PM Index PCU3114235.A desc_e inconsistent
+2022-03-22 03:11:01 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Dried and dehydrated fruits and vegetables, incl. freeze-dried, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:01 PM df_key = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Dried and dehydrated fruits and vegetables, including freeze-dried, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:01 PM Index PCU3114235.A type inconsistent
+2022-03-22 03:11:01 PM DF_KEY = Dried and Dehydrated Fruits and Vegetables, Incl. Freeze-Dried
+2022-03-22 03:11:01 PM df_key = Dried and Dehydrated Fruits and Vegetables, Including Freeze-Dried
+2022-03-22 03:11:01 PM Index PCU3114237.A desc_e inconsistent
+2022-03-22 03:11:01 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Macaroni/noodle prod., pkg w/ oth. ingred., exc. canned/frozen, not seasonally adjusted, Unit: Index base: 1998.06 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:01 PM df_key = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Macaroni/noodle prod., purchased, pkgd w/ other ingred., excluding canned/frozen, not seasonally adjusted, Unit: Index base: 1998.06 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:01 PM Index PCU3114237.A type inconsistent
+2022-03-22 03:11:01 PM DF_KEY = Macaroni/Noodle Prod., Pkg W/ Oth. Ingred., Exc. Canned/Frozen
+2022-03-22 03:11:01 PM df_key = Macaroni/Noodle Prod., Purchased, Pkgd W/ Other Ingred., Excluding Canned/Frozen
+2022-03-22 03:11:01 PM Index PCU3114238.A desc_e inconsistent
+2022-03-22 03:11:01 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Other purchased products pkg w/ dried/dehydrated ingredients, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:01 PM df_key = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Other purchased products packaged with dried and dehydrated ingredients, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:01 PM Index PCU3114238.A type inconsistent
+2022-03-22 03:11:01 PM DF_KEY = Other Purchased Products Pkg W/ Dried/Dehydrated Ingredients
+2022-03-22 03:11:01 PM df_key = Other Purchased Products Packaged With Dried and Dehydrated Ingredients
+2022-03-22 03:11:02 PM Index PCU3272129.A desc_e inconsistent
+2022-03-22 03:11:02 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Other pressed and blown glass and glassware, Handmade pressed and blown glass and glassware, made by glass producers, not seasonally adjusted, Unit: Index base: 2004.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:02 PM df_key = United States Prices, Producer Price Index, PPI industry data for Other pressed and blown glass and glassware, Handmade pressed and blown glassware, made by glass producers, not seasonally adjusted, Unit: Index base: 2004.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:02 PM Index PCU3272129.A type inconsistent
+2022-03-22 03:11:02 PM DF_KEY = Handmade Pressed and Blown Glass and Glassware, Made By Glass Producers
+2022-03-22 03:11:02 PM df_key = Handmade Pressed and Blown Glassware, Made By Glass Producers
+2022-03-22 03:11:02 PM Index PCU327212B1.A desc_e inconsistent
+2022-03-22 03:11:02 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Other pressed and blown glass and glassware, Glass fiber mat, textile-type, made by glass producers, not seasonally adjusted, Unit: Index base: 1983.06 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:02 PM df_key = United States Prices, Producer Price Index, PPI industry data for Other pressed and blown glass and glassware, Glass fiber mat, textile-type, made by establishments producing glass, not seasonally adjusted, Unit: Index base: 1983.06 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:02 PM Index PCU327212B1.A type inconsistent
+2022-03-22 03:11:02 PM DF_KEY = Glass Fiber Mat, Textile-Type, Made By Glass Producers
+2022-03-22 03:11:02 PM df_key = Glass Fiber Mat, Textile-Type, Made By Establishments Producing Glass
+2022-03-22 03:11:05 PM Index WPU0248010101.A desc_e inconsistent
+2022-03-22 03:11:05 PM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Soup mixes (dried/dehydrated/freeze-dried) and bouillon, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:05 PM df_key = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Soup mixes (including dried/dehydrated/freeze-dried) and bouillon, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:05 PM Index WPU0248010101.A type inconsistent
+2022-03-22 03:11:05 PM DF_KEY = Soup Mixes (Dried/Dehydrated/Freeze-Dried) and Bouillon
+2022-03-22 03:11:05 PM df_key = Soup Mixes (Including Dried/Dehydrated/Freeze-Dried) and Bouillon
+2022-03-22 03:11:05 PM Index WPU0248010102.A desc_e inconsistent
+2022-03-22 03:11:05 PM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Dried and dehydrated fruits and vegetables incl. freeze-dried, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:05 PM df_key = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Dried and dehydrated fruits and vegetables, including freeze-dried, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:05 PM Index WPU0248010102.A type inconsistent
+2022-03-22 03:11:05 PM DF_KEY = Dried and Dehydrated Fruits and Vegetables Incl. Freeze-Dried
+2022-03-22 03:11:05 PM df_key = Dried and Dehydrated Fruits and Vegetables, Including Freeze-Dried
+2022-03-22 03:11:06 PM Index WPU10251935.A desc_e inconsistent
+2022-03-22 03:11:06 PM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Metals and metal products, All other nonferrous metal mill shapes, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:06 PM df_key = United States Prices, Producer Price Index, PPI Commodity data for Metals and metal products, All other nonferrous metal mill shapes, except precious metal, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:06 PM Index WPU10251935.A type inconsistent
+2022-03-22 03:11:06 PM DF_KEY = All Other Nonferrous Metal Mill Shapes
+2022-03-22 03:11:06 PM df_key = All Other Nonferrous Metal Mill Shapes, Except Precious Metal
+2022-03-22 03:11:25 PM Index PCU3114231.M desc_e inconsistent
+2022-03-22 03:11:25 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Soup mixes (dried/dehydrated/freeze-dried) and bouillon, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:25 PM df_key = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Soup mixes (including dried/dehydrated/freeze-dried) and bouillon, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:25 PM Index PCU3114231.M type inconsistent
+2022-03-22 03:11:25 PM DF_KEY = Soup Mixes (Dried/Dehydrated/Freeze-Dried) and Bouillon
+2022-03-22 03:11:25 PM df_key = Soup Mixes (Including Dried/Dehydrated/Freeze-Dried) and Bouillon
+2022-03-22 03:11:25 PM Index PCU3114235.M desc_e inconsistent
+2022-03-22 03:11:25 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Dried and dehydrated fruits and vegetables, incl. freeze-dried, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:25 PM df_key = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Dried and dehydrated fruits and vegetables, including freeze-dried, not seasonally adjusted, Unit: Index base: 1982.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:25 PM Index PCU3114235.M type inconsistent
+2022-03-22 03:11:25 PM DF_KEY = Dried and Dehydrated Fruits and Vegetables, Incl. Freeze-Dried
+2022-03-22 03:11:25 PM df_key = Dried and Dehydrated Fruits and Vegetables, Including Freeze-Dried
+2022-03-22 03:11:25 PM Index PCU3114237.M desc_e inconsistent
+2022-03-22 03:11:25 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Macaroni/noodle prod., pkg w/ oth. ingred., exc. canned/frozen, not seasonally adjusted, Unit: Index base: 1998.06 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:25 PM df_key = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Macaroni/noodle prod., purchased, pkgd w/ other ingred., excluding canned/frozen, not seasonally adjusted, Unit: Index base: 1998.06 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:25 PM Index PCU3114237.M type inconsistent
+2022-03-22 03:11:25 PM DF_KEY = Macaroni/Noodle Prod., Pkg W/ Oth. Ingred., Exc. Canned/Frozen
+2022-03-22 03:11:25 PM df_key = Macaroni/Noodle Prod., Purchased, Pkgd W/ Other Ingred., Excluding Canned/Frozen
+2022-03-22 03:11:25 PM Index PCU3114238.M desc_e inconsistent
+2022-03-22 03:11:25 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Other purchased products pkg w/ dried/dehydrated ingredients, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:25 PM df_key = United States Prices, Producer Price Index, PPI industry data for Dried and dehydrated food manufacturing, Other purchased products packaged with dried and dehydrated ingredients, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:25 PM Index PCU3114238.M type inconsistent
+2022-03-22 03:11:25 PM DF_KEY = Other Purchased Products Pkg W/ Dried/Dehydrated Ingredients
+2022-03-22 03:11:25 PM df_key = Other Purchased Products Packaged With Dried and Dehydrated Ingredients
+2022-03-22 03:11:26 PM The program did not fetch the latest data for: PCU324199S.M
+2022-03-22 03:11:26 PM Index PCU3272129.M desc_e inconsistent
+2022-03-22 03:11:26 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Other pressed and blown glass and glassware, Handmade pressed and blown glass and glassware, made by glass producers, not seasonally adjusted, Unit: Index base: 2004.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:26 PM df_key = United States Prices, Producer Price Index, PPI industry data for Other pressed and blown glass and glassware, Handmade pressed and blown glassware, made by glass producers, not seasonally adjusted, Unit: Index base: 2004.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:26 PM Index PCU3272129.M type inconsistent
+2022-03-22 03:11:26 PM DF_KEY = Handmade Pressed and Blown Glass and Glassware, Made By Glass Producers
+2022-03-22 03:11:26 PM df_key = Handmade Pressed and Blown Glassware, Made By Glass Producers
+2022-03-22 03:11:26 PM Index PCU327212B1.M desc_e inconsistent
+2022-03-22 03:11:26 PM DF_KEY = United States Prices, Producer Price Index, PPI industry data for Other pressed and blown glass and glassware, Glass fiber mat, textile-type, made by glass producers, not seasonally adjusted, Unit: Index base: 1983.06 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:26 PM df_key = United States Prices, Producer Price Index, PPI industry data for Other pressed and blown glass and glassware, Glass fiber mat, textile-type, made by establishments producing glass, not seasonally adjusted, Unit: Index base: 1983.06 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:26 PM Index PCU327212B1.M type inconsistent
+2022-03-22 03:11:26 PM DF_KEY = Glass Fiber Mat, Textile-Type, Made By Glass Producers
+2022-03-22 03:11:26 PM df_key = Glass Fiber Mat, Textile-Type, Made By Establishments Producing Glass
+2022-03-22 03:11:26 PM The program did not fetch the latest data for: PCU332410S.M
+2022-03-22 03:11:31 PM Index WPU0248010101.M desc_e inconsistent
+2022-03-22 03:11:31 PM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Soup mixes (dried/dehydrated/freeze-dried) and bouillon, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:31 PM df_key = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Soup mixes (including dried/dehydrated/freeze-dried) and bouillon, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:31 PM Index WPU0248010101.M type inconsistent
+2022-03-22 03:11:31 PM DF_KEY = Soup Mixes (Dried/Dehydrated/Freeze-Dried) and Bouillon
+2022-03-22 03:11:31 PM df_key = Soup Mixes (Including Dried/Dehydrated/Freeze-Dried) and Bouillon
+2022-03-22 03:11:31 PM Index WPU0248010102.M desc_e inconsistent
+2022-03-22 03:11:31 PM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Dried and dehydrated fruits and vegetables incl. freeze-dried, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:31 PM df_key = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Dried and dehydrated fruits and vegetables, including freeze-dried, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:31 PM Index WPU0248010102.M type inconsistent
+2022-03-22 03:11:31 PM DF_KEY = Dried and Dehydrated Fruits and Vegetables Incl. Freeze-Dried
+2022-03-22 03:11:31 PM df_key = Dried and Dehydrated Fruits and Vegetables, Including Freeze-Dried
+2022-03-22 03:11:31 PM Index WPU0248010103.M desc_e inconsistent
+2022-03-22 03:11:31 PM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Macaroni/noodle prod., pkg w/ oth. ingred., exc. canned/frozen, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:31 PM df_key = United States Prices, Producer Price Index, PPI Commodity data for Processed foods and feeds, Macaroni/noodle prod., purchased, pkgd. w/ other ingred., excluding canned/frozen, not seasonally adjusted, Unit: Index base: 2011.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:31 PM Index WPU0248010103.M type inconsistent
+2022-03-22 03:11:31 PM DF_KEY = Macaroni/Noodle Prod., Pkg W/ Oth. Ingred., Exc. Canned/Frozen
+2022-03-22 03:11:31 PM df_key = Macaroni/Noodle Prod., Purchased, Pkgd. W/ Other Ingred., Excluding Canned/Frozen
+2022-03-22 03:11:31 PM The program did not fetch the latest data for: WPU0439.M
+2022-03-22 03:11:31 PM Index WPU10251935.M desc_e inconsistent
+2022-03-22 03:11:31 PM DF_KEY = United States Prices, Producer Price Index, PPI Commodity data for Metals and metal products, All other nonferrous metal mill shapes, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:31 PM df_key = United States Prices, Producer Price Index, PPI Commodity data for Metals and metal products, All other nonferrous metal mill shapes, except precious metal, not seasonally adjusted, Unit: Index base: 2003.12 = 100, Source: Bureau Of Labor Statistics
+2022-03-22 03:11:31 PM Index WPU10251935.M type inconsistent
+2022-03-22 03:11:31 PM DF_KEY = All Other Nonferrous Metal Mill Shapes
+2022-03-22 03:11:31 PM df_key = All Other Nonferrous Metal Mill Shapes, Except Precious Metal
+2022-03-22 03:11:41 PM unknown: 0
+2022-03-22 03:11:41 PM name too long: 0
+2022-03-22 03:11:41 PM inconsistent: 38
+2022-03-22 03:11:41 PM Total desc_e inconsistent: 19
+2022-03-22 03:11:41 PM Total desc_c inconsistent: 0
+2022-03-22 03:11:41 PM Total freq inconsistent: 0
+2022-03-22 03:11:41 PM Total unit inconsistent: 0
+2022-03-22 03:11:41 PM Total type inconsistent: 19
+2022-03-22 03:11:41 PM Total source inconsistent: 0
+2022-03-22 03:11:41 PM Total form_e inconsistent: 0
+2022-03-22 03:11:41 PM Total form_c inconsistent: 0
+2022-03-22 03:11:41 PM inconsistent earliest: 1982
+2022-03-22 03:11:41 PM base updated: 0
+2022-03-22 03:11:41 PM data updated: 63015
+2022-03-22 03:11:41 PM including weekly: False
+2022-03-22 03:11:41 PM too many months: True
+2022-03-22 03:11:50 PM unfound: 4956

@@ -2531,378 +2531,779 @@
 
 2022-03-22 01:33:08 PM Total Items: 706 Time: 15712 s
 
-22-03-22 10:11:05 AM Reading file: Section2all_xls, sheet: U20306-Q, frequency: Q, Time: 980 s
+2022-03-22 01:35:43 PM Reading file: wd.data.12a.Machinery11-113, sheet: 0, frequency: A, Time: 15867 s
 
-2022-03-22 10:11:05 AM Total Items: 58 Time: 980 s
+2022-03-22 01:35:43 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:11:06 AM Reading file: Section2all_xls, sheet: U20306-M, frequency: M, Time: 980 s
+2022-03-22 01:35:46 PM Total Items: 652 Time: 15869 s
 
-2022-03-22 10:11:06 AM Total Items: 58 Time: 980 s
+2022-03-22 01:35:59 PM Reading file: wd.data.12b.Machinery114-116, sheet: 0, frequency: M, Time: 15882 s
 
-2022-03-22 10:11:10 AM Reading file: Section2all_xls, sheet: U20403-A, frequency: A, Time: 984 s
+2022-03-22 01:35:59 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:11:10 AM Total Items: 412 Time: 984 s
+2022-03-22 01:36:21 PM Total Items: 539 Time: 15905 s
 
-2022-03-22 10:11:18 AM Reading file: Section2all_xls, sheet: U20403-Q, frequency: Q, Time: 992 s
+2022-03-22 01:38:18 PM Reading file: wd.data.12b.Machinery114-116, sheet: 0, frequency: A, Time: 16022 s
 
-2022-03-22 10:11:18 AM Total Items: 412 Time: 992 s
+2022-03-22 01:38:18 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:11:45 AM Reading file: Section2all_xls, sheet: U20403-M, frequency: M, Time: 1019 s
+2022-03-22 01:38:21 PM Total Items: 513 Time: 16025 s
 
-2022-03-22 10:11:45 AM Total Items: 412 Time: 1019 s
+2022-03-22 01:38:32 PM Reading file: wd.data.12c.Machinery117-119, sheet: 0, frequency: M, Time: 16036 s
 
-2022-03-22 10:13:00 AM Reading file: Section2all_xls, sheet: U20404-A, frequency: A, Time: 1094 s
+2022-03-22 01:38:32 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:13:00 AM Total Items: 412 Time: 1094 s
+2022-03-22 01:39:01 PM Total Items: 804 Time: 16065 s
 
-2022-03-22 10:13:08 AM Reading file: Section2all_xls, sheet: U20404-Q, frequency: Q, Time: 1103 s
+2022-03-22 01:41:57 PM Reading file: wd.data.12c.Machinery117-119, sheet: 0, frequency: A, Time: 16240 s
 
-2022-03-22 10:13:08 AM Total Items: 412 Time: 1103 s
+2022-03-22 01:41:57 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:13:34 AM Reading file: Section2all_xls, sheet: U20404-M, frequency: M, Time: 1129 s
+2022-03-22 01:42:00 PM Total Items: 751 Time: 16244 s
 
-2022-03-22 10:13:34 AM Total Items: 412 Time: 1129 s
+2022-03-22 01:42:15 PM Reading file: wd.data.12i.MachineryInputs, sheet: 0, frequency: M, Time: 16259 s
 
-2022-03-22 10:14:49 AM Reading file: Section2all_xls, sheet: U20405-A, frequency: A, Time: 1204 s
+2022-03-22 01:42:15 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:14:50 AM Total Items: 412 Time: 1204 s
+2022-03-22 01:42:16 PM Total Items: 1 Time: 16259 s
 
-2022-03-22 10:14:58 AM Reading file: Section2all_xls, sheet: U20405-Q, frequency: Q, Time: 1212 s
+2022-03-22 01:42:16 PM Reading file: wd.data.12i.MachineryInputs, sheet: 0, frequency: A, Time: 16259 s
 
-2022-03-22 10:14:58 AM Total Items: 412 Time: 1212 s
+2022-03-22 01:42:16 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:15:24 AM Reading file: Section2all_xls, sheet: U20405-M, frequency: M, Time: 1238 s
+2022-03-22 01:42:16 PM Total Items: 1 Time: 16259 s
 
-2022-03-22 10:15:24 AM Total Items: 412 Time: 1238 s
+2022-03-22 01:42:16 PM Reading file: wd.data.13.Furniture, sheet: 0, frequency: M, Time: 16259 s
 
-2022-03-22 10:16:39 AM Reading file: Section2all_xls, sheet: U20406-A, frequency: A, Time: 1313 s
+2022-03-22 01:42:16 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:16:39 AM Total Items: 412 Time: 1313 s
+2022-03-22 01:42:28 PM Total Items: 327 Time: 16272 s
 
-2022-03-22 10:16:42 AM Reading file: Section2all_xls, sheet: U20406-Q, frequency: Q, Time: 1316 s
+2022-03-22 01:43:36 PM Reading file: wd.data.13.Furniture, sheet: 0, frequency: A, Time: 16340 s
 
-2022-03-22 10:16:42 AM Total Items: 412 Time: 1316 s
+2022-03-22 01:43:36 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:16:51 AM Reading file: Section2all_xls, sheet: U20406-M, frequency: M, Time: 1326 s
+2022-03-22 01:43:38 PM Total Items: 298 Time: 16342 s
 
-2022-03-22 10:16:51 AM Total Items: 412 Time: 1326 s
+2022-03-22 01:43:44 PM Reading file: wd.data.14.Minerals, sheet: 0, frequency: M, Time: 16347 s
 
-2022-03-22 10:17:16 AM Present File Exists. Reading Data From Default Path.
+2022-03-22 01:43:44 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:16 AM Reading source file, Time: 1350 s
+2022-03-22 01:43:48 PM Total Items: 165 Time: 16351 s
 
-2022-03-22 10:17:17 AM Reading file: Section3all_xls, sheet: U30400-Q, frequency: Q, Time: 1351 s
+2022-03-22 01:44:27 PM Reading file: wd.data.14.Minerals, sheet: 0, frequency: A, Time: 16390 s
 
-2022-03-22 10:17:17 AM Total Items: 17 Time: 1351 s
+2022-03-22 01:44:27 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:17 AM Reading file: Section3all_xls, sheet: U30500-Q, frequency: Q, Time: 1352 s
+2022-03-22 01:44:27 PM Total Items: 148 Time: 16391 s
 
-2022-03-22 10:17:17 AM Total Items: 49 Time: 1352 s
+2022-03-22 01:44:31 PM Reading file: wd.data.14i.TransportEqInputs, sheet: 0, frequency: M, Time: 16395 s
 
-2022-03-22 10:17:20 AM Reading file: Section3all_xls, sheet: U30600-Q, frequency: Q, Time: 1354 s
+2022-03-22 01:44:31 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:20 AM Total Items: 36 Time: 1354 s
+2022-03-22 01:44:31 PM Reading file: wd.data.14i.TransportEqInputs, sheet: 0, frequency: A, Time: 16395 s
 
-2022-03-22 10:17:22 AM Reading file: Section3all_xls, sheet: U30700-Q, frequency: Q, Time: 1356 s
+2022-03-22 01:44:31 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:22 AM Total Items: 23 Time: 1356 s
+2022-03-22 01:44:31 PM Reading file: wd.data.15.Transportation, sheet: 0, frequency: M, Time: 16395 s
 
-2022-03-22 10:17:23 AM Reading file: Section3all_xls, sheet: U30800-Q, frequency: Q, Time: 1358 s
+2022-03-22 01:44:31 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:23 AM Total Items: 18 Time: 1358 s
+2022-03-22 01:44:33 PM Total Items: 116 Time: 16397 s
 
-2022-03-22 10:17:24 AM Reading file: Section3all_xls, sheet: U31200-Q, frequency: Q, Time: 1358 s
+2022-03-22 01:45:06 PM Reading file: wd.data.15.Transportation, sheet: 0, frequency: A, Time: 16430 s
 
-2022-03-22 10:17:24 AM Total Items: 57 Time: 1358 s
+2022-03-22 01:45:06 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:27 AM Reading file: Section3all_xls, sheet: U31300-Q, frequency: Q, Time: 1362 s
+2022-03-22 01:45:06 PM Total Items: 93 Time: 16430 s
 
-2022-03-22 10:17:27 AM Total Items: 10 Time: 1362 s
+2022-03-22 01:45:08 PM Reading file: wd.data.16.Miscellaneous, sheet: 0, frequency: M, Time: 16432 s
 
-2022-03-22 10:17:28 AM Reading file: Section3all_xls, sheet: U32400-Q, frequency: Q, Time: 1362 s
+2022-03-22 01:45:08 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:28 AM Total Items: 26 Time: 1362 s
+2022-03-22 01:45:18 PM Total Items: 331 Time: 16442 s
 
-2022-03-22 10:17:28 AM Reading file: Section3all_xls, sheet: U32500-A, frequency: A, Time: 1363 s
+2022-03-22 01:46:43 PM Reading file: wd.data.16.Miscellaneous, sheet: 0, frequency: A, Time: 16527 s
 
-2022-03-22 10:17:28 AM Total Items: 25 Time: 1363 s
+2022-03-22 01:46:43 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:28 AM Present File Exists. Reading Data From Default Path.
+2022-03-22 01:46:45 PM Total Items: 305 Time: 16528 s
 
-2022-03-22 10:17:28 AM Reading source file, Time: 1363 s
+2022-03-22 01:46:53 PM Reading file: wd.data.17.TotalDurables, sheet: 0, frequency: M, Time: 16536 s
 
-2022-03-22 10:17:29 AM Reading file: Section4all_xls, sheet: U40203-A, frequency: A, Time: 1364 s
+2022-03-22 01:46:53 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:29 AM Total Items: 103 Time: 1364 s
+2022-03-22 01:46:53 PM Total Items: 11 Time: 16537 s
 
-2022-03-22 10:17:30 AM Reading file: Section4all_xls, sheet: U40203-Q, frequency: Q, Time: 1364 s
+2022-03-22 01:46:55 PM Reading file: wd.data.17.TotalDurables, sheet: 0, frequency: A, Time: 16539 s
 
-2022-03-22 10:17:30 AM Total Items: 103 Time: 1364 s
+2022-03-22 01:46:55 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:32 AM Reading file: Section4all_xls, sheet: U40204-A, frequency: A, Time: 1367 s
+2022-03-22 01:46:55 PM Total Items: 8 Time: 16539 s
 
-2022-03-22 10:17:32 AM Total Items: 103 Time: 1367 s
+2022-03-22 01:46:56 PM Reading file: wd.data.18.SpecialIndexes, sheet: 0, frequency: M, Time: 16539 s
 
-2022-03-22 10:17:33 AM Reading file: Section4all_xls, sheet: U40204-Q, frequency: Q, Time: 1368 s
+2022-03-22 01:46:56 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:33 AM Total Items: 103 Time: 1368 s
+2022-03-22 01:46:56 PM Total Items: 40 Time: 16539 s
 
-2022-03-22 10:17:36 AM Reading file: Section4all_xls, sheet: U40205-A, frequency: A, Time: 1370 s
+2022-03-22 01:47:01 PM Reading file: wd.data.18.SpecialIndexes, sheet: 0, frequency: A, Time: 16545 s
 
-2022-03-22 10:17:36 AM Total Items: 103 Time: 1370 s
+2022-03-22 01:47:01 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:37 AM Reading file: Section4all_xls, sheet: U40205-Q, frequency: Q, Time: 1371 s
+2022-03-22 01:47:01 PM Total Items: 31 Time: 16545 s
 
-2022-03-22 10:17:37 AM Total Items: 103 Time: 1371 s
+2022-03-22 01:47:02 PM Reading file: wd.data.2.FarmProducts, sheet: 0, frequency: M, Time: 16546 s
 
-2022-03-22 10:17:39 AM Reading file: Section4all_xls, sheet: U40206-A, frequency: A, Time: 1374 s
+2022-03-22 01:47:02 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:39 AM Total Items: 105 Time: 1374 s
+2022-03-22 01:47:08 PM Total Items: 163 Time: 16552 s
 
-2022-03-22 10:17:40 AM Reading file: Section4all_xls, sheet: U40206-Q, frequency: Q, Time: 1375 s
+2022-03-22 01:47:49 PM Reading file: wd.data.2.FarmProducts, sheet: 0, frequency: A, Time: 16593 s
 
-2022-03-22 10:17:40 AM Total Items: 105 Time: 1375 s
+2022-03-22 01:47:49 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:43 AM Reading file: Section4all_xls, sheet: U4030B-Q, frequency: Q, Time: 1377 s
+2022-03-22 01:47:50 PM Total Items: 135 Time: 16593 s
 
-2022-03-22 10:17:43 AM Total Items: 68 Time: 1377 s
+2022-03-22 01:47:54 PM Reading file: wd.data.20.StageofProcessing, sheet: 0, frequency: M, Time: 16597 s
 
-2022-03-22 10:17:43 AM Present File Exists. Reading Data From Default Path.
+2022-03-22 01:47:54 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:43 AM Reading source file, Time: 1378 s
+2022-03-22 01:47:56 PM Total Items: 106 Time: 16600 s
 
-2022-03-22 10:17:47 AM Reading file: Section5all_xls, sheet: U50203-Q, frequency: Q, Time: 1382 s
+2022-03-22 01:48:20 PM Reading file: wd.data.20.StageofProcessing, sheet: 0, frequency: A, Time: 16624 s
 
-2022-03-22 10:17:47 AM Total Items: 60 Time: 1382 s
+2022-03-22 01:48:20 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:48 AM Reading file: Section5all_xls, sheet: U50205-Q, frequency: Q, Time: 1383 s
+2022-03-22 01:48:20 PM Total Items: 53 Time: 16624 s
 
-2022-03-22 10:17:48 AM Total Items: 59 Time: 1383 s
+2022-03-22 01:48:21 PM Reading file: wd.data.21.FD-ID, sheet: 0, frequency: M, Time: 16625 s
 
-2022-03-22 10:17:50 AM Reading file: Section5all_xls, sheet: U50206-Q, frequency: Q, Time: 1385 s
+2022-03-22 01:48:21 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:50 AM Total Items: 60 Time: 1385 s
+2022-03-22 01:48:21 PM Total Items: 4 Time: 16625 s
 
-2022-03-22 10:17:51 AM Reading file: Section5all_xls, sheet: U50404-A, frequency: A, Time: 1386 s
+2022-03-22 01:48:21 PM Reading file: wd.data.21.FD-ID, sheet: 0, frequency: A, Time: 16625 s
 
-2022-03-22 10:17:51 AM Total Items: 56 Time: 1386 s
+2022-03-22 01:48:21 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:52 AM Reading file: Section5all_xls, sheet: U50404-Q, frequency: Q, Time: 1386 s
+2022-03-22 01:48:21 PM Total Items: 2 Time: 16625 s
 
-2022-03-22 10:17:52 AM Total Items: 56 Time: 1386 s
+2022-03-22 01:48:21 PM Reading file: wd.data.23.RefinedPetroleum, sheet: 0, frequency: M, Time: 16625 s
 
-2022-03-22 10:17:55 AM Reading file: Section5all_xls, sheet: U50405-A, frequency: A, Time: 1389 s
+2022-03-22 01:48:21 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:55 AM Total Items: 56 Time: 1389 s
+2022-03-22 01:48:22 PM Total Items: 130 Time: 16626 s
 
-2022-03-22 10:17:55 AM Reading file: Section5all_xls, sheet: U50405-Q, frequency: Q, Time: 1390 s
+2022-03-22 01:48:26 PM Reading file: wd.data.23.RefinedPetroleum, sheet: 0, frequency: A, Time: 16630 s
 
-2022-03-22 10:17:55 AM Total Items: 56 Time: 1390 s
+2022-03-22 01:48:26 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:59 AM Reading file: Section5all_xls, sheet: U50406-A, frequency: A, Time: 1393 s
+2022-03-22 01:48:26 PM Reading file: wd.data.3.ProcessedFoods, sheet: 0, frequency: M, Time: 16630 s
 
-2022-03-22 10:17:59 AM Total Items: 58 Time: 1393 s
+2022-03-22 01:48:26 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:17:59 AM Reading file: Section5all_xls, sheet: U50406-Q, frequency: Q, Time: 1394 s
+2022-03-22 01:48:50 PM Total Items: 566 Time: 16653 s
 
-2022-03-22 10:17:59 AM Total Items: 58 Time: 1394 s
+2022-03-22 01:50:48 PM Reading file: wd.data.3.ProcessedFoods, sheet: 0, frequency: A, Time: 16771 s
 
-2022-03-22 10:18:01 AM Reading file: Section5all_xls, sheet: U50504-A, frequency: A, Time: 1395 s
+2022-03-22 01:50:48 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:01 AM Total Items: 49 Time: 1395 s
+2022-03-22 01:50:50 PM Total Items: 533 Time: 16774 s
 
-2022-03-22 10:18:02 AM Reading file: Section5all_xls, sheet: U50504-Q, frequency: Q, Time: 1396 s
+2022-03-22 01:51:02 PM Reading file: wd.data.30.Services, sheet: 0, frequency: M, Time: 16785 s
 
-2022-03-22 10:18:02 AM Total Items: 49 Time: 1396 s
+2022-03-22 01:51:02 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:04 AM Reading file: Section5all_xls, sheet: U50505-A, frequency: A, Time: 1398 s
+2022-03-22 01:51:02 PM Total Items: 61 Time: 16785 s
 
-2022-03-22 10:18:04 AM Total Items: 49 Time: 1398 s
+2022-03-22 01:51:13 PM Reading file: wd.data.30.Services, sheet: 0, frequency: A, Time: 16796 s
 
-2022-03-22 10:18:05 AM Reading file: Section5all_xls, sheet: U50505-Q, frequency: Q, Time: 1399 s
+2022-03-22 01:51:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:05 AM Total Items: 49 Time: 1399 s
+2022-03-22 01:51:13 PM Total Items: 53 Time: 16797 s
 
-2022-03-22 10:18:07 AM Reading file: Section5all_xls, sheet: U50506-A, frequency: A, Time: 1402 s
+2022-03-22 01:51:13 PM Reading file: wd.data.30i.TransportServInputs, sheet: 0, frequency: M, Time: 16797 s
 
-2022-03-22 10:18:07 AM Total Items: 51 Time: 1402 s
+2022-03-22 01:51:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:08 AM Reading file: Section5all_xls, sheet: U50506-Q, frequency: Q, Time: 1402 s
+2022-03-22 01:51:13 PM Reading file: wd.data.30i.TransportServInputs, sheet: 0, frequency: A, Time: 16797 s
 
-2022-03-22 10:18:08 AM Total Items: 51 Time: 1402 s
+2022-03-22 01:51:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:09 AM Reading file: Section5all_xls, sheet: U50705AM1-M, frequency: M, Time: 1403 s
+2022-03-22 01:51:14 PM Reading file: wd.data.4.Textile, sheet: 0, frequency: M, Time: 16797 s
 
-2022-03-22 10:18:09 AM Total Items: 26 Time: 1403 s
+2022-03-22 01:51:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:12 AM Reading file: Section5all_xls, sheet: U50705AM2-M, frequency: M, Time: 1406 s
+2022-03-22 01:51:33 PM Total Items: 715 Time: 16816 s
 
-2022-03-22 10:18:12 AM Total Items: 26 Time: 1406 s
+2022-03-22 01:54:02 PM Reading file: wd.data.4.Textile, sheet: 0, frequency: A, Time: 16966 s
 
-2022-03-22 10:18:13 AM Reading file: Section5all_xls, sheet: U50705AM3-M, frequency: M, Time: 1407 s
+2022-03-22 01:54:02 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:13 AM Total Items: 26 Time: 1407 s
+2022-03-22 01:54:05 PM Total Items: 679 Time: 16969 s
 
-2022-03-22 10:18:14 AM Reading file: Section5all_xls, sheet: U50705AU1-Q, frequency: Q, Time: 1409 s
+2022-03-22 01:54:19 PM Reading file: wd.data.5.Leather, sheet: 0, frequency: M, Time: 16983 s
 
-2022-03-22 10:18:14 AM Total Items: 80 Time: 1409 s
+2022-03-22 01:54:19 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:17 AM Reading file: Section5all_xls, sheet: U50705AU2-Q, frequency: Q, Time: 1412 s
+2022-03-22 01:54:23 PM Total Items: 181 Time: 16987 s
 
-2022-03-22 10:18:17 AM Total Items: 80 Time: 1412 s
+2022-03-22 01:54:58 PM Reading file: wd.data.5.Leather, sheet: 0, frequency: A, Time: 17022 s
 
-2022-03-22 10:18:20 AM Reading file: Section5all_xls, sheet: U50705AU3-Q, frequency: Q, Time: 1414 s
+2022-03-22 01:54:58 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:20 AM Total Items: 80 Time: 1414 s
+2022-03-22 01:54:59 PM Total Items: 163 Time: 17023 s
 
-2022-03-22 10:18:22 AM Reading file: Section5all_xls, sheet: U50705BM1-M, frequency: M, Time: 1417 s
+2022-03-22 01:55:03 PM Reading file: wd.data.51i.HealthServInputs, sheet: 0, frequency: M, Time: 17027 s
 
-2022-03-22 10:18:22 AM Total Items: 24 Time: 1417 s
+2022-03-22 01:55:03 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:24 AM Reading file: Section5all_xls, sheet: U50705BM2-M, frequency: M, Time: 1418 s
+2022-03-22 01:55:03 PM Reading file: wd.data.51i.HealthServInputs, sheet: 0, frequency: A, Time: 17027 s
 
-2022-03-22 10:18:24 AM Total Items: 24 Time: 1418 s
+2022-03-22 01:55:03 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:25 AM Reading file: Section5all_xls, sheet: U50705BM3-M, frequency: M, Time: 1419 s
+2022-03-22 01:55:03 PM Reading file: wd.data.56i.EntertnOtherInputs, sheet: 0, frequency: M, Time: 17027 s
 
-2022-03-22 10:18:25 AM Total Items: 24 Time: 1419 s
+2022-03-22 01:55:03 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:27 AM Reading file: Section5all_xls, sheet: U50705BU1-A, frequency: A, Time: 1421 s
+2022-03-22 01:55:03 PM Reading file: wd.data.56i.EntertnOtherInputs, sheet: 0, frequency: A, Time: 17027 s
 
-2022-03-22 10:18:27 AM Total Items: 83 Time: 1421 s
+2022-03-22 01:55:03 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:27 AM Reading file: Section5all_xls, sheet: U50705BU1-Q, frequency: Q, Time: 1422 s
+2022-03-22 01:55:03 PM Reading file: wd.data.6.Fuels, sheet: 0, frequency: M, Time: 17027 s
 
-2022-03-22 10:18:27 AM Total Items: 83 Time: 1422 s
+2022-03-22 01:55:03 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:30 AM Reading file: Section5all_xls, sheet: U50705BU2-A, frequency: A, Time: 1424 s
+2022-03-22 01:55:12 PM Total Items: 227 Time: 17035 s
 
-2022-03-22 10:18:30 AM Total Items: 83 Time: 1424 s
+2022-03-22 01:56:10 PM Reading file: wd.data.6.Fuels, sheet: 0, frequency: A, Time: 17094 s
 
-2022-03-22 10:18:30 AM Reading file: Section5all_xls, sheet: U50705BU2-Q, frequency: Q, Time: 1425 s
+2022-03-22 01:56:10 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:30 AM Total Items: 83 Time: 1425 s
+2022-03-22 01:56:11 PM Total Items: 183 Time: 17094 s
 
-2022-03-22 10:18:32 AM Reading file: Section5all_xls, sheet: U50705BU3-A, frequency: A, Time: 1427 s
+2022-03-22 01:56:15 PM Reading file: wd.data.7.Chemicals, sheet: 0, frequency: M, Time: 17099 s
 
-2022-03-22 10:18:32 AM Total Items: 83 Time: 1427 s
+2022-03-22 01:56:15 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:33 AM Reading file: Section5all_xls, sheet: U50705BU3-Q, frequency: Q, Time: 1427 s
+2022-03-22 01:56:39 PM Total Items: 740 Time: 17122 s
 
-2022-03-22 10:18:33 AM Total Items: 83 Time: 1427 s
+2022-03-22 01:59:19 PM Reading file: wd.data.7.Chemicals, sheet: 0, frequency: A, Time: 17282 s
 
-2022-03-22 10:18:36 AM Reading file: Section5all_xls, sheet: U50706AM-M, frequency: M, Time: 1430 s
+2022-03-22 01:59:19 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:36 AM Total Items: 23 Time: 1430 s
+2022-03-22 01:59:22 PM Total Items: 683 Time: 17285 s
 
-2022-03-22 10:18:38 AM Reading file: Section5all_xls, sheet: U50706AU-Q, frequency: Q, Time: 1432 s
+2022-03-22 01:59:36 PM Reading file: wd.data.7i.ChemicalsInputs, sheet: 0, frequency: M, Time: 17300 s
 
-2022-03-22 10:18:38 AM Total Items: 80 Time: 1432 s
+2022-03-22 01:59:36 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:40 AM Reading file: Section5all_xls, sheet: U50706BM-M, frequency: M, Time: 1434 s
+2022-03-22 01:59:36 PM Total Items: 1 Time: 17300 s
 
-2022-03-22 10:18:40 AM Total Items: 24 Time: 1434 s
+2022-03-22 01:59:36 PM Reading file: wd.data.7i.ChemicalsInputs, sheet: 0, frequency: A, Time: 17300 s
 
-2022-03-22 10:18:41 AM Reading file: Section5all_xls, sheet: U50706BU-A, frequency: A, Time: 1436 s
+2022-03-22 01:59:36 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:41 AM Total Items: 81 Time: 1436 s
+2022-03-22 01:59:36 PM Total Items: 1 Time: 17300 s
 
-2022-03-22 10:18:42 AM Reading file: Section5all_xls, sheet: U50706BU-Q, frequency: Q, Time: 1437 s
+2022-03-22 01:59:36 PM Reading file: wd.data.8.Rubber, sheet: 0, frequency: M, Time: 17300 s
 
-2022-03-22 10:18:42 AM Total Items: 81 Time: 1437 s
+2022-03-22 01:59:36 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:45 AM Reading file: Section5all_xls, sheet: U51100-Q, frequency: Q, Time: 1439 s
+2022-03-22 01:59:40 PM Total Items: 196 Time: 17304 s
 
-2022-03-22 10:18:45 AM Total Items: 69 Time: 1439 s
+2022-03-22 02:00:25 PM Reading file: wd.data.8.Rubber, sheet: 0, frequency: A, Time: 17349 s
 
-2022-03-22 10:18:49 AM Present File Exists. Reading Data From Default Path.
+2022-03-22 02:00:25 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:49 AM Reading source file, Time: 1443 s
+2022-03-22 02:00:26 PM Total Items: 188 Time: 17350 s
 
-2022-03-22 10:18:50 AM Reading file: Section7all_xls, sheet: U70204-A, frequency: A, Time: 1445 s
+2022-03-22 02:00:30 PM Reading file: wd.data.80.Construction, sheet: 0, frequency: M, Time: 17354 s
 
-2022-03-22 10:18:50 AM Total Items: 63 Time: 1445 s
+2022-03-22 02:00:30 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:51 AM Reading file: Section7all_xls, sheet: U70204-Q, frequency: Q, Time: 1445 s
+2022-03-22 02:00:30 PM Reading file: wd.data.80.Construction, sheet: 0, frequency: A, Time: 17354 s
 
-2022-03-22 10:18:51 AM Total Items: 63 Time: 1445 s
+2022-03-22 02:00:30 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:54 AM Reading file: Section7all_xls, sheet: U70205-A, frequency: A, Time: 1448 s
+2022-03-22 02:00:31 PM Reading file: wd.data.80i.ConstructnInputs, sheet: 0, frequency: M, Time: 17354 s
 
-2022-03-22 10:18:54 AM Total Items: 83 Time: 1448 s
+2022-03-22 02:00:31 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:18:55 AM Reading file: Section7all_xls, sheet: U70205-Q, frequency: Q, Time: 1449 s
+2022-03-22 02:00:31 PM Reading file: wd.data.80i.ConstructnInputs, sheet: 0, frequency: A, Time: 17354 s
 
-2022-03-22 10:18:55 AM Total Items: 83 Time: 1449 s
+2022-03-22 02:00:31 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:19:00 AM Reading file: Section7all_xls, sheet: U70205S-M, frequency: M, Time: 1454 s
+2022-03-22 02:00:31 PM Reading file: wd.data.8i.RubberInputs, sheet: 0, frequency: M, Time: 17354 s
 
-2022-03-22 10:19:00 AM Total Items: 64 Time: 1454 s
+2022-03-22 02:00:31 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:19:09 AM Reading file: Section7all_xls, sheet: U70206-A, frequency: A, Time: 1463 s
+2022-03-22 02:00:31 PM Total Items: 1 Time: 17354 s
 
-2022-03-22 10:19:09 AM Total Items: 85 Time: 1463 s
+2022-03-22 02:00:31 PM Reading file: wd.data.8i.RubberInputs, sheet: 0, frequency: A, Time: 17354 s
 
-2022-03-22 10:19:10 AM Reading file: Section7all_xls, sheet: U70206-Q, frequency: Q, Time: 1464 s
+2022-03-22 02:00:31 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:19:10 AM Total Items: 85 Time: 1464 s
+2022-03-22 02:00:31 PM Total Items: 1 Time: 17355 s
 
-2022-03-22 10:19:12 AM Present File Exists. Reading Data From Default Path.
+2022-03-22 02:00:31 PM Reading file: wd.data.9.Lumber, sheet: 0, frequency: M, Time: 17355 s
 
-2022-03-22 10:19:12 AM Reading source file, Time: 1466 s
+2022-03-22 02:00:31 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:19:12 AM Reading file: Section9all_xls, sheet: U90100-Q, frequency: Q, Time: 1466 s
+2022-03-22 02:00:37 PM Total Items: 207 Time: 17361 s
 
-2022-03-22 10:19:12 AM Total Items: 42 Time: 1466 s
+2022-03-22 02:01:17 PM Reading file: wd.data.9.Lumber, sheet: 0, frequency: A, Time: 17400 s
 
-2022-03-22 10:19:13 AM Reading file: Section9all_xls, sheet: U90100-M, frequency: M, Time: 1467 s
+2022-03-22 02:01:17 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:19:13 AM Total Items: 42 Time: 1467 s
+2022-03-22 02:01:17 PM Total Items: 193 Time: 17401 s
 
-2022-03-22 10:19:15 AM Reading file: Section9all_xls, sheet: U90200-A, frequency: A, Time: 1469 s
+2022-03-22 02:01:21 PM Reading file: BLS_series, Time: 17405 s
 
-2022-03-22 10:19:15 AM Total Items: 33 Time: 1469 s
+2022-03-22 02:01:21 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:19:15 AM Reading file: Section9all_xls, sheet: U90200-Q, frequency: Q, Time: 1469 s
+2022-03-22 02:01:25 PM Reading file: wp.data.1.AllCommodities, sheet: 0, frequency: M, Time: 17409 s
 
-2022-03-22 10:19:15 AM Total Items: 33 Time: 1469 s
+2022-03-22 02:01:25 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:19:15 AM Reading file: Section9all_xls, sheet: U90300-A, frequency: A, Time: 1470 s
+2022-03-22 02:01:25 PM Total Items: 2 Time: 17409 s
 
-2022-03-22 10:19:15 AM Total Items: 21 Time: 1470 s
+2022-03-22 02:01:26 PM Reading file: wp.data.1.AllCommodities, sheet: 0, frequency: A, Time: 17410 s
 
-2022-03-22 10:19:16 AM Reading file: Section9all_xls, sheet: U90400-A, frequency: A, Time: 1470 s
+2022-03-22 02:01:26 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:19:16 AM Total Items: 42 Time: 1470 s
+2022-03-22 02:01:26 PM Total Items: 1 Time: 17410 s
 
-2022-03-22 10:19:16 AM Reading file: Section9all_xls, sheet: U90500-A, frequency: A, Time: 1470 s
+2022-03-22 02:01:26 PM Reading file: wp.data.10.Pulp, sheet: 0, frequency: M, Time: 17410 s
 
-2022-03-22 10:19:16 AM Total Items: 36 Time: 1470 s
+2022-03-22 02:01:26 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:19:19 AM Reading file: US_database?, Time: 1473 s
+2022-03-22 02:01:37 PM Total Items: 215 Time: 17421 s
 
-2022-03-22 10:19:19 AM Concating file: US_key?, Time: 1473 s
+2022-03-22 02:02:37 PM Reading file: wp.data.10.Pulp, sheet: 0, frequency: A, Time: 17481 s
 
-2022-03-22 10:19:19 AM Concating file: US_database?, Time: 1473 s
+2022-03-22 02:02:37 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:19:43 AM Setting new files, Time: 1498 s
+2022-03-22 02:02:39 PM Total Items: 176 Time: 17482 s
 
-2022-03-22 10:20:36 AM Concating new files: US_database, Time: 1551 s
+2022-03-22 02:02:43 PM Reading file: wp.data.11a.Metals10-103, sheet: 0, frequency: M, Time: 17487 s
 
-2022-03-22 10:20:36 AM       databank      name   db_table  db_code                                             desc_e  ...                         type    snl                       source                                             form_e         form_c
-0           US  A001RC.A  DB_A_0001  data001  United States National Income and Production A...  ...                        Level      1  Bureau of Economic Analysis  Relation of Gross Domestic Product, Gross Nati...   Table 1.7.5.
-1           US  A001RD.A  DB_A_0001  data002  United States National Income and Production A...  ...                        Level      2  Bureau of Economic Analysis  Implicit Price Deflators for Gross Domestic Pr...   Table 1.1.9.
-2           US  A001RG.A  DB_A_0001  data003  United States National Income and Production A...  ...                        Level      3  Bureau of Economic Analysis  Price Indexes for Gross Domestic Product, Gros...   Table 1.7.4.
-3           US  A001RI.A  DB_A_0001  data004  United States National Income and Production A...  ...  Percent change, annual rate      4  Bureau of Economic Analysis  Percent Change From Preceding Period in Prices...   Table 1.1.7.
-4           US  A001RL.A  DB_A_0001  data005  United States National Income and Production A...  ...  Percent change, annual rate      5  Bureau of Economic Analysis  Percent Change From Preceding Period in Real G...   Table 1.7.1.
-...        ...       ...        ...      ...                                                ...  ...                          ...    ...                          ...                                                ...            ...
-30709       US  Y998RX.Q  DB_Q_0043  data058  United States National Income and Production A...  ...                        Level  30710  Bureau of Economic Analysis  Real Exports and Imports of Goods and Services...  Table 4.2.6U.
-30710       US  Y999RA.Q  DB_Q_0043  data059  United States National Income and Production A...  ...                        Level  30711  Bureau of Economic Analysis  Real Exports and Imports of Goods and Services...  Table 4.2.3U.
-30711       US  Y999RC.Q  DB_Q_0043  data060  United States National Income and Production A...  ...                        Level  30712  Bureau of Economic Analysis  Exports and Imports of Goods and Services by T...  Table 4.2.5U.
-30712       US  Y999RG.Q  DB_Q_0043  data061  United States National Income and Production A...  ...                        Level  30713  Bureau of Economic Analysis  Price Indexes for Exports and Imports of Goods...  Table 4.2.4U.
-30713       US  Y999RX.Q  DB_Q_0043  data062  United States National Income and Production A...  ...                        Level  30714  Bureau of Economic Analysis  Real Exports and Imports of Goods and Services...  Table 4.2.6U.
+2022-03-22 02:02:43 PM Present File Exists. Reading Data From Default Path.
 
-[30714 rows x 15 columns]
-2022-03-22 10:20:36 AM Total Items: 30714
-2022-03-22 10:23:10 AM 
-database_num = 1
+2022-03-22 02:02:54 PM Total Items: 216 Time: 17498 s
+
+2022-03-22 02:03:54 PM Reading file: wp.data.11a.Metals10-103, sheet: 0, frequency: A, Time: 17558 s
+
+2022-03-22 02:03:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:03:55 PM Total Items: 164 Time: 17559 s
+
+2022-03-22 02:03:59 PM Reading file: wp.data.11b.Metals104-109, sheet: 0, frequency: M, Time: 17563 s
+
+2022-03-22 02:03:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:04:12 PM Total Items: 244 Time: 17576 s
+
+2022-03-22 02:05:22 PM Reading file: wp.data.11b.Metals104-109, sheet: 0, frequency: A, Time: 17645 s
+
+2022-03-22 02:05:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:05:23 PM Total Items: 187 Time: 17647 s
+
+2022-03-22 02:05:28 PM Reading file: wp.data.12a.Machinery11-113, sheet: 0, frequency: M, Time: 17651 s
+
+2022-03-22 02:05:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:05:36 PM Total Items: 163 Time: 17660 s
+
+2022-03-22 02:06:19 PM Reading file: wp.data.12a.Machinery11-113, sheet: 0, frequency: A, Time: 17702 s
+
+2022-03-22 02:06:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:06:19 PM Total Items: 126 Time: 17703 s
+
+2022-03-22 02:06:23 PM Reading file: wp.data.12b.Machinery114-116, sheet: 0, frequency: M, Time: 17707 s
+
+2022-03-22 02:06:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:06:35 PM Total Items: 275 Time: 17719 s
+
+2022-03-22 02:07:45 PM Reading file: wp.data.12b.Machinery114-116, sheet: 0, frequency: A, Time: 17789 s
+
+2022-03-22 02:07:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:07:46 PM Total Items: 219 Time: 17790 s
+
+2022-03-22 02:07:51 PM Reading file: wp.data.12c.Machinery117-119, sheet: 0, frequency: M, Time: 17795 s
+
+2022-03-22 02:07:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:08:02 PM Total Items: 250 Time: 17806 s
+
+2022-03-22 02:08:58 PM Reading file: wp.data.12c.Machinery117-119, sheet: 0, frequency: A, Time: 17862 s
+
+2022-03-22 02:08:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:08:59 PM Total Items: 196 Time: 17862 s
+
+2022-03-22 02:09:03 PM Reading file: wp.data.12i.MachineryInputs, sheet: 0, frequency: M, Time: 17867 s
+
+2022-03-22 02:09:03 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:09:03 PM Total Items: 8 Time: 17867 s
+
+2022-03-22 02:09:04 PM Reading file: wp.data.12i.MachineryInputs, sheet: 0, frequency: A, Time: 17867 s
+
+2022-03-22 02:09:04 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:09:04 PM Total Items: 8 Time: 17867 s
+
+2022-03-22 02:09:04 PM Reading file: wp.data.13.Furniture, sheet: 0, frequency: M, Time: 17868 s
+
+2022-03-22 02:09:04 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:09:13 PM Total Items: 186 Time: 17877 s
+
+2022-03-22 02:10:06 PM Reading file: wp.data.13.Furniture, sheet: 0, frequency: A, Time: 17929 s
+
+2022-03-22 02:10:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:10:06 PM Total Items: 146 Time: 17930 s
+
+2022-03-22 02:10:10 PM Reading file: wp.data.14.Minerals, sheet: 0, frequency: M, Time: 17934 s
+
+2022-03-22 02:10:10 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:10:22 PM Total Items: 213 Time: 17945 s
+
+2022-03-22 02:11:20 PM Reading file: wp.data.14.Minerals, sheet: 0, frequency: A, Time: 18003 s
+
+2022-03-22 02:11:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:11:20 PM Total Items: 158 Time: 18004 s
+
+2022-03-22 02:11:24 PM Reading file: wp.data.14i.TransportEqInputs, sheet: 0, frequency: M, Time: 18008 s
+
+2022-03-22 02:11:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:11:24 PM Total Items: 22 Time: 18008 s
+
+2022-03-22 02:11:25 PM Reading file: wp.data.14i.TransportEqInputs, sheet: 0, frequency: A, Time: 18009 s
+
+2022-03-22 02:11:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:11:25 PM Total Items: 22 Time: 18009 s
+
+2022-03-22 02:11:25 PM Reading file: wp.data.15.Transportation, sheet: 0, frequency: M, Time: 18009 s
+
+2022-03-22 02:11:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:11:34 PM Total Items: 179 Time: 18018 s
+
+2022-03-22 02:12:18 PM Reading file: wp.data.15.Transportation, sheet: 0, frequency: A, Time: 18061 s
+
+2022-03-22 02:12:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:12:19 PM Total Items: 143 Time: 18062 s
+
+2022-03-22 02:12:22 PM Reading file: wp.data.16.Miscellaneous, sheet: 0, frequency: M, Time: 18066 s
+
+2022-03-22 02:12:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:12:32 PM Total Items: 208 Time: 18076 s
+
+2022-03-22 02:13:28 PM Reading file: wp.data.16.Miscellaneous, sheet: 0, frequency: A, Time: 18132 s
+
+2022-03-22 02:13:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:13:29 PM Total Items: 158 Time: 18132 s
+
+2022-03-22 02:13:33 PM Reading file: wp.data.17.TotalDurables, sheet: 0, frequency: M, Time: 18137 s
+
+2022-03-22 02:13:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:13:33 PM Reading file: wp.data.17.TotalDurables, sheet: 0, frequency: A, Time: 18137 s
+
+2022-03-22 02:13:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:13:33 PM Reading file: wp.data.18.SpecialIndexes, sheet: 0, frequency: M, Time: 18137 s
+
+2022-03-22 02:13:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:13:34 PM Total Items: 29 Time: 18138 s
+
+2022-03-22 02:13:40 PM Reading file: wp.data.18.SpecialIndexes, sheet: 0, frequency: A, Time: 18144 s
+
+2022-03-22 02:13:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:13:40 PM Total Items: 29 Time: 18144 s
+
+2022-03-22 02:13:41 PM Reading file: wp.data.19.SteelMill, sheet: 0, frequency: M, Time: 18144 s
+
+2022-03-22 02:13:41 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:13:41 PM Total Items: 6 Time: 18145 s
+
+2022-03-22 02:13:42 PM Reading file: wp.data.19.SteelMill, sheet: 0, frequency: A, Time: 18146 s
+
+2022-03-22 02:13:42 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:13:42 PM Total Items: 3 Time: 18146 s
+
+2022-03-22 02:13:43 PM Reading file: wp.data.2.FarmProducts, sheet: 0, frequency: M, Time: 18146 s
+
+2022-03-22 02:13:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:13:57 PM Total Items: 239 Time: 18160 s
+
+2022-03-22 02:15:11 PM Reading file: wp.data.2.FarmProducts, sheet: 0, frequency: A, Time: 18235 s
+
+2022-03-22 02:15:11 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:15:12 PM Total Items: 161 Time: 18236 s
+
+2022-03-22 02:15:17 PM Reading file: wp.data.21.Aggregates, sheet: 0, frequency: M, Time: 18240 s
+
+2022-03-22 02:15:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:15:17 PM Total Items: 6 Time: 18241 s
+
+2022-03-22 02:15:19 PM Reading file: wp.data.21.Aggregates, sheet: 0, frequency: A, Time: 18243 s
+
+2022-03-22 02:15:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:15:19 PM Total Items: 3 Time: 18243 s
+
+2022-03-22 02:15:19 PM Reading file: wp.data.22.FD-ID, sheet: 0, frequency: M, Time: 18243 s
+
+2022-03-22 02:15:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:15:49 PM Total Items: 628 Time: 18272 s
+
+2022-03-22 02:18:03 PM Reading file: wp.data.22.FD-ID, sheet: 0, frequency: A, Time: 18407 s
+
+2022-03-22 02:18:03 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:18:04 PM Total Items: 314 Time: 18408 s
+
+2022-03-22 02:18:11 PM Reading file: wp.data.3.ProcessedFoods, sheet: 0, frequency: M, Time: 18415 s
+
+2022-03-22 02:18:11 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:18:37 PM Total Items: 464 Time: 18440 s
+
+2022-03-22 02:20:42 PM Reading file: wp.data.3.ProcessedFoods, sheet: 0, frequency: A, Time: 18566 s
+
+2022-03-22 02:20:42 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:20:45 PM Total Items: 366 Time: 18568 s
+
+2022-03-22 02:20:54 PM Reading file: wp.data.30.Services, sheet: 0, frequency: M, Time: 18578 s
+
+2022-03-22 02:20:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:21:22 PM Total Items: 894 Time: 18606 s
+
+2022-03-22 02:23:35 PM Reading file: wp.data.30.Services, sheet: 0, frequency: A, Time: 18739 s
+
+2022-03-22 02:23:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:23:39 PM Total Items: 706 Time: 18742 s
+
+2022-03-22 02:23:49 PM Reading file: wp.data.30i.TransportServInputs, sheet: 0, frequency: M, Time: 18753 s
+
+2022-03-22 02:23:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:23:49 PM Total Items: 8 Time: 18753 s
+
+2022-03-22 02:23:50 PM Reading file: wp.data.30i.TransportServInputs, sheet: 0, frequency: A, Time: 18753 s
+
+2022-03-22 02:23:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:23:50 PM Total Items: 8 Time: 18753 s
+
+2022-03-22 02:23:50 PM Reading file: wp.data.4.Textile, sheet: 0, frequency: M, Time: 18753 s
+
+2022-03-22 02:23:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:23:57 PM Total Items: 198 Time: 18761 s
+
+2022-03-22 02:24:41 PM Reading file: wp.data.4.Textile, sheet: 0, frequency: A, Time: 18804 s
+
+2022-03-22 02:24:41 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:24:41 PM Total Items: 160 Time: 18805 s
+
+2022-03-22 02:24:45 PM Reading file: wp.data.5.Leather, sheet: 0, frequency: M, Time: 18809 s
+
+2022-03-22 02:24:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:24:47 PM Total Items: 50 Time: 18811 s
+
+2022-03-22 02:25:05 PM Reading file: wp.data.5.Leather, sheet: 0, frequency: A, Time: 18829 s
+
+2022-03-22 02:25:05 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:25:05 PM Total Items: 31 Time: 18829 s
+
+2022-03-22 02:25:06 PM Reading file: wp.data.51i.HealthServInputs, sheet: 0, frequency: M, Time: 18829 s
+
+2022-03-22 02:25:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:25:06 PM Total Items: 8 Time: 18830 s
+
+2022-03-22 02:25:06 PM Reading file: wp.data.51i.HealthServInputs, sheet: 0, frequency: A, Time: 18830 s
+
+2022-03-22 02:25:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:25:06 PM Total Items: 8 Time: 18830 s
+
+2022-03-22 02:25:06 PM Reading file: wp.data.56i.EntertnOtherInputs, sheet: 0, frequency: M, Time: 18830 s
+
+2022-03-22 02:25:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:25:06 PM Total Items: 9 Time: 18830 s
+
+2022-03-22 02:25:06 PM Reading file: wp.data.56i.EntertnOtherInputs, sheet: 0, frequency: A, Time: 18830 s
+
+2022-03-22 02:25:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:25:06 PM Total Items: 9 Time: 18830 s
+
+2022-03-22 02:25:07 PM Reading file: wp.data.6.Fuels, sheet: 0, frequency: M, Time: 18830 s
+
+2022-03-22 02:25:07 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:25:17 PM Total Items: 201 Time: 18841 s
+
+2022-03-22 02:26:13 PM Reading file: wp.data.6.Fuels, sheet: 0, frequency: A, Time: 18897 s
+
+2022-03-22 02:26:13 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:26:14 PM Total Items: 151 Time: 18898 s
+
+2022-03-22 02:26:18 PM Reading file: wp.data.7.Chemicals, sheet: 0, frequency: M, Time: 18902 s
+
+2022-03-22 02:26:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:26:32 PM Total Items: 289 Time: 18916 s
+
+2022-03-22 02:27:42 PM Reading file: wp.data.7.Chemicals, sheet: 0, frequency: A, Time: 18986 s
+
+2022-03-22 02:27:42 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:27:44 PM Total Items: 237 Time: 18987 s
+
+2022-03-22 02:27:50 PM Reading file: wp.data.7i.ChemicalsInputs, sheet: 0, frequency: M, Time: 18993 s
+
+2022-03-22 02:27:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:27:50 PM Total Items: 7 Time: 18993 s
+
+2022-03-22 02:27:50 PM Reading file: wp.data.7i.ChemicalsInputs, sheet: 0, frequency: A, Time: 18994 s
+
+2022-03-22 02:27:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:27:50 PM Total Items: 7 Time: 18994 s
+
+2022-03-22 02:27:50 PM Reading file: wp.data.8.Rubber, sheet: 0, frequency: M, Time: 18994 s
+
+2022-03-22 02:27:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:27:56 PM Total Items: 119 Time: 18999 s
+
+2022-03-22 02:28:30 PM Reading file: wp.data.8.Rubber, sheet: 0, frequency: A, Time: 19034 s
+
+2022-03-22 02:28:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:28:31 PM Total Items: 100 Time: 19034 s
+
+2022-03-22 02:28:34 PM Reading file: wp.data.80.Construction, sheet: 0, frequency: M, Time: 19037 s
+
+2022-03-22 02:28:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:28:34 PM Total Items: 20 Time: 19037 s
+
+2022-03-22 02:28:35 PM Reading file: wp.data.80.Construction, sheet: 0, frequency: A, Time: 19038 s
+
+2022-03-22 02:28:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:28:35 PM Total Items: 17 Time: 19038 s
+
+2022-03-22 02:28:35 PM Reading file: wp.data.80i.ConstructnInputs, sheet: 0, frequency: M, Time: 19039 s
+
+2022-03-22 02:28:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:28:38 PM Total Items: 152 Time: 19042 s
+
+2022-03-22 02:28:55 PM Reading file: wp.data.80i.ConstructnInputs, sheet: 0, frequency: A, Time: 19059 s
+
+2022-03-22 02:28:55 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:28:56 PM Total Items: 152 Time: 19059 s
+
+2022-03-22 02:28:57 PM Reading file: wp.data.8i.RubberInputs, sheet: 0, frequency: M, Time: 19061 s
+
+2022-03-22 02:28:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:28:57 PM Total Items: 8 Time: 19061 s
+
+2022-03-22 02:28:58 PM Reading file: wp.data.8i.RubberInputs, sheet: 0, frequency: A, Time: 19061 s
+
+2022-03-22 02:28:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:28:58 PM Total Items: 8 Time: 19061 s
+
+2022-03-22 02:28:58 PM Reading file: wp.data.9.Lumber, sheet: 0, frequency: M, Time: 19061 s
+
+2022-03-22 02:28:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:29:04 PM Total Items: 132 Time: 19068 s
+
+2022-03-22 02:29:39 PM Reading file: wp.data.9.Lumber, sheet: 0, frequency: A, Time: 19102 s
+
+2022-03-22 02:29:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 02:29:39 PM Total Items: 99 Time: 19103 s
+
+2022-03-22 02:29:42 PM Reading file: US_database?, Time: 19106 s
+
+2022-03-22 02:29:42 PM Concating file: US_key?, Time: 19106 s
+
+2022-03-22 02:29:42 PM Concating file: US_database?, Time: 19106 s
+
+2022-03-22 02:30:33 PM Setting new files, Time: 19156 s
+
+2022-03-22 02:35:04 PM Concating new files: US_database, Time: 19428 s
+
+2022-03-22 02:35:05 PM        databank               name   db_table  db_code  ...     snl                      source                                             form_e                   form_c
+0            US    CEU0000000001.A  DB_A_0001  data001  ...       1  Bureau Of Labor Statistics  All Employees on Nonfarm Payrolls by Industry ...  Not Seasonally Adjusted
+1            US    CEU0000000010.A  DB_A_0001  data002  ...       2  Bureau Of Labor Statistics  Women Employees on Nonfarm Payrolls by Industr...  Not Seasonally Adjusted
+2            US    CEU0500000001.A  DB_A_0001  data003  ...       3  Bureau Of Labor Statistics  All Employees on Nonfarm Payrolls by Industry ...  Not Seasonally Adjusted
+3            US    CEU0500000002.A  DB_A_0001  data004  ...       4  Bureau Of Labor Statistics  Average Weekly Hours of All Employees on Priva...  Not Seasonally Adjusted
+4            US    CEU0500000003.A  DB_A_0001  data005  ...       5  Bureau Of Labor Statistics  Average Hourly Earnings of All Employees on Pr...  Not Seasonally Adjusted
+...         ...                ...        ...      ...  ...     ...                         ...                                                ...                      ...
+156442       US   CWUSS49GSETB01.S  DB_S_0039  data141  ...  156443  Bureau Of Labor Statistics                                       Urban Alaska  Not Seasonally Adjusted
+156443       US     CWUSS49GSETE.S  DB_S_0039  data142  ...  156444  Bureau Of Labor Statistics                                       Urban Alaska  Not Seasonally Adjusted
+156444       US  CWUSS49GSS47014.S  DB_S_0039  data143  ...  156445  Bureau Of Labor Statistics                                       Urban Alaska  Not Seasonally Adjusted
+156445       US  CWUSS49GSS47015.S  DB_S_0039  data144  ...  156446  Bureau Of Labor Statistics                                       Urban Alaska  Not Seasonally Adjusted
+156446       US  CWUSS49GSS47016.S  DB_S_0039  data145  ...  156447  Bureau Of Labor Statistics                                       Urban Alaska  Not Seasonally Adjusted
+
+[156447 rows x 15 columns]
+2022-03-22 02:35:05 PM Total Items: 156447
+2022-03-22 02:35:51 PM Total databases: 12
+2022-03-22 02:35:51 PM Outputing file: US_database_1
+2022-03-22 02:38:49 PM Outputing file: US_database_2
+2022-03-22 02:41:42 PM Outputing file: US_database_3
+2022-03-22 02:44:37 PM Outputing file: US_database_4
+2022-03-22 02:47:30 PM Outputing file: US_database_5
+2022-03-22 02:50:21 PM Outputing file: US_database_6
+2022-03-22 02:53:13 PM Outputing file: US_database_7
+2022-03-22 02:56:05 PM Outputing file: US_database_8
+2022-03-22 02:58:58 PM Outputing file: US_database_9
+2022-03-22 03:01:51 PM Outputing file: US_database_10
+2022-03-22 03:04:44 PM Outputing file: US_database_11
+2022-03-22 03:07:37 PM Outputing file: US_database_12
+2022-03-22 03:10:49 PM 
+database_num = 12
