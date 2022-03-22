@@ -959,39 +959,37 @@
 
 2022-03-22 10:28:40 AM Total Items: 102 Time: 4644 s
 
- 388 s
+2022-03-22 10:28:42 AM Reading file: cu.data.6.AsizeWest, sheet: 0, frequency: A, Time: 4646 s
 
-2022-03-22 10:01:14 AM Total Items: 15 Time: 388 s
+2022-03-22 10:28:42 AM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:01:14 AM Reading file: Section1all_xls, sheet: T10906-A, frequency: A, Time: 388 s
+2022-03-22 10:28:42 AM Total Items: 93 Time: 4646 s
 
-2022-03-22 10:01:14 AM Total Items: 17 Time: 388 s
+2022-03-22 10:28:46 AM Reading file: cu.data.7.OtherNorthEast, sheet: 0, frequency: M, Time: 4649 s
 
-2022-03-22 10:01:14 AM Reading file: Section1all_xls, sheet: T11000-A, frequency: A, Time: 388 s
+2022-03-22 10:28:46 AM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:01:14 AM Total Items: 27 Time: 388 s
+2022-03-22 10:28:46 AM Total Items: 508 Time: 4650 s
 
-2022-03-22 10:01:15 AM Reading file: Section1all_xls, sheet: T11000-Q, frequency: Q, Time: 389 s
+2022-03-22 10:30:57 AM Reading file: cu.data.7.OtherNorthEast, sheet: 0, frequency: S, Time: 4780 s
 
-2022-03-22 10:01:15 AM Total Items: 27 Time: 389 s
+2022-03-22 10:30:57 AM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:01:17 AM Reading file: Section1all_xls, sheet: T11100-A, frequency: A, Time: 391 s
+2022-03-22 10:30:57 AM Total Items: 508 Time: 4781 s
 
-2022-03-22 10:01:17 AM Total Items: 25 Time: 391 s
+2022-03-22 10:31:09 AM Reading file: cu.data.7.OtherNorthEast, sheet: 0, frequency: A, Time: 4792 s
 
-2022-03-22 10:01:17 AM Reading file: Section1all_xls, sheet: T11200-A, frequency: A, Time: 392 s
+2022-03-22 10:31:09 AM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:01:17 AM Total Items: 56 Time: 392 s
+2022-03-22 10:31:09 AM Total Items: 508 Time: 4793 s
 
-2022-03-22 10:01:19 AM Reading file: Section1all_xls, sheet: T11200-Q, frequency: Q, Time: 393 s
+2022-03-22 10:31:24 AM Reading file: cu.data.8.OtherNorthCentral, sheet: 0, frequency: M, Time: 4807 s
 
-2022-03-22 10:01:19 AM Total Items: 56 Time: 393 s
+2022-03-22 10:31:24 AM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 10:01:24 AM Reading file: Section1all_xls, sheet: T11300-A, frequency: A, Time: 398 s
+2022-03-22 10:31:24 AM Total Items: 622 Time: 4808 s
 
-2022-03-22 10:01:24 AM Total Items: 89 Time: 398 s
-
-2022-03-22 10:01:26 AM Reading file: Section1all_xls, sheet: T11400-A, frequency: A, Time: 400 s
+all_xls, sheet: T11400-A, frequency: A, Time: 400 s
 
 2022-03-22 10:01:26 AM Total Items: 54 Time: 400 s
 
