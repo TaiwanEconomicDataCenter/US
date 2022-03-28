@@ -1614,7 +1614,8 @@ for source in SOURCE(TABLES):
                             zf = None
                         skip, excel, head, index, use, nm, output, trans  = ATTRIBUTES(address, file_name, Table)
                         suffix = ATTRIBUTES(address, file_name, Table, key='suffix')
-                        US_t, label, note, footnote, unit = US_BTSDOL(data_path, address, fname, sname, Series, header=head, index_col=index, skiprows=skip, freq=freq, x=excel, usecols=use, transpose=trans, suffix=suffix, names=nm, TRPT=TRPT_series, chrome=chrome, zf=zf, output=output)
+                        sheet = ATTRIBUTES(address, file_name, Table, key='sheet')
+                        US_t, label, note, footnote, unit = US_BTSDOL(data_path, address, fname, sname, Series, header=head, index_col=index, skiprows=skip, freq=freq, x=excel, usecols=use, transpose=trans, suffix=suffix, names=nm, TRPT=TRPT_series, chrome=chrome, zf=zf, output=output, sheet_name=sheet)
                         repl = 4
                         repl2 = 7
                         if suffix.find('SAT') >= 0:

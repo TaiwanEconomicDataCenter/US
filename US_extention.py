@@ -34,6 +34,7 @@ from TO_DB import SELECT_DF_KEY, SELECT_DATABASES, INSERT_TABLES
 urllib3.disable_warnings()
 warnings.simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
 warnings.simplefilter(action="ignore", category=DeprecationWarning)
+warnings.filterwarnings('ignore', category=UserWarning, module='openpyxl')
 #from US_concat import CONCATE, readExcelFile
 
 NAME = 'US_'
@@ -336,6 +337,14 @@ def ATTRIBUTES(address, file_name, Table, key=None):
         except KeyError:
             part = None
         return part
+    elif key == 'sheet':
+        try:
+            sheet = 0
+            if str(Table[key][file_name]) != 'nan':
+                sheet = str(Table[key][file_name])
+        except KeyError:
+            sheet = 0
+        return sheet
     #return skip, excel, head, index, use, trans, prefix, suffix, nm, output, tables
 
 def US_WEBDRIVER(chrome, address, sname, header=None, index_col=None, skiprows=None, tables=None, usecols=None, names=None, csv=True, Zip=False, encode=ENCODING):
@@ -492,10 +501,14 @@ def US_WEB(chrome, address, fname, sname, freq=None, tables=[0], Table=None, hea
                 try:
                     WebDriverWait(chrome, 5).until(EC.visibility_of_element_located((By.ID, 'eml'))).send_keys(email)
                     WebDriverWait(chrome, 5).until(EC.visibility_of_element_located((By.ID, 'pw'))).send_keys(password)
+                    time.sleep(1)
                     WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.XPATH, './/input[@type="submit"]'))).click()
+                    time.sleep(2)
                 except TimeoutException:
                     time.sleep(0)
+                chrome.refresh()
                 WebDriverWait(chrome, 10).until(EC.visibility_of_element_located((By.ID, 'content-table')))
+                time.sleep(2)
                 link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword=str(sname).replace('_xls',''), text_match=True)
                 time.sleep(2)
                 link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword='download')
@@ -1882,7 +1895,8 @@ def DATA_SETS(data_path, address, datasets=None, fname=None, sname=None, DIY_ser
         US_t = US_t.loc[US_t.index.dropna()]
         label = US_t['Label']
         if address.find('MRTS') >= 0 and freq == 'Q':
-            label = pd.Series(['Retail Trade and Food Services','Retail Trade'], index=['U44X7200SMR','U4400000SMR']).append(label)
+            #label = pd.Series(['Retail Trade and Food Services','Retail Trade'], index=['U44X7200SMR','U4400000SMR']).append(label)
+            label = pd.concat([pd.Series(['Retail Trade and Food Services','Retail Trade'], index=['U44X7200SMR','U4400000SMR']), label])
     
     return US_t, label, note, footnote
 
@@ -1978,7 +1992,8 @@ def US_POPP(US_temp, data_path, address, datasets, DIY_series, password='', find
     US_temp = US_temp.set_index(tuple(ORDER), drop=False)
     US_temp.index.name = None
     for ages in SUM:
-        US_temp = US_temp.append(US_temp[(US_temp[tuple(ORDER)] >= SUM[ages][0]) & (US_temp[tuple(ORDER)] <= SUM[ages][1])].sum().rename(ages))
+        #US_temp = US_temp.append(US_temp[(US_temp[tuple(ORDER)] >= SUM[ages][0]) & (US_temp[tuple(ORDER)] <= SUM[ages][1])].sum().rename(ages))
+        US_temp = pd.concat([US_temp, pd.DataFrame(US_temp[(US_temp[tuple(ORDER)] >= SUM[ages][0]) & (US_temp[tuple(ORDER)] <= SUM[ages][1])].sum().rename(ages)).T])
     try:
         SEX = US_temp.columns.names.index('SEX')
         YEAR = US_temp.columns.names.index('YEAR')
@@ -2756,7 +2771,7 @@ def US_TICS(US_temp, Series, data_path, address, fname, start=None, US_present=p
 
     return US_t, label, note, footnote
 
-def US_BTSDOL(data_path, address, fname, sname, Series, header=None, index_col=None, skiprows=None, freq=None, x='', usecols=None, transpose=True, suffix=None, names=None, TRPT=None, chrome=None, zf=None, output=False):
+def US_BTSDOL(data_path, address, fname, sname, Series, header=None, index_col=None, skiprows=None, freq=None, x='', usecols=None, transpose=True, suffix=None, names=None, TRPT=None, chrome=None, zf=None, output=False, sheet_name=0):
     MONTH = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
     YEAR = ['Year']
     SEMI = {'1st Half':'1','2nd Half':'2'}
@@ -2770,11 +2785,11 @@ def US_BTSDOL(data_path, address, fname, sname, Series, header=None, index_col=N
         file_path = data_path+address+sname+'.xls'+x
         if PRESENT(file_path):
             if output == True:
-                US_t = readExcelFile(file_path, header_=header, index_col_=index_col, skiprows_=None, sheet_name_=0)
+                US_t = readExcelFile(file_path, header_=header, index_col_=index_col, skiprows_=None, sheet_name_=sheet_name)
             else:
-                US_t = readExcelFile(file_path, header_=header, index_col_=index_col, skiprows_=skiprows, sheet_name_=0)
+                US_t = readExcelFile(file_path, header_=header, index_col_=index_col, skiprows_=skiprows, sheet_name_=sheet_name)
         else:
-            US_t = US_WEB(chrome, address, fname, sname, freq=freq, header=header, index_col=index_col, skiprows=skiprows, excel=x, usecols=usecols, names=names, output=output)
+            US_t = US_WEB(chrome, address, fname, sname, freq=freq, tables=sheet_name, header=header, index_col=index_col, skiprows=skiprows, excel=x, usecols=usecols, names=names, output=output)
         if str(sname).find('TVT') >= 0:
             US_his = readExcelFile(file_path.replace('TVT','TVT_historical').replace('.xlsx',' - '+FREQ[freq]+'.xlsx'), header_=[0], index_col_=0, sheet_name_=0)
         elif sname == 'Cargo Revenue Ton-Miles':
@@ -4160,6 +4175,8 @@ def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix
                         key_fname = ffname+'.xls'
                         if key_fname not in zf.namelist():
                             continue
+                    sys.stdout.write("\rReading sheet: "+str(key_fname)+"   ")
+                    sys.stdout.flush()
                     US_temp = readExcelFile(zf.open(key_fname), skiprows_=skip, header_=head, index_col_=index_col, sheet_name_=0, usecols_=usecols, names_=names)
                     if fname == 'AGDSCSB' or fname == 'UGDSCSB' or fname == 'UPPCO':
                         US_temp = readExcelFile(zf.open(key_fname), skiprows_=skip, header_=head, sheet_name_=0, usecols_=usecols, names_=names)
@@ -4349,9 +4366,10 @@ def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix
                                         to_pass = True
                                         break
                                 if to_pass == False:
+                                    logging.info(Series['CATEGORIES']['name'])
                                     if REX == True:
                                         logging.info('\nRe-exports')
-                                    ERROR('Category item code not found: '+str(period).rjust(2,'0')+'-"'+str(dex)+'"')
+                                    ERROR('FTD Category item code not found in Series: '+str(key_fname)+'-"'+str(dex)+'"')
                                 new_ind.append(None)
                         US_temp.index = new_ind
                         US_temp = US_temp.loc[US_temp.index.dropna()]
@@ -4528,7 +4546,7 @@ def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix
                                         to_pass = True
                                         break
                                 if to_pass == False:
-                                    ERROR('Country code not found: '+str(REVISION[ffname])+'-"'+str(dex)+'"')
+                                    ERROR('FTD Country code not found in Series: '+str(REVISION[ffname])+'-"'+str(dex)+'"')
                                 new_ind.append(None)
                         US_temp.index = new_ind
                         US_temp = US_temp.loc[US_temp.index.dropna()]
@@ -4551,11 +4569,11 @@ def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix
                     for item in new_order:
                         if type(item) == pd.core.series.Series:
                             logging.info(item)
-                            ERROR('Order type incorrect: '+str(item.index[0]))
+                            ERROR('FTD Order type incorrect: '+str(item.index[0]))
                     for item in new_label:
                         if type(item) == pd.core.series.Series:
                             logging.info(item)
-                            ERROR('Label type incorrect: '+str(item.index[0]))
+                            ERROR('FTD Label type incorrect: '+str(item.index[0]))
                     US_temp = US_temp.loc[US_temp.index.dropna()]
                     for dex in US_temp.index:
                         for col in US_temp.columns:
@@ -4568,6 +4586,7 @@ def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix
                         US_his.loc[lab, 'Label'] = new_label.loc[lab]
                     for order in new_order.index:
                         US_his.loc[lab, 'order'] = new_order.loc[order]
+                    sys.stdout.write("\n\n")
     #print(US_his)
 
     US_his.to_excel(file_path, sheet_name=fname)
