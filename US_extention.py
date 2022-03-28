@@ -565,11 +565,11 @@ def US_WEB(chrome, address, fname, sname, freq=None, tables=[0], Table=None, hea
                     REG = {'Rural':'page7','Urban':'page8'}
                     region = str(sname)[-5:]
                     try:
-                        target = chrome.find_element_by_id('collapse'+str(date.today().year))
+                        target = chrome.find_element_by_xpath('.//div[contains(@id, "'+str(date.today().year)+'")]')
                     except NoSuchElementException:
-                        target = chrome.find_element_by_id('collapse'+str(date.today().year-1))
-                    target2 = target.find_element_by_xpath('.//th[@class="txtleft"]')
-                    link_found, link_meassage = US_WEB_LINK(target2, fname, keyword='tvt')
+                        target = chrome.find_element_by_xpath('.//div[contains(@id, "'+str(date.today().year-1)+'")]')
+                    #target2 = target.find_element_by_xpath('.//th[@class="txtleft"]')
+                    link_found, link_meassage = US_WEB_LINK(target, fname, keyword='tvt/')
                     link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword=REG[region])
                     st_year = chrome.find_element_by_xpath('.//table/caption').text[-4:]
                     if st_year.isnumeric() == False:
@@ -2647,9 +2647,10 @@ def US_TICS(US_temp, Series, data_path, address, fname, start=None, US_present=p
                                 table_tail = i
                                 break
                         if key == 'present':
-                            tables[key] = pd.read_fwf('https://ticdata.treasury.gov/Publish/mfh.txt', skiprows=list(range(table_head-1)), index_col=0, widths=[30]+[8]*13, nrows=table_tail-table_head+1)
+                            #tables[key] = pd.read_fwf('https://ticdata.treasury.gov/Publish/mfh.txt', skiprows=list(range(table_head-1)), index_col=0, widths=[30]+[8]*13, nrows=table_tail-table_head+1)
+                            tables[key] = US_present.iloc[table_head-1:table_tail+1]
                             tables[key].columns = pd.MultiIndex.from_frame(tables[key].iloc[:2].T)
-                            tables[key].to_csv(data_path+address+fname.replace('his01_historical','')+'.csv')
+                            tables[key].to_csv(data_path+address+fname.replace('his01_historical','_present')+'.csv')
                         else:
                             tables[key] = readFile(data_path+address+fname.replace('_historical','')+'.csv', header_=[0,1], index_col_=0, skiprows_=list(range(table_head)), nrows_=table_tail-table_head)
                         if tables[key].empty == True:
@@ -3264,7 +3265,7 @@ def US_DOA(US_temp, Series, Table, address, fname, sname, chrome):
 
     return US_t, label, note, footnote
 
-def US_AISI(data_path, address, fname, steelorbis_year='2019'):
+def US_AISI(data_path, address, fname, steelorbis_year=str(date.today().year-2)):
     note = []
     footnote = []
     file_path = data_path+address+'Historical Data.xlsx'
@@ -3319,8 +3320,7 @@ def US_AISI(data_path, address, fname, steelorbis_year='2019'):
     begin = False
     while begin == False:
         if worksheet == False and (start-timedelta(days=delta)).strftime('%Y-%m-%d') not in IHS.columns:
-            sys.stdout.write("\rProducing data from steelorbis.com...["+(start-timedelta(days=delta)).strftime('%Y-%m-%d')+"]*")
-            sys.stdout.flush()
+            
             date = None
             DATE = start-timedelta(days=delta)
             date_begin = DATE
@@ -3332,7 +3332,11 @@ def US_AISI(data_path, address, fname, steelorbis_year='2019'):
                 for res in result:
                     if date != None:
                         DATE = start-timedelta(days=delta)
-                    if bool(re.search(r"^US raw|[^mdy] steel (production[,]*|mill[s']*|output) [^shltmdu]|^US steel [^me]|US[']* (weekly|domestic) (raw|steel)|Weekly (raw|steel)|raw steel|AISI|year-over-year|week-on-week|^US crude steel production|^US steel mill utilization rate", res.text.replace('\n',''))) and re.sub(r'[\n\r\t]', "", res.text)[-4:] <= str(date_begin.year) and re.sub(r'[\n\r\t]', "", res.text)[-4:] > steelorbis_year:
+                    sys.stdout.write("\rProducing data from steelorbis.com...["+DATE.strftime('%Y-%m-%d')+"]*")
+                    sys.stdout.flush()
+                    #key_title = "^US raw|[^mdy] steel (production[,]*|mill[s']*|output) [^shltmdu]|^US steel [^me]|US[']* (weekly|domestic) (raw|steel)|Weekly (raw|steel)|raw steel|AISI|year-over-year|week-on-week|^US crude steel production|^US steel mill utilization rate"
+                    key_title = "^US raw|^US weekly raw"
+                    if bool(re.search(r""+key_title+"", res.text.replace('\n',''))) and re.sub(r'[\n\r\t]', "", res.text)[-4:] <= str(date_begin.year) and re.sub(r'[\n\r\t]', "", res.text)[-4:] > steelorbis_year:
                         response2 = rq.get("https://www.steelorbis.com"+res.find("a")["href"])
                         search2 = BeautifulSoup(response2.text, "html.parser")
                         try:
@@ -3884,7 +3888,8 @@ def US_SEMI(data_path, address, fname, freq, chrome):
                                     if latest == True and datestrf < DATE.strftime('%Y-%m') and DATE.month-datestrp.month == 1:
                                         DATE = datestrp-relativedelta(months=1)
                                     elif datestrf != DATE.strftime('%Y-%m'):
-                                        ERROR('Missing Date: '+DATE.strftime('%Y-%m'))
+                                        #ERROR('Missing Date: '+DATE.strftime('%Y-%m'))
+                                        DATE = datetime.strptime(datestrf, '%Y-%m')
                                 for key in DATA:
                                     if DATA[key] != None:
                                         if (key == 'Bookings' or key == 'BooktoBill') and (Booking_latest == True and BooktoBill == True):
