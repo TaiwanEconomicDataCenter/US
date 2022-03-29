@@ -618,7 +618,7 @@ def US_ADDNOTE(attri, NOTE, note, note_num, note_part, specific=False, alphabet=
 
     return note, note_num, note_part, note_suffix
 
-NonValue_t = ['nan','Nan', '.....', 'ND', 'None', '0', '(S)', '(NA)', 'N', 'NA', '-', '', '(-)', 'n.a.', '(*)', '(D)', 'U', '.', '*', '--', 'Not Available', 'Not Applicable','\xa0','ZZZZZZ']
+NonValue_t = ['nan','Nan', '.....', 'NC', 'ND', 'None', '0', '(S)', '(NA)', 'N', 'NA', '-', '', '(-)', 'n.a.', '(*)', '(D)', 'U', '.', '*', '--', 'Not Available', 'Not Applicable','\xa0','ZZZZZZ']
 
 def US_DATA(ind, name, US_t, address, file_name, sheet_name, value, index, code_num, table_num, KEY_DATA, DATA_BASE, db_table_t, DB_name, snl, source, freqlist, frequency, UNIT='nan', LABEL=pd.DataFrame(), label_level=[], NOTE=[], FOOTNOTE=[], series=None, table=None, titles=None, repl=None, repl2=None, formnote={}, YEAR=None, QUAR=None, RAUQ=None):
     freqlen = len(freqlist)
