@@ -73,77 +73,40 @@
 
 2022-03-29 10:57:19 AM Updating file: 0 s
 
-AM Present File Exists. Reading Data From Default Path.
+2022-03-29 02:38:39 PM updated: 63352
 
-2022-03-29 10:11:47 AM Total Items: 399 Time: 34 s
+2022-03-29 02:53:33 PM Process: File Updating
 
-2022-03-29 10:11:53 AM Reading file: BOC_datasets, Time: 40 s
+2022-03-29 02:53:33 PM Reading main key: US_keyETCUP.xlsx, Time: 20262 s
 
-2022-03-29 10:11:53 AM Reading file: POPT_series, Time: 40 s
+2022-03-29 02:53:42 PM Reading main database: US_database_1ETCUP, Time: 20270 s
 
-2022-03-29 10:11:53 AM Reading file: Civilian Population, sheet: Female, frequency: A, Time: 40 s
+2022-03-29 02:53:45 PM Reading main database: US_database_2ETCUP, Time: 20273 s
 
-2022-03-29 10:11:53 AM Present File Exists. Reading Data From Default Path.
+2022-03-29 02:54:35 PM Reading main database: US_database_3ETCUP, Time: 20323 s
 
-2022-03-29 10:11:53 AM Present File Exists. Reading Data From Default Path.
+2022-03-29 02:54:38 PM Reading main database: US_database_4ETCUP, Time: 20326 s
 
-2022-03-29 10:11:53 AM Total Items: 133 Time: 40 s
+2022-03-29 02:54:51 PM Updating file: 0 s
 
-2022-03-29 10:11:55 AM Reading file: Civilian Population, sheet: Male, frequency: A, Time: 42 s
+2022-03-29 03:07:58 PM updated: 9801
 
-2022-03-29 10:11:55 AM Present File Exists. Reading Data From Default Path.
+2022-03-29 04:02:48 PM        databank        name   db_table  db_code  ...     snl                             source                                             form_e                   form_c
+0            US    A001RC.A  DB_A_0001  data001  ...       1        Bureau of Economic Analysis  Relation of Gross Domestic Product, Gross Nati...             Table 1.7.5.
+1            US    A001RD.A  DB_A_0001  data002  ...       2        Bureau of Economic Analysis  Implicit Price Deflators for Gross Domestic Pr...             Table 1.1.9.
+2            US    A001RG.A  DB_A_0001  data003  ...       3        Bureau of Economic Analysis  Price Indexes for Gross Domestic Product, Gros...             Table 1.7.4.
+3            US    A001RI.A  DB_A_0001  data004  ...       4        Bureau of Economic Analysis  Percent Change From Preceding Period in Prices...             Table 1.1.7.
+4            US    A001RL.A  DB_A_0001  data005  ...       5        Bureau of Economic Analysis  Percent Change From Preceding Period in Real G...             Table 1.7.1.
+...         ...         ...        ...      ...  ...     ...                                ...                                                ...                      ...
+205319       US  WRPNTUS2.W  DB_W_0001  data097  ...  205320  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
+205320       US  WTTEXUS2.W  DB_W_0001  data098  ...  205321  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
+205321       US  WTTIMUS2.W  DB_W_0001  data099  ...  205322  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
+205322       US  WTTNTUS2.W  DB_W_0001  data100  ...  205323  Energy Information Administration                Energy Statistics, Crude Oil Output  Not Seasonally Adjusted
+205323       US  WUPSTLNS.W  DB_W_0001  data101  ...  205324  American Iron and Steel Institute            Industrial Statistics, Raw Steel Output  Not Seasonally Adjusted
 
-2022-03-29 10:11:55 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:11:55 AM Total Items: 133 Time: 42 s
-
-2022-03-29 10:11:57 AM Reading file: Civilian Population, sheet: Total, frequency: A, Time: 44 s
-
-2022-03-29 10:11:57 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:11:57 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:11:57 AM Total Items: 133 Time: 44 s
-
-2022-03-29 10:11:59 AM Reading file: Resident Population, sheet: Female, frequency: A, Time: 46 s
-
-2022-03-29 10:11:59 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:11:59 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:11:59 AM Total Items: 134 Time: 46 s
-
-2022-03-29 10:12:02 AM Reading file: Resident Population, sheet: Male, frequency: A, Time: 49 s
-
-2022-03-29 10:12:02 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:12:02 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:12:02 AM Total Items: 134 Time: 49 s
-
-2022-03-29 10:12:05 AM Reading file: Resident Population, sheet: Total, frequency: A, Time: 52 s
-
-2022-03-29 10:12:05 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:12:05 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:12:05 AM Total Items: 134 Time: 52 s
-
-2022-03-29 10:12:09 AM Reading file: Resident population plus Armed Forces overseas, sheet: Female, frequency: A, Time: 55 s
-
-2022-03-29 10:12:09 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:12:09 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:12:09 AM Total Items: 134 Time: 56 s
-
-2022-03-29 10:12:12 AM Reading file: Resident population plus Armed Forces overseas, sheet: Male, frequency: A, Time: 59 s
-
-2022-03-29 10:12:12 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:12:12 AM Present File Exists. Reading Data From Default Path.
-
-2022-03-29 10:12:12 AM Total Items: 134 Time: 59 s
+[205324 rows x 15 columns]
+2022-03-29 04:02:48 PM Total Items: 205324
+2 AM Total Items: 134 Time: 59 s
 
 2022-03-29 10:12:15 AM Reading file: Resident population plus Armed Forces overseas, sheet: Total, frequency: A, Time: 62 s
 
