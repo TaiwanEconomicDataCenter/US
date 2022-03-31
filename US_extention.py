@@ -468,7 +468,11 @@ def US_WEB(chrome, address, fname, sname, freq=None, tables=[0], Table=None, hea
     chrome.get(fname)
 
     y = 0
-    height = chrome.execute_script("return document.documentElement.scrollHeight")
+    chrome.set_script_timeout(10)
+    try:
+        height = chrome.execute_script("return document.documentElement.scrollHeight")
+    except TimeoutException:
+        height = 1500
     while True:
         if link_found == True:
             break
