@@ -4013,6 +4013,11 @@ def US_POPT(chrome, website, data_path, address, fname, sname):
         Sheet = US_his.Worksheets(sname)
         Sheet.Activate()
 
+        historical_path = data_path+address+'historical/'
+        files = os.listdir(historical_path)
+        for f in files:
+            fullpath = os.path.join(mypath, f)
+
         chrome.get(website)
         link_list = WebDriverWait(chrome, 5).until(EC.presence_of_all_elements_located((By.XPATH, './/*[@href]')))
         target_year = 1900
