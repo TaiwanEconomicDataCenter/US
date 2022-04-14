@@ -4015,45 +4015,56 @@ def US_POPT(chrome, website, data_path, address, fname, sname):
 
         historical_path = data_path+address+'historical/'
         files = os.listdir(historical_path)
+        updated = True
+        target_number = 0
         for f in files:
-            fullpath = os.path.join(mypath, f)
-
-        chrome.get(website)
-        link_list = WebDriverWait(chrome, 5).until(EC.presence_of_all_elements_located((By.XPATH, './/*[@href]')))
-        target_year = 1900
-        target_link = None
-        for link in link_list:
-            if link.get_attribute('href')[-5:-1].isnumeric() and int(link.get_attribute('href')[-5:-1]) > target_year:
-                link_url = link.get_attribute('href')
-                chrome.execute_script("window.open()")
-                chrome.switch_to.window(chrome.window_handles[-1])
-                chrome.get(link_url)
-                link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword='national')
-                if link_found == False: 
-                    chrome.close()
-                    chrome.switch_to.window(chrome.window_handles[0])
-                    continue
-                else:
-                    link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword='asrh')
-                    if link_found == False:
+            if str(f).find('csv') >= 0:
+                fullpath = os.path.join(historical_path, f)
+                if PRESENT(fullpath) == False:
+                    print(fullpath)
+                    updated = False
+                    break
+                suffix_number = re.sub(r'.*?\-file([0-9]+)\.csv', r"\1", fullpath.lower())
+                if fullpath.lower().find(FILE[fname]+'-file') >= 0 and int(suffix_number) > target_number:
+                    target_number = int(suffix_number)
+        
+        if updated == False:
+            chrome.get(website)
+            link_list = WebDriverWait(chrome, 5).until(EC.presence_of_all_elements_located((By.XPATH, './/*[@href]')))
+            target_year = 1900
+            target_link = None
+            for link in link_list:
+                if link.get_attribute('href')[-5:-1].isnumeric() and int(link.get_attribute('href')[-5:-1]) > target_year:
+                    link_url = link.get_attribute('href')
+                    chrome.execute_script("window.open()")
+                    chrome.switch_to.window(chrome.window_handles[-1])
+                    chrome.get(link_url)
+                    link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword='national')
+                    if link_found == False: 
                         chrome.close()
                         chrome.switch_to.window(chrome.window_handles[0])
                         continue
-                chrome.close()
-                chrome.switch_to.window(chrome.window_handles[0])    
-                target_year = int(link.get_attribute('href')[-5:-1])
-                target_link = link
-        if target_link == None:
-            ERROR('Target Link Not Found in the website.')
-        target_link.click()
-        link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword='national')
-        link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword='asrh')
-        link_list2 = WebDriverWait(chrome, 5).until(EC.presence_of_all_elements_located((By.XPATH, './/*[@href]')))
-        target_number = 0
-        for link in link_list2:
-            suffix_number = re.sub(r'.*?\-file([0-9]+)\.csv.*', r"\1", link.get_attribute('href').lower())
-            if link.get_attribute('href').lower().find(FILE[fname]+'-file') >= 0 and int(suffix_number) > target_number:
-                target_number = int(suffix_number)
+                    else:
+                        link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword='asrh')
+                        if link_found == False:
+                            chrome.close()
+                            chrome.switch_to.window(chrome.window_handles[0])
+                            continue
+                    chrome.close()
+                    chrome.switch_to.window(chrome.window_handles[0])    
+                    target_year = int(link.get_attribute('href')[-5:-1])
+                    target_link = link
+            if target_link == None:
+                ERROR('Target Link Not Found in the website.')
+            target_link.click()
+            link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword='national')
+            link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword='asrh')
+            link_list2 = WebDriverWait(chrome, 5).until(EC.presence_of_all_elements_located((By.XPATH, './/*[@href]')))
+            target_number = 0
+            for link in link_list2:
+                suffix_number = re.sub(r'.*?\-file([0-9]+)\.csv.*', r"\1", link.get_attribute('href').lower())
+                if link.get_attribute('href').lower().find(FILE[fname]+'-file') >= 0 and int(suffix_number) > target_number:
+                    target_number = int(suffix_number)
         if target_number == 0:
             ERROR('Target Number Not Found.')
         for i in range(2, target_number+1, 2):
