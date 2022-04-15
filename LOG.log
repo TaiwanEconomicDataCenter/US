@@ -1,1050 +1,862 @@
-﻿2022-04-14 10:57:16 AM excel_suffix: test
+﻿2022-04-14 05:11:34 PM excel_suffix: test
 
-2022-04-14 10:57:16 AM data_processing: True
+2022-04-14 05:11:34 PM data_processing: True
 
-2022-04-14 10:57:16 AM find_unknown: False
+2022-04-14 05:11:34 PM find_unknown: False
 
-2022-04-14 10:57:16 AM dealing_start_year: 1900
+2022-04-14 05:11:34 PM dealing_start_year: 1900
 
-2022-04-14 10:57:20 AM Data Processing
+2022-04-14 05:11:38 PM Data Processing
 
-2022-04-14 10:57:20 AM Reading table: TABLES, Time: 3 s
+2022-04-14 05:11:38 PM Reading table: TABLES, Time: 4 s
 
-2022-04-14 10:57:26 AM Reading file: BOC_datasets, Time: 9 s
+2022-04-14 05:11:44 PM Reading file: BOC_datasets, Time: 10 s
 
-2022-04-14 10:57:26 AM Reading file: POPT_series, Time: 9 s
+2022-04-14 05:11:45 PM Reading file: CBRT_series, Time: 10 s
 
-2022-04-14 10:57:26 AM 
+2022-04-14 05:11:45 PM 
 
-2022-04-14 10:57:26 AM ====== WebDriver manager ======
-2022-04-14 10:57:26 AM Current google-chrome version is 100.0.4896
-2022-04-14 10:57:26 AM Get LATEST chromedriver version for 100.0.4896 google-chrome
-2022-04-14 10:57:26 AM Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
-2022-04-14 10:57:30 AM Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\100.0.4896.60]
-2022-04-14 10:57:32 AM Reading file: Civilian Population, sheet: Female, frequency: A, Time: 15 s
+2022-04-14 05:11:45 PM ====== WebDriver manager ======
+2022-04-14 05:11:45 PM Current google-chrome version is 100.0.4896
+2022-04-14 05:11:45 PM Get LATEST chromedriver version for 100.0.4896 google-chrome
+2022-04-14 05:11:45 PM Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+2022-04-14 05:11:48 PM Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\100.0.4896.60]
+2022-04-14 05:11:49 PM Reading file: t2, sheet: 0, frequency: A, Time: 15 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:11:49 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:11:49 PM Total New Items Found: 0 Time: 15 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:11:49 PM Reading file: BOC_datasets, Time: 15 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:11:49 PM Reading file: FAMI_series, Time: 15 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:11:50 PM Reading file: f08ar, sheet: 0, frequency: A, Time: 16 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:11:50 PM Downloading file: f08ar
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:07 PM Total New Items Found: 0 Time: 33 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:07 PM Reading file: BOC_datasets, Time: 33 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:07 PM Reading file: HSHD_series, Time: 33 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:07 PM Reading file: hh3, sheet: 0, frequency: A, Time: 33 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:07 PM Downloading file: hh3
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:20 PM Total New Items Found: 0 Time: 45 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:20 PM Reading file: hh4, sheet: 0, frequency: A, Time: 46 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:20 PM Downloading file: hh4
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:32 PM Total New Items Found: 0 Time: 58 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:32 PM Reading file: hh6, sheet: 0, frequency: A, Time: 58 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:32 PM Downloading file: hh6
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:44 PM Total New Items Found: 0 Time: 70 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:44 PM Reading file: BOC_datasets, Time: 70 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:44 PM Reading file: MADI_series, Time: 70 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:45 PM Reading file: ms1, sheet: 0, frequency: A, Time: 70 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:45 PM Downloading file: ms1
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:57 PM Total New Items Found: 0 Time: 83 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:57 PM Reading file: BOC_datasets, Time: 83 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:57 PM Reading file: POPP_series, Time: 83 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:57 PM Reading file: d1_mid, sheet: 0, frequency: A, Time: 83 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:12:57 PM Downloading file: d1_mid
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:22 PM Total New Items Found: 0 Time: 108 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:22 PM Reading file: BOC_datasets, Time: 108 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:22 PM Reading file: POPT_series, Time: 108 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Reading file: Civilian Population, sheet: Female, frequency: A, Time: 108 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Total New Items Found: 0 Time: 109 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Reading file: Civilian Population, sheet: Male, frequency: A, Time: 109 s
 
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:33 AM Reading Data: c-file02.csv
-2022-04-14 10:57:33 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:35 AM Reading Data: c-file04.csv
-2022-04-14 10:57:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Total New Items Found: 0 Time: 109 s
 
-2022-04-14 10:57:36 AM Reading Data: c-file06.csv
-2022-04-14 10:57:36 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Reading file: Civilian Population, sheet: Total, frequency: A, Time: 109 s
 
-2022-04-14 10:57:37 AM Reading Data: c-file08.csv
-2022-04-14 10:57:37 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:38 AM Reading Data: c-file10.csv
-2022-04-14 10:57:38 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:38 AM Reading Data: c-file12.csv
-2022-04-14 10:57:38 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Total New Items Found: 0 Time: 109 s
 
-2022-04-14 10:57:39 AM Reading Data: c-file14.csv
-2022-04-14 10:57:39 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Reading file: Resident Population, sheet: Female, frequency: A, Time: 109 s
 
-2022-04-14 10:57:40 AM Reading Data: c-file16.csv
-2022-04-14 10:57:40 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:41 AM Reading Data: c-file18.csv
-2022-04-14 10:57:41 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:42 AM Reading Data: c-file20.csv
-2022-04-14 10:57:42 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Total New Items Found: 0 Time: 109 s
 
-2022-04-14 10:57:43 AM Reading Data: c-file22.csv
-2022-04-14 10:57:43 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Reading file: Resident Population, sheet: Male, frequency: A, Time: 109 s
 
-2022-04-14 10:57:44 AM Reading Data: c-file24.csv
-2022-04-14 10:57:44 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:45 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:45 AM Total New Items Found: 0 Time: 28 s
+2022-04-14 05:13:24 PM Total New Items Found: 0 Time: 109 s
 
-2022-04-14 10:57:45 AM Reading file: Civilian Population, sheet: Male, frequency: A, Time: 28 s
+2022-04-14 05:13:24 PM Reading file: Resident Population, sheet: Total, frequency: A, Time: 109 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Total New Items Found: 0 Time: 110 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Reading file: Resident population plus Armed Forces overseas, sheet: Female, frequency: A, Time: 110 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Total New Items Found: 0 Time: 110 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Reading file: Resident population plus Armed Forces overseas, sheet: Male, frequency: A, Time: 110 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Total New Items Found: 0 Time: 110 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Reading file: Resident population plus Armed Forces overseas, sheet: Total, frequency: A, Time: 110 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:24 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:25 PM Total New Items Found: 0 Time: 110 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:25 PM Reading file: BOC_datasets, Time: 110 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:25 PM Reading file: SCEN_series, Time: 110 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:25 PM Reading file: tablea-1, sheet: 0, frequency: A, Time: 111 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:25 PM Downloading file: tablea-1
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:39 PM Total New Items Found: 0 Time: 124 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:39 PM Reading file: tablea-2, sheet: 0, frequency: A, Time: 125 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:39 PM Downloading file: tablea-2
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:52 PM Total New Items Found: 0 Time: 138 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:52 PM Reading file: BOC_datasets, Time: 138 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:52 PM Reading file: URIN_series, Time: 138 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:52 PM Reading file: pov01_100_1, sheet: 0, frequency: A, Time: 138 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:13:52 PM Downloading file: pov01_100_1
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:06 PM Total New Items Found: 0 Time: 152 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:06 PM Reading file: BOC_datasets, Time: 152 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:06 PM Reading file: CONS_series, Time: 152 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:06 PM Reading file: fedsatime, sheet: 0, frequency: M, Time: 152 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:06 PM Downloading file: VIP-mf
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:17 PM Downloading file: fedsatime
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:27 PM Total New Items Found: 0 Time: 173 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:27 PM Reading file: fedtime, sheet: 0, frequency: M, Time: 173 s
 
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:27 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:46 AM Reading Data: c-file02.csv
-2022-04-14 10:57:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:27 PM Downloading file: fedtime
 
-2022-04-14 10:57:47 AM Reading Data: c-file04.csv
-2022-04-14 10:57:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:37 PM Total New Items Found: 0 Time: 183 s
 
-2022-04-14 10:57:47 AM Reading Data: c-file06.csv
-2022-04-14 10:57:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:37 PM Reading file: privsatime, sheet: 0, frequency: M, Time: 183 s
 
-2022-04-14 10:57:48 AM Reading Data: c-file08.csv
-2022-04-14 10:57:48 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:37 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:49 AM Reading Data: c-file10.csv
-2022-04-14 10:57:49 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:37 PM Downloading file: privsatime
 
-2022-04-14 10:57:50 AM Reading Data: c-file12.csv
-2022-04-14 10:57:50 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:48 PM Total New Items Found: 0 Time: 193 s
 
-2022-04-14 10:57:51 AM Reading Data: c-file14.csv
-2022-04-14 10:57:51 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:48 PM Reading file: privtime, sheet: 0, frequency: M, Time: 194 s
 
-2022-04-14 10:57:52 AM Reading Data: c-file16.csv
-2022-04-14 10:57:52 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:48 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:52 AM Reading Data: c-file18.csv
-2022-04-14 10:57:52 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:48 PM Downloading file: privtime
 
-2022-04-14 10:57:53 AM Reading Data: c-file20.csv
-2022-04-14 10:57:53 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:58 PM Total New Items Found: 0 Time: 204 s
 
-2022-04-14 10:57:54 AM Reading Data: c-file22.csv
-2022-04-14 10:57:54 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:58 PM Reading file: pubsatime, sheet: 0, frequency: M, Time: 204 s
 
-2022-04-14 10:57:55 AM Reading Data: c-file24.csv
-2022-04-14 10:57:55 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:58 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:56 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:14:58 PM Downloading file: pubsatime
 
-2022-04-14 10:57:56 AM Total New Items Found: 0 Time: 40 s
+2022-04-14 05:15:08 PM Total New Items Found: 0 Time: 214 s
 
-2022-04-14 10:57:56 AM Reading file: Civilian Population, sheet: Total, frequency: A, Time: 40 s
+2022-04-14 05:15:08 PM Reading file: pubtime, sheet: 0, frequency: M, Time: 214 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:08 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:09 PM Downloading file: pubtime
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:19 PM Total New Items Found: 0 Time: 225 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:19 PM Reading file: s&lsatime, sheet: 0, frequency: M, Time: 225 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:19 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:19 PM Downloading file: s&lsatime
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:30 PM Total New Items Found: 0 Time: 235 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:30 PM Reading file: s&ltime, sheet: 0, frequency: M, Time: 235 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:30 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:30 PM Downloading file: s&ltime
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:40 PM Total New Items Found: 0 Time: 246 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:40 PM Reading file: totsatime, sheet: 0, frequency: M, Time: 246 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:40 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:40 PM Downloading file: totsatime
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:51 PM Total New Items Found: 0 Time: 256 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:51 PM Reading file: tottime, sheet: 0, frequency: M, Time: 256 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:51 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:15:51 PM Downloading file: tottime
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:01 PM Total New Items Found: 0 Time: 267 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:01 PM Reading file: BOC_datasets, Time: 267 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:01 PM Reading file: FTDC_series, Time: 267 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:01 PM Reading file: UGDSSITC_M, sheet: 0, frequency: M, Time: 267 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:02 PM Category: Exports
+2022-04-14 05:16:02 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:03 PM Category: Imports
+2022-04-14 05:16:03 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:05 PM Total New Items Found: 0 Time: 270 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:05 PM Reading file: UGDSSITC_A, sheet: 0, frequency: A, Time: 271 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:05 PM Category: Exports
+2022-04-14 05:16:05 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:05 PM Category: Imports
+2022-04-14 05:16:05 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:05 PM Total New Items Found: 0 Time: 271 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:05 PM Reading file: BOC_datasets, Time: 271 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:05 PM Reading file: FTDE_series, Time: 271 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Reading file: ABOP3, sheet: 0, frequency: M, Time: 271 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Total New Items Found: 0 Time: 272 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Reading file: AGDSCSB, sheet: 0, frequency: M, Time: 272 s
 
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:57:57 AM Reading Data: c-file02.csv
-2022-04-14 10:57:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Total New Items Found: 0 Time: 272 s
 
-2022-04-14 10:57:58 AM Reading Data: c-file04.csv
-2022-04-14 10:57:58 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Reading file: AGDSCSB, sheet: 0, frequency: A, Time: 272 s
 
-2022-04-14 10:57:59 AM Reading Data: c-file06.csv
-2022-04-14 10:57:59 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:00 AM Reading Data: c-file08.csv
-2022-04-14 10:58:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Total New Items Found: 0 Time: 272 s
 
-2022-04-14 10:58:01 AM Reading Data: c-file10.csv
-2022-04-14 10:58:01 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Reading file: AGDSEXCSB_M, sheet: 0, frequency: M, Time: 272 s
 
-2022-04-14 10:58:01 AM Reading Data: c-file12.csv
-2022-04-14 10:58:01 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:06 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:02 AM Reading Data: c-file14.csv
-2022-04-14 10:58:02 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:07 PM Total New Items Found: 0 Time: 273 s
 
-2022-04-14 10:58:03 AM Reading Data: c-file16.csv
-2022-04-14 10:58:03 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:07 PM Reading file: AGDSEXCSB_A, sheet: 0, frequency: A, Time: 273 s
 
-2022-04-14 10:58:04 AM Reading Data: c-file18.csv
-2022-04-14 10:58:04 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:07 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:05 AM Reading Data: c-file20.csv
-2022-04-14 10:58:05 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:07 PM Total New Items Found: 0 Time: 273 s
 
-2022-04-14 10:58:06 AM Reading Data: c-file22.csv
-2022-04-14 10:58:06 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:07 PM Reading file: AGDSIMCSB_M, sheet: 0, frequency: M, Time: 273 s
 
-2022-04-14 10:58:07 AM Reading Data: c-file24.csv
-2022-04-14 10:58:07 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:08 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:08 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:08 PM Total New Items Found: 0 Time: 274 s
 
-2022-04-14 10:58:08 AM Total New Items Found: 0 Time: 52 s
+2022-04-14 05:16:08 PM Reading file: AGDSIMCSB_A, sheet: 0, frequency: A, Time: 274 s
 
-2022-04-14 10:58:08 AM Reading file: Resident Population, sheet: Female, frequency: A, Time: 52 s
+2022-04-14 05:16:08 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Total New Items Found: 0 Time: 274 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Reading file: ASRVEXBOP, sheet: 0, frequency: M, Time: 275 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Total New Items Found: 0 Time: 275 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Reading file: ASRVEXBOP, sheet: 0, frequency: A, Time: 275 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Total New Items Found: 0 Time: 275 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Reading file: ASRVIMBOP, sheet: 0, frequency: M, Time: 275 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Total New Items Found: 0 Time: 275 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Reading file: ASRVIMBOP, sheet: 0, frequency: A, Time: 275 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Total New Items Found: 0 Time: 275 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Reading file: https://www.census.gov/foreign-trade/statistics/country/index.html#1, sheet: country, frequency: M, Time: 275 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:09 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:26 PM Total New Items Found: 0 Time: 292 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:26 PM Reading file: https://www.census.gov/foreign-trade/statistics/country/index.html#1, sheet: country, frequency: A, Time: 292 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:26 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:31 PM Total New Items Found: 0 Time: 297 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:31 PM Reading file: https://www.census.gov/foreign-trade/statistics/country/index.html#2, sheet: ctyseasonal, frequency: M, Time: 297 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:31 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:33 PM Total New Items Found: 0 Time: 299 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:33 PM Reading file: https://www.census.gov/foreign-trade/statistics/country/index.html#2, sheet: ctyseasonal, frequency: Q, Time: 299 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:33 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:34 PM Total New Items Found: 0 Time: 300 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:34 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#1, sheet: exhibit_history, frequency: M, Time: 300 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:34 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:35 PM Total New Items Found: 0 Time: 300 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:35 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#1, sheet: exhibit_history, frequency: A, Time: 300 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:35 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:35 PM Total New Items Found: 0 Time: 300 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:35 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#2, sheet: NSAEXP, frequency: M, Time: 301 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:35 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:35 PM Total New Items Found: 0 Time: 301 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:35 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#2, sheet: NSAEXP, frequency: A, Time: 301 s
 
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:35 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:09 AM Reading Data: r-file02.csv
-2022-04-14 10:58:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:36 PM Total New Items Found: 0 Time: 302 s
 
-2022-04-14 10:58:10 AM Reading Data: r-file04.csv
-2022-04-14 10:58:10 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:36 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#3, sheet: NSAIMP, frequency: M, Time: 302 s
 
-2022-04-14 10:58:11 AM Reading Data: r-file06.csv
-2022-04-14 10:58:11 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:36 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:12 AM Reading Data: r-file08.csv
-2022-04-14 10:58:12 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:36 PM Total New Items Found: 0 Time: 302 s
 
-2022-04-14 10:58:13 AM Reading Data: r-file10.csv
-2022-04-14 10:58:13 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:36 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#3, sheet: NSAIMP, frequency: A, Time: 302 s
 
-2022-04-14 10:58:14 AM Reading Data: r-file12.csv
-2022-04-14 10:58:14 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:36 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:15 AM Reading Data: r-file14.csv
-2022-04-14 10:58:15 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:37 PM Total New Items Found: 0 Time: 303 s
 
-2022-04-14 10:58:16 AM Reading Data: r-file16.csv
-2022-04-14 10:58:16 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:37 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#4, sheet: petro, frequency: M, Time: 303 s
 
-2022-04-14 10:58:17 AM Reading Data: r-file18.csv
-2022-04-14 10:58:17 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:37 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:18 AM Reading Data: r-file20.csv
-2022-04-14 10:58:18 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:37 PM Total New Items Found: 0 Time: 303 s
 
-2022-04-14 10:58:19 AM Reading Data: r-file22.csv
-2022-04-14 10:58:19 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:37 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#4, sheet: petro, frequency: A, Time: 303 s
 
-2022-04-14 10:58:19 AM Reading Data: r-file24.csv
-2022-04-14 10:58:19 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:37 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:21 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:38 PM Total New Items Found: 0 Time: 303 s
 
-2022-04-14 10:58:21 AM Total New Items Found: 0 Time: 64 s
+2022-04-14 05:16:38 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#5, sheet: realexp, frequency: M, Time: 304 s
 
-2022-04-14 10:58:21 AM Reading file: Resident Population, sheet: Male, frequency: A, Time: 64 s
+2022-04-14 05:16:38 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:38 PM Total New Items Found: 0 Time: 304 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:38 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#5, sheet: realexp, frequency: A, Time: 304 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:38 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:39 PM Total New Items Found: 0 Time: 305 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:39 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#6, sheet: realimp, frequency: M, Time: 305 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:39 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:39 PM Total New Items Found: 0 Time: 305 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:39 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#6, sheet: realimp, frequency: A, Time: 305 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:39 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:40 PM Total New Items Found: 0 Time: 306 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:40 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#7, sheet: realpetr, frequency: M, Time: 306 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:40 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:41 PM Total New Items Found: 0 Time: 307 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:41 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#7, sheet: realpetr, frequency: A, Time: 307 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:41 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:41 PM Total New Items Found: 0 Time: 307 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:41 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#8, sheet: SAEXP, frequency: M, Time: 307 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:41 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:42 PM Total New Items Found: 0 Time: 308 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:42 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#8, sheet: SAEXP, frequency: A, Time: 308 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:42 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:42 PM Total New Items Found: 0 Time: 308 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:42 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#9, sheet: SAIMP, frequency: M, Time: 308 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:42 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:43 PM Total New Items Found: 0 Time: 309 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:43 PM Reading file: https://www.census.gov/foreign-trade/statistics/historical/index.html#9, sheet: SAIMP, frequency: A, Time: 309 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:43 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:43 PM Total New Items Found: 0 Time: 309 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:43 PM Reading file: UAMVCSB_M, sheet: 0, frequency: M, Time: 309 s
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:44 PM Category: Exports of AMV
+2022-04-14 05:16:44 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:44 PM Category: Exports of PSC
+2022-04-14 05:16:44 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:44 PM Category: Exports of TBV
+2022-04-14 05:16:44 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:44 PM Category: Exports of PAR
+2022-04-14 05:16:44 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:44 PM Category: Imports of AMV
+2022-04-14 05:16:44 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:45 PM Category: Imports of PSC
+2022-04-14 05:16:45 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:45 PM Category: Imports of TBV
+2022-04-14 05:16:45 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Reading Data: r-file02.csv
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:45 PM Category: Imports of PAR
+2022-04-14 05:16:45 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:22 AM Reading Data: r-file04.csv
-2022-04-14 10:58:22 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:45 PM Total New Items Found: 0 Time: 311 s
 
-2022-04-14 10:58:23 AM Reading Data: r-file06.csv
-2022-04-14 10:58:23 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:45 PM Reading file: UAMVCSB_A, sheet: 0, frequency: A, Time: 311 s
 
-2022-04-14 10:58:24 AM Reading Data: r-file08.csv
-2022-04-14 10:58:24 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:45 PM Category: Exports of AMV
+2022-04-14 05:16:45 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:26 AM Reading Data: r-file10.csv
-2022-04-14 10:58:26 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:45 PM Category: Exports of PSC
+2022-04-14 05:16:45 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:27 AM Reading Data: r-file12.csv
-2022-04-14 10:58:27 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:45 PM Category: Exports of TBV
+2022-04-14 05:16:45 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:28 AM Reading Data: r-file14.csv
-2022-04-14 10:58:28 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:45 PM Category: Exports of PAR
+2022-04-14 05:16:45 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:29 AM Reading Data: r-file16.csv
-2022-04-14 10:58:29 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:45 PM Category: Imports of AMV
+2022-04-14 05:16:45 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:30 AM Reading Data: r-file18.csv
-2022-04-14 10:58:30 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Category: Imports of PSC
+2022-04-14 05:16:46 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:31 AM Reading Data: r-file20.csv
-2022-04-14 10:58:31 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Category: Imports of TBV
+2022-04-14 05:16:46 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:32 AM Reading Data: r-file22.csv
-2022-04-14 10:58:32 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Category: Imports of PAR
+2022-04-14 05:16:46 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:32 AM Reading Data: r-file24.csv
-2022-04-14 10:58:32 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Total New Items Found: 0 Time: 312 s
 
-2022-04-14 10:58:34 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Reading file: UATPCSB, sheet: 0, frequency: M, Time: 312 s
 
-2022-04-14 10:58:34 AM Total New Items Found: 0 Time: 77 s
+2022-04-14 05:16:46 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:34 AM Reading file: Resident Population, sheet: Total, frequency: A, Time: 77 s
+2022-04-14 05:16:46 PM Total New Items Found: 0 Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Reading file: UATPCSB, sheet: 0, frequency: A, Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Total New Items Found: 0 Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Reading file: UGDSCSB, sheet: 0, frequency: M, Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Total New Items Found: 0 Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Reading file: UGDSCSB, sheet: 0, frequency: A, Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Total New Items Found: 0 Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Reading file: UPPCO, sheet: 0, frequency: M, Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Total New Items Found: 0 Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Reading file: UPPCO, sheet: 0, frequency: A, Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Total New Items Found: 0 Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Reading file: BOC_datasets, Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:46 PM Reading file: HIES_series, Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:47 PM Reading file: BOC_datasets, Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:47 PM Reading file: HIHV_series, Time: 312 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:47 PM Reading file: HV-mf, sheet: 0, frequency: Q, Time: 313 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:16:47 PM Downloading file: HV-mf
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:02 PM Total New Items Found: 0 Time: 328 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:02 PM Reading file: BOC_datasets, Time: 328 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:02 PM Reading file: PRIC_series, Time: 328 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:02 PM Reading file: price_sold_cust, sheet: price index, frequency: A, Time: 328 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:02 PM Downloading file: price_sold_cust
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:12 PM Total New Items Found: 0 Time: 338 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:12 PM Reading file: price_sold_cust, sheet: price index, frequency: Q, Time: 338 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:12 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:12 PM Total New Items Found: 0 Time: 338 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:12 PM Reading file: BOC_datasets, Time: 338 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:12 PM Reading file: RESC_series, Time: 338 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:12 PM Reading file: authnot_cust, sheet: AuthNot, frequency: M, Time: 338 s
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:12 PM Downloading file: RESCONST-mf
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:22 PM Downloading file: authnot_cust
 
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:32 PM Total New Items Found: 0 Time: 358 s
 
-2022-04-14 10:58:35 AM Reading Data: r-file02.csv
-2022-04-14 10:58:35 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:32 PM Reading file: authnot_cust, sheet: AuthNotSA, frequency: M, Time: 358 s
 
-2022-04-14 10:58:36 AM Reading Data: r-file04.csv
-2022-04-14 10:58:36 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:32 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:37 AM Reading Data: r-file06.csv
-2022-04-14 10:58:37 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:32 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:37 AM Reading Data: r-file08.csv
-2022-04-14 10:58:37 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:32 PM Total New Items Found: 0 Time: 358 s
 
-2022-04-14 10:58:38 AM Reading Data: r-file10.csv
-2022-04-14 10:58:38 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:32 PM Reading file: co_cust, sheet: CompsSA, frequency: M, Time: 358 s
 
-2022-04-14 10:58:39 AM Reading Data: r-file12.csv
-2022-04-14 10:58:39 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:32 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:40 AM Reading Data: r-file14.csv
-2022-04-14 10:58:40 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:32 PM Downloading file: co_cust
 
-2022-04-14 10:58:41 AM Reading Data: r-file16.csv
-2022-04-14 10:58:41 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:43 PM Total New Items Found: 0 Time: 369 s
 
-2022-04-14 10:58:42 AM Reading Data: r-file18.csv
-2022-04-14 10:58:42 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:43 PM Reading file: co_cust, sheet: CompsUA, frequency: M, Time: 369 s
 
-2022-04-14 10:58:43 AM Reading Data: r-file20.csv
-2022-04-14 10:58:43 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:43 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:44 AM Reading Data: r-file22.csv
-2022-04-14 10:58:44 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:43 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:45 AM Reading Data: r-file24.csv
-2022-04-14 10:58:45 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:43 PM Total New Items Found: 0 Time: 369 s
 
-2022-04-14 10:58:46 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:43 PM Reading file: permits_cust, sheet: PermitsSA, frequency: M, Time: 369 s
 
-2022-04-14 10:58:46 AM Total New Items Found: 0 Time: 90 s
+2022-04-14 05:17:43 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:46 AM Reading file: Resident population plus Armed Forces overseas, sheet: Female, frequency: A, Time: 90 s
+2022-04-14 05:17:43 PM Downloading file: permits_cust
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:53 PM Total New Items Found: 0 Time: 379 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:53 PM Reading file: permits_cust, sheet: PermitsUA, frequency: M, Time: 379 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:53 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:53 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:53 PM Total New Items Found: 0 Time: 379 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:53 PM Reading file: starts_cust, sheet: StartsAnn, frequency: A, Time: 379 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:53 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:17:53 PM Downloading file: starts_cust
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:03 PM Total New Items Found: 0 Time: 389 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:03 PM Reading file: starts_cust, sheet: StartsSA  , frequency: M, Time: 389 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:03 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:03 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:03 PM Total New Items Found: 0 Time: 389 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:03 PM Reading file: starts_cust, sheet: StartsUA , frequency: M, Time: 389 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:03 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:03 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:03 PM Total New Items Found: 0 Time: 389 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:04 PM Reading file: startsunpub_co_cust, sheet: PermitCompsSA, frequency: M, Time: 389 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:04 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:04 PM Downloading file: startsunpub_co_cust
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:13 PM Total New Items Found: 0 Time: 399 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:13 PM Reading file: startsunpub_co_cust, sheet: PermitCompsUA, frequency: M, Time: 399 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:14 PM Total New Items Found: 0 Time: 399 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:14 PM Reading file: startsunpub_starts_cust, sheet: PermitStartsSA, frequency: M, Time: 399 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:14 PM Downloading file: startsunpub_starts_cust
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:23 PM Total New Items Found: 0 Time: 409 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:23 PM Reading file: startsunpub_starts_cust, sheet: PermitStartsUA, frequency: M, Time: 409 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:23 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:24 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:24 PM Total New Items Found: 0 Time: 409 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:24 PM Reading file: startsunpub_uc_cust, sheet: PermitUnderCon UA, frequency: M, Time: 410 s
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:24 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:24 PM Downloading file: startsunpub_uc_cust
 
-2022-04-14 10:58:47 AM Reading Data: p-file02.csv
-2022-04-14 10:58:47 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:34 PM Total New Items Found: 0 Time: 419 s
 
-2022-04-14 10:58:48 AM Reading Data: p-file04.csv
-2022-04-14 10:58:48 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:34 PM Reading file: startsunpub_uc_cust, sheet: PermitUnderConSA, frequency: M, Time: 419 s
 
-2022-04-14 10:58:49 AM Reading Data: p-file06.csv
-2022-04-14 10:58:49 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:34 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:50 AM Reading Data: p-file08.csv
-2022-04-14 10:58:50 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:34 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:51 AM Reading Data: p-file10.csv
-2022-04-14 10:58:51 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:34 PM Total New Items Found: 0 Time: 420 s
 
-2022-04-14 10:58:52 AM Reading Data: p-file12.csv
-2022-04-14 10:58:52 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:34 PM Reading file: under_cust, sheet: UnderSA, frequency: M, Time: 420 s
 
-2022-04-14 10:58:53 AM Reading Data: p-file14.csv
-2022-04-14 10:58:53 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:34 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:54 AM Reading Data: p-file16.csv
-2022-04-14 10:58:54 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:34 PM Downloading file: under_cust
 
-2022-04-14 10:58:55 AM Reading Data: p-file18.csv
-2022-04-14 10:58:55 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:44 PM Total New Items Found: 0 Time: 429 s
 
-2022-04-14 10:58:56 AM Reading Data: p-file20.csv
-2022-04-14 10:58:56 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:44 PM Reading file: under_cust, sheet: UnderUA , frequency: M, Time: 429 s
 
-2022-04-14 10:58:57 AM Reading Data: p-file22.csv
-2022-04-14 10:58:57 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:44 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:58 AM Reading Data: p-file24.csv
-2022-04-14 10:58:58 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:44 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:58:59 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:44 PM Total New Items Found: 0 Time: 430 s
 
-2022-04-14 10:58:59 AM Total New Items Found: 0 Time: 102 s
+2022-04-14 05:18:44 PM Reading file: BOC_datasets, Time: 430 s
 
-2022-04-14 10:58:59 AM Reading file: Resident population plus Armed Forces overseas, sheet: Male, frequency: A, Time: 102 s
+2022-04-14 05:18:44 PM Reading file: SALE_series, Time: 430 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:44 PM Reading file: RESSALES-mf, sheet: 0, frequency: M, Time: 430 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:18:44 PM Downloading file: RESSALES-mf
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:07 PM Total New Items Found: 0 Time: 453 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:07 PM Reading file: BOC_datasets, Time: 453 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:07 PM Reading file: SHIP_series, Time: 453 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:07 PM Reading file: MHS2-mf, sheet: 0, frequency: M, Time: 453 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:07 PM Downloading file: MHS2-mf
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:20 PM Total New Items Found: 0 Time: 465 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:20 PM Reading file: shipment, sheet: shipment, frequency: A, Time: 465 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:20 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:20 PM Downloading file: shipment
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:32 PM Total New Items Found: 0 Time: 478 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:32 PM Reading file: BOC_datasets, Time: 478 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:32 PM Reading file: MRTS_series, Time: 478 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:32 PM Reading file: MRTS-mf, sheet: 0, frequency: M, Time: 478 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:19:32 PM Downloading file: MRTS-mf
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:35 PM Total New Items Found: 0 Time: 541 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:35 PM Reading file: tsadjustedsales, sheet: 0, frequency: Q, Time: 541 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:35 PM Downloading file: tsadjustedsales
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:46 PM Total New Items Found: 0 Time: 552 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:46 PM Reading file: tsnotadjustedsales, sheet: 0, frequency: Q, Time: 552 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:46 PM Downloading file: tsnotadjustedsales
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:56 PM Total New Items Found: 0 Time: 561 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:56 PM Reading file: BOC_datasets, Time: 561 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:56 PM Reading file: MSIO_series, Time: 562 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:56 PM Reading file: M3-mf, sheet: 0, frequency: M, Time: 562 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:20:56 PM Downloading file: M3-mf
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:24:10 PM Total New Items Found: 0 Time: 756 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:24:10 PM Reading file: BOC_datasets, Time: 756 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:24:10 PM Reading file: MTIS_series, Time: 756 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:24:10 PM Reading file: MTIS-mf, sheet: 0, frequency: M, Time: 756 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:24:10 PM Downloading file: MTIS-mf
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:24:29 PM Total New Items Found: 0 Time: 775 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:24:29 PM Reading file: BOC_datasets, Time: 775 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:24:29 PM Reading file: MWTS_series, Time: 775 s
 
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:24:29 PM Reading file: MWTS-mf, sheet: 0, frequency: M, Time: 775 s
 
-2022-04-14 10:59:00 AM Reading Data: p-file02.csv
-2022-04-14 10:59:00 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:24:29 PM Downloading file: MWTS-mf
 
-2022-04-14 10:59:01 AM Reading Data: p-file04.csv
-2022-04-14 10:59:01 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:25:23 PM Total New Items Found: 0 Time: 829 s
 
-2022-04-14 10:59:02 AM Reading Data: p-file06.csv
-2022-04-14 10:59:02 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:25:23 PM Reading file: BOC_datasets, Time: 829 s
 
-2022-04-14 10:59:03 AM Reading Data: p-file08.csv
-2022-04-14 10:59:03 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:25:23 PM Reading file: QFRS_series, Time: 829 s
 
-2022-04-14 10:59:04 AM Reading Data: p-file10.csv
-2022-04-14 10:59:04 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:25:23 PM Reading file: QFR-mf, sheet: 0, frequency: Q, Time: 829 s
 
-2022-04-14 10:59:05 AM Reading Data: p-file12.csv
-2022-04-14 10:59:05 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:25:23 PM Downloading file: QFR-mf
 
-2022-04-14 10:59:06 AM Reading Data: p-file14.csv
-2022-04-14 10:59:06 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:27:04 PM Total New Items Found: 0 Time: 930 s
 
-2022-04-14 10:59:07 AM Reading Data: p-file16.csv
-2022-04-14 10:59:07 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:27:04 PM Reading file: BOC_datasets, Time: 930 s
 
-2022-04-14 10:59:08 AM Reading Data: p-file18.csv
-2022-04-14 10:59:08 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:27:04 PM Reading file: NAHB_series, Time: 930 s
 
-2022-04-14 10:59:08 AM Reading Data: p-file20.csv
-2022-04-14 10:59:08 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:27:04 PM Reading file: t2-nahb-wellsfargo-national-him-history, sheet: 0, frequency: M, Time: 930 s
 
-2022-04-14 10:59:09 AM Reading Data: p-file22.csv
-2022-04-14 10:59:09 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:27:04 PM Downloading file: t2-nahb-wellsfargo-national-him-history
 
-2022-04-14 10:59:10 AM Reading Data: p-file24.csv
-2022-04-14 10:59:10 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:27:20 PM Total New Items Found: 0 Time: 946 s
 
-2022-04-14 10:59:11 AM Present File Exists. Reading Data From Default Path.
+2022-04-14 05:27:20 PM Reading file: t3-nahb-wellfargo-national-hmi-components-history, sheet: 0, frequency: M, Time: 946 s
 
-2022-04-14 10:59:12 AM Total New Items Found: 0 Time: 115 s
+2022-04-14 05:27:20 PM Downloading file: t3-nahb-wellfargo-national-hmi-components-history
 
-2022-04-14 10:59:12 AM Reading file: Resident population plus Armed Forces overseas, sheet: Total, frequency: A, Time: 115 s
+2022-04-14 05:27:32 PM Total New Items Found: 0 Time: 958 s
 
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Reading Data: p-file02.csv
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:13 AM Reading Data: p-file04.csv
-2022-04-14 10:59:13 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:14 AM Reading Data: p-file06.csv
-2022-04-14 10:59:14 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:15 AM Reading Data: p-file08.csv
-2022-04-14 10:59:15 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:16 AM Reading Data: p-file10.csv
-2022-04-14 10:59:16 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:17 AM Reading Data: p-file12.csv
-2022-04-14 10:59:17 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:18 AM Reading Data: p-file14.csv
-2022-04-14 10:59:18 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:19 AM Reading Data: p-file16.csv
-2022-04-14 10:59:19 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:20 AM Reading Data: p-file18.csv
-2022-04-14 10:59:20 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:21 AM Reading Data: p-file20.csv
-2022-04-14 10:59:21 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:22 AM Reading Data: p-file22.csv
-2022-04-14 10:59:22 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:23 AM Reading Data: p-file24.csv
-2022-04-14 10:59:23 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:24 AM Present File Exists. Reading Data From Default Path.
-
-2022-04-14 10:59:24 AM Total New Items Found: 0 Time: 127 s
-
-2022-04-14 10:59:27 AM = ! = No new items were found.
+2022-04-14 05:27:35 PM = ! = No new items were found.

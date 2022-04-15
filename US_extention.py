@@ -4130,7 +4130,7 @@ def US_FTD_NEW(chrome, data_path, address, fname, Series, prefix, middle, suffix
 
     return US_t, label, note, footnote
 
-def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix, middle, suffix, freq, transpose, Zip_table, excel='x', skip=None, head=None, index_col=None, usecols=None, names=None, multi=None, datatype='', AMV='', final_name=None, ft900_name=None, start_year=2020):
+def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix, middle, suffix, freq, transpose, Zip_table, excel='x', skip=None, head=None, index_col=None, usecols=None, names=None, multi=None, datatype='', AMV='', final_name=None, ft900_name=None, start_year=datetime.today().year-2):
     PASS = ['nan', '(-)', 'Balance of Payment', 'Net Adjustments', 'Total, Census Basis', 'Total Census Basis', 'Item', 'Residual', 'Unnamed', 'Selected commodities', 'Country', 'TOTAL']
     MONTH = ['January','February','March','April','May','June','July','August','September','October','November','December']
     YEAR = ['Jan.-Dec.']
@@ -4148,6 +4148,7 @@ def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix
     if PRESENT(file_path) == True:
         update = False
     else:
+        #年資料採計近兩年的資料，月資料採計近12個月的資料
         PERIOD = {'final':range(start_year, datetime.today().year),'ft900':list(range(datetime.today().month, 13))+list(range(1, datetime.today().month))}
         FNAME = {'final':final_name, 'ft900':ft900_name}
         last_year_monthly = True
@@ -4184,7 +4185,7 @@ def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix
                     if key == 'final' and rq.get(website).status_code != 200:
                         if period == datetime.today().year-1:
                             last_year_monthly = True
-                            logging.info('Process data from monthly data of last year.')
+                            logging.info('Process data from monthly data of last year.\n')
                         continue
                     elif key == 'ft900':
                         keydate = datetime.strptime(str(process_year)[-2:]+str(period).rjust(2,'0'), '%y%m').strftime('%B %Y')
@@ -4589,7 +4590,7 @@ def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix
                             else:
                                 new_index.append(prefix+middle+suf+fix)
                         US_temp.index = new_index
-                    US_temp.columns = [int(col) if str(col).isnumeric() else col for col in US_temp.columns]
+                    US_temp.columns = [int(col) if str(col).replace('.0','').isnumeric() else col for col in US_temp.columns]
                     US_temp = US_temp.sort_index(axis=1)
                     for item in new_order:
                         if type(item) == pd.core.series.Series:
@@ -4606,7 +4607,7 @@ def US_FTD_HISTORICAL(chrome, data_path, address, fname, fname_t, Series, prefix
                     US_his = US_his.loc[US_his.index.dropna(), US_his.columns.dropna()]
                     US_his.columns = [str(col) for col in US_his.columns]
                     US_his = US_his.sort_index(axis=1)
-                    US_his.columns = [int(col) if str(col).isnumeric() else col for col in US_his.columns]
+                    US_his.columns = [int(col) if str(col).replace('.0','').isnumeric() else col for col in US_his.columns]
                     for lab in new_label.index:
                         US_his.loc[lab, 'Label'] = new_label.loc[lab]
                     for order in new_order.index:
