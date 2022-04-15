@@ -1,67 +1,34 @@
-﻿2022-04-15 11:58:28 AM excel_suffix: test
+﻿2022-04-15 05:52:08 PM excel_suffix: test
 
-2022-04-15 11:58:28 AM data_processing: True
+2022-04-15 05:52:08 PM data_processing: True
 
-2022-04-15 11:58:28 AM find_unknown: False
+2022-04-15 05:52:08 PM find_unknown: False
 
-2022-04-15 11:58:28 AM dealing_start_year: 1900
+2022-04-15 05:52:08 PM dealing_start_year: 1900
 
-2022-04-15 11:58:31 AM Data Processing
+2022-04-15 05:54:57 PM Data Processing
 
-2022-04-15 11:58:31 AM Reading table: TABLES, Time: 3 s
+2022-04-15 05:54:57 PM Reading table: TABLES, Time: 168 s
 
-2022-04-15 11:58:37 AM Reading file: CBS_series, Time: 9 s
+2022-04-15 05:55:04 PM Reading file: PETR_series, Time: 175 s
 
-2022-04-15 11:58:37 AM 
+2022-04-15 05:55:04 PM Reading file: EIA_datasets, Time: 175 s
 
-2022-04-15 11:58:37 AM ====== WebDriver manager ======
-2022-04-15 11:58:39 AM Current google-chrome version is 100.0.4896
-2022-04-15 11:58:39 AM Get LATEST chromedriver version for 100.0.4896 google-chrome
-2022-04-15 11:58:40 AM Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
-2022-04-15 11:58:42 AM Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\100.0.4896.60]
-2022-04-15 11:58:45 AM Reading file: http://www.nfib-sbet.org/indicators/, sheet: Actual Capital Expenditures, frequency: M, Time: 17 s
+2022-04-15 05:55:04 PM 
 
-2022-04-15 11:58:45 AM Downloading file: Actual Capital Expenditures
+2022-04-15 05:55:04 PM ====== WebDriver manager ======
+2022-04-15 05:55:05 PM Current google-chrome version is 100.0.4896
+2022-04-15 05:55:05 PM Get LATEST chromedriver version for 100.0.4896 google-chrome
+2022-04-15 05:55:05 PM Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+2022-04-15 05:55:08 PM Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\100.0.4896.60]
+2022-04-15 05:55:11 PM Reading file: https://www.usgs.gov/centers/nmic/crushed-stone-statistics-and-information, sheet: crushed_stone_historical_data, frequency: A, Time: 182 s
 
-2022-04-15 11:59:29 AM Total New Items Found: 0 Time: 61 s
+2022-04-15 05:55:11 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-15 11:59:29 AM Reading file: http://www.nfib-sbet.org/indicators/, sheet: Actual Compensation Changes, frequency: M, Time: 61 s
+2022-04-15 05:55:12 PM Total New Items Found: 0 Time: 183 s
 
-2022-04-15 11:59:29 AM Downloading file: Actual Compensation Changes
+2022-04-15 05:55:12 PM Reading file: PETR_series, Time: 183 s
 
-2022-04-15 12:00:05 PM Total New Items Found: 0 Time: 97 s
+2022-04-15 05:55:12 PM Reading file: EIA_datasets, Time: 183 s
 
-2022-04-15 12:00:05 PM Reading file: http://www.nfib-sbet.org/indicators/, sheet: Actual Employment Changes, frequency: M, Time: 97 s
-
-2022-04-15 12:00:05 PM Downloading file: Actual Employment Changes
-
-2022-04-15 12:00:40 PM Total New Items Found: 0 Time: 132 s
-
-2022-04-15 12:00:40 PM Reading file: http://www.nfib-sbet.org/indicators/, sheet: Actual Inventory Changes, frequency: M, Time: 132 s
-
-2022-04-15 12:00:40 PM Downloading file: Actual Inventory Changes
-
-2022-04-15 12:01:15 PM Total New Items Found: 0 Time: 167 s
-
-2022-04-15 12:01:16 PM Reading file: http://www.nfib-sbet.org/indicators/, sheet: Actual Price Changes, frequency: M, Time: 167 s
-
-2022-04-15 12:01:16 PM Downloading file: Actual Price Changes
-
-2022-04-15 12:01:51 PM Total New Items Found: 0 Time: 203 s
-
-2022-04-15 12:01:51 PM Reading file: http://www.nfib-sbet.org/indicators/, sheet: Actual Sales Changes, frequency: M, Time: 203 s
-
-2022-04-15 12:01:51 PM Downloading file: Actual Sales Changes
-
-2022-04-15 12:02:27 PM Total New Items Found: 0 Time: 239 s
-
-2022-04-15 12:02:27 PM Reading file: http://www.nfib-sbet.org/indicators/, sheet: Amount of Capital Expenditures Made, frequency: M, Time: 239 s
-
-2022-04-15 12:02:27 PM Downloading file: Amount of Capital Expenditures Made
-
-2022-04-15 12:03:02 PM Total New Items Found: 0 Time: 274 s
-
-2022-04-15 12:03:02 PM Reading file: http://www.nfib-sbet.org/indicators/, sheet: Availability of Loans, frequency: M, Time: 274 s
-
-2022-04-15 12:03:02 PM Downloading file: Availability of Loans
-
+2022-04-15 05:55:14 PM = ! = No new items were found.

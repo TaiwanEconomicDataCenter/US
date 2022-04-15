@@ -24,6 +24,8 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import ElementClickInterceptedException
 from selenium.common.exceptions import JavascriptException
+from selenium.common.exceptions import UnexpectedAlertPresentException
+from selenium.common.exceptions import NoAlertPresentException
 import webdriver_manager
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime, date, timedelta
@@ -404,7 +406,11 @@ def US_WEBDRIVER(chrome, address, sname, header=None, index_col=None, skiprows=N
                         US_t = readExcelFile(file_path, header_=header, index_col_=index_col, skiprows_=skiprows, sheet_name_=tables, acceptNoFile=False, usecols_=usecols, names_=names, wait=True)
                 if type(US_t) != dict and US_t.empty == True and Zip == False:
                     break
-        except:
+        except Exception as e:
+            if str(e).find("'T1' not found") >= 0:
+                tables = ['T1A','T1B']
+            else:
+                loggin.log(e)
             time.sleep(1)
         else:
             sys.stdout.write('\nDownload Complete\n\n')
@@ -741,7 +747,24 @@ def US_WEB(chrome, address, fname, sname, freq=None, tables=[0], Table=None, hea
                     link_found, link_meassage = US_WEB_LINK(target, fname, keyword='weekprod')
                 elif str(sname).find('crushed_stone') >= 0:
                     target = chrome.find_element_by_xpath('.//li[contains(., "XLSX Format")]')
-                    link_found, link_meassage = US_WEB_LINK(target, fname, keyword='xlsx')
+                    #link_found, link_meassage = US_WEB_LINK(target, fname, keyword='xlsx')
+                    link_list = WebDriverWait(target, 5).until(EC.presence_of_all_elements_located((By.XPATH, './/*[@href]')))
+                    newest = ''
+                    newest_link = None
+                    for link in link_list:
+                        if link.get_attribute('href').find('xlsx') >= 0 and re.sub(r'.+?([0-9]{4}q[1-4]).*', r"\1", link.get_attribute('href')) > newest:
+                            newest = re.sub(r'.+?([0-9]{4}q[1-4]).*', r"\1", link.get_attribute('href'))
+                            newest_link = link
+                    if newest == '' or newest_link == None:
+                        ERROR('Download link not found!')
+                    else:
+                        try:
+                            newest_link.click()
+                            chrome.switch_to.alert.accept()
+                        except NoAlertPresentException:
+                            time.sleep(0)
+                        time.sleep(2)
+                    link_found = True
                 elif str(sname).find('electricity') >= 0:
                     WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.XPATH, './/span[text()="Download"]'))).click()
                     WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.ID, 'csv_table'))).click()
@@ -3510,6 +3533,9 @@ def US_EIAIRS(Series, data_path, address, fname, sname, freq, tables=None, x='',
     else:
         csv = False
         file_path = data_path+address+sname+'.xls'+x
+    if str(sname).find('crushed_stone') >= 0:
+        sname_t = sname.replace('_historical_data','_present_data')
+        file_path_present = data_path+address+sname_t+'.xls'+x
     if PRESENT(file_path):
         if csv == True:
             US_t = readFile(file_path, header_=header, index_col_=index_col, skiprows_=skiprows, usecols_=usecols)
@@ -3521,6 +3547,14 @@ def US_EIAIRS(Series, data_path, address, fname, sname, freq, tables=None, x='',
             if str(sname).find('weekprod') >= 0:
                 US_his = US_t
                 US_t = {}
+    elif str(sname).find('crushed_stone') >= 0 and PRESENT(file_path_present):
+        header = [0,1,2]
+        skiprows = list(range(5))
+        try:
+            US_t = readExcelFile(file_path_present, header_=header, index_col_=index_col, skiprows_=skiprows, sheet_name_=['T1'], usecols_=usecols)
+        except ValueError:
+            US_t = readExcelFile(file_path_present, header_=header, index_col_=index_col, skiprows_=skiprows, sheet_name_=['T1A','T1B'], usecols_=usecols)
+        US_his = readExcelFile(file_path, header_=[0], index_col_=0, sheet_name_=0, usecols_=usecols)
     else:
         if str(sname).find('weekprod') < 0:
             sname_t = sname
