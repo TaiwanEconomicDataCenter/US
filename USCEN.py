@@ -1500,6 +1500,7 @@ for source in SOURCE(TABLES):
                                 new_index.append(US_t.index[i][:-2])
                             US_t.insert(loc=0, column='Index', value=new_index)
                             US_t = US_t.set_index('Index', drop=False)
+                        #使用資料本身的metadata
                         Series, Table, Titles = US_KEY(address, key=sname)
                         label = Series['Descriptions:']
                         label = NEW_LABEL(address[-3:], label.copy(), Series, Table)
@@ -1547,6 +1548,7 @@ for source in SOURCE(TABLES):
                         label_level = None
                         repl = 4
                         repl2 = 7
+                        US_t.to_csv(data_path+address+'archive/'+fname+'.csv')
                     elif source == 'National Federation of Independent Business' or source == 'Organization for Economic Cooperation and Development':
                         skip, excel, head, index_col, use, nm, output, trans  = ATTRIBUTES(address, sname, Series.to_dict())
                         if sname == 'Consumer Confidence Index':
