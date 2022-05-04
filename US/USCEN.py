@@ -1352,8 +1352,10 @@ for source in SOURCE(TABLES):
             if str(fname).find(keyword[1]) < 0:
                 continue
             Zip = False
-            if source == 'Bureau of Economic Analysis' or source == 'Federal Reserve Economic Data' or address.find('MTST') >= 0\
-                 or fname == 'UIWC' or fname == 'UIIT' or fname == 'BEOL' or fname == 'TRPT':
+            # if source == 'Bureau of Economic Analysis' or source == 'Federal Reserve Economic Data' or address.find('MTST') >= 0\
+            #      or fname == 'UIWC' or fname == 'UIIT' or fname == 'BEOL' or fname == 'TRPT':
+            #     Zip = True
+            if fname in list(Zip_table.reset_index()["File or Sheet"]) and address.find('BOC') < 0:
                 Zip = True
             if chrome == None and ((fname.find('http') >= 0 and address.find('AISI') < 0) or Zip == True or address.find('BOC') >= 0):
                 options = Options()
