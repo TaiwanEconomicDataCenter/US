@@ -410,7 +410,7 @@ def US_WEBDRIVER(chrome, address, sname, header=None, index_col=None, skiprows=N
             if str(e).find("'T1' not found") >= 0:
                 tables = ['T1A','T1B']
             else:
-                loggin.log(e)
+                logging.info(str(e))
             time.sleep(1)
         else:
             sys.stdout.write('\nDownload Complete\n\n')
