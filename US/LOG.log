@@ -1,2979 +1,422 @@
-﻿2022-05-06 11:24:07 AM excel_suffix: NEW
+﻿2022-05-06 11:36:12 AM excel_suffix: NEW
 
-2022-05-06 11:24:07 AM data_processing: True
+2022-05-06 11:36:12 AM data_processing: True
 
-2022-05-06 11:24:07 AM find_unknown: False
+2022-05-06 11:36:12 AM find_unknown: False
 
-2022-05-06 11:24:07 AM dealing_start_year: 1900
+2022-05-06 11:36:12 AM dealing_start_year: 1900
 
-2022-05-06 11:24:09 AM Data Processing
+2022-05-06 11:36:35 AM Data Processing
 
-2022-05-06 11:24:09 AM Reading table: TABLES, Time: 2 s
+2022-05-06 11:36:35 AM Reading table: TABLES, Time: 23 s
 
-2022-05-06 11:24:15 AM Reading file: DIRI_series, Time: 8 s
+2022-05-06 11:36:41 AM Reading file: BLS_series, Time: 29 s
 
-2022-05-06 11:24:15 AM 
+2022-05-06 11:36:51 AM Reading file: bd.data.1.AllItems, sheet: 0, frequency: Q, Time: 39 s
 
-2022-05-06 11:24:15 AM ====== WebDriver manager ======
-2022-05-06 11:24:15 AM Current google-chrome version is 100.0.4896
-2022-05-06 11:24:15 AM Get LATEST chromedriver version for 100.0.4896 google-chrome
-2022-05-06 11:24:16 AM Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
-2022-05-06 11:24:18 AM Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\100.0.4896.60]
-2022-05-06 11:24:20 AM Present File Exists. Reading Data From Default Path.
+2022-05-06 11:40:02 AM Total New Items Found: 0 Time: 230 s
 
-2022-05-06 11:24:20 AM Reading file: Iip_T2.1, sheet: Annual, frequency: A, Time: 13 s
+2022-05-06 11:40:02 AM Reading file: BLS_series, Time: 230 s
 
-2022-05-06 11:24:20 AM Total New Items Found: 0 Time: 13 s
+2022-05-06 11:40:12 AM Reading file: ce.data.00a.TotalNonfarm.Employment, sheet: 0, frequency: M, Time: 240 s
 
-2022-05-06 11:24:20 AM Reading file: Iip_T2.1, sheet: Qtr - NSA, frequency: Q, Time: 13 s
+2022-05-06 11:40:14 AM Total New Items Found: 0 Time: 242 s
 
-2022-05-06 11:24:20 AM Total New Items Found: 0 Time: 13 s
+2022-05-06 11:40:14 AM Reading file: ce.data.00a.TotalNonfarm.Employment, sheet: 0, frequency: A, Time: 242 s
 
-2022-05-06 11:24:20 AM Present File Exists. Reading Data From Default Path.
+2022-05-06 11:40:14 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:20 AM Reading file: Ita_T4.2, sheet: Annual, frequency: A, Time: 13 s
+2022-05-06 11:40:14 AM Total New Items Found: 0 Time: 242 s
 
-2022-05-06 11:24:20 AM Total New Items Found: 0 Time: 13 s
+2022-05-06 11:40:14 AM Reading file: ce.data.05a.TotalPrivate.Employment, sheet: 0, frequency: M, Time: 242 s
 
-2022-05-06 11:24:20 AM Reading file: Ita_T4.2, sheet: Qtr - NSA, frequency: Q, Time: 13 s
+2022-05-06 11:40:18 AM Total New Items Found: 0 Time: 246 s
 
-2022-05-06 11:24:21 AM Total New Items Found: 0 Time: 13 s
+2022-05-06 11:40:18 AM Reading file: ce.data.05a.TotalPrivate.Employment, sheet: 0, frequency: A, Time: 246 s
 
-2022-05-06 11:24:21 AM Reading file: Ita_T4.2, sheet: Qtr - SA, frequency: Q, Time: 14 s
+2022-05-06 11:40:18 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:21 AM Total New Items Found: 0 Time: 14 s
+2022-05-06 11:40:18 AM Total New Items Found: 0 Time: 246 s
 
-2022-05-06 11:24:21 AM Reading file: BEA TablesRegister, Time: 14 s
+2022-05-06 11:40:18 AM Reading file: ce.data.05b.TotalPrivate.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 246 s
 
-2022-05-06 11:24:24 AM Reading file: BEA SeriesRegister, Time: 17 s
+2022-05-06 11:40:19 AM Total New Items Found: 0 Time: 247 s
 
-2022-05-06 11:24:27 AM Present File Exists. Reading Data From Default Path.
+2022-05-06 11:40:19 AM Reading file: ce.data.05b.TotalPrivate.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 247 s
 
-2022-05-06 11:24:27 AM Reading source file, Time: 19 s
+2022-05-06 11:40:19 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:27 AM Reading file: Section1all_xls, sheet: FAAt101-A, frequency: A, Time: 20 s
+2022-05-06 11:40:20 AM Total New Items Found: 0 Time: 247 s
 
-2022-05-06 11:24:27 AM Total New Items Found: 0 Time: 20 s
+2022-05-06 11:40:20 AM Reading file: ce.data.05c.TotalPrivate.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 248 s
 
-2022-05-06 11:24:27 AM Reading file: Section1all_xls, sheet: FAAt102-A, frequency: A, Time: 20 s
+2022-05-06 11:40:22 AM Total New Items Found: 0 Time: 250 s
 
-2022-05-06 11:24:27 AM Total New Items Found: 0 Time: 20 s
+2022-05-06 11:40:22 AM Reading file: ce.data.05c.TotalPrivate.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 250 s
 
-2022-05-06 11:24:27 AM Reading file: Section1all_xls, sheet: FAAt103-A, frequency: A, Time: 20 s
+2022-05-06 11:40:22 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:27 AM Total New Items Found: 0 Time: 20 s
+2022-05-06 11:40:22 AM Total New Items Found: 0 Time: 250 s
 
-2022-05-06 11:24:27 AM Reading file: Section1all_xls, sheet: FAAt104-A, frequency: A, Time: 20 s
+2022-05-06 11:40:22 AM Reading file: ce.data.10a.MiningAndLogging.Employment, sheet: 0, frequency: M, Time: 250 s
 
-2022-05-06 11:24:27 AM Total New Items Found: 0 Time: 20 s
+2022-05-06 11:40:26 AM Total New Items Found: 0 Time: 254 s
 
-2022-05-06 11:24:27 AM Reading file: Section1all_xls, sheet: FAAt105-A, frequency: A, Time: 20 s
+2022-05-06 11:40:26 AM Reading file: ce.data.10a.MiningAndLogging.Employment, sheet: 0, frequency: A, Time: 254 s
 
-2022-05-06 11:24:27 AM Total New Items Found: 0 Time: 20 s
+2022-05-06 11:40:26 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:27 AM Reading file: Section1all_xls, sheet: FAAt106-A, frequency: A, Time: 20 s
+2022-05-06 11:40:26 AM Total New Items Found: 0 Time: 254 s
 
-2022-05-06 11:24:27 AM Total New Items Found: 0 Time: 20 s
+2022-05-06 11:40:26 AM Reading file: ce.data.10b.MiningAndLogging.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 254 s
 
-2022-05-06 11:24:27 AM Reading file: Section1all_xls, sheet: FAAt107-A, frequency: A, Time: 20 s
+2022-05-06 11:40:31 AM Total New Items Found: 0 Time: 259 s
 
-2022-05-06 11:24:27 AM Total New Items Found: 0 Time: 20 s
+2022-05-06 11:40:31 AM Reading file: ce.data.10b.MiningAndLogging.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 259 s
 
-2022-05-06 11:24:27 AM Reading file: Section1all_xls, sheet: FAAt108-A, frequency: A, Time: 20 s
+2022-05-06 11:40:31 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:27 AM Total New Items Found: 0 Time: 20 s
+2022-05-06 11:40:31 AM Total New Items Found: 0 Time: 259 s
 
-2022-05-06 11:24:27 AM Reading file: Section1all_xls, sheet: FAAt109-A, frequency: A, Time: 20 s
+2022-05-06 11:40:31 AM Reading file: ce.data.10c.MiningAndLogging.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 259 s
 
-2022-05-06 11:24:27 AM Total New Items Found: 0 Time: 20 s
+2022-05-06 11:40:35 AM Total New Items Found: 0 Time: 263 s
 
-2022-05-06 11:24:27 AM Present File Exists. Reading Data From Default Path.
+2022-05-06 11:40:35 AM Reading file: ce.data.10c.MiningAndLogging.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 263 s
 
-2022-05-06 11:24:27 AM Reading source file, Time: 20 s
+2022-05-06 11:40:35 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:29 AM Reading file: Section2all_xls, sheet: FAAt201-A, frequency: A, Time: 22 s
+2022-05-06 11:40:36 AM Total New Items Found: 0 Time: 263 s
 
-2022-05-06 11:24:29 AM Total New Items Found: 0 Time: 22 s
+2022-05-06 11:40:36 AM Reading file: ce.data.20a.Construction.Employment, sheet: 0, frequency: M, Time: 264 s
 
-2022-05-06 11:24:29 AM Reading file: Section2all_xls, sheet: FAAt202-A, frequency: A, Time: 22 s
+2022-05-06 11:40:40 AM Total New Items Found: 0 Time: 268 s
 
-2022-05-06 11:24:29 AM Total New Items Found: 0 Time: 22 s
+2022-05-06 11:40:40 AM Reading file: ce.data.20a.Construction.Employment, sheet: 0, frequency: A, Time: 268 s
 
-2022-05-06 11:24:29 AM Reading file: Section2all_xls, sheet: FAAt203-A, frequency: A, Time: 22 s
+2022-05-06 11:40:40 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:29 AM Total New Items Found: 0 Time: 22 s
+2022-05-06 11:40:40 AM Total New Items Found: 0 Time: 268 s
 
-2022-05-06 11:24:29 AM Reading file: Section2all_xls, sheet: FAAt204-A, frequency: A, Time: 22 s
+2022-05-06 11:40:40 AM Reading file: ce.data.20b.Construction.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 268 s
 
-2022-05-06 11:24:29 AM Total New Items Found: 0 Time: 22 s
+2022-05-06 11:40:46 AM Total New Items Found: 0 Time: 274 s
 
-2022-05-06 11:24:29 AM Reading file: Section2all_xls, sheet: FAAt205-A, frequency: A, Time: 22 s
+2022-05-06 11:40:46 AM Reading file: ce.data.20b.Construction.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 274 s
 
-2022-05-06 11:24:29 AM Total New Items Found: 0 Time: 22 s
+2022-05-06 11:40:46 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:29 AM Reading file: Section2all_xls, sheet: FAAt206-A, frequency: A, Time: 22 s
+2022-05-06 11:40:47 AM Total New Items Found: 0 Time: 275 s
 
-2022-05-06 11:24:29 AM Total New Items Found: 0 Time: 22 s
+2022-05-06 11:40:47 AM Reading file: ce.data.20c.Construction.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 275 s
 
-2022-05-06 11:24:29 AM Reading file: Section2all_xls, sheet: FAAt207-A, frequency: A, Time: 22 s
+2022-05-06 11:41:12 AM Total New Items Found: 0 Time: 300 s
 
-2022-05-06 11:24:29 AM Total New Items Found: 0 Time: 22 s
+2022-05-06 11:41:12 AM Reading file: ce.data.20c.Construction.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 300 s
 
-2022-05-06 11:24:29 AM Reading file: Section2all_xls, sheet: FAAt208-A, frequency: A, Time: 22 s
+2022-05-06 11:41:12 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:29 AM Total New Items Found: 0 Time: 22 s
+2022-05-06 11:41:13 AM Total New Items Found: 0 Time: 301 s
 
-2022-05-06 11:24:29 AM Reading file: Section2all_xls, sheet: FAAt209-A, frequency: A, Time: 22 s
+2022-05-06 11:41:13 AM Reading file: ce.data.30a.Manufacturing.Employment, sheet: 0, frequency: M, Time: 301 s
 
-2022-05-06 11:24:29 AM Total New Items Found: 0 Time: 22 s
+2022-05-06 11:41:15 AM Total New Items Found: 0 Time: 303 s
 
-2022-05-06 11:24:29 AM Reading file: Section2all_xls, sheet: FAAt210-A, frequency: A, Time: 22 s
+2022-05-06 11:41:15 AM Reading file: ce.data.30a.Manufacturing.Employment, sheet: 0, frequency: A, Time: 303 s
 
-2022-05-06 11:24:29 AM Total New Items Found: 0 Time: 22 s
+2022-05-06 11:41:15 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:29 AM Present File Exists. Reading Data From Default Path.
+2022-05-06 11:41:15 AM Total New Items Found: 0 Time: 303 s
 
-2022-05-06 11:24:29 AM Reading source file, Time: 22 s
+2022-05-06 11:41:16 AM Reading file: ce.data.30b.Manufacturing.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 303 s
 
-2022-05-06 11:24:33 AM Reading file: Section3all_xls, sheet: FAAt301E-A, frequency: A, Time: 26 s
+2022-05-06 11:41:17 AM Total New Items Found: 0 Time: 305 s
 
-2022-05-06 11:24:33 AM Total New Items Found: 0 Time: 26 s
+2022-05-06 11:41:17 AM Reading file: ce.data.30b.Manufacturing.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 305 s
 
-2022-05-06 11:24:33 AM Reading file: Section3all_xls, sheet: FAAt301ESI-A, frequency: A, Time: 26 s
+2022-05-06 11:41:17 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:33 AM Total New Items Found: 0 Time: 26 s
+2022-05-06 11:41:17 AM Total New Items Found: 0 Time: 305 s
 
-2022-05-06 11:24:33 AM Reading file: Section3all_xls, sheet: FAAt301I-A, frequency: A, Time: 26 s
+2022-05-06 11:41:17 AM Reading file: ce.data.30c.Manufacturing.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 305 s
 
-2022-05-06 11:24:33 AM Total New Items Found: 0 Time: 26 s
+2022-05-06 11:41:21 AM Total New Items Found: 0 Time: 309 s
 
-2022-05-06 11:24:33 AM Reading file: Section3all_xls, sheet: FAAt301S-A, frequency: A, Time: 26 s
+2022-05-06 11:41:21 AM Reading file: ce.data.30c.Manufacturing.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 309 s
 
-2022-05-06 11:24:33 AM Total New Items Found: 0 Time: 26 s
+2022-05-06 11:41:21 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:33 AM Reading file: Section3all_xls, sheet: FAAt302E-A, frequency: A, Time: 26 s
+2022-05-06 11:41:21 AM Total New Items Found: 0 Time: 309 s
 
-2022-05-06 11:24:33 AM Total New Items Found: 0 Time: 26 s
+2022-05-06 11:41:21 AM Reading file: ce.data.31a.ManufacturingDurableGoods.Employment, sheet: 0, frequency: M, Time: 309 s
 
-2022-05-06 11:24:33 AM Reading file: Section3all_xls, sheet: FAAt302ESI-A, frequency: A, Time: 26 s
+2022-05-06 11:41:32 AM Total New Items Found: 0 Time: 320 s
 
-2022-05-06 11:24:33 AM Total New Items Found: 0 Time: 26 s
+2022-05-06 11:41:32 AM Reading file: ce.data.31a.ManufacturingDurableGoods.Employment, sheet: 0, frequency: A, Time: 320 s
 
-2022-05-06 11:24:33 AM Reading file: Section3all_xls, sheet: FAAt302I-A, frequency: A, Time: 26 s
+2022-05-06 11:41:32 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:33 AM Total New Items Found: 0 Time: 26 s
+2022-05-06 11:41:33 AM Total New Items Found: 0 Time: 321 s
 
-2022-05-06 11:24:33 AM Reading file: Section3all_xls, sheet: FAAt302S-A, frequency: A, Time: 26 s
+2022-05-06 11:41:34 AM Reading file: ce.data.31b.ManufacturingDurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 321 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 26 s
+2022-05-06 11:41:56 AM Total New Items Found: 0 Time: 344 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt303E-A, frequency: A, Time: 26 s
+2022-05-06 11:41:56 AM Reading file: ce.data.31b.ManufacturingDurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 344 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 26 s
+2022-05-06 11:41:56 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt303ESI-A, frequency: A, Time: 26 s
+2022-05-06 11:41:58 AM Total New Items Found: 0 Time: 346 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:41:58 AM Reading file: ce.data.31c.ManufacturingDurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 346 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt303I-A, frequency: A, Time: 27 s
+2022-05-06 11:42:38 AM Total New Items Found: 0 Time: 386 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:42:38 AM Reading file: ce.data.31c.ManufacturingDurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 386 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt303S-A, frequency: A, Time: 27 s
+2022-05-06 11:42:38 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:42:41 AM Total New Items Found: 0 Time: 389 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt304E-A, frequency: A, Time: 27 s
+2022-05-06 11:42:41 AM Reading file: ce.data.32a.ManufacturingNondurableGoods.Employment, sheet: 0, frequency: M, Time: 389 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:42:47 AM Total New Items Found: 0 Time: 395 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt304ESI-A, frequency: A, Time: 27 s
+2022-05-06 11:42:47 AM Reading file: ce.data.32a.ManufacturingNondurableGoods.Employment, sheet: 0, frequency: A, Time: 395 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:42:47 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt304I-A, frequency: A, Time: 27 s
+2022-05-06 11:42:47 AM Total New Items Found: 0 Time: 395 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:42:48 AM Reading file: ce.data.32b.ManufacturingNondurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 395 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt304S-A, frequency: A, Time: 27 s
+2022-05-06 11:42:54 AM Total New Items Found: 0 Time: 402 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:42:54 AM Reading file: ce.data.32b.ManufacturingNondurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 402 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt305E-A, frequency: A, Time: 27 s
+2022-05-06 11:42:54 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:42:55 AM Total New Items Found: 0 Time: 403 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt305ESI-A, frequency: A, Time: 27 s
+2022-05-06 11:42:55 AM Reading file: ce.data.32c.ManufacturingNondurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 403 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:43:05 AM Total New Items Found: 0 Time: 413 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt305I-A, frequency: A, Time: 27 s
+2022-05-06 11:43:05 AM Reading file: ce.data.32c.ManufacturingNondurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 413 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:43:05 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt305S-A, frequency: A, Time: 27 s
+2022-05-06 11:43:06 AM Total New Items Found: 0 Time: 414 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:43:06 AM Reading file: ce.data.40a.TradeTransportationAndUtilities.Employment, sheet: 0, frequency: M, Time: 414 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt306E-A, frequency: A, Time: 27 s
+2022-05-06 11:43:08 AM Total New Items Found: 0 Time: 416 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:43:08 AM Reading file: ce.data.40a.TradeTransportationAndUtilities.Employment, sheet: 0, frequency: A, Time: 416 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt306ESI-A, frequency: A, Time: 27 s
+2022-05-06 11:43:08 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:43:08 AM Total New Items Found: 0 Time: 416 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt306I-A, frequency: A, Time: 27 s
+2022-05-06 11:43:08 AM Reading file: ce.data.40b.TradeTransportationAndUtilities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 416 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:43:10 AM Total New Items Found: 0 Time: 418 s
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt306S-A, frequency: A, Time: 27 s
+2022-05-06 11:43:10 AM Reading file: ce.data.40b.TradeTransportationAndUtilities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 418 s
 
-2022-05-06 11:24:34 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:43:10 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:34 AM Reading file: Section3all_xls, sheet: FAAt307E-A, frequency: A, Time: 27 s
+2022-05-06 11:43:10 AM Total New Items Found: 0 Time: 418 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:43:10 AM Reading file: ce.data.40c.TradeTransportationAndUtilities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 418 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt307ESI-A, frequency: A, Time: 27 s
+2022-05-06 11:43:13 AM Total New Items Found: 0 Time: 421 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:43:13 AM Reading file: ce.data.40c.TradeTransportationAndUtilities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 421 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt307I-A, frequency: A, Time: 27 s
+2022-05-06 11:43:13 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 27 s
+2022-05-06 11:43:13 AM Total New Items Found: 0 Time: 421 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt307S-A, frequency: A, Time: 27 s
+2022-05-06 11:43:13 AM Reading file: ce.data.41a.WholesaleTrade.Employment, sheet: 0, frequency: M, Time: 421 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:43:19 AM Total New Items Found: 0 Time: 427 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt308E-A, frequency: A, Time: 28 s
+2022-05-06 11:43:19 AM Reading file: ce.data.41a.WholesaleTrade.Employment, sheet: 0, frequency: A, Time: 427 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:43:19 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt308ESI-A, frequency: A, Time: 28 s
+2022-05-06 11:43:20 AM Total New Items Found: 0 Time: 428 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:43:20 AM Reading file: ce.data.41b.WholesaleTrade.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 428 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt308I-A, frequency: A, Time: 28 s
+2022-05-06 11:43:28 AM Total New Items Found: 0 Time: 436 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:43:28 AM Reading file: ce.data.41b.WholesaleTrade.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 436 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt308S-A, frequency: A, Time: 28 s
+2022-05-06 11:43:28 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:43:29 AM Total New Items Found: 0 Time: 437 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt309E-A, frequency: A, Time: 28 s
+2022-05-06 11:43:29 AM Reading file: ce.data.41c.WholesaleTrade.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 437 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:43:41 AM Total New Items Found: 0 Time: 449 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt309ESI-A, frequency: A, Time: 28 s
+2022-05-06 11:43:41 AM Reading file: ce.data.41c.WholesaleTrade.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 449 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:43:41 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt309I-A, frequency: A, Time: 28 s
+2022-05-06 11:43:43 AM Total New Items Found: 0 Time: 451 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:43:43 AM Reading file: ce.data.42a.RetailTrade.Employment, sheet: 0, frequency: M, Time: 451 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt309S-A, frequency: A, Time: 28 s
+2022-05-06 11:43:50 AM Total New Items Found: 0 Time: 458 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:43:50 AM Reading file: ce.data.42a.RetailTrade.Employment, sheet: 0, frequency: A, Time: 458 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt310E-A, frequency: A, Time: 28 s
+2022-05-06 11:43:50 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:43:51 AM Total New Items Found: 0 Time: 459 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt310ESI-A, frequency: A, Time: 28 s
+2022-05-06 11:43:51 AM Reading file: ce.data.42b.RetailTrade.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 459 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:44:01 AM Total New Items Found: 0 Time: 469 s
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt310I-A, frequency: A, Time: 28 s
+2022-05-06 11:44:01 AM Reading file: ce.data.42b.RetailTrade.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 469 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:44:01 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:35 AM Reading file: Section3all_xls, sheet: FAAt310S-A, frequency: A, Time: 28 s
+2022-05-06 11:44:02 AM Total New Items Found: 0 Time: 470 s
 
-2022-05-06 11:24:35 AM Total New Items Found: 0 Time: 28 s
+2022-05-06 11:44:02 AM Reading file: ce.data.42c.RetailTrade.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 470 s
 
-2022-05-06 11:24:35 AM Present File Exists. Reading Data From Default Path.
+2022-05-06 11:44:17 AM Total New Items Found: 0 Time: 485 s
 
-2022-05-06 11:24:35 AM Reading source file, Time: 28 s
+2022-05-06 11:44:17 AM Reading file: ce.data.42c.RetailTrade.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 485 s
 
-2022-05-06 11:24:37 AM Reading file: Section4all_xls, sheet: FAAt401-A, frequency: A, Time: 30 s
+2022-05-06 11:44:17 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:37 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:19 AM Total New Items Found: 0 Time: 487 s
 
-2022-05-06 11:24:37 AM Reading file: Section4all_xls, sheet: FAAt402-A, frequency: A, Time: 30 s
+2022-05-06 11:44:19 AM Reading file: ce.data.43a.TransportationAndWarehousingAndUtilities.Employment, sheet: 0, frequency: M, Time: 487 s
 
-2022-05-06 11:24:37 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:25 AM Total New Items Found: 0 Time: 493 s
 
-2022-05-06 11:24:37 AM Reading file: Section4all_xls, sheet: FAAt403-A, frequency: A, Time: 30 s
+2022-05-06 11:44:25 AM Reading file: ce.data.43a.TransportationAndWarehousingAndUtilities.Employment, sheet: 0, frequency: A, Time: 493 s
 
-2022-05-06 11:24:37 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:25 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:37 AM Reading file: Section4all_xls, sheet: FAAt404-A, frequency: A, Time: 30 s
+2022-05-06 11:44:26 AM Total New Items Found: 0 Time: 493 s
 
-2022-05-06 11:24:37 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:26 AM Reading file: ce.data.43b.TransportationAndWarehousingAndUtilities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 494 s
 
-2022-05-06 11:24:37 AM Reading file: Section4all_xls, sheet: FAAt405-A, frequency: A, Time: 30 s
+2022-05-06 11:44:32 AM Total New Items Found: 0 Time: 500 s
 
-2022-05-06 11:24:37 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:32 AM Reading file: ce.data.43b.TransportationAndWarehousingAndUtilities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 500 s
 
-2022-05-06 11:24:37 AM Reading file: Section4all_xls, sheet: FAAt406-A, frequency: A, Time: 30 s
+2022-05-06 11:44:32 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:37 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:33 AM Total New Items Found: 0 Time: 501 s
 
-2022-05-06 11:24:37 AM Reading file: Section4all_xls, sheet: FAAt407-A, frequency: A, Time: 30 s
+2022-05-06 11:44:33 AM Reading file: ce.data.43c.TransportationAndWarehousingAndUtilities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 501 s
 
-2022-05-06 11:24:37 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:44 AM Total New Items Found: 0 Time: 511 s
 
-2022-05-06 11:24:37 AM Reading file: Section4all_xls, sheet: FAAt408-A, frequency: A, Time: 30 s
+2022-05-06 11:44:44 AM Reading file: ce.data.43c.TransportationAndWarehousingAndUtilities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 511 s
 
-2022-05-06 11:24:37 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:44 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:37 AM Reading file: Section4all_xls, sheet: FAAt409-A, frequency: A, Time: 30 s
+2022-05-06 11:44:45 AM Total New Items Found: 0 Time: 513 s
 
-2022-05-06 11:24:37 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:45 AM Reading file: ce.data.50a.Information.Employment, sheet: 0, frequency: M, Time: 513 s
 
-2022-05-06 11:24:37 AM Reading file: Section4all_xls, sheet: FAAt410-A, frequency: A, Time: 30 s
+2022-05-06 11:44:49 AM Total New Items Found: 0 Time: 517 s
 
-2022-05-06 11:24:37 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:49 AM Reading file: ce.data.50a.Information.Employment, sheet: 0, frequency: A, Time: 517 s
 
-2022-05-06 11:24:37 AM Present File Exists. Reading Data From Default Path.
+2022-05-06 11:44:49 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:37 AM Reading source file, Time: 30 s
+2022-05-06 11:44:49 AM Total New Items Found: 0 Time: 517 s
 
-2022-05-06 11:24:38 AM Reading file: Section5all_xls, sheet: FAAt501-A, frequency: A, Time: 30 s
+2022-05-06 11:44:49 AM Reading file: ce.data.50b.Information.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 517 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:53 AM Total New Items Found: 0 Time: 521 s
 
-2022-05-06 11:24:38 AM Reading file: Section5all_xls, sheet: FAAt502-A, frequency: A, Time: 30 s
+2022-05-06 11:44:53 AM Reading file: ce.data.50b.Information.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 521 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:53 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:38 AM Reading file: Section5all_xls, sheet: FAAt503-A, frequency: A, Time: 30 s
+2022-05-06 11:44:53 AM Total New Items Found: 0 Time: 521 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:53 AM Reading file: ce.data.50c.Information.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 521 s
 
-2022-05-06 11:24:38 AM Reading file: Section5all_xls, sheet: FAAt504-A, frequency: A, Time: 30 s
+2022-05-06 11:44:58 AM Total New Items Found: 0 Time: 526 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:58 AM Reading file: ce.data.50c.Information.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 526 s
 
-2022-05-06 11:24:38 AM Reading file: Section5all_xls, sheet: FAAt505-A, frequency: A, Time: 30 s
+2022-05-06 11:44:58 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:44:59 AM Total New Items Found: 0 Time: 527 s
 
-2022-05-06 11:24:38 AM Reading file: Section5all_xls, sheet: FAAt506-A, frequency: A, Time: 30 s
+2022-05-06 11:44:59 AM Reading file: ce.data.55a.FinancialActivities.Employment, sheet: 0, frequency: M, Time: 527 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:45:05 AM Total New Items Found: 0 Time: 533 s
 
-2022-05-06 11:24:38 AM Reading file: Section5all_xls, sheet: FAAt507-A, frequency: A, Time: 30 s
+2022-05-06 11:45:05 AM Reading file: ce.data.55a.FinancialActivities.Employment, sheet: 0, frequency: A, Time: 533 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:45:05 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:38 AM Reading file: Section5all_xls, sheet: FAAt508-A, frequency: A, Time: 30 s
+2022-05-06 11:45:06 AM Total New Items Found: 0 Time: 533 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 30 s
+2022-05-06 11:45:06 AM Reading file: ce.data.55b.FinancialActivities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 534 s
 
-2022-05-06 11:24:38 AM Reading file: Section5all_xls, sheet: FAAt509-A, frequency: A, Time: 30 s
+2022-05-06 11:45:14 AM Total New Items Found: 0 Time: 542 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:45:14 AM Reading file: ce.data.55b.FinancialActivities.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 542 s
 
-2022-05-06 11:24:38 AM Reading file: Section5all_xls, sheet: FAAt510-A, frequency: A, Time: 31 s
+2022-05-06 11:45:14 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:45:15 AM Total New Items Found: 0 Time: 543 s
 
-2022-05-06 11:24:38 AM Present File Exists. Reading Data From Default Path.
+2022-05-06 11:45:15 AM Reading file: ce.data.55c.FinancialActivities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 543 s
 
-2022-05-06 11:24:38 AM Reading source file, Time: 31 s
+2022-05-06 11:45:27 AM Total New Items Found: 0 Time: 555 s
 
-2022-05-06 11:24:38 AM Reading file: Section6all_xls, sheet: FAAt601-A, frequency: A, Time: 31 s
+2022-05-06 11:45:27 AM Reading file: ce.data.55c.FinancialActivities.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 555 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:45:27 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:38 AM Reading file: Section6all_xls, sheet: FAAt602-A, frequency: A, Time: 31 s
+2022-05-06 11:45:29 AM Total New Items Found: 0 Time: 557 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:45:29 AM Reading file: ce.data.60a.ProfessionalBusinessServices.Employment, sheet: 0, frequency: M, Time: 557 s
 
-2022-05-06 11:24:38 AM Reading file: Section6all_xls, sheet: FAAt603-A, frequency: A, Time: 31 s
+2022-05-06 11:45:51 AM Total New Items Found: 0 Time: 579 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:45:51 AM Reading file: ce.data.60a.ProfessionalBusinessServices.Employment, sheet: 0, frequency: A, Time: 579 s
 
-2022-05-06 11:24:38 AM Reading file: Section6all_xls, sheet: FAAt604-A, frequency: A, Time: 31 s
+2022-05-06 11:45:51 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:45:52 AM Total New Items Found: 0 Time: 580 s
 
-2022-05-06 11:24:38 AM Reading file: Section6all_xls, sheet: FAAt605-A, frequency: A, Time: 31 s
+2022-05-06 11:45:52 AM Reading file: ce.data.60b.ProfessionalBusinessServices.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 580 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:46:12 AM Total New Items Found: 0 Time: 600 s
 
-2022-05-06 11:24:38 AM Reading file: Section6all_xls, sheet: FAAt606-A, frequency: A, Time: 31 s
+2022-05-06 11:46:12 AM Reading file: ce.data.60b.ProfessionalBusinessServices.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 600 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:46:12 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:38 AM Reading file: Section6all_xls, sheet: FAAt607-A, frequency: A, Time: 31 s
+2022-05-06 11:46:13 AM Total New Items Found: 0 Time: 601 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:46:13 AM Reading file: ce.data.60c.ProfessionalBusinessServices.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 601 s
 
-2022-05-06 11:24:38 AM Reading file: Section6all_xls, sheet: FAAt608-A, frequency: A, Time: 31 s
+2022-05-06 11:46:36 AM Total New Items Found: 0 Time: 624 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:46:36 AM Reading file: ce.data.60c.ProfessionalBusinessServices.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 624 s
 
-2022-05-06 11:24:38 AM Reading file: Section6all_xls, sheet: FAAt609-A, frequency: A, Time: 31 s
+2022-05-06 11:46:36 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
+2022-05-06 11:46:38 AM Total New Items Found: 0 Time: 626 s
 
-2022-05-06 11:24:38 AM Reading file: Section6all_xls, sheet: FAAt610-A, frequency: A, Time: 31 s
+2022-05-06 11:46:38 AM Reading file: ce.data.65a.EducationAndHealthCare.Employment, sheet: 0, frequency: M, Time: 626 s
 
-2022-05-06 11:24:38 AM Total New Items Found: 0 Time: 31 s
-
-2022-05-06 11:24:38 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:38 AM Reading source file, Time: 31 s
-
-2022-05-06 11:24:39 AM Reading file: Section7all_xls, sheet: FAAt701-A, frequency: A, Time: 32 s
-
-2022-05-06 11:24:39 AM Total New Items Found: 0 Time: 32 s
-
-2022-05-06 11:24:39 AM Reading file: Section7all_xls, sheet: FAAt702-A, frequency: A, Time: 32 s
-
-2022-05-06 11:24:39 AM Total New Items Found: 0 Time: 32 s
-
-2022-05-06 11:24:39 AM Reading file: Section7all_xls, sheet: FAAt703-A, frequency: A, Time: 32 s
-
-2022-05-06 11:24:39 AM Total New Items Found: 0 Time: 32 s
-
-2022-05-06 11:24:39 AM Reading file: Section7all_xls, sheet: FAAt704-A, frequency: A, Time: 32 s
-
-2022-05-06 11:24:39 AM Total New Items Found: 0 Time: 32 s
-
-2022-05-06 11:24:39 AM Reading file: Section7all_xls, sheet: FAAt705-A, frequency: A, Time: 32 s
-
-2022-05-06 11:24:39 AM Total New Items Found: 0 Time: 32 s
-
-2022-05-06 11:24:39 AM Reading file: Section7all_xls, sheet: FAAt706-A, frequency: A, Time: 32 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 32 s
-
-2022-05-06 11:24:40 AM Reading file: Section7all_xls, sheet: FAAt707-A, frequency: A, Time: 32 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 32 s
-
-2022-05-06 11:24:40 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:40 AM Reading source file, Time: 32 s
-
-2022-05-06 11:24:40 AM Reading file: Section8all_xls, sheet: FAAt801-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section8all_xls, sheet: FAAt802-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section8all_xls, sheet: FAAt803-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section8all_xls, sheet: FAAt804-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section8all_xls, sheet: FAAt805-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section8all_xls, sheet: FAAt806-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section8all_xls, sheet: FAAt807-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section8all_xls, sheet: FAAt808-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section8all_xls, sheet: FAAt809-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section8all_xls, sheet: FAAt810-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:40 AM Reading source file, Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section9all_xls, sheet: FAAt901-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section9all_xls, sheet: FAAt902-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: Section9all_xls, sheet: FAAt903-A, frequency: A, Time: 33 s
-
-2022-05-06 11:24:40 AM Total New Items Found: 0 Time: 33 s
-
-2022-05-06 11:24:40 AM Reading file: ITAS_series, Time: 33 s
-
-2022-05-06 11:24:40 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:40 AM Reading file: Ita_T1.2, sheet: Annual, frequency: A, Time: 33 s
-
-2022-05-06 11:24:41 AM Total New Items Found: 0 Time: 34 s
-
-2022-05-06 11:24:41 AM Reading file: Ita_T1.2, sheet: Qtr - NSA, frequency: Q, Time: 34 s
-
-2022-05-06 11:24:41 AM Total New Items Found: 0 Time: 34 s
-
-2022-05-06 11:24:41 AM Reading file: Ita_T1.2, sheet: Qtr - SA, frequency: Q, Time: 34 s
-
-2022-05-06 11:24:41 AM Total New Items Found: 0 Time: 34 s
-
-2022-05-06 11:24:41 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:41 AM Reading file: Ita_T1.3_Africa, sheet: Annual, frequency: A, Time: 34 s
-
-2022-05-06 11:24:41 AM Total New Items Found: 0 Time: 34 s
-
-2022-05-06 11:24:41 AM Reading file: Ita_T1.3_Africa, sheet: Qtr - NSA, frequency: Q, Time: 34 s
-
-2022-05-06 11:24:41 AM Total New Items Found: 0 Time: 34 s
-
-2022-05-06 11:24:41 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:42 AM Reading file: Ita_T1.3_Asia&Pacific, sheet: Annual, frequency: A, Time: 34 s
-
-2022-05-06 11:24:42 AM Total New Items Found: 0 Time: 34 s
-
-2022-05-06 11:24:42 AM Reading file: Ita_T1.3_Asia&Pacific, sheet: Qtr - NSA, frequency: Q, Time: 35 s
-
-2022-05-06 11:24:42 AM Total New Items Found: 0 Time: 35 s
-
-2022-05-06 11:24:42 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:42 AM Reading file: Ita_T1.3_Canada, sheet: Annual, frequency: A, Time: 35 s
-
-2022-05-06 11:24:42 AM Total New Items Found: 0 Time: 35 s
-
-2022-05-06 11:24:42 AM Reading file: Ita_T1.3_Canada, sheet: Qtr - NSA, frequency: Q, Time: 35 s
-
-2022-05-06 11:24:42 AM Total New Items Found: 0 Time: 35 s
-
-2022-05-06 11:24:42 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:42 AM Reading file: Ita_T1.3_EU, sheet: Annual, frequency: A, Time: 35 s
-
-2022-05-06 11:24:42 AM Total New Items Found: 0 Time: 35 s
-
-2022-05-06 11:24:42 AM Reading file: Ita_T1.3_EU, sheet: Qtr - NSA, frequency: Q, Time: 35 s
-
-2022-05-06 11:24:42 AM Total New Items Found: 0 Time: 35 s
-
-2022-05-06 11:24:42 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:43 AM Reading file: Ita_T1.3_Euroarea, sheet: Annual, frequency: A, Time: 35 s
-
-2022-05-06 11:24:43 AM Total New Items Found: 0 Time: 36 s
-
-2022-05-06 11:24:43 AM Reading file: Ita_T1.3_Euroarea, sheet: Qtr - NSA, frequency: Q, Time: 36 s
-
-2022-05-06 11:24:43 AM Total New Items Found: 0 Time: 36 s
-
-2022-05-06 11:24:43 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:43 AM Reading file: Ita_T1.3_Europe, sheet: Annual, frequency: A, Time: 36 s
-
-2022-05-06 11:24:43 AM Total New Items Found: 0 Time: 36 s
-
-2022-05-06 11:24:43 AM Reading file: Ita_T1.3_Europe, sheet: Qtr - NSA, frequency: Q, Time: 36 s
-
-2022-05-06 11:24:43 AM Total New Items Found: 0 Time: 36 s
-
-2022-05-06 11:24:43 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:43 AM Reading file: Ita_T1.3_IntOrg&Unall, sheet: Annual, frequency: A, Time: 36 s
-
-2022-05-06 11:24:43 AM Total New Items Found: 0 Time: 36 s
-
-2022-05-06 11:24:43 AM Reading file: Ita_T1.3_IntOrg&Unall, sheet: Qtr - NSA, frequency: Q, Time: 36 s
-
-2022-05-06 11:24:43 AM Total New Items Found: 0 Time: 36 s
-
-2022-05-06 11:24:43 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:44 AM Reading file: Ita_T1.3_LA&OWH, sheet: Annual, frequency: A, Time: 36 s
-
-2022-05-06 11:24:44 AM Total New Items Found: 0 Time: 37 s
-
-2022-05-06 11:24:44 AM Reading file: Ita_T1.3_LA&OWH, sheet: Qtr - NSA, frequency: Q, Time: 37 s
-
-2022-05-06 11:24:44 AM Total New Items Found: 0 Time: 37 s
-
-2022-05-06 11:24:44 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:44 AM Reading file: Ita_T1.3_MiddleEast, sheet: Annual, frequency: A, Time: 37 s
-
-2022-05-06 11:24:44 AM Total New Items Found: 0 Time: 37 s
-
-2022-05-06 11:24:44 AM Reading file: Ita_T1.3_MiddleEast, sheet: Qtr - NSA, frequency: Q, Time: 37 s
-
-2022-05-06 11:24:44 AM Total New Items Found: 0 Time: 37 s
-
-2022-05-06 11:24:44 AM Reading file: NIIP_series, Time: 37 s
-
-2022-05-06 11:24:44 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:24:44 AM Reading file: Iip_T1.2, sheet: Annual, frequency: A, Time: 37 s
-
-2022-05-06 11:24:44 AM Total New Items Found: 0 Time: 37 s
-
-2022-05-06 11:24:45 AM Reading file: Iip_T1.2, sheet: Qtr - NSA, frequency: Q, Time: 37 s
-
-2022-05-06 11:24:45 AM Total New Items Found: 0 Time: 37 s
-
-2022-05-06 11:24:45 AM Reading file: BEA TablesRegister, Time: 37 s
-
-2022-05-06 11:24:46 AM Reading file: BEA SeriesRegister, Time: 39 s
-
-2022-05-06 11:24:48 AM Downloading file: Survey
-
-2022-05-06 11:25:14 AM 
-2022-05-06 11:25:17 AM Reading source file, Time: 70 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10101-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10101-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10102-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10102-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10103-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10103-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10104-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10104-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10105-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10105-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10106-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10106-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10107-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10107-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10108-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10108-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10109-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10109-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10110-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10110-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10111-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10201-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10201-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10202-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10202-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10203-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10203-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10204-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10204-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10205-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:27 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:27 AM Reading file: Section1all_xls, sheet: T10205-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10206-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10206-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10301-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10301-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10303-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10303-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10304-A, frequency: A, Time: 80 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 80 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10304-Q, frequency: Q, Time: 80 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10305-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10305-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10306-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10306-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10401-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10401-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10403-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10403-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10404-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10404-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10405-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10405-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10406-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10406-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10501-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10501-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10502-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10502-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10503-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10503-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10504-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10504-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10505-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10505-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10506-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10506-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10604-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10604-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10607-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10607-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10608-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:28 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:28 AM Reading file: Section1all_xls, sheet: T10608-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10701-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10701-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10703-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10703-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10704-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10704-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10705-A, frequency: A, Time: 81 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 81 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10705-Q, frequency: Q, Time: 81 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10706-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10706-Q, frequency: Q, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10803-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10803-Q, frequency: Q, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10806-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10806-Q, frequency: Q, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10903-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10904-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10905-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T10906-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11000-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11000-Q, frequency: Q, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11100-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11200-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11200-Q, frequency: Q, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11300-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11400-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11400-Q, frequency: Q, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11500-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11500-Q, frequency: Q, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11600-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11701-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11701-Q, frequency: Q, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11705-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11705-Q, frequency: Q, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11706-A, frequency: A, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Reading file: Section1all_xls, sheet: T11706-Q, frequency: Q, Time: 82 s
-
-2022-05-06 11:25:29 AM Total New Items Found: 0 Time: 82 s
-
-2022-05-06 11:25:29 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:25:29 AM Reading source file, Time: 82 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20100-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20100-Q, frequency: Q, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20200A-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20200A-Q, frequency: Q, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20200B-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20200B-Q, frequency: Q, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20301-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20301-Q, frequency: Q, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20302-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20302-Q, frequency: Q, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20303-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20303-Q, frequency: Q, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20304-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20304-Q, frequency: Q, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20305-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20305-Q, frequency: Q, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20306-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20306-Q, frequency: Q, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20307-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20307-Q, frequency: Q, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20403-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:34 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:34 AM Reading file: Section2all_xls, sheet: T20404-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20405-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 87 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20406-A, frequency: A, Time: 87 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20503-A, frequency: A, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20504-A, frequency: A, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20505-A, frequency: A, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20506-A, frequency: A, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20600-M, frequency: M, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20700A-M, frequency: M, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20700B-M, frequency: M, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20801-M, frequency: M, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20803-M, frequency: M, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20804-M, frequency: M, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20805-M, frequency: M, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20806-M, frequency: M, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20807-M, frequency: M, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Reading file: Section2all_xls, sheet: T20900-A, frequency: A, Time: 88 s
-
-2022-05-06 11:25:35 AM Total New Items Found: 0 Time: 88 s
-
-2022-05-06 11:25:35 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:25:35 AM Reading source file, Time: 88 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30100-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30100-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30200-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30200-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30300-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30300-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30400-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30500-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30600-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30700-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30800-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30901-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30901-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30902-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30902-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30903-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30903-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30904-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30904-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30905-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30905-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30906-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T30906-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T31001-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:42 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:42 AM Reading file: Section3all_xls, sheet: T31001-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31003-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31003-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31004-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31004-Q, frequency: Q, Time: 95 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 95 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31005-A, frequency: A, Time: 95 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31005-Q, frequency: Q, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31006-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31006-Q, frequency: Q, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31101-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31101-Q, frequency: Q, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31102-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31102-Q, frequency: Q, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31103-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31103-Q, frequency: Q, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31104-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31104-Q, frequency: Q, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31105-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31105-Q, frequency: Q, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31106-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31106-Q, frequency: Q, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31200-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31300-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31400-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31501-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31502-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31503-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31504-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31505-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31506-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:43 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:43 AM Reading file: Section3all_xls, sheet: T31600-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:44 AM Total New Items Found: 0 Time: 96 s
-
-2022-05-06 11:25:44 AM Reading file: Section3all_xls, sheet: T31700-A, frequency: A, Time: 96 s
-
-2022-05-06 11:25:44 AM Total New Items Found: 0 Time: 97 s
-
-2022-05-06 11:25:44 AM Reading file: Section3all_xls, sheet: T31800A-A, frequency: A, Time: 97 s
-
-2022-05-06 11:25:44 AM Total New Items Found: 0 Time: 97 s
-
-2022-05-06 11:25:44 AM Reading file: Section3all_xls, sheet: T31800A-Q, frequency: Q, Time: 97 s
-
-2022-05-06 11:25:44 AM Total New Items Found: 0 Time: 97 s
-
-2022-05-06 11:25:44 AM Reading file: Section3all_xls, sheet: T31800B-A, frequency: A, Time: 97 s
-
-2022-05-06 11:25:44 AM Total New Items Found: 0 Time: 97 s
-
-2022-05-06 11:25:44 AM Reading file: Section3all_xls, sheet: T31800B-Q, frequency: Q, Time: 97 s
-
-2022-05-06 11:25:44 AM Total New Items Found: 0 Time: 97 s
-
-2022-05-06 11:25:44 AM Reading file: Section3all_xls, sheet: T31900-A, frequency: A, Time: 97 s
-
-2022-05-06 11:25:44 AM Total New Items Found: 0 Time: 97 s
-
-2022-05-06 11:25:44 AM Reading file: Section3all_xls, sheet: T32000-A, frequency: A, Time: 97 s
-
-2022-05-06 11:25:44 AM Total New Items Found: 0 Time: 97 s
-
-2022-05-06 11:25:44 AM Reading file: Section3all_xls, sheet: T32100-A, frequency: A, Time: 97 s
-
-2022-05-06 11:25:44 AM Total New Items Found: 0 Time: 97 s
-
-2022-05-06 11:25:44 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:25:44 AM Reading source file, Time: 97 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40100-A, frequency: A, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40100-Q, frequency: Q, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40201-A, frequency: A, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40201-Q, frequency: Q, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40202-A, frequency: A, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40202-Q, frequency: Q, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40203-A, frequency: A, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40203-Q, frequency: Q, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40204-A, frequency: A, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40204-Q, frequency: Q, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40205-A, frequency: A, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40205-Q, frequency: Q, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40206-A, frequency: A, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T40206-Q, frequency: Q, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T4030A-A, frequency: A, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T4030B-A, frequency: A, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T4030C-A, frequency: A, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Reading file: Section4all_xls, sheet: T4030C-Q, frequency: Q, Time: 99 s
-
-2022-05-06 11:25:46 AM Total New Items Found: 0 Time: 99 s
-
-2022-05-06 11:25:46 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:25:46 AM Reading source file, Time: 99 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50100-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50100-Q, frequency: Q, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50203-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50205-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50206-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50301-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50301-Q, frequency: Q, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50302-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50302-Q, frequency: Q, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50303-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50303-Q, frequency: Q, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50304-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50304-Q, frequency: Q, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50305-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50305-Q, frequency: Q, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50306-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50306-Q, frequency: Q, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50401-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50402-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50403-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50404-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50405-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50406-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50501-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:51 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:51 AM Reading file: Section5all_xls, sheet: T50502-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50503-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50504-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50505-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50506-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 104 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50601-A, frequency: A, Time: 104 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50602-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50603-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50604-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50605-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50606-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50705A-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50705A-Q, frequency: Q, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50705B-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50705B-Q, frequency: Q, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50706A-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50706A-Q, frequency: Q, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50706B-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50706B-Q, frequency: Q, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50805A-Q, frequency: Q, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50805B-Q, frequency: Q, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50806A-Q, frequency: Q, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50806B-Q, frequency: Q, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50809A-Q, frequency: Q, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50809B-Q, frequency: Q, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50903-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50904-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50905-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T50906-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T51000-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Reading file: Section5all_xls, sheet: T51100-A, frequency: A, Time: 105 s
-
-2022-05-06 11:25:52 AM Total New Items Found: 0 Time: 105 s
-
-2022-05-06 11:25:52 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:25:52 AM Reading source file, Time: 105 s
-
-2022-05-06 11:25:55 AM Reading file: Section6all_xls, sheet: T60100B-A, frequency: A, Time: 108 s
-
-2022-05-06 11:25:55 AM Total New Items Found: 0 Time: 108 s
-
-2022-05-06 11:25:55 AM Reading file: Section6all_xls, sheet: T60100B-Q, frequency: Q, Time: 108 s
-
-2022-05-06 11:25:55 AM Total New Items Found: 0 Time: 108 s
-
-2022-05-06 11:25:55 AM Reading file: Section6all_xls, sheet: T60100C-A, frequency: A, Time: 108 s
-
-2022-05-06 11:25:55 AM Total New Items Found: 0 Time: 108 s
-
-2022-05-06 11:25:55 AM Reading file: Section6all_xls, sheet: T60100C-Q, frequency: Q, Time: 108 s
-
-2022-05-06 11:25:55 AM Total New Items Found: 0 Time: 108 s
-
-2022-05-06 11:25:55 AM Reading file: Section6all_xls, sheet: T60100D-A, frequency: A, Time: 108 s
-
-2022-05-06 11:25:55 AM Total New Items Found: 0 Time: 108 s
-
-2022-05-06 11:25:55 AM Reading file: Section6all_xls, sheet: T60100D-Q, frequency: Q, Time: 108 s
-
-2022-05-06 11:25:55 AM Total New Items Found: 0 Time: 108 s
-
-2022-05-06 11:25:55 AM Reading file: Section6all_xls, sheet: T60200A-A, frequency: A, Time: 108 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 108 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60200B-A, frequency: A, Time: 108 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 108 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60200C-A, frequency: A, Time: 108 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60200D-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60300A-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60300B-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60300C-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60300D-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60400A-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60400B-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60400C-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60400D-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60500A-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60500B-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60500C-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60500D-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60600A-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60600B-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60600C-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:56 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:56 AM Reading file: Section6all_xls, sheet: T60600D-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60700A-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60700B-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60700C-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60700D-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60800A-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 109 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60800B-A, frequency: A, Time: 109 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60800C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60800D-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60900B-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60900C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T60900D-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61000B-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61000C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61000D-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61100A-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61100B-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61100C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61100D-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61200A-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61200B-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61200C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61200D-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61300A-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61300B-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61300C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61300D-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61400A-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61400B-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61400C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61400D-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61500A-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61500B-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61500C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61500D-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61600A-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61600B-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61600B-Q, frequency: Q, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61600C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61600C-Q, frequency: Q, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61600D-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61600D-Q, frequency: Q, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61700A-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61700B-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:57 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:57 AM Reading file: Section6all_xls, sheet: T61700C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T61700D-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T61800A-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T61800B-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 110 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T61800C-A, frequency: A, Time: 110 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T61800D-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T61900A-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T61900B-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T61900C-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T61900D-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62000A-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62000B-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62000C-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62000D-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62100A-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62100B-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62100C-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62100D-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62200A-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62200B-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62200C-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Reading file: Section6all_xls, sheet: T62200D-A, frequency: A, Time: 111 s
-
-2022-05-06 11:25:58 AM Total New Items Found: 0 Time: 111 s
-
-2022-05-06 11:25:58 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:25:58 AM Reading source file, Time: 111 s
-
-2022-05-06 11:26:01 AM Reading file: Section7all_xls, sheet: T70100-A, frequency: A, Time: 114 s
-
-2022-05-06 11:26:01 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:01 AM Reading file: Section7all_xls, sheet: T70100-Q, frequency: Q, Time: 114 s
-
-2022-05-06 11:26:01 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:01 AM Reading file: Section7all_xls, sheet: T70201A-A, frequency: A, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70201A-Q, frequency: Q, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70201B-A, frequency: A, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70201B-Q, frequency: Q, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70203A-A, frequency: A, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70203A-Q, frequency: Q, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70203B-A, frequency: A, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70203B-Q, frequency: Q, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70204A-A, frequency: A, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70204A-Q, frequency: Q, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 114 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70204B-A, frequency: A, Time: 114 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70204B-Q, frequency: Q, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70205A-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70205A-Q, frequency: Q, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70205B-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70205B-Q, frequency: Q, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70206B-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70206B-Q, frequency: Q, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70303-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70304-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70305-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70306-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70403-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70404-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70405-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70406-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70500-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70500-Q, frequency: Q, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70600-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70700-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70800-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T70900-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T71000-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T71100-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T71200-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T71300-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T71400-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T71500-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T71600-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T71700-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T71800-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T71900-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:02 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:02 AM Reading file: Section7all_xls, sheet: T72000-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:03 AM Reading file: Section7all_xls, sheet: T72100-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:03 AM Reading file: Section7all_xls, sheet: T72200-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:03 AM Reading file: Section7all_xls, sheet: T72300-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 115 s
-
-2022-05-06 11:26:03 AM Reading file: Section7all_xls, sheet: T72400-A, frequency: A, Time: 115 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 116 s
-
-2022-05-06 11:26:03 AM Reading file: Section7all_xls, sheet: T72500-A, frequency: A, Time: 116 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 116 s
-
-2022-05-06 11:26:03 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:26:03 AM Reading source file, Time: 116 s
-
-2022-05-06 11:26:03 AM Reading file: Section8all_xls, sheet: T80103-Q, frequency: Q, Time: 116 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 116 s
-
-2022-05-06 11:26:03 AM Reading file: Section8all_xls, sheet: T80104-Q, frequency: Q, Time: 116 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 116 s
-
-2022-05-06 11:26:03 AM Reading file: Section8all_xls, sheet: T80105-Q, frequency: Q, Time: 116 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 116 s
-
-2022-05-06 11:26:03 AM Reading file: Section8all_xls, sheet: T80106-Q, frequency: Q, Time: 116 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 116 s
-
-2022-05-06 11:26:03 AM Reading file: Section8all_xls, sheet: T80111-Q, frequency: Q, Time: 116 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 116 s
-
-2022-05-06 11:26:03 AM Reading file: Section8all_xls, sheet: T80200-Q, frequency: Q, Time: 116 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 116 s
-
-2022-05-06 11:26:03 AM Reading file: Section8all_xls, sheet: T80300-Q, frequency: Q, Time: 116 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 116 s
-
-2022-05-06 11:26:03 AM Reading file: Section8all_xls, sheet: T80400-Q, frequency: Q, Time: 116 s
-
-2022-05-06 11:26:03 AM Total New Items Found: 0 Time: 116 s
-
-2022-05-06 11:26:04 AM Reading file: BEA TablesRegister, Time: 116 s
-
-2022-05-06 11:26:07 AM Reading file: BEA SeriesRegister, Time: 119 s
-
-2022-05-06 11:26:10 AM Downloading file: Underlying
-
-2022-05-06 11:26:30 AM 
-2022-05-06 11:26:31 AM 
-2022-05-06 11:26:35 AM Reading source file, Time: 148 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U001A-Q, frequency: Q, Time: 154 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 154 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U001A-M, frequency: M, Time: 154 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U001A2-Q, frequency: Q, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U001A2-M, frequency: M, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U001B-A, frequency: A, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U001B-Q, frequency: Q, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U001B-M, frequency: M, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U001BC-A, frequency: A, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U001BC-Q, frequency: Q, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U001BC-M, frequency: M, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U002AU-Q, frequency: Q, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U002AU-M, frequency: M, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U002AUI-Q, frequency: Q, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U002AUI-M, frequency: M, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U002BU-A, frequency: A, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U002BU-Q, frequency: Q, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U002BU-M, frequency: M, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U002BUI-A, frequency: A, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U002BUI-Q, frequency: Q, Time: 155 s
-
-2022-05-06 11:26:42 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:42 AM Reading file: Section0all_xls, sheet: U002BUI-M, frequency: M, Time: 155 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U003AU-Q, frequency: Q, Time: 155 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 155 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U003AU-M, frequency: M, Time: 155 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U003BU-A, frequency: A, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U003BU-Q, frequency: Q, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U003BU-M, frequency: M, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004A1-Q, frequency: Q, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004A1-M, frequency: M, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004A2-Q, frequency: Q, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004A2-M, frequency: M, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004A3-Q, frequency: Q, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004A3-M, frequency: M, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004B1-A, frequency: A, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004B1-Q, frequency: Q, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004B1-M, frequency: M, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004B2-A, frequency: A, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004B2-Q, frequency: Q, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004B2-M, frequency: M, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004B3-A, frequency: A, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004B3-Q, frequency: Q, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U004B3-M, frequency: M, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U00500-A, frequency: A, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U00500-Q, frequency: Q, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U00500-M, frequency: M, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U00600-A, frequency: A, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U00600-Q, frequency: Q, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U00600-M, frequency: M, Time: 156 s
-
-2022-05-06 11:26:43 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:43 AM Reading file: Section0all_xls, sheet: U00700-A, frequency: A, Time: 156 s
-
-2022-05-06 11:26:44 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:44 AM Reading file: Section0all_xls, sheet: U00700-Q, frequency: Q, Time: 156 s
-
-2022-05-06 11:26:44 AM Total New Items Found: 0 Time: 156 s
-
-2022-05-06 11:26:44 AM Reading file: Section0all_xls, sheet: U00700-M, frequency: M, Time: 156 s
-
-2022-05-06 11:26:44 AM Total New Items Found: 0 Time: 157 s
-
-2022-05-06 11:26:44 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:26:44 AM Reading source file, Time: 157 s
-
-2022-05-06 11:27:09 AM Reading file: Section2all_xls, sheet: U20304-A, frequency: A, Time: 182 s
-
-2022-05-06 11:27:09 AM Total New Items Found: 0 Time: 182 s
-
-2022-05-06 11:27:09 AM Reading file: Section2all_xls, sheet: U20304-Q, frequency: Q, Time: 182 s
-
-2022-05-06 11:27:09 AM Total New Items Found: 0 Time: 182 s
-
-2022-05-06 11:27:09 AM Reading file: Section2all_xls, sheet: U20304-M, frequency: M, Time: 182 s
-
-2022-05-06 11:27:09 AM Total New Items Found: 0 Time: 182 s
-
-2022-05-06 11:27:09 AM Reading file: Section2all_xls, sheet: U20305-A, frequency: A, Time: 182 s
-
-2022-05-06 11:27:09 AM Total New Items Found: 0 Time: 182 s
-
-2022-05-06 11:27:09 AM Reading file: Section2all_xls, sheet: U20305-Q, frequency: Q, Time: 182 s
-
-2022-05-06 11:27:09 AM Total New Items Found: 0 Time: 182 s
-
-2022-05-06 11:27:09 AM Reading file: Section2all_xls, sheet: U20305-M, frequency: M, Time: 182 s
-
-2022-05-06 11:27:09 AM Total New Items Found: 0 Time: 182 s
-
-2022-05-06 11:27:09 AM Reading file: Section2all_xls, sheet: U20306-A, frequency: A, Time: 182 s
-
-2022-05-06 11:27:09 AM Total New Items Found: 0 Time: 182 s
-
-2022-05-06 11:27:09 AM Reading file: Section2all_xls, sheet: U20306-Q, frequency: Q, Time: 182 s
-
-2022-05-06 11:27:09 AM Total New Items Found: 0 Time: 182 s
-
-2022-05-06 11:27:09 AM Reading file: Section2all_xls, sheet: U20306-M, frequency: M, Time: 182 s
-
-2022-05-06 11:27:09 AM Total New Items Found: 0 Time: 182 s
-
-2022-05-06 11:27:09 AM Reading file: Section2all_xls, sheet: U20403-A, frequency: A, Time: 182 s
-
-2022-05-06 11:27:10 AM Total New Items Found: 0 Time: 182 s
-
-2022-05-06 11:27:10 AM Reading file: Section2all_xls, sheet: U20403-Q, frequency: Q, Time: 182 s
-
-2022-05-06 11:27:10 AM Total New Items Found: 0 Time: 183 s
-
-2022-05-06 11:27:10 AM Reading file: Section2all_xls, sheet: U20403-M, frequency: M, Time: 183 s
-
-2022-05-06 11:27:10 AM Total New Items Found: 0 Time: 183 s
-
-2022-05-06 11:27:10 AM Reading file: Section2all_xls, sheet: U20404-A, frequency: A, Time: 183 s
-
-2022-05-06 11:27:10 AM Total New Items Found: 0 Time: 183 s
-
-2022-05-06 11:27:10 AM Reading file: Section2all_xls, sheet: U20404-Q, frequency: Q, Time: 183 s
-
-2022-05-06 11:27:10 AM Total New Items Found: 0 Time: 183 s
-
-2022-05-06 11:27:10 AM Reading file: Section2all_xls, sheet: U20404-M, frequency: M, Time: 183 s
-
-2022-05-06 11:27:10 AM Total New Items Found: 0 Time: 183 s
-
-2022-05-06 11:27:10 AM Reading file: Section2all_xls, sheet: U20405-A, frequency: A, Time: 183 s
-
-2022-05-06 11:27:11 AM Total New Items Found: 0 Time: 183 s
-
-2022-05-06 11:27:11 AM Reading file: Section2all_xls, sheet: U20405-Q, frequency: Q, Time: 183 s
-
-2022-05-06 11:27:11 AM Total New Items Found: 0 Time: 184 s
-
-2022-05-06 11:27:11 AM Reading file: Section2all_xls, sheet: U20405-M, frequency: M, Time: 184 s
-
-2022-05-06 11:27:11 AM Total New Items Found: 0 Time: 184 s
-
-2022-05-06 11:27:11 AM Reading file: Section2all_xls, sheet: U20406-A, frequency: A, Time: 184 s
-
-2022-05-06 11:27:11 AM Total New Items Found: 0 Time: 184 s
-
-2022-05-06 11:27:11 AM Reading file: Section2all_xls, sheet: U20406-Q, frequency: Q, Time: 184 s
-
-2022-05-06 11:27:11 AM Total New Items Found: 0 Time: 184 s
-
-2022-05-06 11:27:11 AM Reading file: Section2all_xls, sheet: U20406-M, frequency: M, Time: 184 s
-
-2022-05-06 11:27:11 AM Total New Items Found: 0 Time: 184 s
-
-2022-05-06 11:27:11 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:27:11 AM Reading source file, Time: 184 s
-
-2022-05-06 11:27:12 AM Reading file: Section3all_xls, sheet: U30400-Q, frequency: Q, Time: 185 s
-
-2022-05-06 11:27:12 AM Total New Items Found: 0 Time: 185 s
-
-2022-05-06 11:27:12 AM Reading file: Section3all_xls, sheet: U30500-Q, frequency: Q, Time: 185 s
-
-2022-05-06 11:27:12 AM Total New Items Found: 0 Time: 185 s
-
-2022-05-06 11:27:12 AM Reading file: Section3all_xls, sheet: U30600-Q, frequency: Q, Time: 185 s
-
-2022-05-06 11:27:12 AM Total New Items Found: 0 Time: 185 s
-
-2022-05-06 11:27:12 AM Reading file: Section3all_xls, sheet: U30700-Q, frequency: Q, Time: 185 s
-
-2022-05-06 11:27:12 AM Total New Items Found: 0 Time: 185 s
-
-2022-05-06 11:27:12 AM Reading file: Section3all_xls, sheet: U30800-Q, frequency: Q, Time: 185 s
-
-2022-05-06 11:27:12 AM Total New Items Found: 0 Time: 185 s
-
-2022-05-06 11:27:12 AM Reading file: Section3all_xls, sheet: U31200-Q, frequency: Q, Time: 185 s
-
-2022-05-06 11:27:12 AM Total New Items Found: 0 Time: 185 s
-
-2022-05-06 11:27:12 AM Reading file: Section3all_xls, sheet: U31300-Q, frequency: Q, Time: 185 s
-
-2022-05-06 11:27:12 AM Total New Items Found: 0 Time: 185 s
-
-2022-05-06 11:27:12 AM Reading file: Section3all_xls, sheet: U32400-Q, frequency: Q, Time: 185 s
-
-2022-05-06 11:27:12 AM Total New Items Found: 0 Time: 185 s
-
-2022-05-06 11:27:12 AM Reading file: Section3all_xls, sheet: U32500-A, frequency: A, Time: 185 s
-
-2022-05-06 11:27:12 AM Total New Items Found: 0 Time: 185 s
-
-2022-05-06 11:27:12 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:27:12 AM Reading source file, Time: 185 s
-
-2022-05-06 11:27:13 AM Reading file: Section4all_xls, sheet: U40203-A, frequency: A, Time: 186 s
-
-2022-05-06 11:27:13 AM Total New Items Found: 0 Time: 186 s
-
-2022-05-06 11:27:13 AM Reading file: Section4all_xls, sheet: U40203-Q, frequency: Q, Time: 186 s
-
-2022-05-06 11:27:13 AM Total New Items Found: 0 Time: 186 s
-
-2022-05-06 11:27:13 AM Reading file: Section4all_xls, sheet: U40204-A, frequency: A, Time: 186 s
-
-2022-05-06 11:27:13 AM Total New Items Found: 0 Time: 186 s
-
-2022-05-06 11:27:13 AM Reading file: Section4all_xls, sheet: U40204-Q, frequency: Q, Time: 186 s
-
-2022-05-06 11:27:13 AM Total New Items Found: 0 Time: 186 s
-
-2022-05-06 11:27:13 AM Reading file: Section4all_xls, sheet: U40205-A, frequency: A, Time: 186 s
-
-2022-05-06 11:27:13 AM Total New Items Found: 0 Time: 186 s
-
-2022-05-06 11:27:13 AM Reading file: Section4all_xls, sheet: U40205-Q, frequency: Q, Time: 186 s
-
-2022-05-06 11:27:14 AM Total New Items Found: 0 Time: 186 s
-
-2022-05-06 11:27:14 AM Reading file: Section4all_xls, sheet: U40206-A, frequency: A, Time: 186 s
-
-2022-05-06 11:27:14 AM Total New Items Found: 0 Time: 186 s
-
-2022-05-06 11:27:14 AM Reading file: Section4all_xls, sheet: U40206-Q, frequency: Q, Time: 186 s
-
-2022-05-06 11:27:14 AM Total New Items Found: 0 Time: 187 s
-
-2022-05-06 11:27:14 AM Reading file: Section4all_xls, sheet: U4030B-Q, frequency: Q, Time: 187 s
-
-2022-05-06 11:27:14 AM Total New Items Found: 0 Time: 187 s
-
-2022-05-06 11:27:14 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:27:14 AM Reading source file, Time: 187 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50203-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50205-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50206-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50404-A, frequency: A, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50404-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50405-A, frequency: A, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50405-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50406-A, frequency: A, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50406-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50504-A, frequency: A, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50504-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50505-A, frequency: A, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50505-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50506-A, frequency: A, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50506-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50705AM1-M, frequency: M, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50705AM2-M, frequency: M, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50705AM3-M, frequency: M, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50705AU1-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50705AU2-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50705AU3-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50705BM1-M, frequency: M, Time: 191 s
-
-2022-05-06 11:27:18 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:18 AM Reading file: Section5all_xls, sheet: U50705BM2-M, frequency: M, Time: 191 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50705BM3-M, frequency: M, Time: 191 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50705BU1-A, frequency: A, Time: 191 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 191 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50705BU1-Q, frequency: Q, Time: 191 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50705BU2-A, frequency: A, Time: 192 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50705BU2-Q, frequency: Q, Time: 192 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50705BU3-A, frequency: A, Time: 192 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50705BU3-Q, frequency: Q, Time: 192 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50706AM-M, frequency: M, Time: 192 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50706AU-Q, frequency: Q, Time: 192 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50706BM-M, frequency: M, Time: 192 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50706BU-A, frequency: A, Time: 192 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U50706BU-Q, frequency: Q, Time: 192 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Reading file: Section5all_xls, sheet: U51100-Q, frequency: Q, Time: 192 s
-
-2022-05-06 11:27:19 AM Total New Items Found: 0 Time: 192 s
-
-2022-05-06 11:27:19 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:27:19 AM Reading source file, Time: 192 s
-
-2022-05-06 11:27:20 AM Reading file: Section7all_xls, sheet: U70204-A, frequency: A, Time: 193 s
-
-2022-05-06 11:27:20 AM Total New Items Found: 0 Time: 193 s
-
-2022-05-06 11:27:20 AM Reading file: Section7all_xls, sheet: U70204-Q, frequency: Q, Time: 193 s
-
-2022-05-06 11:27:20 AM Total New Items Found: 0 Time: 193 s
-
-2022-05-06 11:27:20 AM Reading file: Section7all_xls, sheet: U70205-A, frequency: A, Time: 193 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 193 s
-
-2022-05-06 11:27:21 AM Reading file: Section7all_xls, sheet: U70205-Q, frequency: Q, Time: 193 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 193 s
-
-2022-05-06 11:27:21 AM Reading file: Section7all_xls, sheet: U70205S-M, frequency: M, Time: 193 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 193 s
-
-2022-05-06 11:27:21 AM Reading file: Section7all_xls, sheet: U70206-A, frequency: A, Time: 193 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 194 s
-
-2022-05-06 11:27:21 AM Reading file: Section7all_xls, sheet: U70206-Q, frequency: Q, Time: 194 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 194 s
-
-2022-05-06 11:27:21 AM Present File Exists. Reading Data From Default Path.
-
-2022-05-06 11:27:21 AM Reading source file, Time: 194 s
-
-2022-05-06 11:27:21 AM Reading file: Section9all_xls, sheet: U90100-Q, frequency: Q, Time: 194 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 194 s
-
-2022-05-06 11:27:21 AM Reading file: Section9all_xls, sheet: U90100-M, frequency: M, Time: 194 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 194 s
-
-2022-05-06 11:27:21 AM Reading file: Section9all_xls, sheet: U90200-A, frequency: A, Time: 194 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 194 s
-
-2022-05-06 11:27:21 AM Reading file: Section9all_xls, sheet: U90200-Q, frequency: Q, Time: 194 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 194 s
-
-2022-05-06 11:27:21 AM Reading file: Section9all_xls, sheet: U90300-A, frequency: A, Time: 194 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 194 s
-
-2022-05-06 11:27:21 AM Reading file: Section9all_xls, sheet: U90400-A, frequency: A, Time: 194 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 194 s
-
-2022-05-06 11:27:21 AM Reading file: Section9all_xls, sheet: U90500-A, frequency: A, Time: 194 s
-
-2022-05-06 11:27:21 AM Total New Items Found: 0 Time: 194 s
-
-2022-05-06 11:27:24 AM = ! = No new items were found.
