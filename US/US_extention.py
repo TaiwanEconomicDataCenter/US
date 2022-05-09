@@ -31,6 +31,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime, date, timedelta
 from dateutil.relativedelta import relativedelta
 from urllib.error import HTTPError
+from func_timeout import func_set_timeout, FunctionTimedOut
 sys.path.append('../../TO_DB/TO_DB')
 from TO_DB import SELECT_DF_KEY, SELECT_DATABASES, INSERT_TABLES
 urllib3.disable_warnings()
@@ -61,6 +62,7 @@ def ERROR(error_text, waiting=False):
         sys.stdout.write('\n\n')
         sys.exit()
 
+@func_set_timeout(600)
 def readFile(dir, default=pd.DataFrame(), acceptNoFile=False,header_=None,names_=None,skiprows_=None,index_col_=None,usecols_=None,skipfooter_=0,nrows_=None,encoding_=ENCODING,engine_='python',sep_=None, wait=False):
     try:
         t = pd.read_csv(dir, header=header_,skiprows=skiprows_,index_col=index_col_,skipfooter=skipfooter_,\

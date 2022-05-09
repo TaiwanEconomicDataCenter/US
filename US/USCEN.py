@@ -18,6 +18,7 @@ from dateutil.relativedelta import relativedelta
 from iteration_utilities import duplicates
 import sqlalchemy
 from sqlalchemy import create_engine
+from func_timeout import func_set_timeout, FunctionTimedOut
 import US_extention as EXT
 from US_extention import ERROR, readFile, readExcelFile, US_NOTE, US_HISTORYDATA, DATA_SETS, takeFirst, US_IHS, US_BLS, MERGE, NEW_KEYS, CONCATE, UPDATE, ATTRIBUTES,\
  US_POPP, US_FAMI, EXCHANGE, NEW_LABEL, US_STL, US_DOT, US_TICS, US_BTSDOL, US_ISM, US_RCM, US_CBS, US_DOA, US_AISI, US_EIAIRS, US_SEMI, US_WEB, GET_NAME, PRESENT, US_FTD_NEW, US_POPT,\
@@ -1801,9 +1802,19 @@ for source in SOURCE(TABLES):
                                     US_temp = readFile(file_path, header_=[0], index_col_=0)
                                 else:
                                     print('Waiting for Download...'+'\n')
-                                    US_temp = readFile(address+fname, header_=0, names_=['series_id','year','period','value','footnote_codes'], acceptNoFile=True, sep_='\\t')
-                                    US_temp.to_csv(file_path)
-                                    print('Download Complete, Time: '+str(int(time.time() - tStart))+' s'+'\n')
+                                    timeout_count = 0
+                                    while True:
+                                        try:
+                                            US_temp = readFile(address+fname, header_=0, names_=['series_id','year','period','value','footnote_codes'], acceptNoFile=True, sep_='\\t')
+                                            US_temp.to_csv(file_path)
+                                        except FunctionTimedOut:
+                                            if timeout_count > 3:
+                                                ERROR('加載時間太長，請重新執行程式')
+                                            logging.log('readFile timeout, try again\n')
+                                            timeout_count += 1
+                                        else:
+                                            print('Download Complete, Time: '+str(int(time.time() - tStart))+' s'+'\n')
+                                            break
                                 #bls_read = True
                                 if address.find('in/') >= 0 and freq == 'A':
                                     for code in Table['begin_year']:
