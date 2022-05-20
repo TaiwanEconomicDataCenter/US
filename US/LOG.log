@@ -6,3 +6,30 @@
 
 2022-05-17 05:10:06 PM dealing_start_year: 1900
 
+2022-05-17 06:01:42 PM Process: File Updating
+
+2022-05-17 06:01:42 PM Reading main key: US_keyup.xlsx, Time: 3096 s
+
+2022-05-17 06:01:45 PM Reading main database: US_databaseup.xlsx, Time: 3099 s
+
+2022-05-17 06:02:19 PM Updating file: 0 s
+
+2022-05-17 06:12:19 PM updated: 10679
+
+2022-05-17 06:12:19 PM Time: 599 s
+
+2022-05-18 04:01:35 PM        databank           name   db_table  ...                       source                                             form_e               form_c
+0            US  A0001ITAALL.Q  DB_Q_0001  ...  Bureau of Economic Analysis                                    Expanded Detail  Seasonally Adjusted
+1            US     A0001PID.Q  DB_Q_0001  ...  Bureau of Economic Analysis  U.S. International Transactions in Primary Inc...  Seasonally Adjusted
+2            US  A0002ITAALL.Q  DB_Q_0001  ...  Bureau of Economic Analysis                                    Expanded Detail  Seasonally Adjusted
+3            US     A0002PID.Q  DB_Q_0001  ...  Bureau of Economic Analysis  U.S. International Transactions in Primary Inc...  Seasonally Adjusted
+4            US  A0003ITAALL.Q  DB_Q_0001  ...  Bureau of Economic Analysis                                    Expanded Detail  Seasonally Adjusted
+...         ...            ...        ...  ...                          ...                                                ...                  ...
+205319       US   YSTARUSONE.A  DB_A_0383  ...             Bureau Of Census          New Privately Owned Housing Units Started               Annual
+205320       US   YSTARUSTOT.A  DB_A_0383  ...             Bureau Of Census          New Privately Owned Housing Units Started               Annual
+205321       US   YSTARWEONE.A  DB_A_0383  ...             Bureau Of Census          New Privately Owned Housing Units Started               Annual
+205322       US   YSTARWETOT.A  DB_A_0383  ...             Bureau Of Census          New Privately Owned Housing Units Started               Annual
+205323       US   YTOTHUSSHP.A  DB_A_0383  ...             Bureau Of Census                Shipments of New Manufactured Homes               Annual
+
+[205324 rows x 15 columns]
+2022-05-18 04:01:35 PM Total Items: 205324
