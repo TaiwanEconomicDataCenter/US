@@ -1,35 +1,248 @@
-﻿2022-05-17 05:10:06 PM excel_suffix: mysql
+﻿2022-06-09 03:54:29 PM excel_suffix: BLSUP
 
-2022-05-17 05:10:06 PM data_processing: False
+2022-06-09 03:54:29 PM data_processing: True
 
-2022-05-17 05:10:06 PM find_unknown: False
+2022-06-09 03:54:29 PM find_unknown: False
 
-2022-05-17 05:10:06 PM dealing_start_year: 1900
+2022-06-09 03:54:29 PM dealing_start_year: 1900
 
-2022-05-17 06:01:42 PM Process: File Updating
+2022-06-09 03:54:42 PM Data Processing
 
-2022-05-17 06:01:42 PM Reading main key: US_keyup.xlsx, Time: 3096 s
+2022-06-09 03:54:42 PM Reading table: TABLES, Time: 12 s
 
-2022-05-17 06:01:45 PM Reading main database: US_databaseup.xlsx, Time: 3099 s
+2022-06-09 03:54:47 PM Reading file: BLS_series, Time: 17 s
 
-2022-05-17 06:02:19 PM Updating file: 0 s
+2022-06-09 03:54:47 PM Present File Exists. Reading Data From Default Path.
 
-2022-05-17 06:12:19 PM updated: 10679
+2022-06-09 03:54:52 PM Reading file: bd.data.1.AllItems, sheet: 0, frequency: Q, Time: 22 s
 
-2022-05-17 06:12:19 PM Time: 599 s
+2022-06-09 03:54:52 PM Present File Exists. Reading Data From Default Path.
 
-2022-05-18 04:01:35 PM        databank           name   db_table  ...                       source                                             form_e               form_c
-0            US  A0001ITAALL.Q  DB_Q_0001  ...  Bureau of Economic Analysis                                    Expanded Detail  Seasonally Adjusted
-1            US     A0001PID.Q  DB_Q_0001  ...  Bureau of Economic Analysis  U.S. International Transactions in Primary Inc...  Seasonally Adjusted
-2            US  A0002ITAALL.Q  DB_Q_0001  ...  Bureau of Economic Analysis                                    Expanded Detail  Seasonally Adjusted
-3            US     A0002PID.Q  DB_Q_0001  ...  Bureau of Economic Analysis  U.S. International Transactions in Primary Inc...  Seasonally Adjusted
-4            US  A0003ITAALL.Q  DB_Q_0001  ...  Bureau of Economic Analysis                                    Expanded Detail  Seasonally Adjusted
-...         ...            ...        ...  ...                          ...                                                ...                  ...
-205319       US   YSTARUSONE.A  DB_A_0383  ...             Bureau Of Census          New Privately Owned Housing Units Started               Annual
-205320       US   YSTARUSTOT.A  DB_A_0383  ...             Bureau Of Census          New Privately Owned Housing Units Started               Annual
-205321       US   YSTARWEONE.A  DB_A_0383  ...             Bureau Of Census          New Privately Owned Housing Units Started               Annual
-205322       US   YSTARWETOT.A  DB_A_0383  ...             Bureau Of Census          New Privately Owned Housing Units Started               Annual
-205323       US   YTOTHUSSHP.A  DB_A_0383  ...             Bureau Of Census                Shipments of New Manufactured Homes               Annual
+2022-06-09 04:07:25 PM Total Items: 6280 Time: 775 s
 
-[205324 rows x 15 columns]
-2022-05-18 04:01:35 PM Total Items: 205324
+2022-06-09 04:09:28 PM Reading file: BLS_series, Time: 899 s
+
+2022-06-09 04:09:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:09:34 PM Reading file: ce.data.00a.TotalNonfarm.Employment, sheet: 0, frequency: M, Time: 905 s
+
+2022-06-09 04:09:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:09:36 PM Total Items: 6 Time: 906 s
+
+2022-06-09 04:09:36 PM Reading file: ce.data.00a.TotalNonfarm.Employment, sheet: 0, frequency: A, Time: 907 s
+
+2022-06-09 04:09:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:09:37 PM Total Items: 2 Time: 907 s
+
+2022-06-09 04:09:37 PM Reading file: ce.data.05a.TotalPrivate.Employment, sheet: 0, frequency: M, Time: 908 s
+
+2022-06-09 04:09:38 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:09:41 PM Total Items: 30 Time: 911 s
+
+2022-06-09 04:09:44 PM Reading file: ce.data.05a.TotalPrivate.Employment, sheet: 0, frequency: A, Time: 914 s
+
+2022-06-09 04:09:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:09:45 PM Total Items: 11 Time: 915 s
+
+2022-06-09 04:09:45 PM Reading file: ce.data.05b.TotalPrivate.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 915 s
+
+2022-06-09 04:09:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:09:47 PM Total Items: 55 Time: 917 s
+
+2022-06-09 04:09:48 PM Reading file: ce.data.05b.TotalPrivate.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 919 s
+
+2022-06-09 04:09:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:09:50 PM Total Items: 27 Time: 920 s
+
+2022-06-09 04:09:50 PM Reading file: ce.data.05c.TotalPrivate.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 920 s
+
+2022-06-09 04:09:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:09:59 PM Total Items: 55 Time: 930 s
+
+2022-06-09 04:10:07 PM Reading file: ce.data.05c.TotalPrivate.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 937 s
+
+2022-06-09 04:10:07 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:10:07 PM Total Items: 27 Time: 937 s
+
+2022-06-09 04:10:07 PM Reading file: ce.data.10a.MiningAndLogging.Employment, sheet: 0, frequency: M, Time: 938 s
+
+2022-06-09 04:10:07 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:10:08 PM Total Items: 80 Time: 938 s
+
+2022-06-09 04:10:19 PM Reading file: ce.data.10a.MiningAndLogging.Employment, sheet: 0, frequency: A, Time: 950 s
+
+2022-06-09 04:10:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:10:19 PM Total Items: 40 Time: 950 s
+
+2022-06-09 04:10:20 PM Reading file: ce.data.10b.MiningAndLogging.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 950 s
+
+2022-06-09 04:10:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:10:21 PM Total Items: 234 Time: 951 s
+
+2022-06-09 04:10:28 PM Reading file: ce.data.10b.MiningAndLogging.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 958 s
+
+2022-06-09 04:10:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:10:28 PM Total Items: 117 Time: 958 s
+
+2022-06-09 04:10:29 PM Reading file: ce.data.10c.MiningAndLogging.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 959 s
+
+2022-06-09 04:10:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:10:30 PM Total Items: 144 Time: 960 s
+
+2022-06-09 04:10:50 PM Reading file: ce.data.10c.MiningAndLogging.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 980 s
+
+2022-06-09 04:10:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:10:50 PM Total Items: 72 Time: 980 s
+
+2022-06-09 04:10:50 PM Reading file: ce.data.20a.Construction.Employment, sheet: 0, frequency: M, Time: 981 s
+
+2022-06-09 04:10:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:10:52 PM Total Items: 256 Time: 983 s
+
+2022-06-09 04:11:24 PM Reading file: ce.data.20a.Construction.Employment, sheet: 0, frequency: A, Time: 1014 s
+
+2022-06-09 04:11:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:11:24 PM Total Items: 132 Time: 1014 s
+
+2022-06-09 04:11:26 PM Reading file: ce.data.20b.Construction.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 1016 s
+
+2022-06-09 04:11:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:11:31 PM Total Items: 720 Time: 1022 s
+
+2022-06-09 04:11:53 PM Reading file: ce.data.20b.Construction.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 1044 s
+
+2022-06-09 04:11:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:11:54 PM Total Items: 360 Time: 1044 s
+
+2022-06-09 04:11:56 PM Reading file: ce.data.20c.Construction.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 1046 s
+
+2022-06-09 04:11:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:12:04 PM Total Items: 684 Time: 1055 s
+
+2022-06-09 04:13:25 PM Reading file: ce.data.20c.Construction.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 1135 s
+
+2022-06-09 04:13:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:13:29 PM Total Items: 342 Time: 1140 s
+
+2022-06-09 04:13:34 PM Reading file: ce.data.30a.Manufacturing.Employment, sheet: 0, frequency: M, Time: 1144 s
+
+2022-06-09 04:13:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:13:34 PM Total Items: 11 Time: 1144 s
+
+2022-06-09 04:13:35 PM Reading file: ce.data.30a.Manufacturing.Employment, sheet: 0, frequency: A, Time: 1146 s
+
+2022-06-09 04:13:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:13:35 PM Total Items: 3 Time: 1146 s
+
+2022-06-09 04:13:35 PM Reading file: ce.data.30b.Manufacturing.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 1146 s
+
+2022-06-09 04:13:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:13:35 PM Total Items: 26 Time: 1146 s
+
+2022-06-09 04:13:36 PM Reading file: ce.data.30b.Manufacturing.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 1147 s
+
+2022-06-09 04:13:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:13:36 PM Total Items: 12 Time: 1147 s
+
+2022-06-09 04:13:36 PM Reading file: ce.data.30c.Manufacturing.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 1147 s
+
+2022-06-09 04:13:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:13:37 PM Total Items: 26 Time: 1147 s
+
+2022-06-09 04:13:41 PM Reading file: ce.data.30c.Manufacturing.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 1151 s
+
+2022-06-09 04:13:41 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:13:41 PM Total Items: 12 Time: 1151 s
+
+2022-06-09 04:13:41 PM Reading file: ce.data.31a.ManufacturingDurableGoods.Employment, sheet: 0, frequency: M, Time: 1152 s
+
+2022-06-09 04:13:41 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:13:47 PM Total Items: 548 Time: 1158 s
+
+2022-06-09 04:15:01 PM Reading file: ce.data.31a.ManufacturingDurableGoods.Employment, sheet: 0, frequency: A, Time: 1231 s
+
+2022-06-09 04:15:01 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:15:01 PM Total Items: 274 Time: 1232 s
+
+2022-06-09 04:15:05 PM Reading file: ce.data.31b.ManufacturingDurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 1236 s
+
+2022-06-09 04:15:05 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:15:28 PM Total Items: 1674 Time: 1259 s
+
+2022-06-09 04:16:20 PM Reading file: ce.data.31b.ManufacturingDurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 1311 s
+
+2022-06-09 04:16:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:16:22 PM Total Items: 837 Time: 1312 s
+
+2022-06-09 04:16:26 PM Reading file: ce.data.31c.ManufacturingDurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 1316 s
+
+2022-06-09 04:16:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:16:58 PM Total Items: 1416 Time: 1348 s
+
+2022-06-09 04:20:06 PM Reading file: ce.data.31c.ManufacturingDurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 1537 s
+
+2022-06-09 04:20:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:20:08 PM Total Items: 708 Time: 1539 s
+
+2022-06-09 04:20:19 PM Reading file: ce.data.32a.ManufacturingNondurableGoods.Employment, sheet: 0, frequency: M, Time: 1549 s
+
+2022-06-09 04:20:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:20:21 PM Total Items: 286 Time: 1551 s
+
+2022-06-09 04:20:57 PM Reading file: ce.data.32a.ManufacturingNondurableGoods.Employment, sheet: 0, frequency: A, Time: 1587 s
+
+2022-06-09 04:20:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:20:57 PM Total Items: 143 Time: 1587 s
+
+2022-06-09 04:20:59 PM Reading file: ce.data.32b.ManufacturingNondurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 1589 s
+
+2022-06-09 04:20:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:21:05 PM Total Items: 792 Time: 1595 s
+
+2022-06-09 04:21:30 PM Reading file: ce.data.32b.ManufacturingNondurableGoods.AllEmployeeHoursAndEarnings, sheet: 0, frequency: A, Time: 1620 s
+
+2022-06-09 04:21:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:21:31 PM Total Items: 396 Time: 1621 s
+
+2022-06-09 04:21:33 PM Reading file: ce.data.32c.ManufacturingNondurableGoods.ProductionEmployeeHoursAndEarnings, sheet: 0, frequency: M, Time: 1623 s
+
+2022-06-09 04:21:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 04:21:38 PM Total Items: 504 Time: 1629 s
+
