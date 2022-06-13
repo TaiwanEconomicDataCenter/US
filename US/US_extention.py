@@ -532,7 +532,7 @@ def US_WEB(chrome, address, fname, sname, freq=None, tables=[0], Table=None, hea
                     WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.XPATH, './/label[@data-test-id="preset-label-all"]'))).click()
                     time.sleep(2)
                     WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.XPATH, './/span[contains(., "Download CSV File")]'))).click()
-                    time.sleep(15)
+                    time.sleep(30)
                     link_found = True
                     #link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword=str(sname)+'.csv.zip')
                 elif address.find('TICS') >= 0:
@@ -797,6 +797,7 @@ def US_WEB(chrome, address, fname, sname, freq=None, tables=[0], Table=None, hea
                         link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword=str(file_name), text_match=True)
                     else:
                         link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword=str(sname)+'.')
+                        time.sleep(5)
             if link_found == False:
                 raise FileNotFoundError
         except (FileNotFoundError, TimeoutException, StaleElementReferenceException, ElementClickInterceptedException) as e:
@@ -4088,6 +4089,17 @@ def US_POPT(chrome, website, data_path, address, fname, sname):
                             chrome.close()
                             chrome.switch_to.window(chrome.window_handles[0])
                             continue
+                        else:
+                            valid_path = False
+                            link_list2 = WebDriverWait(chrome, 5).until(EC.presence_of_all_elements_located((By.XPATH, './/*[@href]')))
+                            for link2 in link_list2:
+                                if link2.get_attribute('href').lower().find(FILE[fname]+'-file') >= 0:
+                                    valid_path = True
+                                    break
+                            if valid_path == False:
+                                chrome.close()
+                                chrome.switch_to.window(chrome.window_handles[0])
+                                continue
                     chrome.close()
                     chrome.switch_to.window(chrome.window_handles[0])    
                     target_year = int(link.get_attribute('href')[-5:-1])
