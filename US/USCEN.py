@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # pylint: disable=E1101
-import math, sys, calendar, os, copy, time, logging, zipfile
+import math, sys, calendar, os, copy, time, logging, zipfile, io
 import regex as re
 import pandas as pd
 import numpy as np
@@ -316,6 +316,8 @@ def SCALE(code, address, SERIES=None):
         elif SERIES.loc[code, 'Multiplier:'] == 1 and SERIES.loc[code, 'Unit:'].find('Currency') >= 0:
             return(',')
         elif SERIES.loc[code, 'Multiplier:'] == 1:
+            return('')
+        elif str(SERIES.loc[code, 'Multiplier:']) == 'nan':
             return('')
         else:
             ERROR('Scale error: '+code)
@@ -784,7 +786,7 @@ def US_DATA(ind, name, US_t, address, file_name, sheet_name, value, index, code_
     elif source == 'Federal Reserve Board':
         DOLLAR = {'USD':'United States Dollar', '':'United States Dollar'}
         ADJUST = {False:'Seasonally Adjusted', True:'Not Seasonally Adjusted'}
-        unit = series.loc[US_t.iloc[ind]['Index'], 'Unit:'].replace('_100','=100').replace('_',' ')+SCALE(US_t.iloc[ind]['Index'], address, series)
+        unit = str(series.loc[US_t.iloc[ind]['Index'], 'Unit:']).replace('_100','=100').replace('_',' ').replace('nan','')+SCALE(US_t.iloc[ind]['Index'], address, series)
         if unit.find('Currency') >= 0:
             unit = unit + ' ' + DOLLAR[Calculation_type]
         Calculation_type = series.loc[US_t.iloc[ind]['Index'], 'Currency:']
@@ -1491,6 +1493,10 @@ for source in SOURCE(TABLES):
                                 US_temp = readFile(file_path, header_=[0], acceptNoFile=False)
                             else:
                                 US_temp = readFile(fname, header_=None, names_=['code','year']+MONTH, acceptNoFile=False, sep_='\\s+')
+                                if US_temp == None:
+                                    response = rq.get(fname)
+                                    file_object = io.StringIO(response.content.decode('utf-8'))
+                                    US_temp = readFile(file_object, header_=None, names_=['code','year']+MONTH, acceptNoFile=False, sep_='\\s+')
                                 US_temp.to_csv(file_path)
                             US_t = US_HISTORYDATA(US_temp, name='year', address=address, freq=freq, MONTH=MONTH, make_idx=True, find_unknown=find_unknown, DF_KEY=DF_KEY)
                         elif address.find('H6') >= 0 or address.find('G19') >= 0 or address.find('H15') >= 0:

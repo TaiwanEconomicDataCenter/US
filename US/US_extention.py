@@ -118,8 +118,8 @@ def readExcelFile(dir, default=pd.DataFrame(), acceptNoFile=True, na_filter_=Tru
             ERROR(str(err))
 
 def PRESENT(file_path, check_latest_update=False, latest_update=None, forcing_download=False):   
- #    if os.path.isfile(file_path) and (datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == datetime.today().strftime('%Y-%V') or datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == (datetime.today()-timedelta(days=7)).strftime('%Y-%V')):
-    if os.path.isfile(file_path) and (datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%m-%d') == datetime.today().strftime('%Y-%m-%d')):
+    if os.path.isfile(file_path) and (datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == datetime.today().strftime('%Y-%V') or datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == (datetime.today()-timedelta(days=7)).strftime('%Y-%V')):
+        #if os.path.isfile(file_path) and (datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%m-%d') == datetime.today().strftime('%Y-%m-%d')):
         if check_latest_update == True:
             try:
                 datetime.strptime(str(latest_update),'%Y-%m-%d')
@@ -3297,11 +3297,12 @@ def US_DOA(US_temp, Series, Table, address, fname, sname, chrome):
 
     return US_t, label, note, footnote
 
-def US_AISI(data_path, address, fname, steelorbis_year=str(date.today().year-2)):
+def US_AISI(data_path, address, fname, steelorbis_year=str(date.today().year-1)):
     note = []
     footnote = []
     file_path = data_path+address+'Historical Data.xlsx'
     IHS = readExcelFile(file_path, header_=0, index_col_=0, sheet_name_=0)
+    IHS.columns = [col.strftime('%Y-%m-%d') if type(col) != str else col for col in IHS.columns]
     if PRESENT(file_path):
         label = IHS['Label']
         return IHS, label, note, footnote
