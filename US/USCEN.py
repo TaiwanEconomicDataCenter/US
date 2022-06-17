@@ -340,10 +340,19 @@ def US_KEY(address, counting=False, key=None):
     elif address.find('NIPA') >= 0 or address.find('FAAT') >= 0:
         address = re.sub(r'NIPA/.*', "NIPA/", address)
         BEA_datasets = readExcelFile(data_path+'tables.xlsx', header_ = 0, index_col_=0, sheet_name_='BEAdatasets')
-        logging.info('Reading file: BEA TablesRegister, Time: '+str(int(time.time() - tStart))+' s'+'\n')
-        BEA_table = readFile(BEA_datasets.loc[address, 'Table'], header_ = 0, index_col_='TableId')#readExcelFile(data_path+address+'TablesRegister.xlsx', header_ = 0, index_col_='TableId', sheet_name_=0)
-        logging.info('Reading file: BEA SeriesRegister, Time: '+str(int(time.time() - tStart))+' s'+'\n')
-        BEA_series = readFile(BEA_datasets.loc[address, 'Series'], header_ = 0, index_col_='%SeriesCode')#readExcelFile(data_path+address+'SeriesRegister.xlsx', header_ = 0, index_col_='%SeriesCode', sheet_name_=0)
+        max_count = 0
+        while True:
+            try:
+                logging.info('Reading file: BEA TablesRegister, Time: '+str(int(time.time() - tStart))+' s'+'\n')
+                BEA_table = readFile(BEA_datasets.loc[address, 'Table'], header_ = 0, index_col_='TableId', wait=True)#readExcelFile(data_path+address+'TablesRegister.xlsx', header_ = 0, index_col_='TableId', sheet_name_=0)
+                logging.info('Reading file: BEA SeriesRegister, Time: '+str(int(time.time() - tStart))+' s'+'\n')
+                BEA_series = readFile(BEA_datasets.loc[address, 'Series'], header_ = 0, index_col_='%SeriesCode', wait=True)#readExcelFile(data_path+address+'SeriesRegister.xlsx', header_ = 0, index_col_='%SeriesCode', sheet_name_=0)
+            except Exception as e:
+                if max_count >= 3:
+                    ERROR(str(e))
+                max_count += 1
+            else:
+                break
         if counting == True:
             return BEA_series
         return BEA_series, BEA_table, Titles
