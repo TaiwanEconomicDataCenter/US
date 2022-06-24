@@ -8,3 +8,4 @@
 */.tmp.drivedownload/*
 *.ini
 *\~$*
+*/__pycache__/*
