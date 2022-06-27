@@ -532,8 +532,30 @@ def US_WEB(chrome, address, fname, sname, freq=None, tables=[0], Table=None, hea
                     WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.XPATH, './/label[@data-test-id="preset-label-all"]'))).click()
                     time.sleep(2)
                     WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.XPATH, './/span[contains(., "Download CSV File")]'))).click()
-                    time.sleep(30)
-                    link_found = True
+                    max_count = 0
+                    loaded = False
+                    while True:
+                        time.sleep(10)
+                        chrome.execute_script("window.open()")
+                        chrome.switch_to.window(chrome.window_handles[-1])
+                        chrome.get('chrome://downloads')
+                        try:
+                            if chrome.execute_script("return document.querySelector('downloads-manager').shadowRoot.querySelector('#downloadsList downloads-item').shadowRoot.querySelector('div#content #tag')").text == '已刪除':
+                                max_count += 1
+                            else:
+                                loaded = True
+                        except JavascriptException:
+                            max_count += 1
+                        else:
+                            if loaded:
+                                link_found = True
+                                chrome.close()
+                                chrome.switch_to.window(chrome.window_handles[0])
+                                break
+                            elif max_count >= 6:
+                                ERROR('The file was not properly downloaded')
+                        chrome.close()
+                        chrome.switch_to.window(chrome.window_handles[0])
                     #link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword=str(sname)+'.csv.zip')
                 elif address.find('TICS') >= 0:
                     time.sleep(2)
@@ -616,6 +638,7 @@ def US_WEB(chrome, address, fname, sname, freq=None, tables=[0], Table=None, hea
                     chrome.find_element_by_id("Link_"+re.sub(r'_.+', "", sname)).click()
                     time.sleep(5)
                     WebDriverWait(chrome, 10).until(EC.element_to_be_clickable((By.ID, 'LblHeader')))
+                    WebDriverWait(chrome, 10).until(EC.element_to_be_clickable((By.ID, 'GridView1')))
                     search = BeautifulSoup(chrome.page_source, "html.parser")
                     result = search.find(id="GridView1")
                     US_temp = pd.read_html(str(result), header=header, index_col=index_col)[0]
@@ -715,9 +738,18 @@ def US_WEB(chrome, address, fname, sname, freq=None, tables=[0], Table=None, hea
                 else:
                     for item in re.split(r', ', str(Table.loc[sname, 'Data Items'])):
                         WebDriverWait(chrome, 15).until(EC.element_to_be_clickable((By.XPATH, './/select[@id="short_desc"]/option[text()="'+Table.loc[sname, 'Commodity']+' - '+Table.loc[sname, 'Category']+', '+item+'"]'))).click()
-                WebDriverWait(chrome, 30).until(EC.element_to_be_clickable((By.XPATH, './/select[@id="domain_desc"]/option[text()="TOTAL"]'))).click()
-                WebDriverWait(chrome, 30).until(EC.element_to_be_clickable((By.XPATH, './/select[@id="agg_level_desc"]/option[text()="NATIONAL"]'))).click()
-                WebDriverWait(chrome, 30).until(EC.element_to_be_clickable((By.XPATH, './/select[@id="state_name"]/option[text()="US TOTAL"]'))).click()
+                max_count = 0
+                while True:
+                    try:
+                        WebDriverWait(chrome, 30).until(EC.element_to_be_clickable((By.XPATH, './/select[@id="domain_desc"]/option[text()="TOTAL"]'))).click()
+                        WebDriverWait(chrome, 30).until(EC.element_to_be_clickable((By.XPATH, './/select[@id="agg_level_desc"]/option[text()="NATIONAL"]'))).click()
+                        WebDriverWait(chrome, 30).until(EC.element_to_be_clickable((By.XPATH, './/select[@id="state_name"]/option[text()="US TOTAL"]'))).click()
+                    except Exception as e:
+                        max_count += 1
+                        if max_count > 3:
+                            ERROR(str(e))
+                    else:
+                        break
                 chrome.find_element_by_id("year").send_keys(Keys.CONTROL, 'a')
                 WebDriverWait(chrome, 30).until(EC.element_to_be_clickable((By.XPATH, './/select[@id="freq_desc"]/option[text()="MONTHLY"]'))).click()
                 WebDriverWait(chrome, 30).until(EC.element_to_be_clickable((By.ID, 'reference_period_desc'))).click()
