@@ -1371,13 +1371,13 @@ for source in SOURCE(TABLES):
                 Zip = True
             if chrome == None and ((fname.find('http') >= 0 and address.find('AISI') < 0) or Zip == True or address.find('BOC') >= 0):
                 options = Options()
-                options.add_argument("--disable-notifications")
-                options.add_argument("--disable-popup-blocking")
-                options.add_argument("ignore-certificate-errors")
-                options.add_experimental_option("excludeSwitches", ["enable-logging"])
-                #options.add_experimental_option("prefs", {"profile.default_content_setting_values.cookies": 2})
-                chrome = webdriver.Chrome("C:\Program Files\Google\Chrome\Application\chromedriver.exe", options=options)
-                chrome.set_window_position(980,0)
+                # options.add_argument("--disable-notifications")
+                # options.add_argument("--disable-popup-blocking")
+                # options.add_argument("ignore-certificate-errors")
+                # options.add_experimental_option("excludeSwitches", ["enable-logging"])
+                # #options.add_experimental_option("prefs", {"profile.default_content_setting_values.cookies": 2})
+                # chrome = webdriver.Chrome("C:\Program Files\Google\Chrome\Application\chromedriver.exe", options=options)
+                # chrome.set_window_position(980,0)
             if Zip == True:
                 file_address = data_path+address
                 file_path = file_address+Zip_table.at[(address,fname), 'Zipname']+'.zip'

@@ -75,7 +75,7 @@ def readFile(dir, default=pd.DataFrame(), acceptNoFile=False,header_=None,names_
         elif str(err).find('urlopen error') >= 0:
             logging.info(str(err))
             time.sleep(3)
-            return readFile(dir,header_=header_,names_=names_,skiprows_=skiprows_,index_col_=index_col_,usecols_=usecols_,skipfooter_=skipfooter_,nrows_=nrows_,encoding_=encoding_,engine_='engine_',sep_=sep_, wait=wait)
+            return readFile(dir,header_=header_,names_=names_,skiprows_=skiprows_,index_col_=index_col_,usecols_=usecols_,skipfooter_=skipfooter_,nrows_=nrows_,encoding_=encoding_,engine_=engine_,sep_=sep_, wait=wait)
         else:
             if wait == True:
                 ERROR('Waiting for Download...', waiting=True)
@@ -118,28 +118,29 @@ def readExcelFile(dir, default=pd.DataFrame(), acceptNoFile=True, na_filter_=Tru
             ERROR(str(err))
 
 def PRESENT(file_path, check_latest_update=False, latest_update=None, forcing_download=False):   
-    if os.path.isfile(file_path) and (datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == datetime.today().strftime('%Y-%V') or datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == (datetime.today()-timedelta(days=7)).strftime('%Y-%V')):
-        #if os.path.isfile(file_path) and (datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%m-%d') == datetime.today().strftime('%Y-%m-%d')):
-        if check_latest_update == True:
-            try:
-                datetime.strptime(str(latest_update),'%Y-%m-%d')
-            except ValueError:
-                try:
-                    latest_update = datetime.strptime(str(latest_update),'%Y/%m/%d').strftime('%Y-%m-%d')
-                except ValueError:
-                    return False
-        if check_latest_update == True and datetime.strptime(str(latest_update),'%Y-%m-%d').strftime('%Y-%V') != datetime.today().strftime('%Y-%V') and datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') != (datetime.today()-timedelta(days=7)).strftime('%Y-%V'):
-            return False
-        elif forcing_download == True:
-            return False
-        else:
-            if check_latest_update == True:
-                logging.info('Latest Element Received.\n')
-            else:
-                logging.info('Present File Exists. Reading Data From Default Path.\n')
-            return True
-    else:
-        return False
+    # if os.path.isfile(file_path) and (datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == datetime.today().strftime('%Y-%V') or datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == (datetime.today()-timedelta(days=7)).strftime('%Y-%V')):
+    #     #if os.path.isfile(file_path) and (datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%m-%d') == datetime.today().strftime('%Y-%m-%d')):
+    #     if check_latest_update == True:
+    #         try:
+    #             datetime.strptime(str(latest_update),'%Y-%m-%d')
+    #         except ValueError:
+    #             try:
+    #                 latest_update = datetime.strptime(str(latest_update),'%Y/%m/%d').strftime('%Y-%m-%d')
+    #             except ValueError:
+    #                 return False
+    #     if check_latest_update == True and datetime.strptime(str(latest_update),'%Y-%m-%d').strftime('%Y-%V') != datetime.today().strftime('%Y-%V') and datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') != (datetime.today()-timedelta(days=7)).strftime('%Y-%V'):
+    #         return False
+    #     elif forcing_download == True:
+    #         return False
+    #     else:
+    #         if check_latest_update == True:
+    #             logging.info('Latest Element Received.\n')
+    #         else:
+    #             logging.info('Present File Exists. Reading Data From Default Path.\n')
+    #         return True
+    # else:
+        # return False
+    return True
 
 def GET_NAME(address, freq, code, source='', Series=None, Table=None, check_exist=False, DF_KEY=None):
     suffix = '.'+freq
@@ -490,8 +491,9 @@ def US_WEB(chrome, address, fname, sname, freq=None, tables=[0], Table=None, hea
             if address.find('BEA') >= 0:
                 time.sleep(2)
                 if address.find('ITAS') >= 0 or address.find('NIIP') >= 0 or address.find('DIRI') >= 0:
-                    target = WebDriverWait(chrome, 5).until(EC.visibility_of_element_located((By.ID, 'xmlWraper')))
-                    link_found, link_meassage = US_WEB_LINK(target, fname, keyword=Table.at[(address,file_name), 'subject'], text_match=True, driver=chrome)
+                    # target = WebDriverWait(chrome, 5).until(EC.visibility_of_element_located((By.ID, 'navTabsContent')))
+                    WebDriverWait(chrome, 2).until(EC.element_to_be_clickable((By.XPATH, './/span[contains(., "'+Table.at[(address,file_name)]+'")]'))).click()
+                    # link_found, link_meassage = US_WEB_LINK(target, fname, keyword=Table.at[(address,file_name), 'subject'], text_match=True, driver=chrome)
                     time.sleep(2)
                     link_found, link_meassage = US_WEB_LINK(chrome, fname, keyword='download all data for tables', text_match=True, driver=chrome)
                     time.sleep(2)
